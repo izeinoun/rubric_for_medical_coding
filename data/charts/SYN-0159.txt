@@ -1,0 +1,48 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0159    Age: 71    Sex: M
+Visit date: 2026-04-12    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+71-year-old man seen today for routine chronic care. History of type 2 diabetes diagnosed 4 years ago. Notes some difficulty with diet recently; fasting sugars 130-159 mg/dL. Mild bilateral knee stiffness in the mornings, unchanged.
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease
+- Seasonal allergic rhinitis
+- Obesity
+
+VITALS
+BP 121/81 | HR 76 | Wt 110.1 kg | BMI 31.7 | SpO2 95%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date        Test                        Result
+2026-04-12  eGFR                        39 mL/min/1.73m2
+2026-04-12  Hemoglobin A1c              9.6%
+2026-04-12  Urine albumin/creatinine    405 mg/g
+2026-04-12  Potassium                   4.8 mmol/L
+
+ASSESSMENT AND PLAN
+1. Type 2 diabetes mellitus: A1c 9.6% (improved from 10.0%). Medications unchanged; reinforced carbohydrate counting.
+2. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+3. Diabetic chronic kidney disease: Renal function reviewed: eGFR 39 (no prior for comparison). Continue losartan and dapagliflozin. Avoid NSAIDs. Nephrology follow-up as scheduled.
+4. Obesity, BMI 31.7: discussed nutrition and activity goals; referred to dietitian.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

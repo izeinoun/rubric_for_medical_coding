@@ -1,0 +1,52 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0152    Age: 55    Sex: M
+Visit date: 2026-07-18    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+55-year-old man presents for scheduled follow-up. Type 1 diabetes since age 15. Has been trying to walk 5 times per week. Glucose readings 123-160 mg/dL fasting. Denies chest pain, shortness of breath or leg swelling.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 1, on insulin
+- Chronic kidney disease, stage 4
+- Hypothyroidism
+- Hyperlipidemia
+- Osteoarthritis, bilateral knees
+
+MEDICATIONS
+- insulin pump (lispro) with continuous glucose monitor
+- losartan 50 mg daily
+- levothyroxine 75 mcg daily
+- atorvastatin 40 mg nightly
+- acetaminophen 650 mg as needed
+
+VITALS
+BP 136/83 | HR 92 | Wt 84.6 kg | BMI 26.7 | SpO2 99%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date        Test                        Result
+2026-04-06  eGFR                        25 mL/min/1.73m2
+2026-07-18  eGFR                        29 mL/min/1.73m2
+2026-07-18  Hemoglobin A1c              6.7%
+2026-07-18  Urine albumin/creatinine    47 mg/g
+2026-07-18  Potassium                   3.9 mmol/L
+
+ASSESSMENT AND PLAN
+1. Type 1 diabetes mellitus: A1c 6.7%. Continue basal-bolus insulin; reviewed CGM download, time in range 61%. Endocrinology follow-up in 3 months.
+2. Type 1 diabetes with diabetic CKD stage 4: Renal function reviewed: eGFR 29, UACR 47 mg/g. Continue losartan; avoid NSAIDs. Nephrology follow-up as scheduled.
+3. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+4. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+5. OA of knees: continue home exercises and acetaminophen PRN.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

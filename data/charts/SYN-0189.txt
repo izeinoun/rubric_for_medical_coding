@@ -1,0 +1,50 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0189    Age: 78    Sex: M
+Visit date: 2026-04-28    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 78-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 11 years ago. Has been trying to walk 5 times per week. Glucose readings 124-162 mg/dL fasting. Has polycystic kidney disease (mother also affected), which nephrology considers the cause of his CKD. Sleeping reasonably well. Mood is good.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease, stage 4
+- Seasonal allergic rhinitis
+- Obesity
+- Essential hypertension
+
+MEDICATIONS
+- insulin glargine 18 units nightly
+- empagliflozin 10 mg daily
+- loratadine 10 mg as needed
+- lisinopril 20 mg daily
+
+VITALS
+BP 143/72 | HR 67 | Wt 123.7 kg | BMI 36.3 | SpO2 96%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date        Test                        Result
+2025-09-12  eGFR                        16 mL/min/1.73m2
+2026-04-25  eGFR                        29 mL/min/1.73m2
+2026-04-25  Hemoglobin A1c              9.2%
+2026-04-25  Urine albumin/creatinine    374 mg/g
+2026-04-25  Potassium                   3.9 mmol/L
+
+ASSESSMENT/PLAN
+1. Type 2 diabetes mellitus: A1c 9.2%, unchanged from prior. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+3. Chronic kidney disease, stage 4: Kidney function eGFR 29. Continue lisinopril, encourage fluids. Nephrology visit next month.
+4. Hypertension: BP 143/72 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+5. Obesity, BMI 36.3: discussed nutrition and activity goals; referred to dietitian.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

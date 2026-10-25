@@ -1,0 +1,50 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0028    Age: 59    Sex: F
+Visit date: 2026-06-22    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Diabetes check and lab review.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 59-year-old woman, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 22 years ago. Notes some difficulty with diet recently; fasting sugars 111-137 mg/dL. Mild bilateral knee stiffness in the mornings, unchanged.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- omeprazole 20 mg daily
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- CKD stage 3a
+- Osteoarthritis, bilateral knees
+- GERD
+
+VITALS
+BP 130/80 | HR 80 | Wt 68.6 kg | BMI 24.6 | SpO2 94%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date        Test                        Result
+2025-12-03  eGFR                        58 mL/min/1.73m2
+2026-06-13  eGFR                        46 mL/min/1.73m2
+2026-06-13  Hemoglobin A1c              6.5%
+2026-06-13  Urine albumin/creatinine    238 mg/g
+2026-06-13  Potassium                   4.3 mmol/L
+
+ASSESSMENT/PLAN
+1. Type 2 diabetes mellitus: A1c 6.5% today (up from 5.8%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Type 2 diabetes with diabetic CKD stage 3a: Renal function reviewed: eGFR 46 (down from 58). Continue losartan and dapagliflozin. Avoid NSAIDs. Nephrology follow-up as scheduled.
+3. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+4. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

@@ -1,0 +1,47 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0024    Age: 58    Sex: M
+Visit date: 2026-07-30    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 58-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 20 years ago. States adherence to medications is good. Denies hypoglycemic episodes. No polyuria or polydipsia. No visual changes.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Essential hypertension
+- Obesity
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- semaglutide 0.5 mg weekly
+- lisinopril 20 mg daily
+
+VITALS
+BP 127/82 | HR 71 | Wt 107.4 kg | BMI 37.7 | SpO2 95%
+
+LABS
+Date        Test                        Result
+2025-12-20  eGFR                        65 mL/min/1.73m2
+2026-07-26  eGFR                        55 mL/min/1.73m2
+2026-07-26  Hemoglobin A1c              8.4%
+2026-07-26  Potassium                   4.1 mmol/L
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+ASSESSMENT AND PLAN
+1. Type 2 diabetes mellitus: A1c 8.4% (improved from 9.4%). Medications unchanged; reinforced carbohydrate counting.
+2. Obesity: weight 107.4 kg. Continue lifestyle changes.
+3. Essential hypertension: BP 127/82. Reinforced low-sodium diet; continue lisinopril 20 mg.
+4. Possible chronic kidney disease: eGFR 55 today, previously 65. Repeat BMP and urine albumin in 3 months to confirm chronicity.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

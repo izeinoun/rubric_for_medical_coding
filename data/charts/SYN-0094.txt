@@ -1,0 +1,56 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0094    Age: 79    Sex: M
+Visit date: 2026-05-28    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+79-year-old man presents for scheduled follow-up. History of type 2 diabetes diagnosed 14 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Sleeping reasonably well. Mood is good.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD stage 3b
+- Osteoarthritis, bilateral knees
+- Obesity
+- Hyperlipidemia
+- GERD
+- History of nephrolithiasis (2019), no recurrence
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- empagliflozin 10 mg daily
+- semaglutide 0.5 mg weekly
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- atorvastatin 40 mg nightly
+- omeprazole 20 mg daily
+
+VITALS
+BP 130/73 | HR 70 | Wt 114.4 kg | BMI 32.8 | SpO2 98%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date        Test                        Result
+2026-05-24  eGFR                        36 mL/min/1.73m2
+2026-05-24  Hemoglobin A1c              6.9%
+2026-05-24  Urine albumin/creatinine    363 mg/g
+2026-05-24  Potassium                   4.4 mmol/L
+
+ASSESSMENT AND PLAN
+1. Type 2 diabetes mellitus: A1c 6.9%, unchanged from prior. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+3. Obesity, BMI 32.8: discussed nutrition and activity goals; referred to dietitian.
+4. History of kidney stones: no recurrence; encouraged fluid intake.
+5. Hyperlipidemia: LDL 127 mg/dL. Continue atorvastatin 40 mg.
+6. Diabetic kidney disease, CKD stage 3b: Renal function reviewed: eGFR 36 (no prior for comparison). Continue losartan and empagliflozin. Avoid NSAIDs. Nephrology follow-up as scheduled.
+7. GERD: symptoms controlled on omeprazole. Continue.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

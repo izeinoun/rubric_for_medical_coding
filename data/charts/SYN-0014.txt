@@ -1,0 +1,49 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0014    Age: 64    Sex: M
+Visit date: 2026-01-23    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+64-year-old man here for a 4-month check-in. History of type 2 diabetes diagnosed 5 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Denies chest pain, shortness of breath or leg swelling.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease stage 3a
+- Essential hypertension
+- Hyperlipidemia
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- atorvastatin 40 mg nightly
+
+VITALS
+BP 138/88 | HR 92 | Wt 90.7 kg | BMI 26.5 | SpO2 97%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date        Test                        Result
+2025-09-27  eGFR                        45 mL/min/1.73m2
+2026-01-17  eGFR                        50 mL/min/1.73m2
+2026-01-17  Hemoglobin A1c              7.7%
+2026-01-17  Urine albumin/creatinine    149 mg/g
+2026-01-17  Potassium                   5.0 mmol/L
+
+ASSESSMENT/PLAN
+(Assessment copied from note dated 2025-10-28 and updated where noted.)
+1. Diabetes mellitus, type 2: A1c 7.7%, unchanged from prior. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+3. Problem list reviewed: hypertension.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

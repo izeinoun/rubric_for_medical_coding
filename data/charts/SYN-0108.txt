@@ -1,0 +1,53 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0108    Age: 55    Sex: F
+Visit date: 2026-02-07    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+55-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 10 years ago. Notes some difficulty with diet recently; fasting sugars 122-168 mg/dL. Energy fair. No new complaints today.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Obesity
+- GERD
+- Hyperlipidemia
+- Seasonal allergic rhinitis
+- History of nephrolithiasis (2019), no recurrence
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- semaglutide 0.5 mg weekly
+- omeprazole 20 mg daily
+- atorvastatin 40 mg nightly
+- loratadine 10 mg as needed
+
+VITALS
+BP 141/69 | HR 74 | Wt 84.0 kg | BMI 35.1 | SpO2 96%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date        Test                        Result
+2025-09-15  eGFR                        49 mL/min/1.73m2
+2026-01-28  eGFR                        52 mL/min/1.73m2
+2026-01-28  Hemoglobin A1c              8.6%
+2026-01-28  Potassium                   3.8 mmol/L
+
+ASSESSMENT AND PLAN
+1. Type 2 diabetes mellitus: A1c 8.6%, up from 7.3%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. History of kidney stones: no recurrence; encouraged fluid intake.
+3. Hyperlipidemia: LDL 109 mg/dL. Continue atorvastatin 40 mg.
+4. Obesity: weight 84.0 kg. Continue lifestyle changes.
+5. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+6. GERD: symptoms controlled on omeprazole. Continue.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

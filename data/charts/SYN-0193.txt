@@ -1,0 +1,56 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0193    Age: 65    Sex: M
+Visit date: 2026-04-08    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+65-year-old man seen today for routine chronic care. History of type 2 diabetes diagnosed 5 years ago. Reports checking glucose a few times a week; fasting readings mostly 111-147 mg/dL. No urinary symptoms. No foot ulcers or numbness reported.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD, stage 3a
+- Hypothyroidism
+- Obesity
+- GERD
+- Seasonal allergic rhinitis
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- semaglutide 0.5 mg weekly
+- losartan 50 mg daily
+- levothyroxine 75 mcg daily
+- omeprazole 20 mg daily
+- loratadine 10 mg as needed
+
+VITALS
+BP 147/78 | HR 80 | Wt 118.0 kg | BMI 36.3 | SpO2 96%
+
+LABS
+Date        Test                        Result
+2025-10-07  eGFR                        55 mL/min/1.73m2
+2026-04-05  eGFR                        47 mL/min/1.73m2
+2026-04-05  Hemoglobin A1c              6.4%
+2026-04-05  Urine albumin/creatinine    340 mg/g
+2026-04-05  Potassium                   5.0 mmol/L
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+ASSESSMENT/PLAN
+(A/P carried forward from 2025-11-05; reviewed and unchanged.)
+1. Diabetes mellitus, type 2: A1c 6.4%, up from 6.2%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Chronic kidney disease, stage 3a: Labs reviewed with patient, eGFR 47. Continue empagliflozin; metformin dose appropriate for current eGFR. Recheck in 3 to 4 months.
+3. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+4. GERD: symptoms controlled on omeprazole. Continue.
+5. Also on problem list: hypothyroidism, obesity.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

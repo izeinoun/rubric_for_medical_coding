@@ -1,0 +1,52 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0001    Age: 66    Sex: F
+Visit date: 2026-04-13    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 66-year-old woman returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 4 years ago. Notes some difficulty with diet recently; fasting sugars 116-157 mg/dL. Her kidney disease was felt by nephrology to be diabetic in origin. Mild bilateral knee stiffness in the mornings, unchanged.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease stage 3b
+- Seasonal allergic rhinitis
+- Hypothyroidism
+- History of nephrolithiasis (2019), no recurrence
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+- levothyroxine 75 mcg daily
+
+VITALS
+BP 119/89 | HR 82 | Wt 72.1 kg | BMI 28.4 | SpO2 94%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date        Test                        Result
+2025-08-24  eGFR                        30 mL/min/1.73m2
+2026-04-07  eGFR                        32 mL/min/1.73m2
+2026-04-07  Hemoglobin A1c              8.6%
+2026-04-07  Urine albumin/creatinine    293 mg/g
+2026-04-07  Potassium                   3.8 mmol/L
+
+IMPRESSION AND PLAN
+1. T2DM: A1c 8.6%, up from 7.3%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Chronic kidney disease, stage 3b: eGFR 32, UACR 293 mg/g. On empagliflozin and losartan; counseled on avoiding nephrotoxins. Repeat labs in 3 months.
+3. Hypothyroid: clinically euthyroid. Continue current dose.
+4. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+5. History of kidney stones: no recurrence; encouraged fluid intake.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

@@ -1,0 +1,50 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0126    Age: 82    Sex: F
+Visit date: 2026-06-18    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 82-year-old woman, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 13 years ago. Reports checking glucose twice daily; fasting readings mostly 124-173 mg/dL. Appetite stable. Denies nausea or abdominal pain.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- CKD, stage 3a
+- Seasonal allergic rhinitis
+- Obesity
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+
+VITALS
+BP 129/70 | HR 70 | Wt 94.9 kg | BMI 34.6 | SpO2 96%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date        Test                        Result
+2026-01-06  eGFR                        56 mL/min/1.73m2
+2026-06-17  eGFR                        56 mL/min/1.73m2
+2026-06-17  Hemoglobin A1c              6.8%
+2026-06-17  Urine albumin/creatinine    309 mg/g
+2026-06-17  Potassium                   4.2 mmol/L
+
+ASSESSMENT/PLAN
+(Plan unchanged from visit of 2026-01-25.)
+1. Diabetes mellitus, type 2: A1c 6.8%, improved from 7.1%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+3. CKD stage 3a: eGFR 56, UACR 309 mg/g. On empagliflozin and losartan; counseled on avoiding nephrotoxins. Repeat labs in 3 months.
+4. Obesity: weight 94.9 kg. Continue lifestyle changes.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

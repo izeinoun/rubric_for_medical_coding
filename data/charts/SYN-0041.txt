@@ -1,0 +1,46 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0041    Age: 66    Sex: M
+Visit date: 2026-07-16    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+66-year-old man here for a 6-month check-in. History of type 2 diabetes diagnosed 12 years ago. Home glucose log reviewed, fasting values 125-152 mg/dL with occasional post-meal readings above 200. Appetite stable. Denies nausea or abdominal pain.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Obesity
+- Hypothyroidism
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- levothyroxine 75 mcg daily
+
+VITALS
+BP 140/79 | HR 80 | Wt 98.7 kg | BMI 34.0 | SpO2 99%
+
+LABS
+Date        Test                        Result
+2026-01-30  eGFR                        68 mL/min/1.73m2
+2026-07-13  eGFR                        56 mL/min/1.73m2
+2026-07-13  Hemoglobin A1c              8.6%
+2026-07-13  Urine albumin/creatinine    14 mg/g
+2026-07-13  Potassium                   5.0 mmol/L
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+IMPRESSION AND PLAN
+1. Type 2 diabetes mellitus: A1c 8.6%, up from 7.8%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Obesity: weight 98.7 kg. Continue lifestyle changes.
+3. Hypothyroid: clinically euthyroid. Continue current dose.
+4. Rule out chronic kidney disease: eGFR 56 (was 68). Will recheck renal panel in 90 days; diagnosis deferred until repeat testing.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

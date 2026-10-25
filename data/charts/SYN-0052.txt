@@ -1,0 +1,49 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0052    Age: 66    Sex: M
+Visit date: 2026-02-13    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+66-year-old man seen today for routine chronic care. History of type 2 diabetes diagnosed 11 years ago. Home glucose log reviewed, fasting values 111-157 mg/dL with occasional post-meal readings above 200. Mild bilateral knee stiffness in the mornings, unchanged.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease stage 3a
+- Osteoarthritis, bilateral knees
+- Essential hypertension
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- acetaminophen 650 mg as needed
+- lisinopril 20 mg daily
+
+VITALS
+BP 126/87 | HR 86 | Wt 75.9 kg | BMI 26.2 | SpO2 99%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date        Test                        Result
+2025-08-19  eGFR                        54 mL/min/1.73m2
+2026-02-11  eGFR                        55 mL/min/1.73m2
+2026-02-11  Hemoglobin A1c              7.3%
+2026-02-11  Urine albumin/creatinine    324 mg/g
+2026-02-11  Potassium                   5.1 mmol/L
+
+ASSESSMENT/PLAN
+1. Diabetes mellitus, type 2: A1c 7.3% today (unchanged from prior). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Essential hypertension: BP 126/87. Reinforced low-sodium diet; continue lisinopril 20 mg.
+3. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+4. Chronic kidney disease stage 3a: eGFR 55, UACR 324 mg/g. On dapagliflozin and lisinopril; counseled on avoiding nephrotoxins. Repeat labs in 3 months.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

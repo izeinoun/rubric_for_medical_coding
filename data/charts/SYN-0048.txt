@@ -1,0 +1,53 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0048    Age: 63    Sex: F
+Visit date: 2026-07-14    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 63-year-old woman returning for follow-up of chronic conditions. Type 1 diabetes since age 11. Reports checking glucose a few times a week; fasting readings mostly 110-155 mg/dL. Energy fair. No new complaints today.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 1 DM
+- Chronic kidney disease, stage 4
+- GERD
+- Hyperlipidemia
+- Osteoarthritis, bilateral knees
+
+MEDICATIONS
+- insulin pump (lispro) with continuous glucose monitor
+- losartan 50 mg daily
+- omeprazole 20 mg daily
+- atorvastatin 40 mg nightly
+- acetaminophen 650 mg as needed
+
+VITALS
+BP 137/68 | HR 79 | Wt 72.7 kg | BMI 25.9 | SpO2 95%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date        Test                        Result
+2025-11-27  eGFR                        23 mL/min/1.73m2
+2026-07-05  eGFR                        24 mL/min/1.73m2
+2026-07-05  Hemoglobin A1c              8.1%
+2026-07-05  Urine albumin/creatinine    207 mg/g
+2026-07-05  Potassium                   4.5 mmol/L
+
+ASSESSMENT AND PLAN
+(Assessment copied from note dated 2026-03-31 and updated where noted.)
+1. Type 1 diabetes mellitus: A1c 8.1%. Continue basal-bolus insulin; reviewed CGM download, time in range 61%. Endocrinology follow-up in 3 months.
+2. GERD: symptoms controlled on omeprazole. Continue.
+3. OA of knees: continue home exercises and acetaminophen PRN.
+4. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+5. Chronic kidney disease stage 4: eGFR 24 today (stable from 23). Continue losartan. Recheck BMP and urine albumin-to-creatinine ratio in 3 months.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

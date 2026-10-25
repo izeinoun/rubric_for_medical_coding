@@ -1,0 +1,52 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0002    Age: 80    Sex: F
+Visit date: 2026-06-23    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+80-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 10 years ago. Notes some difficulty with diet recently; fasting sugars 121-157 mg/dL. Hospitalized 2026-03-22 with dehydration from viral gastroenteritis; creatinine rose and has since returned to baseline. Sleeping reasonably well. Mood is good.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Acute kidney injury (2026-03-22), resolved
+- Seasonal allergic rhinitis
+- Osteoarthritis, bilateral knees
+- Hypothyroidism
+- History of nephrolithiasis (2019), no recurrence
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- loratadine 10 mg as needed
+- acetaminophen 650 mg as needed
+- levothyroxine 75 mcg daily
+
+VITALS
+BP 141/69 | HR 82 | Wt 73.9 kg | BMI 27.4 | SpO2 95%
+
+LABS
+Date        Test                        Result
+2026-03-22  eGFR                        31 mL/min/1.73m2
+2026-06-21  eGFR                        88 mL/min/1.73m2
+2026-06-21  Hemoglobin A1c              6.8%
+2026-06-21  Urine albumin/creatinine    18 mg/g
+2026-06-21  Potassium                   3.9 mmol/L
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+IMPRESSION AND PLAN
+1. Diabetes mellitus, type 2: A1c 6.8% (up from 6.0%). Medications unchanged; reinforced carbohydrate counting.
+2. Hypothyroid: clinically euthyroid. Continue current dose.
+3. History of kidney stones: no recurrence; encouraged fluid intake.
+4. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+5. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+6. History of acute kidney injury, resolved: eGFR 88 today, back to baseline. No evidence of chronic kidney disease.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

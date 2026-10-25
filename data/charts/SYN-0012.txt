@@ -1,0 +1,56 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0012    Age: 77    Sex: M
+Visit date: 2026-05-20    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Follow-up visit; medication refills.
+
+HISTORY OF PRESENT ILLNESS
+77-year-old man seen today for routine chronic care. History of type 2 diabetes diagnosed 13 years ago. Brought meter today; morning values 116-171 mg/dL, no lows. No urinary symptoms. No foot ulcers or numbness reported.
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- empagliflozin 10 mg daily
+- semaglutide 0.5 mg weekly
+- lisinopril 20 mg daily
+- atorvastatin 40 mg nightly
+- loratadine 10 mg as needed
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease, stage 3b
+- Obesity
+- Essential hypertension
+- Hyperlipidemia
+- Seasonal allergic rhinitis
+- History of nephrolithiasis (2019), no recurrence
+
+VITALS
+BP 119/72 | HR 91 | Wt 97.0 kg | BMI 34.9 | SpO2 95%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date        Test                        Result
+2026-05-18  eGFR                        33 mL/min/1.73m2
+2026-05-18  Hemoglobin A1c              7.4%
+2026-05-18  Urine albumin/creatinine    312 mg/g
+2026-05-18  Potassium                   4.5 mmol/L
+
+ASSESSMENT/PLAN
+1. T2DM: A1c 7.4% today (improved from 7.8%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+3. HTN: at goal on current regimen. Continue lisinopril.
+4. Obesity, BMI 34.9: discussed nutrition and activity goals; referred to dietitian.
+5. CKD, stage 3b: eGFR 33 (no prior for comparison), albuminuria 312 mg/g. Increased lisinopril to 40 mg daily. Repeat potassium and creatinine in 2 weeks.
+6. History of kidney stones: no recurrence; encouraged fluid intake.
+7. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

@@ -1,0 +1,56 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0199    Age: 73    Sex: M
+Visit date: 2026-04-17    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+73-year-old man presents for scheduled follow-up. History of type 2 diabetes diagnosed 22 years ago. Reports checking glucose a few times a week; fasting readings mostly 121-157 mg/dL. Appetite stable. Denies nausea or abdominal pain.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- CKD, stage 3a
+- Hyperlipidemia
+- Osteoarthritis, bilateral knees
+- Hypothyroidism
+- Essential hypertension
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- atorvastatin 40 mg nightly
+- acetaminophen 650 mg as needed
+- levothyroxine 75 mcg daily
+- lisinopril 20 mg daily
+
+VITALS
+BP 128/80 | HR 77 | Wt 74.9 kg | BMI 24.2 | SpO2 96%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date        Test                        Result
+2025-09-27  eGFR                        58 mL/min/1.73m2
+2026-04-12  eGFR                        47 mL/min/1.73m2
+2026-04-12  Hemoglobin A1c              9.1%
+2026-04-12  Urine albumin/creatinine    100 mg/g
+2026-04-12  Potassium                   4.7 mmol/L
+
+IMPRESSION AND PLAN
+(Plan unchanged from visit of 2026-01-02.)
+1. T2DM: A1c 9.1%, up from 7.9%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. HTN: at goal on current regimen. Continue lisinopril.
+3. CKD, stage 3a: Renal function reviewed: eGFR 47 (down from 58). Continue lisinopril and empagliflozin. Avoid NSAIDs. Nephrology follow-up as scheduled.
+4. OA of knees: continue home exercises and acetaminophen PRN.
+5. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+6. Hyperlipidemia: LDL 58 mg/dL. Continue atorvastatin 40 mg.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

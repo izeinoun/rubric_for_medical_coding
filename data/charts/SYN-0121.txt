@@ -1,0 +1,49 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0121    Age: 69    Sex: M
+Visit date: 2026-03-22    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+69-year-old man here for a 6-month check-in. History of type 2 diabetes diagnosed 5 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Sleeping reasonably well. Mood is good.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- levothyroxine 75 mcg daily
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease stage 3a
+- Osteoarthritis, bilateral knees
+- Hypothyroidism
+
+VITALS
+BP 138/87 | HR 84 | Wt 68.1 kg | BMI 25.3 | SpO2 96%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date        Test                        Result
+2026-03-20  eGFR                        57 mL/min/1.73m2
+2026-03-20  Hemoglobin A1c              8.1%
+2026-03-20  Urine albumin/creatinine    384 mg/g
+2026-03-20  Potassium                   5.1 mmol/L
+
+ASSESSMENT AND PLAN
+1. Diabetes mellitus, type 2: Hemoglobin A1c 8.1% (improved from 8.3%). Discussed adding GLP-1 agonist at next visit if not at goal. Continue current medications.
+2. Chronic kidney disease, stage 3a: eGFR 57 today (no prior for comparison). Continue dapagliflozin. Recheck BMP and urine albumin-to-creatinine ratio in 3 months.
+3. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+4. Problem list reviewed: knee osteoarthritis.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

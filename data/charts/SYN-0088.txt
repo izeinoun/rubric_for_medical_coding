@@ -1,0 +1,52 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0088    Age: 76    Sex: M
+Visit date: 2026-08-29    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 76-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 19 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Hospitalized 2026-06-24 with dehydration from viral gastroenteritis; creatinine rose and has since returned to baseline. Sleeping reasonably well. Mood is good.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- omeprazole 20 mg daily
+- levothyroxine 75 mcg daily
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Acute kidney injury (2026-06-24), resolved
+- Essential hypertension
+- Obesity
+- GERD
+- Hypothyroidism
+
+VITALS
+BP 134/86 | HR 86 | Wt 130.7 kg | BMI 37.3 | SpO2 98%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date        Test                        Result
+2026-06-24  eGFR                        28 mL/min/1.73m2
+2026-08-23  eGFR                        77 mL/min/1.73m2
+2026-08-23  Hemoglobin A1c              8.9%
+2026-08-23  Potassium                   4.5 mmol/L
+
+ASSESSMENT AND PLAN
+1. Type 2 diabetes mellitus: Hemoglobin A1c 8.9% (improved from 9.6%). Discussed adding GLP-1 agonist at next visit if not at goal. Continue current medications.
+2. History of acute kidney injury, resolved: eGFR 77 today, back to baseline. No evidence of chronic kidney disease.
+3. Obesity, BMI 37.3: discussed nutrition and activity goals; referred to dietitian.
+4. Essential hypertension: BP 134/86. Reinforced low-sodium diet; continue lisinopril 20 mg.
+5. GERD: symptoms controlled on omeprazole. Continue.
+6. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

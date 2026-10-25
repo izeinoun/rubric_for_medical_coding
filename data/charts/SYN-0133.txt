@@ -1,0 +1,56 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0133    Age: 70    Sex: F
+Visit date: 2026-06-01    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+70-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 12 years ago. Home glucose log reviewed, fasting values 108-168 mg/dL with occasional post-meal readings above 200. No polyuria or polydipsia. No visual changes.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD, stage 3b
+- Hyperlipidemia
+- Osteoarthritis, bilateral knees
+- Obesity
+- Hypothyroidism
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- empagliflozin 10 mg daily
+- semaglutide 0.5 mg weekly
+- losartan 50 mg daily
+- atorvastatin 40 mg nightly
+- acetaminophen 650 mg as needed
+- levothyroxine 75 mcg daily
+
+VITALS
+BP 133/74 | HR 76 | Wt 95.4 kg | BMI 34.3 | SpO2 98%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date        Test                        Result
+2026-02-21  eGFR                        35 mL/min/1.73m2
+2026-05-23  eGFR                        31 mL/min/1.73m2
+2026-05-23  Hemoglobin A1c              9.1%
+2026-05-23  Urine albumin/creatinine    162 mg/g
+2026-05-23  Potassium                   4.8 mmol/L
+
+ASSESSMENT AND PLAN
+1. Type 2 diabetes mellitus: A1c 9.1% (up from 8.5%). Medications unchanged; reinforced carbohydrate counting.
+2. Hyperlipidemia: LDL 72 mg/dL. Continue atorvastatin 40 mg.
+3. Chronic kidney disease stage 3b due to type 2 diabetes: Latest eGFR 31 (stable from 35); potassium acceptable. Continue losartan and empagliflozin. BMP in 3 months.
+4. OA of knees: continue home exercises and acetaminophen PRN.
+5. Obesity, BMI 34.3: discussed nutrition and activity goals; referred to dietitian.
+6. Hypothyroid: clinically euthyroid. Continue current dose.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

@@ -1,0 +1,52 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0027    Age: 78    Sex: F
+Visit date: 2026-09-07    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+78-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 16 years ago. Notes some difficulty with diet recently; fasting sugars 123-172 mg/dL. Energy fair. No new complaints today.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Essential hypertension
+- Osteoarthritis, bilateral knees
+- Seasonal allergic rhinitis
+- Obesity
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- acetaminophen 650 mg as needed
+- loratadine 10 mg as needed
+
+VITALS
+BP 138/92 | HR 79 | Wt 101.2 kg | BMI 35.1 | SpO2 96%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date        Test                        Result
+2026-02-25  eGFR                        66 mL/min/1.73m2
+2026-08-30  eGFR                        59 mL/min/1.73m2
+2026-08-30  Hemoglobin A1c              8.9%
+2026-08-30  Potassium                   4.6 mmol/L
+
+ASSESSMENT/PLAN
+1. Diabetes mellitus, type 2: A1c 8.9% today (up from 7.5%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Possible chronic kidney disease: Single low eGFR of 59 after prior 66. Encouraged hydration, recheck in 3 months.
+3. Obesity, BMI 35.1: discussed nutrition and activity goals; referred to dietitian.
+4. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+5. HTN: at goal on current regimen. Continue lisinopril.
+6. OA of knees: continue home exercises and acetaminophen PRN.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

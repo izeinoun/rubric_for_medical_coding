@@ -1,0 +1,55 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0151    Age: 72    Sex: F
+Visit date: 2026-06-09    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 72-year-old woman returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 22 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Kidney function decline has been attributed to her diabetes; no other renal disease identified on workup. No urinary symptoms. No foot ulcers or numbness reported.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD, stage 3a
+- Osteoarthritis, bilateral knees
+- Essential hypertension
+- Hyperlipidemia
+- GERD
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- acetaminophen 650 mg as needed
+- lisinopril 20 mg daily
+- atorvastatin 40 mg nightly
+- omeprazole 20 mg daily
+
+VITALS
+BP 141/76 | HR 72 | Wt 67.6 kg | BMI 24.8 | SpO2 99%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date        Test                        Result
+2026-01-01  eGFR                        58 mL/min/1.73m2
+2026-06-09  eGFR                        49 mL/min/1.73m2
+2026-06-09  Hemoglobin A1c              7.5%
+2026-06-09  Urine albumin/creatinine    92 mg/g
+2026-06-09  Potassium                   4.3 mmol/L
+
+ASSESSMENT/PLAN
+1. T2DM: A1c 7.5%, up from 6.3%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+3. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+4. CKD stage 3a: eGFR 49, UACR 92 mg/g. On empagliflozin and lisinopril; counseled on avoiding nephrotoxins. Repeat labs in 3 months.
+5. HTN: at goal on current regimen. Continue lisinopril.
+6. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

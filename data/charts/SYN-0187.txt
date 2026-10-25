@@ -1,0 +1,53 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0187    Age: 81    Sex: M
+Visit date: 2026-08-16    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+81-year-old man here for a 4-month check-in. History of type 2 diabetes diagnosed 6 years ago. Notes some difficulty with diet recently; fasting sugars 116-147 mg/dL. Denies chest pain, shortness of breath or leg swelling.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease, stage 3a
+- Seasonal allergic rhinitis
+- Hypothyroidism
+- Obesity
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- semaglutide 0.5 mg weekly
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+- levothyroxine 75 mcg daily
+
+VITALS
+BP 131/78 | HR 62 | Wt 116.2 kg | BMI 37.8 | SpO2 95%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date        Test                        Result
+2026-02-16  eGFR                        45 mL/min/1.73m2
+2026-08-06  eGFR                        52 mL/min/1.73m2
+2026-08-06  Hemoglobin A1c              8.3%
+2026-08-06  Urine albumin/creatinine    166 mg/g
+2026-08-06  Potassium                   4.7 mmol/L
+
+ASSESSMENT/PLAN
+(A/P carried forward from 2026-03-14; reviewed and unchanged.)
+1. Type 2 diabetes mellitus: A1c 8.3% (improved from 8.6%). Medications unchanged; reinforced carbohydrate counting.
+2. Diabetic kidney disease, CKD stage 3a: Renal function reviewed: eGFR 52 (up from 45). Continue losartan and dapagliflozin. Avoid NSAIDs. Nephrology follow-up as scheduled.
+3. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+4. Obesity: weight 116.2 kg. Continue lifestyle changes.
+5. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

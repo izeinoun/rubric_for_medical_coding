@@ -1,0 +1,55 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0049    Age: 71    Sex: M
+Visit date: 2026-05-14    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+71-year-old man here for a 6-month check-in. History of type 2 diabetes diagnosed 6 years ago. Notes some difficulty with diet recently; fasting sugars 106-145 mg/dL. No urinary symptoms. No foot ulcers or numbness reported.
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+- acetaminophen 650 mg as needed
+- levothyroxine 75 mcg daily
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease, stage 3b
+- Obesity
+- Seasonal allergic rhinitis
+- Osteoarthritis, bilateral knees
+- Hypothyroidism
+
+VITALS
+BP 148/85 | HR 72 | Wt 109.5 kg | BMI 34.3 | SpO2 98%
+
+LABS
+Date        Test                        Result
+2026-01-31  eGFR                        44 mL/min/1.73m2
+2026-05-06  eGFR                        33 mL/min/1.73m2
+2026-05-06  Hemoglobin A1c              7.0%
+2026-05-06  Urine albumin/creatinine    400 mg/g
+2026-05-06  Potassium                   4.6 mmol/L
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+IMPRESSION AND PLAN
+1. T2DM: A1c 7.0% (up from 6.5%). Medications unchanged; reinforced carbohydrate counting.
+2. Obesity, BMI 34.3: discussed nutrition and activity goals; referred to dietitian.
+3. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+4. Hypothyroid: clinically euthyroid. Continue current dose.
+5. Chronic kidney disease stage 3b due to type 2 diabetes: Labs reviewed with patient, eGFR 33. Continue dapagliflozin; metformin dose appropriate for current eGFR. Recheck in 3 to 4 months.
+6. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

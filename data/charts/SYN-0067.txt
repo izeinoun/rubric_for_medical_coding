@@ -1,0 +1,54 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0067    Age: 63    Sex: M
+Visit date: 2026-06-09    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 63-year-old man, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 15 years ago. Notes some difficulty with diet recently; fasting sugars 109-167 mg/dL. Sleeping reasonably well. Mood is good.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease stage 3b, hypertensive
+- Hyperlipidemia
+- Osteoarthritis, bilateral knees
+- Obesity
+- Essential hypertension
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- atorvastatin 40 mg nightly
+- acetaminophen 650 mg as needed
+- lisinopril 20 mg daily
+
+VITALS
+BP 126/77 | HR 81 | Wt 107.5 kg | BMI 32.8 | SpO2 94%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date        Test                        Result
+2026-01-07  eGFR                        36 mL/min/1.73m2
+2026-06-02  eGFR                        41 mL/min/1.73m2
+2026-06-02  Hemoglobin A1c              9.0%
+2026-06-02  Urine albumin/creatinine    410 mg/g
+2026-06-02  Potassium                   5.0 mmol/L
+
+IMPRESSION AND PLAN
+1. T2DM: A1c 9.0%, unchanged from prior. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Hyperlipidemia: LDL 93 mg/dL. Continue atorvastatin 40 mg.
+3. Obesity: weight 107.5 kg. Continue lifestyle changes.
+4. Essential hypertension: BP 126/77. Reinforced low-sodium diet; continue lisinopril 20 mg.
+5. Chronic kidney disease stage 3b, hypertensive: eGFR 41, UACR 410 mg/g. On dapagliflozin and lisinopril; counseled on avoiding nephrotoxins. Repeat labs in 3 months.
+6. OA of knees: continue home exercises and acetaminophen PRN.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

@@ -1,0 +1,53 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0163    Age: 64    Sex: F
+Visit date: 2026-05-13    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 64-year-old woman, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 13 years ago. Reports checking glucose a few times a week; fasting readings mostly 112-159 mg/dL. Her kidney disease was felt by nephrology to be diabetic in origin. No polyuria or polydipsia. No visual changes.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease, stage 3a
+- Seasonal allergic rhinitis
+- Hypothyroidism
+- GERD
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+- levothyroxine 75 mcg daily
+- omeprazole 20 mg daily
+
+VITALS
+BP 125/79 | HR 82 | Wt 63.9 kg | BMI 26.9 | SpO2 94%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date        Test                        Result
+2025-11-01  eGFR                        58 mL/min/1.73m2
+2026-05-08  eGFR                        46 mL/min/1.73m2
+2026-05-08  Hemoglobin A1c              9.5%
+2026-05-08  Urine albumin/creatinine    151 mg/g
+2026-05-08  Potassium                   4.5 mmol/L
+
+IMPRESSION AND PLAN
+1. Diabetes mellitus, type 2: A1c 9.5%, up from 8.5%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Hypothyroid: clinically euthyroid. Continue current dose.
+3. GERD: symptoms controlled on omeprazole. Continue.
+4. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+5. Chronic kidney disease, stage 3a: eGFR 46 today (down from 58). Continue empagliflozin. Recheck BMP and urine albumin-to-creatinine ratio in 3 months.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

@@ -1,0 +1,47 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0092    Age: 77    Sex: M
+Visit date: 2026-02-05    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+77-year-old man seen today for routine chronic care. History of type 2 diabetes diagnosed 13 years ago. States adherence to medications is good. Denies hypoglycemic episodes. No polyuria or polydipsia. No visual changes.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Hypothyroidism
+- Obesity
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- semaglutide 0.5 mg weekly
+- levothyroxine 75 mcg daily
+
+VITALS
+BP 139/68 | HR 75 | Wt 111.5 kg | BMI 38.0 | SpO2 94%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date        Test                        Result
+2025-07-27  eGFR                        65 mL/min/1.73m2
+2026-02-03  eGFR                        58 mL/min/1.73m2
+2026-02-03  Hemoglobin A1c              8.0%
+2026-02-03  Potassium                   4.0 mmol/L
+
+ASSESSMENT AND PLAN
+1. T2DM: A1c 8.0% (up from 6.6%). Medications unchanged; reinforced carbohydrate counting.
+2. Rule out chronic kidney disease: Single low eGFR of 58 after prior 65. Encouraged hydration, recheck in 3 months.
+3. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+4. Obesity: weight 111.5 kg. Continue lifestyle changes.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

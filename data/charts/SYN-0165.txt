@@ -1,0 +1,49 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0165    Age: 83    Sex: M
+Visit date: 2026-08-16    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 83-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 4 years ago. Has been trying to walk 2 times per week. Glucose readings 114-165 mg/dL fasting. Hospitalized 2026-04-29 with dehydration from viral gastroenteritis; creatinine rose and has since returned to baseline. Denies chest pain, shortness of breath or leg swelling.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- semaglutide 0.5 mg weekly
+- lisinopril 20 mg daily
+- acetaminophen 650 mg as needed
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Acute kidney injury (2026-04-29), resolved
+- Essential hypertension
+- Osteoarthritis, bilateral knees
+
+VITALS
+BP 137/72 | HR 85 | Wt 72.2 kg | BMI 25.6 | SpO2 94%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date        Test                        Result
+2026-04-29  eGFR                        32 mL/min/1.73m2
+2026-08-14  eGFR                        82 mL/min/1.73m2
+2026-08-14  Hemoglobin A1c              7.8%
+2026-08-14  Potassium                   5.0 mmol/L
+
+IMPRESSION AND PLAN
+1. Type 2 diabetes mellitus: A1c 7.8% (unchanged from prior). Medications unchanged; reinforced carbohydrate counting.
+2. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+3. HTN: at goal on current regimen. Continue lisinopril.
+4. Prior AKI, recovered. eGFR 82 today. Does not meet criteria for chronic kidney disease.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

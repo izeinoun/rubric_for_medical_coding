@@ -1,0 +1,56 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0046    Age: 78    Sex: M
+Visit date: 2026-03-05    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Diabetes check and lab review.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 78-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 4 years ago. Reports checking glucose twice daily; fasting readings mostly 112-158 mg/dL. Denies chest pain, shortness of breath or leg swelling.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- acetaminophen 650 mg as needed
+- omeprazole 20 mg daily
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- CKD, stage 3a
+- Essential hypertension
+- Obesity
+- Osteoarthritis, bilateral knees
+- GERD
+- History of nephrolithiasis (2019), no recurrence
+
+VITALS
+BP 132/84 | HR 77 | Wt 133.1 kg | BMI 38.1 | SpO2 94%
+
+LABS
+Date        Test                        Result
+2025-08-21  eGFR                        46 mL/min/1.73m2
+2026-02-26  eGFR                        57 mL/min/1.73m2
+2026-02-26  Hemoglobin A1c              9.1%
+2026-02-26  Urine albumin/creatinine    402 mg/g
+2026-02-26  Potassium                   4.5 mmol/L
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+ASSESSMENT/PLAN
+1. Diabetes mellitus, type 2: A1c 9.1% today (unchanged from prior). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. History of kidney stones: no recurrence; encouraged fluid intake.
+3. Chronic kidney disease stage 3a: eGFR 57 (up from 46), albuminuria 402 mg/g. Increased lisinopril to 40 mg daily. Repeat potassium and creatinine in 2 weeks.
+4. Obesity, BMI 38.1: discussed nutrition and activity goals; referred to dietitian.
+5. OA of knees: continue home exercises and acetaminophen PRN.
+6. Hypertension: BP 132/84 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+7. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

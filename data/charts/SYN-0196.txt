@@ -1,0 +1,55 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0196    Age: 64    Sex: F
+Visit date: 2026-07-31    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+64-year-old woman presents for scheduled follow-up. History of type 2 diabetes diagnosed 16 years ago. Brought meter today; morning values 118-159 mg/dL, no lows. Her kidney disease was felt by nephrology to be diabetic in origin. No urinary symptoms. No foot ulcers or numbness reported.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD stage 3a
+- Obesity
+- Essential hypertension
+- Hyperlipidemia
+- Seasonal allergic rhinitis
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- semaglutide 0.5 mg weekly
+- lisinopril 20 mg daily
+- atorvastatin 40 mg nightly
+- loratadine 10 mg as needed
+
+VITALS
+BP 129/87 | HR 62 | Wt 91.8 kg | BMI 36.8 | SpO2 94%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date        Test                        Result
+2025-12-10  eGFR                        49 mL/min/1.73m2
+2026-07-24  eGFR                        56 mL/min/1.73m2
+2026-07-24  Hemoglobin A1c              8.8%
+2026-07-24  Urine albumin/creatinine    351 mg/g
+2026-07-24  Potassium                   5.0 mmol/L
+
+ASSESSMENT/PLAN
+1. Type 2 diabetes mellitus: A1c 8.8% today (up from 8.6%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. CKD, stage 3a: eGFR 56 today (up from 49). Continue dapagliflozin. Recheck BMP and urine albumin-to-creatinine ratio in 3 months.
+3. Essential hypertension: BP 129/87. Reinforced low-sodium diet; continue lisinopril 20 mg.
+4. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+5. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+6. Obesity: weight 91.8 kg. Continue lifestyle changes.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

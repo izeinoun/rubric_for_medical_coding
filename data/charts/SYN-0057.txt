@@ -1,0 +1,54 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0057    Age: 64    Sex: M
+Visit date: 2026-03-20    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Diabetes check and lab review.
+
+HISTORY OF PRESENT ILLNESS
+64-year-old man seen today for routine chronic care. History of type 2 diabetes diagnosed 11 years ago. Notes some difficulty with diet recently; fasting sugars 113-175 mg/dL. Appetite stable. Denies nausea or abdominal pain.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease
+- Osteoarthritis, bilateral knees
+- Hyperlipidemia
+- GERD
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- semaglutide 0.5 mg weekly
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- atorvastatin 40 mg nightly
+- omeprazole 20 mg daily
+
+VITALS
+BP 131/89 | HR 92 | Wt 83.2 kg | BMI 23.8 | SpO2 97%
+
+LABS
+Date        Test                        Result
+2025-09-05  eGFR                        32 mL/min/1.73m2
+2026-03-15  eGFR                        43 mL/min/1.73m2
+2026-03-15  Hemoglobin A1c              6.5%
+2026-03-15  Urine albumin/creatinine    172 mg/g
+2026-03-15  Potassium                   5.0 mmol/L
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+ASSESSMENT/PLAN
+1. T2DM: A1c 6.5%, up from 5.4%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Diabetic kidney disease: Labs reviewed with patient, eGFR 43. Continue dapagliflozin; metformin dose appropriate for current eGFR. Recheck in 3 to 4 months.
+3. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+4. Hyperlipidemia: LDL 90 mg/dL. Continue atorvastatin 40 mg.
+5. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

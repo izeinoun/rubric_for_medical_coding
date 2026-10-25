@@ -1,0 +1,15 @@
+{
+  "questions": {
+    "G1": "Type 2 diabetes mellitus documented as a current diagnosis",
+    "G2": "Chronic kidney disease documented as an established diagnosis",
+    "Q1": "CKD stage documented",
+    "Q2": "eGFR below 60 on two results at least 90 days apart",
+    "Q3": "Provider attributes CKD to diabetes",
+    "Q4": "CKD addressed this encounter (monitored, evaluated, assessed or treated)"
+  },
+  "answer_values": {
+    "yes": "the note affirmatively documents the fact",
+    "no": "the note explicitly documents the opposite or says it is not established",
+    "not_documented": "the note is silent"
+  }
+}

@@ -1,0 +1,49 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0032    Age: 50    Sex: F
+Visit date: 2026-03-31    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 50-year-old woman, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 12 years ago. Brought meter today; morning values 110-149 mg/dL, no lows. Mild bilateral knee stiffness in the mornings, unchanged.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- semaglutide 0.5 mg weekly
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+- omeprazole 20 mg daily
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Diabetic chronic kidney disease
+- Seasonal allergic rhinitis
+- GERD
+
+VITALS
+BP 145/79 | HR 87 | Wt 77.9 kg | BMI 27.5 | SpO2 95%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date        Test                        Result
+2025-11-28  eGFR                        45 mL/min/1.73m2
+2026-03-31  eGFR                        52 mL/min/1.73m2
+2026-03-31  Hemoglobin A1c              7.6%
+2026-03-31  Urine albumin/creatinine    287 mg/g
+2026-03-31  Potassium                   4.4 mmol/L
+
+IMPRESSION AND PLAN
+1. Type 2 diabetes mellitus: A1c 7.6%, improved from 8.3%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Problem list reviewed: allergic rhinitis, GERD.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

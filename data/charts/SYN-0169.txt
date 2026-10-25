@@ -1,0 +1,54 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0169    Age: 72    Sex: M
+Visit date: 2026-05-23    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 72-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 13 years ago. Home glucose log reviewed, fasting values 115-156 mg/dL with occasional post-meal readings above 200. Mild bilateral knee stiffness in the mornings, unchanged.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease
+- Hypothyroidism
+- Hyperlipidemia
+- Essential hypertension
+- Osteoarthritis, bilateral knees
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- levothyroxine 75 mcg daily
+- atorvastatin 40 mg nightly
+- lisinopril 20 mg daily
+- acetaminophen 650 mg as needed
+
+VITALS
+BP 131/82 | HR 84 | Wt 75.5 kg | BMI 27.3 | SpO2 94%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date        Test                        Result
+2026-01-14  eGFR                        32 mL/min/1.73m2
+2026-05-20  eGFR                        33 mL/min/1.73m2
+2026-05-20  Hemoglobin A1c              6.6%
+2026-05-20  Urine albumin/creatinine    272 mg/g
+2026-05-20  Potassium                   4.2 mmol/L
+
+ASSESSMENT AND PLAN
+1. Type 2 diabetes mellitus: A1c 6.6% today (up from 6.3%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+3. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+4. CKD secondary to type 2 diabetes: Labs reviewed with patient, eGFR 33. Continue dapagliflozin; metformin dose appropriate for current eGFR. Recheck in 3 to 4 months.
+5. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+6. Hypertension: BP 131/82 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

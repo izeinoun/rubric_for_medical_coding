@@ -1,0 +1,53 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0005    Age: 48    Sex: F
+Visit date: 2026-08-25    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 48-year-old woman, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 14 years ago. Reports checking glucose twice daily; fasting readings mostly 111-164 mg/dL. No urinary symptoms. No foot ulcers or numbness reported.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD, stage 3b
+- Essential hypertension
+- Hyperlipidemia
+- Osteoarthritis, bilateral knees
+- Seasonal allergic rhinitis
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- empagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- atorvastatin 40 mg nightly
+- acetaminophen 650 mg as needed
+- loratadine 10 mg as needed
+
+VITALS
+BP 131/71 | HR 76 | Wt 69.0 kg | BMI 29.1 | SpO2 95%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date        Test                        Result
+2026-02-23  eGFR                        35 mL/min/1.73m2
+2026-08-15  eGFR                        30 mL/min/1.73m2
+2026-08-15  Hemoglobin A1c              8.5%
+2026-08-15  Urine albumin/creatinine    325 mg/g
+2026-08-15  Potassium                   4.7 mmol/L
+
+IMPRESSION AND PLAN
+1. T2DM: A1c 8.5% (improved from 8.8%). Medications unchanged; reinforced carbohydrate counting.
+2. OA of knees: continue home exercises and acetaminophen PRN.
+3. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+4. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+5. Problem list reviewed: CKD stage 3b, hypertension.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

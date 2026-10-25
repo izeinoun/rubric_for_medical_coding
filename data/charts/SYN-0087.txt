@@ -1,0 +1,49 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0087    Age: 76    Sex: M
+Visit date: 2026-07-11    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 76-year-old man, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 18 years ago. Reports checking glucose a few times a week; fasting readings mostly 127-141 mg/dL. Appetite stable. Denies nausea or abdominal pain.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease, stage 3a
+- Obesity
+- Osteoarthritis, bilateral knees
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+
+VITALS
+BP 147/80 | HR 83 | Wt 97.0 kg | BMI 33.9 | SpO2 97%
+
+LABS
+Date        Test                        Result
+2026-02-23  eGFR                        54 mL/min/1.73m2
+2026-07-02  eGFR                        47 mL/min/1.73m2
+2026-07-02  Hemoglobin A1c              7.3%
+2026-07-02  Urine albumin/creatinine    376 mg/g
+2026-07-02  Potassium                   5.0 mmol/L
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+IMPRESSION AND PLAN
+1. Type 2 diabetes mellitus: A1c 7.3%, improved from 8.0%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Chronic kidney disease, stage 3a: Renal function reviewed: eGFR 47 (down from 54). Continue losartan and dapagliflozin. Avoid NSAIDs. Nephrology follow-up as scheduled.
+3. Obesity, BMI 33.9: discussed nutrition and activity goals; referred to dietitian.
+4. OA of knees: continue home exercises and acetaminophen PRN.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

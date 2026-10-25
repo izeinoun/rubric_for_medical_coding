@@ -1,0 +1,56 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0055    Age: 52    Sex: M
+Visit date: 2026-07-08    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+52-year-old man presents for scheduled follow-up. History of type 2 diabetes diagnosed 9 years ago. Has been trying to walk 4 times per week. Glucose readings 113-146 mg/dL fasting. His kidney disease was felt by nephrology to be diabetic in origin. Sleeping reasonably well. Mood is good.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- CKD, stage 3b
+- Obesity
+- Osteoarthritis, bilateral knees
+- Seasonal allergic rhinitis
+- Hypothyroidism
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- loratadine 10 mg as needed
+- levothyroxine 75 mcg daily
+
+VITALS
+BP 139/78 | HR 77 | Wt 105.1 kg | BMI 38.1 | SpO2 97%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date        Test                        Result
+2025-12-09  eGFR                        42 mL/min/1.73m2
+2026-07-02  eGFR                        42 mL/min/1.73m2
+2026-07-02  Hemoglobin A1c              9.2%
+2026-07-02  Urine albumin/creatinine    147 mg/g
+2026-07-02  Potassium                   4.8 mmol/L
+
+ASSESSMENT AND PLAN
+(A/P carried forward from 2026-01-13; reviewed and unchanged.)
+1. Diabetes mellitus, type 2: Hemoglobin A1c 9.2% (improved from 10.2%). Discussed adding GLP-1 agonist at next visit if not at goal. Continue current medications.
+2. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+3. CKD, stage 3b: Latest eGFR 42 (stable from 42); potassium acceptable. Continue losartan and empagliflozin. BMP in 3 months.
+4. Obesity: weight 105.1 kg. Continue lifestyle changes.
+5. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+6. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

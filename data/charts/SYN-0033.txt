@@ -1,0 +1,57 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0033    Age: 84    Sex: F
+Visit date: 2026-09-24    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 84-year-old woman, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 5 years ago. Notes some difficulty with diet recently; fasting sugars 123-167 mg/dL. Energy fair. No new complaints today.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease
+- Obesity
+- Hypothyroidism
+- Osteoarthritis, bilateral knees
+- Hyperlipidemia
+- History of nephrolithiasis (2019), no recurrence
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- levothyroxine 75 mcg daily
+- acetaminophen 650 mg as needed
+- atorvastatin 40 mg nightly
+
+VITALS
+BP 133/84 | HR 81 | Wt 94.1 kg | BMI 32.1 | SpO2 94%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date        Test                        Result
+2026-03-02  eGFR                        54 mL/min/1.73m2
+2026-09-15  eGFR                        57 mL/min/1.73m2
+2026-09-15  Hemoglobin A1c              8.7%
+2026-09-15  Urine albumin/creatinine    265 mg/g
+2026-09-15  Potassium                   3.9 mmol/L
+
+ASSESSMENT AND PLAN
+1. Diabetes mellitus, type 2: A1c 8.7% (up from 8.2%). Medications unchanged; reinforced carbohydrate counting.
+2. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+3. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+4. History of kidney stones: no recurrence; encouraged fluid intake.
+5. Obesity: weight 94.1 kg. Continue lifestyle changes.
+6. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+7. Chronic kidney disease due to type 2 diabetes: eGFR 57 today (stable from 54). Continue dapagliflozin. Recheck BMP and urine albumin-to-creatinine ratio in 3 months.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

@@ -1,0 +1,54 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0107    Age: 80    Sex: M
+Visit date: 2026-05-09    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+80-year-old man seen today for routine chronic care. History of type 2 diabetes diagnosed 6 years ago. Notes some difficulty with diet recently; fasting sugars 118-137 mg/dL. Mild bilateral knee stiffness in the mornings, unchanged.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- CKD, stage 3b
+- Osteoarthritis, bilateral knees
+- Essential hypertension
+- Hyperlipidemia
+- Seasonal allergic rhinitis
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- acetaminophen 650 mg as needed
+- lisinopril 20 mg daily
+- atorvastatin 40 mg nightly
+- loratadine 10 mg as needed
+
+VITALS
+BP 146/68 | HR 75 | Wt 84.2 kg | BMI 25.8 | SpO2 94%
+
+LABS
+Date        Test                        Result
+2025-09-28  eGFR                        38 mL/min/1.73m2
+2026-05-04  eGFR                        35 mL/min/1.73m2
+2026-05-04  Hemoglobin A1c              8.5%
+2026-05-04  Urine albumin/creatinine    231 mg/g
+2026-05-04  Potassium                   4.5 mmol/L
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+ASSESSMENT AND PLAN
+1. Type 2 diabetes mellitus: A1c 8.5% (unchanged from prior). Medications unchanged; reinforced carbohydrate counting.
+2. OA of knees: continue home exercises and acetaminophen PRN.
+3. Hyperlipidemia: LDL 126 mg/dL. Continue atorvastatin 40 mg.
+4. Diabetic chronic kidney disease, stage 3b: eGFR 35 today (stable from 38). Continue dapagliflozin. Recheck BMP and urine albumin-to-creatinine ratio in 3 months.
+5. Hypertension: BP 146/68 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+6. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

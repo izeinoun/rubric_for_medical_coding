@@ -1,0 +1,50 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0127    Age: 62    Sex: F
+Visit date: 2026-01-30    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 62-year-old woman, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 13 years ago. Reports checking glucose twice daily; fasting readings mostly 107-170 mg/dL. Denies chest pain, shortness of breath or leg swelling.
+
+MEDICATIONS
+- insulin glargine 18 units nightly
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- loratadine 10 mg as needed
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease stage 4
+- Osteoarthritis, bilateral knees
+- Seasonal allergic rhinitis
+
+VITALS
+BP 137/76 | HR 63 | Wt 81.1 kg | BMI 28.1 | SpO2 97%
+
+LABS
+Date        Test                        Result
+2025-10-18  eGFR                        22 mL/min/1.73m2
+2026-01-25  eGFR                        29 mL/min/1.73m2
+2026-01-25  Hemoglobin A1c              7.9%
+2026-01-25  Urine albumin/creatinine    240 mg/g
+2026-01-25  Potassium                   4.9 mmol/L
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+IMPRESSION AND PLAN
+1. Type 2 diabetes mellitus: A1c 7.9% (improved from 9.1%). Medications unchanged; reinforced carbohydrate counting.
+2. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+3. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+4. Diabetic chronic kidney disease, stage 4: Advanced kidney disease, eGFR 29. Off metformin. Nephrology following; discussed renal diet and avoidance of contrast and NSAIDs.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

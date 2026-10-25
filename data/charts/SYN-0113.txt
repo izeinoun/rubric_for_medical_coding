@@ -1,0 +1,51 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0113    Age: 76    Sex: M
+Visit date: 2026-06-30    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+76-year-old man here for a 6-month check-in. History of type 2 diabetes diagnosed 17 years ago. Brought meter today; morning values 109-175 mg/dL, no lows. No polyuria or polydipsia. No visual changes.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease stage 3b
+- Hypothyroidism
+- Obesity
+- Hyperlipidemia
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- levothyroxine 75 mcg daily
+- atorvastatin 40 mg nightly
+
+VITALS
+BP 147/84 | HR 82 | Wt 101.6 kg | BMI 33.4 | SpO2 96%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date        Test                        Result
+2026-03-17  eGFR                        38 mL/min/1.73m2
+2026-06-28  eGFR                        38 mL/min/1.73m2
+2026-06-28  Hemoglobin A1c              9.2%
+2026-06-28  Urine albumin/creatinine    128 mg/g
+2026-06-28  Potassium                   4.4 mmol/L
+
+ASSESSMENT/PLAN
+1. T2DM: Hemoglobin A1c 9.2% (improved from 10.0%). Discussed adding GLP-1 agonist at next visit if not at goal. Continue current medications.
+2. Hypothyroid: clinically euthyroid. Continue current dose.
+3. Obesity, BMI 33.4: discussed nutrition and activity goals; referred to dietitian.
+4. Hyperlipidemia: LDL 85 mg/dL. Continue atorvastatin 40 mg.
+5. Chronic kidney disease stage 3b due to type 2 diabetes: eGFR 38, UACR 128 mg/g. On dapagliflozin and losartan; counseled on avoiding nephrotoxins. Repeat labs in 3 months.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

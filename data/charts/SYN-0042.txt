@@ -1,0 +1,54 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0042    Age: 50    Sex: M
+Visit date: 2026-05-10    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 50-year-old man, presenting for chronic disease follow-up. Type 1 diabetes since age 28. Reports checking glucose daily; fasting readings mostly 108-149 mg/dL. Appetite stable. Denies nausea or abdominal pain.
+
+MEDICATIONS
+- insulin glargine 22 units nightly and insulin lispro with meals; continuous glucose monitor
+- losartan 50 mg daily
+- levothyroxine 75 mcg daily
+- atorvastatin 40 mg nightly
+- loratadine 10 mg as needed
+- omeprazole 20 mg daily
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 1, on insulin
+- CKD, stage 4
+- Hypothyroidism
+- Hyperlipidemia
+- Seasonal allergic rhinitis
+- GERD
+
+VITALS
+BP 122/70 | HR 84 | Wt 94.4 kg | BMI 27.3 | SpO2 99%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date        Test                        Result
+2026-05-02  eGFR                        26 mL/min/1.73m2
+2026-05-02  Hemoglobin A1c              7.6%
+2026-05-02  Urine albumin/creatinine    205 mg/g
+2026-05-02  Potassium                   4.3 mmol/L
+
+ASSESSMENT/PLAN
+1. Type 1 diabetes mellitus: A1c 7.6%. Continue basal-bolus insulin; reviewed CGM download, time in range 61%. Endocrinology follow-up in 3 months.
+2. GERD: symptoms controlled on omeprazole. Continue.
+3. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+4. Hyperlipidemia: LDL 69 mg/dL. Continue atorvastatin 40 mg.
+5. CKD stage 4: eGFR 26 today (no prior for comparison). Continue losartan. Recheck BMP and urine albumin-to-creatinine ratio in 3 months.
+6. Hypothyroid: clinically euthyroid. Continue current dose.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

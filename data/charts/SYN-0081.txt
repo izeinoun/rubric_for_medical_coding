@@ -1,0 +1,53 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0081    Age: 78    Sex: M
+Visit date: 2026-09-12    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Diabetes check and lab review.
+
+HISTORY OF PRESENT ILLNESS
+78-year-old man here for a 3-month check-in. History of type 2 diabetes diagnosed 22 years ago. Notes some difficulty with diet recently; fasting sugars 128-149 mg/dL. Appetite stable. Denies nausea or abdominal pain.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- CKD stage 3a
+- GERD
+- Hyperlipidemia
+- Essential hypertension
+- History of nephrolithiasis (2019), no recurrence
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- omeprazole 20 mg daily
+- atorvastatin 40 mg nightly
+- lisinopril 20 mg daily
+
+VITALS
+BP 122/72 | HR 91 | Wt 91.4 kg | BMI 29.1 | SpO2 95%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date        Test                        Result
+2026-03-04  eGFR                        54 mL/min/1.73m2
+2026-09-09  eGFR                        46 mL/min/1.73m2
+2026-09-09  Hemoglobin A1c              6.4%
+2026-09-09  Urine albumin/creatinine    181 mg/g
+2026-09-09  Potassium                   4.7 mmol/L
+
+ASSESSMENT AND PLAN
+1. T2DM: A1c 6.4%, up from 6.0%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. History of kidney stones: no recurrence; encouraged fluid intake.
+3. Chronic kidney disease, stage 3a: Labs reviewed with patient, eGFR 46. Continue empagliflozin; metformin dose appropriate for current eGFR. Recheck in 3 to 4 months.
+4. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+5. Essential hypertension: BP 122/72. Reinforced low-sodium diet; continue lisinopril 20 mg.
+6. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

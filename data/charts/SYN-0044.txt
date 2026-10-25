@@ -1,0 +1,50 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0044    Age: 67    Sex: F
+Visit date: 2026-06-30    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+67-year-old woman presents for scheduled follow-up. History of type 2 diabetes diagnosed 18 years ago. Home glucose log reviewed, fasting values 112-141 mg/dL with occasional post-meal readings above 200. Energy fair. No new complaints today.
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- atorvastatin 40 mg nightly
+- omeprazole 20 mg daily
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease, stage 3b
+- Hyperlipidemia
+- GERD
+
+VITALS
+BP 136/73 | HR 81 | Wt 86.5 kg | BMI 29.0 | SpO2 95%
+
+LABS
+Date        Test                        Result
+2026-01-10  eGFR                        44 mL/min/1.73m2
+2026-06-20  eGFR                        42 mL/min/1.73m2
+2026-06-20  Hemoglobin A1c              9.5%
+2026-06-20  Urine albumin/creatinine    264 mg/g
+2026-06-20  Potassium                   3.8 mmol/L
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+ASSESSMENT/PLAN
+(A/P carried forward from 2026-02-05; reviewed and unchanged.)
+1. T2DM: A1c 9.5% (improved from 9.7%). Medications unchanged; reinforced carbohydrate counting.
+2. Type 2 diabetes with diabetic CKD stage 3b: eGFR 42 today (stable from 44). Continue dapagliflozin. Recheck BMP and urine albumin-to-creatinine ratio in 3 months.
+3. Problem list reviewed: GERD, hyperlipidemia.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

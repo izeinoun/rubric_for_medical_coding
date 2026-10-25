@@ -1,0 +1,50 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0184    Age: 63    Sex: F
+Visit date: 2026-05-16    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 63-year-old woman, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 18 years ago. Notes some difficulty with diet recently; fasting sugars 113-168 mg/dL. Sleeping reasonably well. Mood is good.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD stage 4 due to hypertensive nephrosclerosis
+- Seasonal allergic rhinitis
+- Hypothyroidism
+- Essential hypertension
+
+MEDICATIONS
+- insulin glargine 18 units nightly
+- dapagliflozin 10 mg daily
+- loratadine 10 mg as needed
+- levothyroxine 75 mcg daily
+- lisinopril 20 mg daily
+
+VITALS
+BP 124/73 | HR 85 | Wt 57.7 kg | BMI 24.0 | SpO2 96%
+
+LABS
+Date        Test                        Result
+2025-12-29  eGFR                        20 mL/min/1.73m2
+2026-05-10  eGFR                        19 mL/min/1.73m2
+2026-05-10  Hemoglobin A1c              6.7%
+2026-05-10  Urine albumin/creatinine    367 mg/g
+2026-05-10  Potassium                   4.7 mmol/L
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+IMPRESSION AND PLAN
+1. Type 2 diabetes mellitus: A1c 6.7% today (up from 5.4%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+3. CKD stage 4 due to hypertensive nephrosclerosis: Advanced kidney disease, eGFR 19. Off metformin. Nephrology following; discussed renal diet and avoidance of contrast and NSAIDs.
+4. Also on problem list: hypothyroidism, hypertension.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

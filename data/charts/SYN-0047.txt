@@ -1,0 +1,57 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0047    Age: 82    Sex: M
+Visit date: 2026-05-11    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+82-year-old man here for a 6-month check-in. History of type 2 diabetes diagnosed 12 years ago. Has been trying to walk 3 times per week. Glucose readings 112-142 mg/dL fasting. Appetite stable. Denies nausea or abdominal pain.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease
+- Hyperlipidemia
+- Osteoarthritis, bilateral knees
+- Obesity
+- Essential hypertension
+- History of nephrolithiasis (2019), no recurrence
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- atorvastatin 40 mg nightly
+- acetaminophen 650 mg as needed
+- lisinopril 20 mg daily
+
+VITALS
+BP 130/81 | HR 80 | Wt 93.9 kg | BMI 33.0 | SpO2 96%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date        Test                        Result
+2025-11-03  eGFR                        57 mL/min/1.73m2
+2026-05-06  eGFR                        52 mL/min/1.73m2
+2026-05-06  Hemoglobin A1c              7.1%
+2026-05-06  Urine albumin/creatinine    100 mg/g
+2026-05-06  Potassium                   5.0 mmol/L
+
+IMPRESSION AND PLAN
+(Assessment copied from note dated 2025-11-09 and updated where noted.)
+1. Diabetes mellitus, type 2: A1c 7.1% today (up from 5.7%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Diabetic chronic kidney disease: eGFR 52 today (stable from 57). Continue empagliflozin. Recheck BMP and urine albumin-to-creatinine ratio in 3 months.
+3. HTN: at goal on current regimen. Continue lisinopril.
+4. Hyperlipidemia: LDL 117 mg/dL. Continue atorvastatin 40 mg.
+5. History of kidney stones: no recurrence; encouraged fluid intake.
+6. OA of knees: continue home exercises and acetaminophen PRN.
+7. Obesity: weight 93.9 kg. Continue lifestyle changes.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

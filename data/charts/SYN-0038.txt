@@ -1,0 +1,53 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0038    Age: 68    Sex: M
+Visit date: 2026-04-28    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 68-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 5 years ago. Brought meter today; morning values 115-161 mg/dL, no lows. No urinary symptoms. No foot ulcers or numbness reported.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- CKD stage 3a due to IgA nephropathy
+- Hypothyroidism
+- Hyperlipidemia
+- Obesity
+- Essential hypertension
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- levothyroxine 75 mcg daily
+- atorvastatin 40 mg nightly
+- lisinopril 20 mg daily
+
+VITALS
+BP 135/82 | HR 73 | Wt 103.0 kg | BMI 34.6 | SpO2 99%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date        Test                        Result
+2026-04-21  eGFR                        45 mL/min/1.73m2
+2026-04-21  Hemoglobin A1c              6.9%
+2026-04-21  Urine albumin/creatinine    344 mg/g
+2026-04-21  Potassium                   4.5 mmol/L
+
+ASSESSMENT/PLAN
+1. T2DM: A1c 6.9% today (improved from 7.5%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. CKD stage 3a due to IgA nephropathy: Renal function reviewed: eGFR 45 (no prior for comparison). Continue lisinopril and empagliflozin. Avoid NSAIDs. Nephrology follow-up as scheduled.
+3. Hypothyroid: clinically euthyroid. Continue current dose.
+4. Hyperlipidemia: LDL 78 mg/dL. Continue atorvastatin 40 mg.
+5. Hypertension: BP 135/82 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+6. Obesity: weight 103.0 kg. Continue lifestyle changes.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

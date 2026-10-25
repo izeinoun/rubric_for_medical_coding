@@ -1,0 +1,49 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0069    Age: 76    Sex: F
+Visit date: 2026-02-22    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Follow-up visit; medication refills.
+
+HISTORY OF PRESENT ILLNESS
+76-year-old woman here for a 4-month check-in. History of type 2 diabetes diagnosed 21 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Sleeping reasonably well. Mood is good.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Seasonal allergic rhinitis
+- Osteoarthritis, bilateral knees
+- History of nephrolithiasis (2019), no recurrence
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- semaglutide 0.5 mg weekly
+- loratadine 10 mg as needed
+- acetaminophen 650 mg as needed
+
+VITALS
+BP 136/69 | HR 63 | Wt 85.1 kg | BMI 29.5 | SpO2 99%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date        Test                        Result
+2025-07-16  eGFR                        62 mL/min/1.73m2
+2026-02-14  eGFR                        57 mL/min/1.73m2
+2026-02-14  Hemoglobin A1c              7.0%
+2026-02-14  Potassium                   3.9 mmol/L
+
+IMPRESSION AND PLAN
+1. T2DM: A1c 7.0%, up from 5.9%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Mildly reduced eGFR, CKD not yet established: Single low eGFR of 57 after prior 62. Encouraged hydration, recheck in 3 months.
+3. History of kidney stones: no recurrence; encouraged fluid intake.
+4. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+5. OA of knees: continue home exercises and acetaminophen PRN.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

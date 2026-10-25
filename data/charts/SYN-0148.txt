@@ -1,0 +1,47 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0148    Age: 67    Sex: M
+Visit date: 2026-07-17    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Follow-up visit; medication refills.
+
+HISTORY OF PRESENT ILLNESS
+67-year-old man here for a 4-month check-in. History of type 2 diabetes diagnosed 4 years ago. Brought meter today; morning values 124-166 mg/dL, no lows. Sleeping reasonably well. Mood is good.
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- atorvastatin 40 mg nightly
+- omeprazole 20 mg daily
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease stage 3b
+- Hyperlipidemia
+- GERD
+
+VITALS
+BP 134/88 | HR 85 | Wt 78.6 kg | BMI 29.3 | SpO2 94%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date        Test                        Result
+2026-07-15  eGFR                        37 mL/min/1.73m2
+2026-07-15  Hemoglobin A1c              6.8%
+2026-07-15  Urine albumin/creatinine    280 mg/g
+2026-07-15  Potassium                   4.7 mmol/L
+
+IMPRESSION AND PLAN
+1. T2DM: A1c 6.8% (up from 6.1%). Medications unchanged; reinforced carbohydrate counting.
+2. Chronic kidney disease stage 3b due to type 2 diabetes: Latest eGFR 37 (no prior for comparison); potassium acceptable. Continue losartan and empagliflozin. BMP in 3 months.
+3. Problem list reviewed: GERD, hyperlipidemia.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

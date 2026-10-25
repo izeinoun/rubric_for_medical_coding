@@ -1,0 +1,49 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0153    Age: 56    Sex: F
+Visit date: 2026-02-17    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 56-year-old woman returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 6 years ago. Brought meter today; morning values 116-143 mg/dL, no lows. Appetite stable. Denies nausea or abdominal pain.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- CKD stage 3a due to hypertensive nephrosclerosis
+- Essential hypertension
+- Seasonal allergic rhinitis
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- semaglutide 0.5 mg weekly
+- lisinopril 20 mg daily
+- loratadine 10 mg as needed
+
+VITALS
+BP 138/71 | HR 76 | Wt 68.5 kg | BMI 26.1 | SpO2 97%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date        Test                        Result
+2025-08-23  eGFR                        51 mL/min/1.73m2
+2026-02-14  eGFR                        48 mL/min/1.73m2
+2026-02-14  Hemoglobin A1c              8.0%
+2026-02-14  Urine albumin/creatinine    177 mg/g
+2026-02-14  Potassium                   4.7 mmol/L
+
+IMPRESSION AND PLAN
+1. Diabetes mellitus, type 2: A1c 8.0% (up from 7.5%). Medications unchanged; reinforced carbohydrate counting.
+2. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+3. CKD stage 3a due to hypertensive nephrosclerosis: Latest eGFR 48 (stable from 51); potassium acceptable. Continue lisinopril and dapagliflozin. BMP in 3 months.
+4. Essential hypertension: BP 138/71. Reinforced low-sodium diet; continue lisinopril 20 mg.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

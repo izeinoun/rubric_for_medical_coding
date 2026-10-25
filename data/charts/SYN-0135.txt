@@ -1,0 +1,53 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0135    Age: 62    Sex: M
+Visit date: 2026-07-04    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 62-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 16 years ago. Has been trying to walk 2 times per week. Glucose readings 105-142 mg/dL fasting. No polyuria or polydipsia. No visual changes.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease, stage 4
+- Hypothyroidism
+- Obesity
+- Seasonal allergic rhinitis
+
+MEDICATIONS
+- insulin glargine 18 units nightly
+- dapagliflozin 10 mg daily
+- semaglutide 0.5 mg weekly
+- losartan 50 mg daily
+- levothyroxine 75 mcg daily
+- loratadine 10 mg as needed
+
+VITALS
+BP 128/78 | HR 85 | Wt 104.8 kg | BMI 32.9 | SpO2 97%
+
+LABS
+Date        Test                        Result
+2025-11-23  eGFR                        18 mL/min/1.73m2
+2026-07-04  eGFR                        25 mL/min/1.73m2
+2026-07-04  Hemoglobin A1c              8.4%
+2026-07-04  Urine albumin/creatinine    372 mg/g
+2026-07-04  Potassium                   5.0 mmol/L
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+ASSESSMENT AND PLAN
+1. Type 2 diabetes mellitus: A1c 8.4%, unchanged from prior. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Obesity, BMI 32.9: discussed nutrition and activity goals; referred to dietitian.
+3. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+4. Type 2 diabetes with diabetic CKD stage 4: Advanced kidney disease, eGFR 25. Off metformin. Nephrology following; discussed renal diet and avoidance of contrast and NSAIDs.
+5. Hypothyroid: clinically euthyroid. Continue current dose.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

@@ -1,0 +1,46 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0004    Age: 52    Sex: F
+Visit date: 2026-08-25    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+52-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 15 years ago. Home glucose log reviewed, fasting values 113-161 mg/dL with occasional post-meal readings above 200. Sleeping reasonably well. Mood is good.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Osteoarthritis, bilateral knees
+- GERD
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- acetaminophen 650 mg as needed
+- omeprazole 20 mg daily
+
+VITALS
+BP 139/85 | HR 76 | Wt 82.4 kg | BMI 27.6 | SpO2 95%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date        Test                        Result
+2026-04-06  eGFR                        51 mL/min/1.73m2
+2026-08-22  eGFR                        52 mL/min/1.73m2
+2026-08-22  Hemoglobin A1c              9.0%
+2026-08-22  Potassium                   4.9 mmol/L
+
+ASSESSMENT/PLAN
+1. Type 2 diabetes mellitus: A1c 9.0%, improved from 9.5%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. OA of knees: continue home exercises and acetaminophen PRN.
+3. GERD: symptoms controlled on omeprazole. Continue.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

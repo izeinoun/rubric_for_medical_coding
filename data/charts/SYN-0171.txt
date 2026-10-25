@@ -1,0 +1,49 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0171    Age: 71    Sex: M
+Visit date: 2026-03-15    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+71-year-old man presents for scheduled follow-up. History of type 2 diabetes diagnosed 20 years ago. Home glucose log reviewed, fasting values 124-171 mg/dL with occasional post-meal readings above 200. No polyuria or polydipsia. No visual changes.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease, stage 3a
+- Seasonal allergic rhinitis
+- Hyperlipidemia
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+- atorvastatin 40 mg nightly
+
+VITALS
+BP 118/91 | HR 68 | Wt 82.0 kg | BMI 29.5 | SpO2 96%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date        Test                        Result
+2025-11-04  eGFR                        47 mL/min/1.73m2
+2026-03-08  eGFR                        54 mL/min/1.73m2
+2026-03-08  Hemoglobin A1c              7.4%
+2026-03-08  Urine albumin/creatinine    384 mg/g
+2026-03-08  Potassium                   4.3 mmol/L
+
+ASSESSMENT/PLAN
+1. Diabetes mellitus, type 2: A1c 7.4%, up from 7.2%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Hyperlipidemia: LDL 98 mg/dL. Continue atorvastatin 40 mg.
+3. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

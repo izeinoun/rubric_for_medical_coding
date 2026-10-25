@@ -1,0 +1,56 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0154    Age: 75    Sex: F
+Visit date: 2026-05-18    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+75-year-old woman presents for scheduled follow-up. History of type 2 diabetes diagnosed 14 years ago. Reports checking glucose daily; fasting readings mostly 116-172 mg/dL. Mild bilateral knee stiffness in the mornings, unchanged.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- CKD, stage 3a
+- GERD
+- Obesity
+- Seasonal allergic rhinitis
+- Essential hypertension
+- History of nephrolithiasis (2019), no recurrence
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- omeprazole 20 mg daily
+- loratadine 10 mg as needed
+- lisinopril 20 mg daily
+
+VITALS
+BP 136/86 | HR 83 | Wt 106.3 kg | BMI 36.0 | SpO2 99%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date        Test                        Result
+2025-09-20  eGFR                        54 mL/min/1.73m2
+2026-05-11  eGFR                        55 mL/min/1.73m2
+2026-05-11  Hemoglobin A1c              6.9%
+2026-05-11  Urine albumin/creatinine    345 mg/g
+2026-05-11  Potassium                   4.8 mmol/L
+
+ASSESSMENT AND PLAN
+1. Diabetes mellitus, type 2: A1c 6.9%, improved from 7.4%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Obesity: weight 106.3 kg. Continue lifestyle changes.
+3. History of kidney stones: no recurrence; encouraged fluid intake.
+4. GERD: symptoms controlled on omeprazole. Continue.
+5. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+6. Hypertension: BP 136/86 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+7. Type 2 diabetes with diabetic CKD stage 3a: Labs reviewed with patient, eGFR 55. Continue empagliflozin; metformin dose appropriate for current eGFR. Recheck in 3 to 4 months.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

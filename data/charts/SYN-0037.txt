@@ -1,0 +1,46 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0037    Age: 81    Sex: F
+Visit date: 2026-04-28    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+81-year-old woman presents for scheduled follow-up. History of type 2 diabetes diagnosed 13 years ago. Notes some difficulty with diet recently; fasting sugars 123-138 mg/dL. Appetite stable. Denies nausea or abdominal pain.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- acetaminophen 650 mg as needed
+- atorvastatin 40 mg nightly
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Osteoarthritis, bilateral knees
+- Hyperlipidemia
+- Obesity
+
+VITALS
+BP 148/87 | HR 87 | Wt 88.9 kg | BMI 36.2 | SpO2 94%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date        Test                        Result
+2026-01-17  eGFR                        50 mL/min/1.73m2
+2026-04-28  eGFR                        57 mL/min/1.73m2
+2026-04-28  Hemoglobin A1c              6.6%
+2026-04-28  Potassium                   4.7 mmol/L
+
+ASSESSMENT/PLAN
+1. Diabetes mellitus, type 2: A1c 6.6% (improved from 7.6%). Medications unchanged; reinforced carbohydrate counting.
+2. OA of knees: continue home exercises and acetaminophen PRN.
+3. Hyperlipidemia: LDL 59 mg/dL. Continue atorvastatin 40 mg.
+4. Obesity: weight 88.9 kg. Continue lifestyle changes.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

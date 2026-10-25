@@ -1,0 +1,52 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0167    Age: 73    Sex: M
+Visit date: 2026-06-20    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Diabetes check and lab review.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 73-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 21 years ago. Reports checking glucose twice daily; fasting readings mostly 115-147 mg/dL. Appetite stable. Denies nausea or abdominal pain.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease, stage 4
+- Essential hypertension
+- Seasonal allergic rhinitis
+- GERD
+
+MEDICATIONS
+- insulin glargine 18 units nightly
+- dapagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- loratadine 10 mg as needed
+- omeprazole 20 mg daily
+
+VITALS
+BP 123/68 | HR 64 | Wt 68.6 kg | BMI 24.4 | SpO2 99%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date        Test                        Result
+2026-01-30  eGFR                        17 mL/min/1.73m2
+2026-06-20  eGFR                        29 mL/min/1.73m2
+2026-06-20  Hemoglobin A1c              9.2%
+2026-06-20  Urine albumin/creatinine    145 mg/g
+2026-06-20  Potassium                   4.1 mmol/L
+
+ASSESSMENT/PLAN
+1. Type 2 diabetes mellitus: A1c 9.2% today (unchanged from prior). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. HTN: at goal on current regimen. Continue lisinopril.
+3. CKD stage 4 secondary to type 2 diabetes mellitus: eGFR 29 (up from 17). Metformin discontinued given renal function. Continue dapagliflozin. Referred to nephrology for co-management.
+4. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+5. GERD: symptoms controlled on omeprazole. Continue.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

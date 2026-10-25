@@ -1,0 +1,52 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0072    Age: 77    Sex: M
+Visit date: 2026-03-08    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+77-year-old man here for a 4-month check-in. History of type 2 diabetes diagnosed 19 years ago. Home glucose log reviewed, fasting values 113-174 mg/dL with occasional post-meal readings above 200. No polyuria or polydipsia. No visual changes.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease stage 3b
+- Essential hypertension
+- Hyperlipidemia
+- History of nephrolithiasis (2019), no recurrence
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- atorvastatin 40 mg nightly
+
+VITALS
+BP 139/71 | HR 78 | Wt 73.9 kg | BMI 24.4 | SpO2 99%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date        Test                        Result
+2025-08-31  eGFR                        42 mL/min/1.73m2
+2026-02-28  eGFR                        39 mL/min/1.73m2
+2026-02-28  Hemoglobin A1c              8.8%
+2026-02-28  Urine albumin/creatinine    43 mg/g
+2026-02-28  Potassium                   4.3 mmol/L
+
+ASSESSMENT/PLAN
+(Assessment copied from note dated 2025-09-27 and updated where noted.)
+1. Type 2 diabetes mellitus: A1c 8.8%, unchanged from prior. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. CKD stage 3b: eGFR 39 (stable from 42), albuminuria 43 mg/g. Increased lisinopril to 40 mg daily. Repeat potassium and creatinine in 2 weeks.
+3. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+4. Essential hypertension: BP 139/71. Reinforced low-sodium diet; continue lisinopril 20 mg.
+5. History of kidney stones: no recurrence; encouraged fluid intake.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

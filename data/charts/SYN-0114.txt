@@ -1,0 +1,53 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0114    Age: 68    Sex: F
+Visit date: 2026-03-05    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+68-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 5 years ago. Has been trying to walk 2 times per week. Glucose readings 123-148 mg/dL fasting. Denies chest pain, shortness of breath or leg swelling.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease stage 3b
+- Hyperlipidemia
+- Hypothyroidism
+- Essential hypertension
+- GERD
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- empagliflozin 10 mg daily
+- atorvastatin 40 mg nightly
+- levothyroxine 75 mcg daily
+- lisinopril 20 mg daily
+- omeprazole 20 mg daily
+
+VITALS
+BP 140/78 | HR 88 | Wt 75.9 kg | BMI 28.9 | SpO2 95%
+
+LABS
+Date        Test                        Result
+2026-02-26  eGFR                        38 mL/min/1.73m2
+2026-02-26  Hemoglobin A1c              7.6%
+2026-02-26  Urine albumin/creatinine    143 mg/g
+2026-02-26  Potassium                   4.9 mmol/L
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+ASSESSMENT/PLAN
+1. Type 2 diabetes mellitus: A1c 7.6%, unchanged from prior. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Chronic kidney disease, stage 3b: eGFR 38 today (no prior for comparison). Continue empagliflozin. Recheck BMP and urine albumin-to-creatinine ratio in 3 months.
+3. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+4. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+5. Hypertension: BP 140/78 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+6. Hyperlipidemia: LDL 99 mg/dL. Continue atorvastatin 40 mg.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

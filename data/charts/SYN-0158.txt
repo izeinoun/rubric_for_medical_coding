@@ -1,0 +1,48 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0158    Age: 69    Sex: M
+Visit date: 2026-04-19    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Diabetes check and lab review.
+
+HISTORY OF PRESENT ILLNESS
+69-year-old man seen today for routine chronic care. History of type 2 diabetes diagnosed 17 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Mild bilateral knee stiffness in the mornings, unchanged.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Hyperlipidemia
+- Essential hypertension
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- semaglutide 0.5 mg weekly
+- atorvastatin 40 mg nightly
+- lisinopril 20 mg daily
+
+VITALS
+BP 144/73 | HR 88 | Wt 81.3 kg | BMI 25.7 | SpO2 98%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date        Test                        Result
+2025-12-17  eGFR                        65 mL/min/1.73m2
+2026-04-09  eGFR                        59 mL/min/1.73m2
+2026-04-09  Hemoglobin A1c              9.6%
+2026-04-09  Urine albumin/creatinine    9 mg/g
+2026-04-09  Potassium                   4.0 mmol/L
+
+ASSESSMENT AND PLAN
+1. Diabetes mellitus, type 2: A1c 9.6% (improved from 9.9%). Medications unchanged; reinforced carbohydrate counting.
+2. Rule out chronic kidney disease: eGFR 59 (was 65). Will recheck renal panel in 90 days; diagnosis deferred until repeat testing.
+3. HTN: at goal on current regimen. Continue lisinopril.
+4. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

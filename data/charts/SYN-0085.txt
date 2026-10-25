@@ -1,0 +1,54 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0085    Age: 79    Sex: M
+Visit date: 2026-09-12    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Diabetes check and lab review.
+
+HISTORY OF PRESENT ILLNESS
+79-year-old man here for a 4-month check-in. History of type 2 diabetes diagnosed 19 years ago. Notes some difficulty with diet recently; fasting sugars 127-152 mg/dL. No urinary symptoms. No foot ulcers or numbness reported.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- omeprazole 20 mg daily
+- acetaminophen 650 mg as needed
+- loratadine 10 mg as needed
+- atorvastatin 40 mg nightly
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease stage 3a
+- GERD
+- Osteoarthritis, bilateral knees
+- Seasonal allergic rhinitis
+- Hyperlipidemia
+
+VITALS
+BP 142/75 | HR 71 | Wt 101.4 kg | BMI 29.1 | SpO2 98%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date        Test                        Result
+2026-01-19  eGFR                        57 mL/min/1.73m2
+2026-09-02  eGFR                        48 mL/min/1.73m2
+2026-09-02  Hemoglobin A1c              7.7%
+2026-09-02  Urine albumin/creatinine    392 mg/g
+2026-09-02  Potassium                   5.0 mmol/L
+
+IMPRESSION AND PLAN
+1. T2DM: A1c 7.7% today (up from 7.3%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+3. Hyperlipidemia: LDL 70 mg/dL. Continue atorvastatin 40 mg.
+4. Problem list reviewed: GERD, CKD, stage 3a, knee osteoarthritis.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

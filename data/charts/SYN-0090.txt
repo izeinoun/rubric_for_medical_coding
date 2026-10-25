@@ -1,0 +1,48 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0090    Age: 55    Sex: M
+Visit date: 2026-01-13    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 55-year-old man, presenting for chronic disease follow-up. Type 1 diabetes since age 12. Notes some difficulty with diet recently; fasting sugars 125-151 mg/dL. Energy fair. No new complaints today.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 1, on insulin
+- CKD, stage 4
+- Osteoarthritis, bilateral knees
+- Hyperlipidemia
+
+MEDICATIONS
+- insulin pump (lispro) with continuous glucose monitor
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- atorvastatin 40 mg nightly
+
+VITALS
+BP 124/90 | HR 63 | Wt 79.3 kg | BMI 24.4 | SpO2 95%
+
+LABS
+Date        Test                        Result
+2025-07-02  eGFR                        26 mL/min/1.73m2
+2026-01-13  eGFR                        17 mL/min/1.73m2
+2026-01-13  Hemoglobin A1c              8.4%
+2026-01-13  Urine albumin/creatinine    385 mg/g
+2026-01-13  Potassium                   4.3 mmol/L
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+IMPRESSION AND PLAN
+1. Type 1 diabetes mellitus: A1c 8.4% on insulin pump. Adjusted overnight basal rate. Continue CGM.
+2. Chronic kidney disease stage 4: eGFR 17 today (down from 26). Continue losartan. Recheck BMP and urine albumin-to-creatinine ratio in 3 months.
+3. Problem list reviewed: hyperlipidemia, knee osteoarthritis.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

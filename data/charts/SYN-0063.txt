@@ -1,0 +1,47 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0063    Age: 63    Sex: M
+Visit date: 2026-04-04    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 63-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 7 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Appetite stable. Denies nausea or abdominal pain.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease stage 3b
+- Obesity
+- Essential hypertension
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- empagliflozin 10 mg daily
+- lisinopril 20 mg daily
+
+VITALS
+BP 123/70 | HR 62 | Wt 125.8 kg | BMI 36.9 | SpO2 95%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date        Test                        Result
+2025-12-02  eGFR                        44 mL/min/1.73m2
+2026-04-04  eGFR                        35 mL/min/1.73m2
+2026-04-04  Hemoglobin A1c              6.9%
+2026-04-04  Urine albumin/creatinine    167 mg/g
+2026-04-04  Potassium                   4.8 mmol/L
+
+ASSESSMENT/PLAN
+1. T2DM: A1c 6.9% today (unchanged from prior). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Hypertension: BP 123/70 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+3. Obesity: weight 125.8 kg. Continue lifestyle changes.
+4. CKD stage 3b: Renal function reviewed: eGFR 35 (down from 44). Continue lisinopril and empagliflozin. Avoid NSAIDs. Nephrology follow-up as scheduled.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

@@ -1,0 +1,50 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0115    Age: 84    Sex: M
+Visit date: 2026-06-11    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 84-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 8 years ago. Brought meter today; morning values 129-153 mg/dL, no lows. Mild bilateral knee stiffness in the mornings, unchanged.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- CKD stage 3b from prior obstructive uropathy
+- Seasonal allergic rhinitis
+- Obesity
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+
+VITALS
+BP 121/89 | HR 66 | Wt 99.7 kg | BMI 37.2 | SpO2 99%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date        Test                        Result
+2025-12-18  eGFR                        37 mL/min/1.73m2
+2026-06-07  eGFR                        41 mL/min/1.73m2
+2026-06-07  Hemoglobin A1c              7.4%
+2026-06-07  Urine albumin/creatinine    317 mg/g
+2026-06-07  Potassium                   4.8 mmol/L
+
+IMPRESSION AND PLAN
+(A/P carried forward from 2026-02-04; reviewed and unchanged.)
+1. Diabetes mellitus, type 2: A1c 7.4%, improved from 7.9%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+3. Obesity, BMI 37.2: discussed nutrition and activity goals; referred to dietitian.
+4. CKD stage 3b from prior obstructive uropathy: Labs reviewed with patient, eGFR 41. Continue empagliflozin; metformin dose appropriate for current eGFR. Recheck in 3 to 4 months.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

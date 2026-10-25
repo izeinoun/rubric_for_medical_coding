@@ -1,0 +1,47 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0146    Age: 55    Sex: M
+Visit date: 2026-03-10    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Diabetes check and lab review.
+
+HISTORY OF PRESENT ILLNESS
+55-year-old man presents for scheduled follow-up. History of type 2 diabetes diagnosed 13 years ago. Brought meter today; morning values 126-151 mg/dL, no lows. Hospitalized 2025-11-08 with dehydration from viral gastroenteritis; creatinine rose and has since returned to baseline. Appetite stable. Denies nausea or abdominal pain.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- loratadine 10 mg as needed
+- acetaminophen 650 mg as needed
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Acute kidney injury (2025-11-08), resolved
+- Seasonal allergic rhinitis
+- Osteoarthritis, bilateral knees
+
+VITALS
+BP 124/75 | HR 80 | Wt 66.0 kg | BMI 24.6 | SpO2 97%
+
+LABS
+Date        Test                        Result
+2025-11-08  eGFR                        28 mL/min/1.73m2
+2026-03-05  eGFR                        78 mL/min/1.73m2
+2026-03-05  Hemoglobin A1c              7.1%
+2026-03-05  Potassium                   5.0 mmol/L
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+IMPRESSION AND PLAN
+1. T2DM: A1c 7.1%, improved from 8.3%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+3. Prior AKI, recovered. eGFR 78 today. Does not meet criteria for chronic kidney disease.
+4. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

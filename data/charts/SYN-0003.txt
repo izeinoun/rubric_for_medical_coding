@@ -1,0 +1,49 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0003    Age: 67    Sex: M
+Visit date: 2026-08-19    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+67-year-old man seen today for routine chronic care. History of type 2 diabetes diagnosed 15 years ago. Reports checking glucose daily; fasting readings mostly 105-172 mg/dL. Appetite stable. Denies nausea or abdominal pain.
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+- acetaminophen 650 mg as needed
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease, stage 3b
+- Seasonal allergic rhinitis
+- Osteoarthritis, bilateral knees
+
+VITALS
+BP 132/81 | HR 77 | Wt 87.3 kg | BMI 27.3 | SpO2 99%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date        Test                        Result
+2026-08-17  eGFR                        40 mL/min/1.73m2
+2026-08-17  Hemoglobin A1c              7.6%
+2026-08-17  Urine albumin/creatinine    185 mg/g
+2026-08-17  Potassium                   4.8 mmol/L
+
+ASSESSMENT AND PLAN
+1. Type 2 diabetes mellitus: Hemoglobin A1c 7.6% (improved from 8.4%). Discussed adding GLP-1 agonist at next visit if not at goal. Continue current medications.
+2. Type 2 diabetes with diabetic CKD stage 3b: eGFR 40 today (no prior for comparison). Continue empagliflozin. Recheck BMP and urine albumin-to-creatinine ratio in 3 months.
+3. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+4. Also on problem list: knee osteoarthritis.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

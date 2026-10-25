@@ -1,0 +1,56 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0149    Age: 64    Sex: M
+Visit date: 2026-02-19    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Diabetes check and lab review.
+
+HISTORY OF PRESENT ILLNESS
+64-year-old man seen today for routine chronic care. History of type 2 diabetes diagnosed 7 years ago. Has been trying to walk 5 times per week. Glucose readings 105-137 mg/dL fasting. No urinary symptoms. No foot ulcers or numbness reported.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- CKD stage 4
+- GERD
+- Seasonal allergic rhinitis
+- Hypothyroidism
+- Obesity
+
+MEDICATIONS
+- insulin glargine 18 units nightly
+- empagliflozin 10 mg daily
+- semaglutide 0.5 mg weekly
+- losartan 50 mg daily
+- omeprazole 20 mg daily
+- loratadine 10 mg as needed
+- levothyroxine 75 mcg daily
+
+VITALS
+BP 125/74 | HR 82 | Wt 122.1 kg | BMI 35.9 | SpO2 94%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date        Test                        Result
+2025-08-23  eGFR                        25 mL/min/1.73m2
+2026-02-10  eGFR                        23 mL/min/1.73m2
+2026-02-10  Hemoglobin A1c              9.3%
+2026-02-10  Urine albumin/creatinine    346 mg/g
+2026-02-10  Potassium                   4.5 mmol/L
+
+ASSESSMENT/PLAN
+1. T2DM: A1c 9.3% today (up from 8.2%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+3. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+4. CKD stage 4 secondary to type 2 diabetes mellitus: eGFR 23 (stable from 25). Metformin discontinued given renal function. Continue empagliflozin. Referred to nephrology for co-management.
+5. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+6. Problem list reviewed: obesity.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

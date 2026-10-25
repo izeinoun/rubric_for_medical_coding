@@ -1,0 +1,55 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0142    Age: 76    Sex: F
+Visit date: 2026-06-03    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Follow-up visit; medication refills.
+
+HISTORY OF PRESENT ILLNESS
+76-year-old woman presents for scheduled follow-up. History of type 2 diabetes diagnosed 11 years ago. Has been trying to walk 4 times per week. Glucose readings 116-167 mg/dL fasting. Mild bilateral knee stiffness in the mornings, unchanged.
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- levothyroxine 75 mcg daily
+- atorvastatin 40 mg nightly
+- acetaminophen 650 mg as needed
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease stage 3b
+- Hypothyroidism
+- Hyperlipidemia
+- Obesity
+- Osteoarthritis, bilateral knees
+
+VITALS
+BP 119/91 | HR 75 | Wt 86.0 kg | BMI 34.8 | SpO2 94%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date        Test                        Result
+2025-12-18  eGFR                        37 mL/min/1.73m2
+2026-05-31  eGFR                        43 mL/min/1.73m2
+2026-05-31  Hemoglobin A1c              7.2%
+2026-05-31  Urine albumin/creatinine    265 mg/g
+2026-05-31  Potassium                   4.1 mmol/L
+
+IMPRESSION AND PLAN
+1. Type 2 diabetes mellitus: A1c 7.2%, up from 6.4%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. OA of knees: continue home exercises and acetaminophen PRN.
+3. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+4. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+5. Type 2 diabetes with diabetic CKD stage 3b: eGFR 43, UACR 265 mg/g. On empagliflozin and losartan; counseled on avoiding nephrotoxins. Repeat labs in 3 months.
+6. Obesity: weight 86.0 kg. Continue lifestyle changes.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

@@ -1,0 +1,52 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0118    Age: 49    Sex: M
+Visit date: 2026-07-25    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Diabetes check and lab review.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 49-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 20 years ago. Reports checking glucose daily; fasting readings mostly 129-164 mg/dL. Denies chest pain, shortness of breath or leg swelling.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease
+- Seasonal allergic rhinitis
+- GERD
+- Essential hypertension
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- loratadine 10 mg as needed
+- omeprazole 20 mg daily
+- lisinopril 20 mg daily
+
+VITALS
+BP 140/78 | HR 64 | Wt 74.6 kg | BMI 28.4 | SpO2 97%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date        Test                        Result
+2025-12-17  eGFR                        57 mL/min/1.73m2
+2026-07-20  eGFR                        52 mL/min/1.73m2
+2026-07-20  Hemoglobin A1c              8.4%
+2026-07-20  Urine albumin/creatinine    229 mg/g
+2026-07-20  Potassium                   4.0 mmol/L
+
+ASSESSMENT/PLAN
+1. T2DM: A1c 8.4% today (up from 7.3%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Diabetic chronic kidney disease: eGFR 52, UACR 229 mg/g. On dapagliflozin and lisinopril; counseled on avoiding nephrotoxins. Repeat labs in 3 months.
+3. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+4. Hypertension: BP 140/78 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+5. GERD: symptoms controlled on omeprazole. Continue.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

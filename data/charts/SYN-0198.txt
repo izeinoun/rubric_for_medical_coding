@@ -1,0 +1,52 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0198    Age: 84    Sex: F
+Visit date: 2026-08-12    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Diabetes check and lab review.
+
+HISTORY OF PRESENT ILLNESS
+84-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 10 years ago. Reports checking glucose twice daily; fasting readings mostly 112-139 mg/dL. No polyuria or polydipsia. No visual changes.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- semaglutide 0.5 mg weekly
+- atorvastatin 40 mg nightly
+- acetaminophen 650 mg as needed
+- loratadine 10 mg as needed
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Hyperlipidemia
+- Osteoarthritis, bilateral knees
+- Seasonal allergic rhinitis
+
+VITALS
+BP 133/82 | HR 79 | Wt 78.3 kg | BMI 25.6 | SpO2 97%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date        Test                        Result
+2026-03-06  eGFR                        68 mL/min/1.73m2
+2026-08-11  eGFR                        55 mL/min/1.73m2
+2026-08-11  Hemoglobin A1c              8.2%
+2026-08-11  Urine albumin/creatinine    14 mg/g
+2026-08-11  Potassium                   4.5 mmol/L
+
+ASSESSMENT AND PLAN
+1. Diabetes mellitus, type 2: A1c 8.2% today (up from 7.9%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+3. Possible chronic kidney disease: eGFR 55 today, previously 68. Repeat BMP and urine albumin in 3 months to confirm chronicity.
+4. OA of knees: continue home exercises and acetaminophen PRN.
+5. Also on problem list: allergic rhinitis.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

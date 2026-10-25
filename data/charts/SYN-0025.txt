@@ -1,0 +1,51 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0025    Age: 75    Sex: F
+Visit date: 2026-05-16    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+75-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 21 years ago. Notes some difficulty with diet recently; fasting sugars 109-170 mg/dL. Nephrology evaluated her kidney disease in 2022 and attributed it to longstanding diabetes. Denies chest pain, shortness of breath or leg swelling.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease, stage 3a
+- Osteoarthritis, bilateral knees
+- Seasonal allergic rhinitis
+- Obesity
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- loratadine 10 mg as needed
+
+VITALS
+BP 145/92 | HR 85 | Wt 98.3 kg | BMI 34.5 | SpO2 96%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date        Test                        Result
+2026-05-14  eGFR                        57 mL/min/1.73m2
+2026-05-14  Hemoglobin A1c              6.9%
+2026-05-14  Urine albumin/creatinine    369 mg/g
+2026-05-14  Potassium                   4.6 mmol/L
+
+ASSESSMENT AND PLAN
+1. T2DM: A1c 6.9% today (improved from 7.3%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Obesity, BMI 34.5: discussed nutrition and activity goals; referred to dietitian.
+3. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+4. CKD, stage 3a: eGFR 57 (no prior for comparison), albuminuria 369 mg/g. Increased losartan to 100 mg daily. Repeat potassium and creatinine in 2 weeks.
+5. Problem list reviewed: knee osteoarthritis.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

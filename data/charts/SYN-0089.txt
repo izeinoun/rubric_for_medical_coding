@@ -1,0 +1,55 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0089    Age: 60    Sex: F
+Visit date: 2026-04-24    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+60-year-old woman seen today for routine chronic care. Type 1 diabetes since age 9. Has been trying to walk 4 times per week. Glucose readings 112-136 mg/dL fasting. Energy fair. No new complaints today.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 1 DM
+- CKD stage 3b
+- GERD
+- Osteoarthritis, bilateral knees
+- Seasonal allergic rhinitis
+- Obesity
+- History of nephrolithiasis (2019), no recurrence
+
+MEDICATIONS
+- insulin glargine 22 units nightly and insulin lispro with meals; continuous glucose monitor
+- losartan 50 mg daily
+- omeprazole 20 mg daily
+- acetaminophen 650 mg as needed
+- loratadine 10 mg as needed
+
+VITALS
+BP 121/73 | HR 63 | Wt 76.7 kg | BMI 32.4 | SpO2 99%
+
+LABS
+Date        Test                        Result
+2026-04-18  eGFR                        33 mL/min/1.73m2
+2026-04-18  Hemoglobin A1c              8.4%
+2026-04-18  Urine albumin/creatinine    367 mg/g
+2026-04-18  Potassium                   5.1 mmol/L
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+IMPRESSION AND PLAN
+1. Type 1 diabetes mellitus: A1c 8.4%. Continue basal-bolus insulin; reviewed CGM download, time in range 61%. Endocrinology follow-up in 3 months.
+2. OA of knees: continue home exercises and acetaminophen PRN.
+3. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+4. Obesity: weight 76.7 kg. Continue lifestyle changes.
+5. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+6. History of kidney stones: no recurrence; encouraged fluid intake.
+7. Chronic kidney disease stage 3b: eGFR 33 today (no prior for comparison). Continue losartan. Recheck BMP and urine albumin-to-creatinine ratio in 3 months.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

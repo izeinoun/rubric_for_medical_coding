@@ -1,0 +1,49 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0124    Age: 59    Sex: M
+Visit date: 2026-08-17    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+59-year-old man here for a 6-month check-in. History of type 2 diabetes diagnosed 18 years ago. Brought meter today; morning values 112-175 mg/dL, no lows. Denies chest pain, shortness of breath or leg swelling.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease
+- Obesity
+- Hyperlipidemia
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- atorvastatin 40 mg nightly
+
+VITALS
+BP 128/77 | HR 72 | Wt 128.0 kg | BMI 37.1 | SpO2 96%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date        Test                        Result
+2025-12-22  eGFR                        34 mL/min/1.73m2
+2026-08-07  eGFR                        41 mL/min/1.73m2
+2026-08-07  Hemoglobin A1c              9.4%
+2026-08-07  Urine albumin/creatinine    217 mg/g
+2026-08-07  Potassium                   4.6 mmol/L
+
+ASSESSMENT AND PLAN
+1. T2DM: Hemoglobin A1c 9.4% (improved from 10.1%). Discussed adding GLP-1 agonist at next visit if not at goal. Continue current medications.
+2. Chronic kidney disease due to type 2 diabetes: Labs reviewed with patient, eGFR 41. Continue dapagliflozin; metformin dose appropriate for current eGFR. Recheck in 3 to 4 months.
+3. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+4. Obesity, BMI 37.1: discussed nutrition and activity goals; referred to dietitian.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

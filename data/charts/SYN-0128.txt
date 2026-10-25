@@ -1,0 +1,50 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0128    Age: 75    Sex: M
+Visit date: 2026-02-08    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+75-year-old man seen today for routine chronic care. History of type 2 diabetes diagnosed 14 years ago. Home glucose log reviewed, fasting values 113-151 mg/dL with occasional post-meal readings above 200. Appetite stable. Denies nausea or abdominal pain.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- CKD stage 3b
+- Obesity
+- Essential hypertension
+- Hypothyroidism
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- levothyroxine 75 mcg daily
+
+VITALS
+BP 133/68 | HR 62 | Wt 100.4 kg | BMI 30.9 | SpO2 98%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date        Test                        Result
+2025-07-05  eGFR                        30 mL/min/1.73m2
+2026-01-29  eGFR                        38 mL/min/1.73m2
+2026-01-29  Hemoglobin A1c              8.0%
+2026-01-29  Urine albumin/creatinine    58 mg/g
+2026-01-29  Potassium                   4.0 mmol/L
+
+ASSESSMENT/PLAN
+1. T2DM: A1c 8.0% (up from 7.2%). Medications unchanged; reinforced carbohydrate counting.
+2. Hypothyroid: clinically euthyroid. Continue current dose.
+3. Obesity: weight 100.4 kg. Continue lifestyle changes.
+4. HTN: at goal on current regimen. Continue lisinopril.
+5. CKD, stage 3b: eGFR 38, UACR 58 mg/g. On dapagliflozin and lisinopril; counseled on avoiding nephrotoxins. Repeat labs in 3 months.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

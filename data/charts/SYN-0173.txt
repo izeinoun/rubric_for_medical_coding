@@ -1,0 +1,54 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0173    Age: 55    Sex: M
+Visit date: 2026-02-05    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 55-year-old man, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 10 years ago. Has been trying to walk 5 times per week. Glucose readings 122-136 mg/dL fasting. Appetite stable. Denies nausea or abdominal pain.
+
+MEDICATIONS
+- insulin glargine 18 units nightly
+- empagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- loratadine 10 mg as needed
+- atorvastatin 40 mg nightly
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease
+- Obesity
+- Essential hypertension
+- Seasonal allergic rhinitis
+- Hyperlipidemia
+
+VITALS
+BP 126/85 | HR 68 | Wt 114.1 kg | BMI 36.4 | SpO2 95%
+
+LABS
+Date        Test                        Result
+2025-09-08  eGFR                        23 mL/min/1.73m2
+2026-01-27  eGFR                        18 mL/min/1.73m2
+2026-01-27  Hemoglobin A1c              8.9%
+2026-01-27  Urine albumin/creatinine    154 mg/g
+2026-01-27  Potassium                   3.9 mmol/L
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+ASSESSMENT AND PLAN
+1. T2DM: A1c 8.9%, up from 7.7%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Chronic kidney disease due to type 2 diabetes: eGFR 18 (stable from 23). Metformin discontinued given renal function. Continue empagliflozin. Referred to nephrology for co-management.
+3. Obesity, BMI 36.4: discussed nutrition and activity goals; referred to dietitian.
+4. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+5. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+6. Hypertension: BP 126/85 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

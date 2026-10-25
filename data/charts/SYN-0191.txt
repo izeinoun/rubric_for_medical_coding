@@ -1,0 +1,51 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0191    Age: 48    Sex: M
+Visit date: 2026-09-13    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+48-year-old man here for a 3-month check-in. History of type 2 diabetes diagnosed 4 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Denies chest pain, shortness of breath or leg swelling.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD, stage 3a
+- Essential hypertension
+- GERD
+- Osteoarthritis, bilateral knees
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- semaglutide 0.5 mg weekly
+- lisinopril 20 mg daily
+- omeprazole 20 mg daily
+- acetaminophen 650 mg as needed
+
+VITALS
+BP 120/83 | HR 66 | Wt 65.6 kg | BMI 24.1 | SpO2 98%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date        Test                        Result
+2026-09-05  eGFR                        47 mL/min/1.73m2
+2026-09-05  Hemoglobin A1c              9.5%
+2026-09-05  Urine albumin/creatinine    329 mg/g
+2026-09-05  Potassium                   4.6 mmol/L
+
+ASSESSMENT/PLAN
+1. T2DM: A1c 9.5% (unchanged from prior). Medications unchanged; reinforced carbohydrate counting.
+2. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+3. Diabetic kidney disease, CKD stage 3a: eGFR 47, UACR 329 mg/g. On dapagliflozin and lisinopril; counseled on avoiding nephrotoxins. Repeat labs in 3 months.
+4. Also on problem list: hypertension, knee osteoarthritis.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

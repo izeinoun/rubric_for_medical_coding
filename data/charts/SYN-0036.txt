@@ -1,0 +1,54 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0036    Age: 58    Sex: M
+Visit date: 2026-07-05    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+58-year-old man seen today for routine chronic care. History of type 2 diabetes diagnosed 5 years ago. Reports checking glucose daily; fasting readings mostly 114-169 mg/dL. No urinary symptoms. No foot ulcers or numbness reported.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease, stage 3a
+- GERD
+- Obesity
+- Hyperlipidemia
+- Seasonal allergic rhinitis
+- History of nephrolithiasis (2019), no recurrence
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- omeprazole 20 mg daily
+- atorvastatin 40 mg nightly
+- loratadine 10 mg as needed
+
+VITALS
+BP 138/79 | HR 68 | Wt 104.6 kg | BMI 33.4 | SpO2 98%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date        Test                        Result
+2026-06-25  eGFR                        52 mL/min/1.73m2
+2026-06-25  Hemoglobin A1c              7.6%
+2026-06-25  Urine albumin/creatinine    86 mg/g
+2026-06-25  Potassium                   4.2 mmol/L
+
+IMPRESSION AND PLAN
+1. Type 2 diabetes mellitus: A1c 7.6%, up from 6.5%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+3. Obesity: weight 104.6 kg. Continue lifestyle changes.
+4. History of kidney stones: no recurrence; encouraged fluid intake.
+5. Also on problem list: GERD, chronic kidney disease, stage 3a, hyperlipidemia.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

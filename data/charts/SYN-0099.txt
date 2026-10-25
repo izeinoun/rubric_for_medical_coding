@@ -1,0 +1,49 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0099    Age: 70    Sex: M
+Visit date: 2026-09-15    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Diabetes check and lab review.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 70-year-old man returning for follow-up of chronic conditions. Type 1 diabetes since age 13. Notes some difficulty with diet recently; fasting sugars 111-171 mg/dL. Denies chest pain, shortness of breath or leg swelling.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 1 diabetes mellitus
+- CKD, stage 3b
+- Osteoarthritis, bilateral knees
+- Obesity
+- Hyperlipidemia
+
+MEDICATIONS
+- insulin pump (lispro) with continuous glucose monitor
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- atorvastatin 40 mg nightly
+
+VITALS
+BP 135/77 | HR 84 | Wt 89.4 kg | BMI 32.6 | SpO2 94%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date        Test                        Result
+2026-04-17  eGFR                        31 mL/min/1.73m2
+2026-09-08  eGFR                        36 mL/min/1.73m2
+2026-09-08  Hemoglobin A1c              6.9%
+2026-09-08  Urine albumin/creatinine    381 mg/g
+2026-09-08  Potassium                   3.9 mmol/L
+
+ASSESSMENT AND PLAN
+1. Type 1 diabetes mellitus: A1c 6.9%. Continue basal-bolus insulin; reviewed CGM download, time in range 61%. Endocrinology follow-up in 3 months.
+2. CKD stage 3b secondary to type 1 diabetes mellitus: eGFR 36 today (stable from 31). Continue losartan. Recheck BMP and urine albumin-to-creatinine ratio in 3 months.
+3. Hyperlipidemia: LDL 119 mg/dL. Continue atorvastatin 40 mg.
+4. Problem list reviewed: knee osteoarthritis, obesity.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

@@ -1,0 +1,49 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0161    Age: 75    Sex: M
+Visit date: 2026-02-02    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 75-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 7 years ago. Notes some difficulty with diet recently; fasting sugars 120-145 mg/dL. Appetite stable. Denies nausea or abdominal pain.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease stage 3b
+- GERD
+- Essential hypertension
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- empagliflozin 10 mg daily
+- omeprazole 20 mg daily
+- lisinopril 20 mg daily
+
+VITALS
+BP 133/90 | HR 78 | Wt 72.6 kg | BMI 26.7 | SpO2 94%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date        Test                        Result
+2026-01-23  eGFR                        42 mL/min/1.73m2
+2026-01-23  Hemoglobin A1c              7.5%
+2026-01-23  Urine albumin/creatinine    323 mg/g
+2026-01-23  Potassium                   4.9 mmol/L
+
+IMPRESSION AND PLAN
+(Assessment copied from note dated 2025-08-25 and updated where noted.)
+1. Type 2 diabetes mellitus: A1c 7.5% today (unchanged from prior). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. GERD: symptoms controlled on omeprazole. Continue.
+3. CKD stage 3b: Latest eGFR 42 (no prior for comparison); potassium acceptable. Continue lisinopril and empagliflozin. BMP in 3 months.
+4. Hypertension: BP 133/90 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

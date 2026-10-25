@@ -1,0 +1,51 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0040    Age: 72    Sex: M
+Visit date: 2026-08-01    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 72-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 6 years ago. Brought meter today; morning values 127-152 mg/dL, no lows. Sleeping reasonably well. Mood is good.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease stage 3a
+- Obesity
+- Seasonal allergic rhinitis
+- Hypothyroidism
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+- levothyroxine 75 mcg daily
+
+VITALS
+BP 139/78 | HR 77 | Wt 112.6 kg | BMI 32.2 | SpO2 98%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date        Test                        Result
+2026-04-11  eGFR                        48 mL/min/1.73m2
+2026-07-25  eGFR                        53 mL/min/1.73m2
+2026-07-25  Hemoglobin A1c              7.4%
+2026-07-25  Urine albumin/creatinine    387 mg/g
+2026-07-25  Potassium                   4.2 mmol/L
+
+IMPRESSION AND PLAN
+1. Diabetes mellitus, type 2: A1c 7.4% (unchanged from prior). Medications unchanged; reinforced carbohydrate counting.
+2. Chronic kidney disease stage 3a due to type 2 diabetes: Latest eGFR 53 (stable from 48); potassium acceptable. Continue losartan and empagliflozin. BMP in 3 months.
+3. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+4. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+5. Obesity, BMI 32.2: discussed nutrition and activity goals; referred to dietitian.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

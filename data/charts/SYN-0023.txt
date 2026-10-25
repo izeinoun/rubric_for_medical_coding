@@ -1,0 +1,47 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0023    Age: 63    Sex: F
+Visit date: 2026-07-14    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+63-year-old woman presents for scheduled follow-up. History of type 2 diabetes diagnosed 10 years ago. Has been trying to walk 2 times per week. Glucose readings 109-137 mg/dL fasting. No urinary symptoms. No foot ulcers or numbness reported.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- semaglutide 0.5 mg weekly
+- levothyroxine 75 mcg daily
+- acetaminophen 650 mg as needed
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Hypothyroidism
+- Osteoarthritis, bilateral knees
+
+VITALS
+BP 147/80 | HR 62 | Wt 69.3 kg | BMI 25.8 | SpO2 97%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date        Test                        Result
+2025-12-14  eGFR                        67 mL/min/1.73m2
+2026-07-06  eGFR                        59 mL/min/1.73m2
+2026-07-06  Hemoglobin A1c              7.8%
+2026-07-06  Potassium                   4.6 mmol/L
+
+ASSESSMENT AND PLAN
+1. T2DM: A1c 7.8%, up from 7.0%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+3. Hypothyroid: clinically euthyroid. Continue current dose.
+4. Decreased eGFR, possible early CKD versus lab variation: Single low eGFR of 59 after prior 67. Encouraged hydration, recheck in 3 months.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

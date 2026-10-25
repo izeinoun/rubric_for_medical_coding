@@ -1,0 +1,51 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0155    Age: 52    Sex: M
+Visit date: 2026-06-25    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Follow-up visit; medication refills.
+
+HISTORY OF PRESENT ILLNESS
+52-year-old man here for a 6-month check-in. History of type 2 diabetes diagnosed 18 years ago. States adherence to medications is good. Denies hypoglycemic episodes. No polyuria or polydipsia. No visual changes.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- atorvastatin 40 mg nightly
+- loratadine 10 mg as needed
+- levothyroxine 75 mcg daily
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Hyperlipidemia
+- Seasonal allergic rhinitis
+- Hypothyroidism
+- Obesity
+
+VITALS
+BP 136/72 | HR 68 | Wt 106.7 kg | BMI 36.5 | SpO2 98%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date        Test                        Result
+2026-03-07  eGFR                        47 mL/min/1.73m2
+2026-06-19  eGFR                        56 mL/min/1.73m2
+2026-06-19  Hemoglobin A1c              9.0%
+2026-06-19  Potassium                   3.9 mmol/L
+
+ASSESSMENT AND PLAN
+1. T2DM: Hemoglobin A1c 9.0% (up from 7.7%). Discussed adding GLP-1 agonist at next visit if not at goal. Continue current medications.
+2. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+3. Obesity: weight 106.7 kg. Continue lifestyle changes.
+4. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+5. Hyperlipidemia: LDL 84 mg/dL. Continue atorvastatin 40 mg.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

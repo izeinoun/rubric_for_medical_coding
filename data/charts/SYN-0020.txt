@@ -1,0 +1,56 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0020    Age: 51    Sex: F
+Visit date: 2026-04-15    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 51-year-old woman returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 18 years ago. Notes some difficulty with diet recently; fasting sugars 122-175 mg/dL. No urinary symptoms. No foot ulcers or numbness reported.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- CKD stage 4
+- Osteoarthritis, bilateral knees
+- Essential hypertension
+- GERD
+- Seasonal allergic rhinitis
+
+MEDICATIONS
+- insulin glargine 18 units nightly
+- empagliflozin 10 mg daily
+- acetaminophen 650 mg as needed
+- lisinopril 20 mg daily
+- omeprazole 20 mg daily
+- loratadine 10 mg as needed
+
+VITALS
+BP 143/87 | HR 63 | Wt 83.6 kg | BMI 28.0 | SpO2 97%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date        Test                        Result
+2025-12-22  eGFR                        23 mL/min/1.73m2
+2026-04-08  eGFR                        25 mL/min/1.73m2
+2026-04-08  Hemoglobin A1c              8.1%
+2026-04-08  Urine albumin/creatinine    106 mg/g
+2026-04-08  Potassium                   4.2 mmol/L
+
+IMPRESSION AND PLAN
+(Assessment copied from note dated 2025-12-24 and updated where noted.)
+1. Type 2 diabetes mellitus: Hemoglobin A1c 8.1% (up from 7.1%). Discussed adding GLP-1 agonist at next visit if not at goal. Continue current medications.
+2. GERD: symptoms controlled on omeprazole. Continue.
+3. CKD stage 4: eGFR 23 on 2025-12-22, stable. Continue empagliflozin. Recheck labs in 3 months.
+4. HTN: at goal on current regimen. Continue lisinopril.
+5. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+6. OA of knees: continue home exercises and acetaminophen PRN.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

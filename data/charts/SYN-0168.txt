@@ -1,0 +1,47 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0168    Age: 48    Sex: M
+Visit date: 2026-08-09    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 48-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 21 years ago. Has been trying to walk 5 times per week. Glucose readings 124-161 mg/dL fasting. Hospitalized 2026-04-22 with dehydration from viral gastroenteritis; creatinine rose and has since returned to baseline. Appetite stable. Denies nausea or abdominal pain.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Acute kidney injury (2026-04-22), resolved
+- GERD
+- Hypothyroidism
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- omeprazole 20 mg daily
+- levothyroxine 75 mcg daily
+
+VITALS
+BP 133/77 | HR 71 | Wt 72.3 kg | BMI 23.6 | SpO2 96%
+
+LABS
+Date        Test                        Result
+2026-04-22  eGFR                        36 mL/min/1.73m2
+2026-08-02  eGFR                        68 mL/min/1.73m2
+2026-08-02  Hemoglobin A1c              6.8%
+2026-08-02  Potassium                   4.2 mmol/L
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+ASSESSMENT AND PLAN
+1. Type 2 diabetes mellitus: A1c 6.8% today (improved from 7.3%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Hypothyroid: clinically euthyroid. Continue current dose.
+3. AKI (2026-04-22) from volume depletion has resolved; eGFR 68. Kidney function normal; CKD not present.
+4. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

@@ -1,0 +1,52 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0076    Age: 62    Sex: M
+Visit date: 2026-04-03    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+62-year-old man here for a 3-month check-in. Type 1 diabetes since age 27. Notes some difficulty with diet recently; fasting sugars 119-142 mg/dL. No urinary symptoms. No foot ulcers or numbness reported.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 1, on insulin
+- Chronic kidney disease stage 3a
+- Hyperlipidemia
+- GERD
+- Hypothyroidism
+
+MEDICATIONS
+- insulin glargine 22 units nightly and insulin lispro with meals; continuous glucose monitor
+- losartan 50 mg daily
+- atorvastatin 40 mg nightly
+- omeprazole 20 mg daily
+- levothyroxine 75 mcg daily
+
+VITALS
+BP 129/73 | HR 86 | Wt 83.1 kg | BMI 27.4 | SpO2 96%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date        Test                        Result
+2025-10-03  eGFR                        52 mL/min/1.73m2
+2026-03-24  eGFR                        45 mL/min/1.73m2
+2026-03-24  Hemoglobin A1c              6.8%
+2026-03-24  Urine albumin/creatinine    218 mg/g
+2026-03-24  Potassium                   3.8 mmol/L
+
+ASSESSMENT/PLAN
+1. Type 1 diabetes mellitus: A1c 6.8%. Continue basal-bolus insulin; reviewed CGM download, time in range 61%. Endocrinology follow-up in 3 months.
+2. Hyperlipidemia: LDL 120 mg/dL. Continue atorvastatin 40 mg.
+3. CKD, stage 3a: eGFR 45 today (down from 52). Continue losartan. Recheck BMP and urine albumin-to-creatinine ratio in 3 months.
+4. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+5. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

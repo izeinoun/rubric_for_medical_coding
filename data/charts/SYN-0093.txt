@@ -1,0 +1,53 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0093    Age: 74    Sex: M
+Visit date: 2026-02-16    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+74-year-old man presents for scheduled follow-up. History of type 2 diabetes diagnosed 7 years ago. Notes some difficulty with diet recently; fasting sugars 124-138 mg/dL. Denies chest pain, shortness of breath or leg swelling.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- CKD, stage 3b
+- Essential hypertension
+- Hyperlipidemia
+- Seasonal allergic rhinitis
+- History of nephrolithiasis (2019), no recurrence
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- atorvastatin 40 mg nightly
+- loratadine 10 mg as needed
+
+VITALS
+BP 145/89 | HR 75 | Wt 76.8 kg | BMI 27.5 | SpO2 98%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date        Test                        Result
+2026-02-12  eGFR                        42 mL/min/1.73m2
+2026-02-12  Hemoglobin A1c              8.8%
+2026-02-12  Urine albumin/creatinine    205 mg/g
+2026-02-12  Potassium                   5.0 mmol/L
+
+ASSESSMENT/PLAN
+1. T2DM: A1c 8.8% (improved from 10.2%). Medications unchanged; reinforced carbohydrate counting.
+2. HTN: at goal on current regimen. Continue lisinopril.
+3. History of kidney stones: no recurrence; encouraged fluid intake.
+4. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+5. Hyperlipidemia: LDL 70 mg/dL. Continue atorvastatin 40 mg.
+6. Diabetic chronic kidney disease, stage 3b: Renal function reviewed: eGFR 42 (no prior for comparison). Continue lisinopril and dapagliflozin. Avoid NSAIDs. Nephrology follow-up as scheduled.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

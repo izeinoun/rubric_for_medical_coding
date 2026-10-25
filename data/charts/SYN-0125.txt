@@ -1,0 +1,54 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0125    Age: 75    Sex: M
+Visit date: 2026-08-17    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+75-year-old man presents for scheduled follow-up. History of type 2 diabetes diagnosed 10 years ago. States adherence to medications is good. Denies hypoglycemic episodes. No urinary symptoms. No foot ulcers or numbness reported.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- CKD, stage 3b
+- Seasonal allergic rhinitis
+- Essential hypertension
+- Obesity
+- History of nephrolithiasis (2019), no recurrence
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- empagliflozin 10 mg daily
+- loratadine 10 mg as needed
+- lisinopril 20 mg daily
+
+VITALS
+BP 119/86 | HR 63 | Wt 118.7 kg | BMI 36.0 | SpO2 95%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date        Test                        Result
+2026-01-15  eGFR                        33 mL/min/1.73m2
+2026-08-09  eGFR                        30 mL/min/1.73m2
+2026-08-09  Hemoglobin A1c              7.8%
+2026-08-09  Urine albumin/creatinine    345 mg/g
+2026-08-09  Potassium                   4.2 mmol/L
+
+ASSESSMENT AND PLAN
+(Plan unchanged from visit of 2026-01-21.)
+1. Type 2 diabetes mellitus: A1c 7.8% (improved from 8.4%). Medications unchanged; reinforced carbohydrate counting.
+2. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+3. Hypertension: BP 119/86 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+4. Obesity, BMI 36.0: discussed nutrition and activity goals; referred to dietitian.
+5. History of kidney stones: no recurrence; encouraged fluid intake.
+6. CKD, stage 3b: eGFR 33 on 2026-01-15, stable. Continue empagliflozin. Recheck labs in 3 months.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

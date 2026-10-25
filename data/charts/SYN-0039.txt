@@ -1,0 +1,54 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0039    Age: 50    Sex: F
+Visit date: 2026-05-02    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Follow-up visit; medication refills.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 50-year-old woman, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 20 years ago. Home glucose log reviewed, fasting values 128-145 mg/dL with occasional post-meal readings above 200. Appetite stable. Denies nausea or abdominal pain.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease stage 3b
+- Seasonal allergic rhinitis
+- GERD
+- Essential hypertension
+- Obesity
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- empagliflozin 10 mg daily
+- semaglutide 0.5 mg weekly
+- loratadine 10 mg as needed
+- omeprazole 20 mg daily
+- lisinopril 20 mg daily
+
+VITALS
+BP 121/77 | HR 91 | Wt 97.3 kg | BMI 33.7 | SpO2 96%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date        Test                        Result
+2026-04-30  eGFR                        33 mL/min/1.73m2
+2026-04-30  Hemoglobin A1c              6.9%
+2026-04-30  Urine albumin/creatinine    41 mg/g
+2026-04-30  Potassium                   4.1 mmol/L
+
+IMPRESSION AND PLAN
+1. Type 2 diabetes mellitus: A1c 6.9% (up from 6.7%). Medications unchanged; reinforced carbohydrate counting.
+2. Chronic kidney disease, stage 3b: eGFR 33 (no prior for comparison), albuminuria 41 mg/g. Increased lisinopril to 40 mg daily. Repeat potassium and creatinine in 2 weeks.
+3. Obesity: weight 97.3 kg. Continue lifestyle changes.
+4. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+5. Essential hypertension: BP 121/77. Reinforced low-sodium diet; continue lisinopril 20 mg.
+6. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

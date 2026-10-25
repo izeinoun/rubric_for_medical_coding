@@ -1,0 +1,52 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0064    Age: 56    Sex: F
+Visit date: 2026-01-23    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Follow-up visit; medication refills.
+
+HISTORY OF PRESENT ILLNESS
+56-year-old woman here for a 4-month check-in. History of type 2 diabetes diagnosed 16 years ago. Reports checking glucose twice daily; fasting readings mostly 110-151 mg/dL. Hospitalized 2025-08-28 with dehydration from viral gastroenteritis; creatinine rose and has since returned to baseline. No polyuria or polydipsia. No visual changes.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Acute kidney injury (2025-08-28), resolved
+- Hyperlipidemia
+- Osteoarthritis, bilateral knees
+- Obesity
+- GERD
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- semaglutide 0.5 mg weekly
+- atorvastatin 40 mg nightly
+- acetaminophen 650 mg as needed
+- omeprazole 20 mg daily
+
+VITALS
+BP 137/87 | HR 87 | Wt 88.8 kg | BMI 31.2 | SpO2 94%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date        Test                        Result
+2025-08-28  eGFR                        38 mL/min/1.73m2
+2026-01-16  eGFR                        88 mL/min/1.73m2
+2026-01-16  Hemoglobin A1c              7.6%
+2026-01-16  Potassium                   5.0 mmol/L
+
+ASSESSMENT/PLAN
+1. Diabetes mellitus, type 2: A1c 7.6% today (improved from 8.9%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Obesity: weight 88.8 kg. Continue lifestyle changes.
+3. GERD: symptoms controlled on omeprazole. Continue.
+4. Prior AKI, recovered. eGFR 88 today. Does not meet criteria for chronic kidney disease.
+5. Hyperlipidemia: LDL 74 mg/dL. Continue atorvastatin 40 mg.
+6. OA of knees: continue home exercises and acetaminophen PRN.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

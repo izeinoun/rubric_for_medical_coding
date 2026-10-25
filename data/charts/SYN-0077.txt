@@ -1,0 +1,51 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0077    Age: 66    Sex: M
+Visit date: 2026-07-22    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+66-year-old man here for a 3-month check-in. History of type 2 diabetes diagnosed 20 years ago. Brought meter today; morning values 113-157 mg/dL, no lows. No urinary symptoms. No foot ulcers or numbness reported.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease, stage 3a
+- Obesity
+- Seasonal allergic rhinitis
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- semaglutide 0.5 mg weekly
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+
+VITALS
+BP 126/76 | HR 69 | Wt 125.6 kg | BMI 36.7 | SpO2 95%
+
+LABS
+Date        Test                        Result
+2026-03-13  eGFR                        47 mL/min/1.73m2
+2026-07-17  eGFR                        55 mL/min/1.73m2
+2026-07-17  Hemoglobin A1c              6.5%
+2026-07-17  Urine albumin/creatinine    354 mg/g
+2026-07-17  Potassium                   5.1 mmol/L
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+ASSESSMENT AND PLAN
+(A/P carried forward from 2026-03-13; reviewed and unchanged.)
+1. Type 2 diabetes mellitus: A1c 6.5% today (improved from 7.4%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Diabetic chronic kidney disease, stage 3a: Last eGFR 47 (2026-03-13). Continue current renal regimen. Labs before next visit.
+3. Obesity, BMI 36.7: discussed nutrition and activity goals; referred to dietitian.
+4. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

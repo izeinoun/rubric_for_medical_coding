@@ -1,0 +1,53 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0172    Age: 72    Sex: M
+Visit date: 2026-04-15    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+72-year-old man here for a 6-month check-in. History of type 2 diabetes diagnosed 10 years ago. Home glucose log reviewed, fasting values 129-143 mg/dL with occasional post-meal readings above 200. Denies chest pain, shortness of breath or leg swelling.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease
+- GERD
+- Hypothyroidism
+- Obesity
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- semaglutide 0.5 mg weekly
+- losartan 50 mg daily
+- omeprazole 20 mg daily
+- levothyroxine 75 mcg daily
+
+VITALS
+BP 122/92 | HR 63 | Wt 86.2 kg | BMI 30.8 | SpO2 95%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date        Test                        Result
+2025-09-16  eGFR                        52 mL/min/1.73m2
+2026-04-14  eGFR                        54 mL/min/1.73m2
+2026-04-14  Hemoglobin A1c              7.2%
+2026-04-14  Urine albumin/creatinine    194 mg/g
+2026-04-14  Potassium                   4.7 mmol/L
+
+ASSESSMENT/PLAN
+1. Diabetes mellitus, type 2: A1c 7.2%, unchanged from prior. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+3. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+4. Obesity, BMI 30.8: discussed nutrition and activity goals; referred to dietitian.
+5. CKD secondary to type 2 diabetes: eGFR 54, UACR 194 mg/g. On dapagliflozin and losartan; counseled on avoiding nephrotoxins. Repeat labs in 3 months.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

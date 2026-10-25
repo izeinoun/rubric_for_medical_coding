@@ -1,0 +1,49 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0157    Age: 76    Sex: M
+Visit date: 2026-06-22    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+76-year-old man seen today for routine chronic care. Type 1 diabetes since age 18. Notes some difficulty with diet recently; fasting sugars 107-147 mg/dL. Mild bilateral knee stiffness in the mornings, unchanged.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 1 diabetes mellitus
+- CKD, stage 3a
+- GERD
+- Hyperlipidemia
+
+MEDICATIONS
+- insulin pump (lispro) with continuous glucose monitor
+- losartan 50 mg daily
+- omeprazole 20 mg daily
+- atorvastatin 40 mg nightly
+
+VITALS
+BP 146/78 | HR 74 | Wt 84.8 kg | BMI 25.5 | SpO2 95%
+
+LABS
+Date        Test                        Result
+2025-11-04  eGFR                        50 mL/min/1.73m2
+2026-06-21  eGFR                        56 mL/min/1.73m2
+2026-06-21  Hemoglobin A1c              9.1%
+2026-06-21  Urine albumin/creatinine    221 mg/g
+2026-06-21  Potassium                   4.0 mmol/L
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+ASSESSMENT/PLAN
+1. Type 1 diabetes mellitus: A1c 9.1% on insulin pump. Adjusted overnight basal rate. Continue CGM.
+2. Diabetic kidney disease, CKD stage 3a: Renal function reviewed: eGFR 56, UACR 221 mg/g. Continue losartan; avoid NSAIDs. Nephrology follow-up as scheduled.
+3. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+4. Hyperlipidemia: LDL 101 mg/dL. Continue atorvastatin 40 mg.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

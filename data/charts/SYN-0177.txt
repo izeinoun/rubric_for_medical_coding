@@ -1,0 +1,54 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0177    Age: 83    Sex: M
+Visit date: 2026-08-09    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Diabetes check and lab review.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 83-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 22 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Mild bilateral knee stiffness in the mornings, unchanged.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- CKD stage 3a
+- Osteoarthritis, bilateral knees
+- Hypothyroidism
+- GERD
+- Seasonal allergic rhinitis
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- semaglutide 0.5 mg weekly
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- levothyroxine 75 mcg daily
+- omeprazole 20 mg daily
+- loratadine 10 mg as needed
+
+VITALS
+BP 123/81 | HR 80 | Wt 64.0 kg | BMI 23.8 | SpO2 98%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date        Test                        Result
+2026-02-06  eGFR                        48 mL/min/1.73m2
+2026-08-01  eGFR                        47 mL/min/1.73m2
+2026-08-01  Hemoglobin A1c              7.8%
+2026-08-01  Urine albumin/creatinine    319 mg/g
+2026-08-01  Potassium                   4.5 mmol/L
+
+ASSESSMENT AND PLAN
+1. Type 2 diabetes mellitus: A1c 7.8% today (up from 7.1%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+3. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+4. Problem list reviewed: GERD, knee osteoarthritis, CKD, stage 3a.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

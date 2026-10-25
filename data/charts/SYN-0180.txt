@@ -1,0 +1,51 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0180    Age: 71    Sex: M
+Visit date: 2026-02-10    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+71-year-old man presents for scheduled follow-up. History of type 2 diabetes diagnosed 9 years ago. Has been trying to walk 3 times per week. Glucose readings 130-148 mg/dL fasting. No urinary symptoms. No foot ulcers or numbness reported.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- lisinopril 20 mg daily
+- acetaminophen 650 mg as needed
+- atorvastatin 40 mg nightly
+- omeprazole 20 mg daily
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Essential hypertension
+- Osteoarthritis, bilateral knees
+- Hyperlipidemia
+- GERD
+
+VITALS
+BP 139/82 | HR 63 | Wt 96.7 kg | BMI 29.1 | SpO2 95%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date        Test                        Result
+2025-08-20  eGFR                        65 mL/min/1.73m2
+2026-02-10  eGFR                        57 mL/min/1.73m2
+2026-02-10  Hemoglobin A1c              7.2%
+2026-02-10  Potassium                   4.4 mmol/L
+
+ASSESSMENT/PLAN
+1. Diabetes mellitus, type 2: A1c 7.2% (up from 6.5%). Medications unchanged; reinforced carbohydrate counting.
+2. Rule out chronic kidney disease: eGFR 57 (was 65). Will recheck renal panel in 90 days; diagnosis deferred until repeat testing.
+3. OA of knees: continue home exercises and acetaminophen PRN.
+4. HTN: at goal on current regimen. Continue lisinopril.
+5. Hyperlipidemia: LDL 88 mg/dL. Continue atorvastatin 40 mg.
+6. GERD: symptoms controlled on omeprazole. Continue.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

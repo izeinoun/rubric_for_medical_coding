@@ -1,0 +1,48 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0131    Age: 57    Sex: M
+Visit date: 2026-05-30    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Follow-up visit; medication refills.
+
+HISTORY OF PRESENT ILLNESS
+57-year-old man seen today for routine chronic care. History of type 2 diabetes diagnosed 13 years ago. Reports checking glucose daily; fasting readings mostly 111-144 mg/dL. No polyuria or polydipsia. No visual changes.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- omeprazole 20 mg daily
+- loratadine 10 mg as needed
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- GERD
+- Seasonal allergic rhinitis
+- Obesity
+
+VITALS
+BP 138/91 | HR 78 | Wt 93.1 kg | BMI 32.4 | SpO2 94%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date        Test                        Result
+2025-12-06  eGFR                        67 mL/min/1.73m2
+2026-05-28  eGFR                        55 mL/min/1.73m2
+2026-05-28  Hemoglobin A1c              6.7%
+2026-05-28  Urine albumin/creatinine    10 mg/g
+2026-05-28  Potassium                   5.0 mmol/L
+
+ASSESSMENT AND PLAN
+1. Type 2 diabetes mellitus: A1c 6.7%, up from 5.8%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Obesity: weight 93.1 kg. Continue lifestyle changes.
+3. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+4. Rule out chronic kidney disease: eGFR 55 (was 67). Will recheck renal panel in 90 days; diagnosis deferred until repeat testing.
+5. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

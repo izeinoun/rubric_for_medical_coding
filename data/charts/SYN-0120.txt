@@ -1,0 +1,46 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0120    Age: 67    Sex: F
+Visit date: 2026-01-16    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+67-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 20 years ago. Reports checking glucose twice daily; fasting readings mostly 120-152 mg/dL. No urinary symptoms. No foot ulcers or numbness reported.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Hypothyroidism
+- Osteoarthritis, bilateral knees
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- levothyroxine 75 mcg daily
+- acetaminophen 650 mg as needed
+
+VITALS
+BP 133/86 | HR 86 | Wt 70.8 kg | BMI 28.6 | SpO2 94%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date        Test                        Result
+2025-07-27  eGFR                        62 mL/min/1.73m2
+2026-01-09  eGFR                        57 mL/min/1.73m2
+2026-01-09  Hemoglobin A1c              8.9%
+2026-01-09  Potassium                   3.9 mmol/L
+
+ASSESSMENT/PLAN
+1. Type 2 diabetes mellitus: A1c 8.9%, up from 8.1%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. OA of knees: continue home exercises and acetaminophen PRN.
+3. Possible chronic kidney disease: Single low eGFR of 57 after prior 62. Encouraged hydration, recheck in 3 months.
+4. Also on problem list: hypothyroidism.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

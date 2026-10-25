@@ -1,0 +1,57 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0186    Age: 59    Sex: F
+Visit date: 2026-08-30    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 59-year-old woman returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 6 years ago. States adherence to medications is good. Denies hypoglycemic episodes. No polyuria or polydipsia. No visual changes.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease stage 3b, IgA nephropathy
+- Obesity
+- Hyperlipidemia
+- Osteoarthritis, bilateral knees
+- Seasonal allergic rhinitis
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- semaglutide 0.5 mg weekly
+- losartan 50 mg daily
+- atorvastatin 40 mg nightly
+- acetaminophen 650 mg as needed
+- loratadine 10 mg as needed
+
+VITALS
+BP 140/87 | HR 83 | Wt 87.1 kg | BMI 32.2 | SpO2 98%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date        Test                        Result
+2026-01-02  eGFR                        38 mL/min/1.73m2
+2026-08-20  eGFR                        31 mL/min/1.73m2
+2026-08-20  Hemoglobin A1c              7.7%
+2026-08-20  Urine albumin/creatinine    295 mg/g
+2026-08-20  Potassium                   5.1 mmol/L
+
+ASSESSMENT AND PLAN
+(Plan unchanged from visit of 2026-06-01.)
+1. Diabetes mellitus, type 2: A1c 7.7% (up from 7.4%). Medications unchanged; reinforced carbohydrate counting.
+2. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+3. Chronic kidney disease stage 3b, IgA nephropathy: eGFR 31, UACR 295 mg/g. On dapagliflozin and losartan; counseled on avoiding nephrotoxins. Repeat labs in 3 months.
+4. Obesity, BMI 32.2: discussed nutrition and activity goals; referred to dietitian.
+5. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+6. Problem list reviewed: hyperlipidemia.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

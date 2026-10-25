@@ -1,0 +1,50 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0136    Age: 52    Sex: F
+Visit date: 2026-06-05    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 52-year-old woman, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 19 years ago. Reports checking glucose a few times a week; fasting readings mostly 114-167 mg/dL. Mild bilateral knee stiffness in the mornings, unchanged.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease
+- Osteoarthritis, bilateral knees
+- Hypothyroidism
+- Obesity
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- levothyroxine 75 mcg daily
+
+VITALS
+BP 139/88 | HR 79 | Wt 78.3 kg | BMI 32.7 | SpO2 96%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date        Test                        Result
+2026-05-28  eGFR                        33 mL/min/1.73m2
+2026-05-28  Hemoglobin A1c              7.7%
+2026-05-28  Urine albumin/creatinine    345 mg/g
+2026-05-28  Potassium                   4.6 mmol/L
+
+ASSESSMENT/PLAN
+1. Diabetes mellitus, type 2: Hemoglobin A1c 7.7% (unchanged from prior). Discussed adding GLP-1 agonist at next visit if not at goal. Continue current medications.
+2. OA of knees: continue home exercises and acetaminophen PRN.
+3. Hypothyroid: clinically euthyroid. Continue current dose.
+4. Diabetic kidney disease: eGFR 33 (no prior for comparison), albuminuria 345 mg/g. Increased losartan to 100 mg daily. Repeat potassium and creatinine in 2 weeks.
+5. Obesity: weight 78.3 kg. Continue lifestyle changes.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

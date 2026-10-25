@@ -1,0 +1,55 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0101    Age: 62    Sex: M
+Visit date: 2026-08-14    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+62-year-old man here for a 3-month check-in. History of type 2 diabetes diagnosed 6 years ago. States adherence to medications is good. Denies hypoglycemic episodes. No polyuria or polydipsia. No visual changes.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- loratadine 10 mg as needed
+- levothyroxine 75 mcg daily
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease, stage 3a
+- Obesity
+- Osteoarthritis, bilateral knees
+- Seasonal allergic rhinitis
+- Hypothyroidism
+
+VITALS
+BP 141/87 | HR 80 | Wt 109.4 kg | BMI 37.0 | SpO2 94%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date        Test                        Result
+2026-05-02  eGFR                        48 mL/min/1.73m2
+2026-08-10  eGFR                        54 mL/min/1.73m2
+2026-08-10  Hemoglobin A1c              7.3%
+2026-08-10  Urine albumin/creatinine    202 mg/g
+2026-08-10  Potassium                   5.0 mmol/L
+
+ASSESSMENT/PLAN
+(Assessment copied from note dated 2026-03-31 and updated where noted.)
+1. Diabetes mellitus, type 2: A1c 7.3%, up from 6.3%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Obesity: weight 109.4 kg. Continue lifestyle changes.
+3. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+4. OA of knees: continue home exercises and acetaminophen PRN.
+5. Also on problem list: allergic rhinitis.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

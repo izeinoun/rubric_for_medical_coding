@@ -1,0 +1,19 @@
+{
+  "data_file": "../data/charts.jsonl",
+  "rubric_file": "rubric_e1122.json",
+  "runs_dir": "runs",
+  "models": {
+    "claude": {"provider": "anthropic", "model": "claude-sonnet-5-5"},
+    "gpt": {"provider": "openai", "model": "REPLACE_WITH_OPENAI_MODEL_NAME"},
+    "gemini": {"provider": "gemini", "model": "REPLACE_WITH_GEMINI_MODEL_NAME"},
+    "mock": {"provider": "mock", "model": "mock-offline"}
+  },
+  "extraction_runs": 5,
+  "verbal_runs": 5,
+  "max_output_tokens": 4000,
+  "temperature": null,
+  "concurrency": 4,
+  "auto_accept_precision": 0.95,
+  "bootstrap": 2000,
+  "seed": 0
+}

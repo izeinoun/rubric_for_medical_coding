@@ -1,0 +1,53 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0071    Age: 50    Sex: F
+Visit date: 2026-06-08    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+50-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 15 years ago. Home glucose log reviewed, fasting values 110-170 mg/dL with occasional post-meal readings above 200. Kidney function decline has been attributed to her diabetes; no other renal disease identified on workup. Mild bilateral knee stiffness in the mornings, unchanged.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- CKD stage 3a
+- Hyperlipidemia
+- Hypothyroidism
+- GERD
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- atorvastatin 40 mg nightly
+- levothyroxine 75 mcg daily
+- omeprazole 20 mg daily
+
+VITALS
+BP 125/70 | HR 81 | Wt 83.8 kg | BMI 29.3 | SpO2 98%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date        Test                        Result
+2026-01-03  eGFR                        59 mL/min/1.73m2
+2026-05-30  eGFR                        50 mL/min/1.73m2
+2026-05-30  Hemoglobin A1c              7.1%
+2026-05-30  Urine albumin/creatinine    404 mg/g
+2026-05-30  Potassium                   4.4 mmol/L
+
+ASSESSMENT AND PLAN
+1. T2DM: A1c 7.1% (up from 6.4%). Medications unchanged; reinforced carbohydrate counting.
+2. GERD: symptoms controlled on omeprazole. Continue.
+3. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+4. Chronic kidney disease, stage 3a: eGFR 50 today (down from 59). Continue empagliflozin. Recheck BMP and urine albumin-to-creatinine ratio in 3 months.
+5. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

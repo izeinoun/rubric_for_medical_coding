@@ -1,0 +1,53 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0029    Age: 48    Sex: M
+Visit date: 2026-07-26    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 48-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 15 years ago. Notes some difficulty with diet recently; fasting sugars 126-150 mg/dL. Energy fair. No new complaints today.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- CKD, stage 3a
+- Obesity
+- GERD
+- Essential hypertension
+- Hyperlipidemia
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- omeprazole 20 mg daily
+- lisinopril 20 mg daily
+- atorvastatin 40 mg nightly
+
+VITALS
+BP 127/78 | HR 73 | Wt 93.5 kg | BMI 32.1 | SpO2 97%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date        Test                        Result
+2026-07-26  eGFR                        59 mL/min/1.73m2
+2026-07-26  Hemoglobin A1c              9.5%
+2026-07-26  Urine albumin/creatinine    235 mg/g
+2026-07-26  Potassium                   4.6 mmol/L
+
+ASSESSMENT AND PLAN
+1. Type 2 diabetes mellitus: A1c 9.5% (improved from 10.8%). Medications unchanged; reinforced carbohydrate counting.
+2. Obesity: weight 93.5 kg. Continue lifestyle changes.
+3. Hyperlipidemia: LDL 70 mg/dL. Continue atorvastatin 40 mg.
+4. Chronic kidney disease, stage 3a: Labs reviewed with patient, eGFR 59. Continue empagliflozin; metformin dose appropriate for current eGFR. Recheck in 3 to 4 months.
+5. Hypertension: BP 127/78 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+6. GERD: symptoms controlled on omeprazole. Continue.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

@@ -1,0 +1,52 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0062    Age: 48    Sex: F
+Visit date: 2026-09-19    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 48-year-old woman returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 21 years ago. Notes some difficulty with diet recently; fasting sugars 121-137 mg/dL. Energy fair. No new complaints today.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease, stage 3a
+- Hyperlipidemia
+- Seasonal allergic rhinitis
+- GERD
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- atorvastatin 40 mg nightly
+- loratadine 10 mg as needed
+- omeprazole 20 mg daily
+
+VITALS
+BP 137/86 | HR 86 | Wt 80.1 kg | BMI 29.4 | SpO2 95%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date        Test                        Result
+2026-09-13  eGFR                        47 mL/min/1.73m2
+2026-09-13  Hemoglobin A1c              8.8%
+2026-09-13  Urine albumin/creatinine    366 mg/g
+2026-09-13  Potassium                   4.4 mmol/L
+
+ASSESSMENT/PLAN
+1. T2DM: Hemoglobin A1c 8.8% (unchanged from prior). Discussed adding GLP-1 agonist at next visit if not at goal. Continue current medications.
+2. Chronic kidney disease, stage 3a: eGFR 47 (no prior for comparison), albuminuria 366 mg/g. Increased losartan to 100 mg daily. Repeat potassium and creatinine in 2 weeks.
+3. GERD: symptoms controlled on omeprazole. Continue.
+4. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+5. Hyperlipidemia: LDL 64 mg/dL. Continue atorvastatin 40 mg.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

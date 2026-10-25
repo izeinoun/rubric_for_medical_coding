@@ -1,0 +1,52 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0179    Age: 75    Sex: M
+Visit date: 2026-07-27    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 75-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 20 years ago. Notes some difficulty with diet recently; fasting sugars 115-158 mg/dL. Appetite stable. Denies nausea or abdominal pain.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease stage 3b
+- Hyperlipidemia
+- Hypothyroidism
+- Obesity
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- atorvastatin 40 mg nightly
+- levothyroxine 75 mcg daily
+
+VITALS
+BP 120/77 | HR 68 | Wt 108.5 kg | BMI 37.3 | SpO2 94%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date        Test                        Result
+2026-01-18  eGFR                        42 mL/min/1.73m2
+2026-07-18  eGFR                        41 mL/min/1.73m2
+2026-07-18  Hemoglobin A1c              8.3%
+2026-07-18  Urine albumin/creatinine    148 mg/g
+2026-07-18  Potassium                   4.7 mmol/L
+
+ASSESSMENT AND PLAN
+1. T2DM: A1c 8.3% today (up from 7.7%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+3. Chronic kidney disease stage 3b: eGFR 41 (stable from 42), albuminuria 148 mg/g. Increased losartan to 100 mg daily. Repeat potassium and creatinine in 2 weeks.
+4. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+5. Obesity, BMI 37.3: discussed nutrition and activity goals; referred to dietitian.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

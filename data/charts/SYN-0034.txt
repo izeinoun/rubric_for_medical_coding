@@ -1,0 +1,56 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0034    Age: 56    Sex: M
+Visit date: 2026-02-14    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Diabetes check and lab review.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 56-year-old man, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 5 years ago. Notes some difficulty with diet recently; fasting sugars 124-136 mg/dL. No polyuria or polydipsia. No visual changes.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- levothyroxine 75 mcg daily
+- omeprazole 20 mg daily
+- atorvastatin 40 mg nightly
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD, stage 3a
+- Osteoarthritis, bilateral knees
+- Hypothyroidism
+- GERD
+- Hyperlipidemia
+
+VITALS
+BP 120/81 | HR 62 | Wt 79.1 kg | BMI 26.3 | SpO2 99%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date        Test                        Result
+2025-06-22  eGFR                        58 mL/min/1.73m2
+2026-02-06  eGFR                        52 mL/min/1.73m2
+2026-02-06  Hemoglobin A1c              7.9%
+2026-02-06  Urine albumin/creatinine    410 mg/g
+2026-02-06  Potassium                   4.1 mmol/L
+
+ASSESSMENT/PLAN
+1. Type 2 diabetes mellitus: A1c 7.9% today (improved from 8.8%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+3. CKD stage 3a secondary to type 2 diabetes mellitus: Latest eGFR 52 (down from 58); potassium acceptable. Continue losartan and empagliflozin. BMP in 3 months.
+4. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+5. GERD: symptoms controlled on omeprazole. Continue.
+6. OA of knees: continue home exercises and acetaminophen PRN.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

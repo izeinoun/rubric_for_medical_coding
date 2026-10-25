@@ -1,0 +1,52 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0065    Age: 62    Sex: M
+Visit date: 2026-03-15    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Diabetes check and lab review.
+
+HISTORY OF PRESENT ILLNESS
+62-year-old man seen today for routine chronic care. History of type 2 diabetes diagnosed 16 years ago. Reports checking glucose a few times a week; fasting readings mostly 116-169 mg/dL. Energy fair. No new complaints today.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- CKD, stage 4
+- Seasonal allergic rhinitis
+- Obesity
+- GERD
+
+MEDICATIONS
+- insulin glargine 18 units nightly
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+- omeprazole 20 mg daily
+
+VITALS
+BP 146/92 | HR 80 | Wt 100.0 kg | BMI 34.6 | SpO2 95%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date        Test                        Result
+2025-11-15  eGFR                        18 mL/min/1.73m2
+2026-03-12  eGFR                        18 mL/min/1.73m2
+2026-03-12  Hemoglobin A1c              8.0%
+2026-03-12  Urine albumin/creatinine    264 mg/g
+2026-03-12  Potassium                   4.0 mmol/L
+
+IMPRESSION AND PLAN
+1. Diabetes mellitus, type 2: A1c 8.0% (up from 7.7%). Medications unchanged; reinforced carbohydrate counting.
+2. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+3. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+4. Obesity: weight 100.0 kg. Continue lifestyle changes.
+5. Diabetic chronic kidney disease, stage 4: eGFR 18 (stable from 18). Metformin discontinued given renal function. Continue dapagliflozin. Referred to nephrology for co-management.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

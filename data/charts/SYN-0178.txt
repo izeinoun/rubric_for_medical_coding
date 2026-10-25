@@ -1,0 +1,53 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0178    Age: 78    Sex: F
+Visit date: 2026-06-14    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+78-year-old woman here for a 4-month check-in. History of type 2 diabetes diagnosed 20 years ago. Reports checking glucose twice daily; fasting readings mostly 113-143 mg/dL. No polyuria or polydipsia. No visual changes.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- CKD stage 3a
+- Hyperlipidemia
+- Osteoarthritis, bilateral knees
+- Essential hypertension
+- History of nephrolithiasis (2019), no recurrence
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- atorvastatin 40 mg nightly
+- acetaminophen 650 mg as needed
+- lisinopril 20 mg daily
+
+VITALS
+BP 123/78 | HR 77 | Wt 66.8 kg | BMI 26.0 | SpO2 96%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date        Test                        Result
+2025-11-07  eGFR                        46 mL/min/1.73m2
+2026-06-08  eGFR                        58 mL/min/1.73m2
+2026-06-08  Hemoglobin A1c              6.5%
+2026-06-08  Urine albumin/creatinine    265 mg/g
+2026-06-08  Potassium                   4.4 mmol/L
+
+IMPRESSION AND PLAN
+1. Type 2 diabetes mellitus: A1c 6.5% today (improved from 7.3%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Hyperlipidemia: LDL 93 mg/dL. Continue atorvastatin 40 mg.
+3. Hypertension: BP 123/78 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+4. History of kidney stones: no recurrence; encouraged fluid intake.
+5. CKD, stage 3a: Latest eGFR 58 (up from 46); potassium acceptable. Continue lisinopril and empagliflozin. BMP in 3 months.
+6. OA of knees: continue home exercises and acetaminophen PRN.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

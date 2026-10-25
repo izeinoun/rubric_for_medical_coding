@@ -1,0 +1,51 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0109    Age: 50    Sex: F
+Visit date: 2026-04-23    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+50-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 13 years ago. Home glucose log reviewed, fasting values 127-171 mg/dL with occasional post-meal readings above 200. Denies chest pain, shortness of breath or leg swelling.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease
+- Seasonal allergic rhinitis
+- GERD
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+- omeprazole 20 mg daily
+
+VITALS
+BP 148/72 | HR 75 | Wt 86.6 kg | BMI 29.7 | SpO2 98%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date        Test                        Result
+2025-10-03  eGFR                        38 mL/min/1.73m2
+2026-04-18  eGFR                        35 mL/min/1.73m2
+2026-04-18  Hemoglobin A1c              9.4%
+2026-04-18  Urine albumin/creatinine    50 mg/g
+2026-04-18  Potassium                   3.9 mmol/L
+
+ASSESSMENT AND PLAN
+(Assessment copied from note dated 2025-10-21 and updated where noted.)
+1. Diabetes mellitus, type 2: A1c 9.4%, improved from 10.6%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. GERD: symptoms controlled on omeprazole. Continue.
+3. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+4. Diabetic chronic kidney disease: Latest eGFR 35 (stable from 38); potassium acceptable. Continue losartan and empagliflozin. BMP in 3 months.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

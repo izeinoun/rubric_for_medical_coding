@@ -1,0 +1,51 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0195    Age: 48    Sex: F
+Visit date: 2026-08-01    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+48-year-old woman seen today for routine chronic care. Type 1 diabetes since age 20. Has been trying to walk 4 times per week. Glucose readings 109-175 mg/dL fasting. Mild bilateral knee stiffness in the mornings, unchanged.
+
+MEDICATIONS
+- insulin glargine 22 units nightly and insulin lispro with meals; continuous glucose monitor
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- loratadine 10 mg as needed
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 1, on insulin
+- Chronic kidney disease stage 4
+- Obesity
+- Osteoarthritis, bilateral knees
+- Seasonal allergic rhinitis
+
+VITALS
+BP 120/81 | HR 65 | Wt 83.6 kg | BMI 33.0 | SpO2 99%
+
+LABS
+Date        Test                        Result
+2026-02-28  eGFR                        17 mL/min/1.73m2
+2026-07-23  eGFR                        25 mL/min/1.73m2
+2026-07-23  Hemoglobin A1c              8.1%
+2026-07-23  Urine albumin/creatinine    226 mg/g
+2026-07-23  Potassium                   4.9 mmol/L
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+ASSESSMENT/PLAN
+1. Type 1 diabetes mellitus: A1c 8.1%. Continue basal-bolus insulin; reviewed CGM download, time in range 61%. Endocrinology follow-up in 3 months.
+2. OA of knees: continue home exercises and acetaminophen PRN.
+3. Obesity: weight 83.6 kg. Continue lifestyle changes.
+4. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+5. CKD, stage 4: Renal function reviewed: eGFR 25, UACR 226 mg/g. Continue losartan; avoid NSAIDs. Nephrology follow-up as scheduled.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

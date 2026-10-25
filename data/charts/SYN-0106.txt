@@ -1,0 +1,49 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0106    Age: 80    Sex: M
+Visit date: 2026-03-12    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+80-year-old man here for a 6-month check-in. History of type 2 diabetes diagnosed 4 years ago. Has been trying to walk 4 times per week. Glucose readings 124-154 mg/dL fasting. Sleeping reasonably well. Mood is good.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease, stage 3a
+- Hyperlipidemia
+- Osteoarthritis, bilateral knees
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- atorvastatin 40 mg nightly
+- acetaminophen 650 mg as needed
+
+VITALS
+BP 127/88 | HR 70 | Wt 82.1 kg | BMI 28.5 | SpO2 94%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date        Test                        Result
+2026-03-05  eGFR                        53 mL/min/1.73m2
+2026-03-05  Hemoglobin A1c              8.6%
+2026-03-05  Urine albumin/creatinine    227 mg/g
+2026-03-05  Potassium                   3.9 mmol/L
+
+IMPRESSION AND PLAN
+(Assessment copied from note dated 2025-12-06 and updated where noted.)
+1. Diabetes mellitus, type 2: A1c 8.6%, improved from 9.0%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. CKD stage 3a secondary to type 2 diabetes mellitus: Latest eGFR 53 (no prior for comparison); potassium acceptable. Continue losartan and empagliflozin. BMP in 3 months.
+3. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+4. Hyperlipidemia: LDL 120 mg/dL. Continue atorvastatin 40 mg.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

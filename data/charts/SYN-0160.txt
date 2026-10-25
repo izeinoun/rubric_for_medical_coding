@@ -1,0 +1,54 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0160    Age: 50    Sex: F
+Visit date: 2026-08-27    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+50-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 19 years ago. Has been trying to walk 2 times per week. Glucose readings 124-146 mg/dL fasting. Appetite stable. Denies nausea or abdominal pain.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease, stage 3a
+- Osteoarthritis, bilateral knees
+- Hypothyroidism
+- Essential hypertension
+- GERD
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- acetaminophen 650 mg as needed
+- levothyroxine 75 mcg daily
+- lisinopril 20 mg daily
+- omeprazole 20 mg daily
+
+VITALS
+BP 124/88 | HR 89 | Wt 81.2 kg | BMI 27.6 | SpO2 99%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date        Test                        Result
+2026-01-27  eGFR                        53 mL/min/1.73m2
+2026-08-22  eGFR                        58 mL/min/1.73m2
+2026-08-22  Hemoglobin A1c              8.7%
+2026-08-22  Urine albumin/creatinine    117 mg/g
+2026-08-22  Potassium                   4.2 mmol/L
+
+ASSESSMENT AND PLAN
+1. Type 2 diabetes mellitus: A1c 8.7% (improved from 9.8%). Medications unchanged; reinforced carbohydrate counting.
+2. GERD: symptoms controlled on omeprazole. Continue.
+3. CKD stage 3a: eGFR 58 today (stable from 53). Continue empagliflozin. Recheck BMP and urine albumin-to-creatinine ratio in 3 months.
+4. Hypertension: BP 124/88 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+5. OA of knees: continue home exercises and acetaminophen PRN.
+6. Hypothyroid: clinically euthyroid. Continue current dose.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

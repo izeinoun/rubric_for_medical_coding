@@ -1,0 +1,52 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0031    Age: 65    Sex: M
+Visit date: 2026-01-21    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Follow-up visit; medication refills.
+
+HISTORY OF PRESENT ILLNESS
+65-year-old man seen today for routine chronic care. History of type 2 diabetes diagnosed 6 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Sleeping reasonably well. Mood is good.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- CKD stage 3b
+- Osteoarthritis, bilateral knees
+- GERD
+- Hypothyroidism
+- Obesity
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- omeprazole 20 mg daily
+- levothyroxine 75 mcg daily
+
+VITALS
+BP 137/90 | HR 77 | Wt 119.2 kg | BMI 35.6 | SpO2 95%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date        Test                        Result
+2026-01-19  eGFR                        42 mL/min/1.73m2
+2026-01-19  Hemoglobin A1c              8.1%
+2026-01-19  Urine albumin/creatinine    320 mg/g
+2026-01-19  Potassium                   4.5 mmol/L
+
+ASSESSMENT/PLAN
+1. T2DM: A1c 8.1% today (up from 7.3%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+3. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+4. Obesity, BMI 35.6: discussed nutrition and activity goals; referred to dietitian.
+5. Problem list reviewed: chronic kidney disease stage 3b, GERD.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

@@ -1,0 +1,54 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0070    Age: 60    Sex: M
+Visit date: 2026-05-16    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+60-year-old man seen today for routine chronic care. History of type 2 diabetes diagnosed 21 years ago. States adherence to medications is good. Denies hypoglycemic episodes. No urinary symptoms. No foot ulcers or numbness reported.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD, stage 3b
+- GERD
+- Obesity
+- Hyperlipidemia
+- Hypothyroidism
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- omeprazole 20 mg daily
+- atorvastatin 40 mg nightly
+- levothyroxine 75 mcg daily
+
+VITALS
+BP 138/92 | HR 71 | Wt 109.3 kg | BMI 36.4 | SpO2 98%
+
+LABS
+Date        Test                        Result
+2025-12-25  eGFR                        39 mL/min/1.73m2
+2026-05-07  eGFR                        36 mL/min/1.73m2
+2026-05-07  Hemoglobin A1c              7.5%
+2026-05-07  Urine albumin/creatinine    119 mg/g
+2026-05-07  Potassium                   4.8 mmol/L
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+ASSESSMENT AND PLAN
+1. Diabetes mellitus, type 2: A1c 7.5% (unchanged from prior). Medications unchanged; reinforced carbohydrate counting.
+2. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+3. Chronic kidney disease, stage 3b: Renal function reviewed: eGFR 36 (stable from 39). Continue losartan and empagliflozin. Avoid NSAIDs. Nephrology follow-up as scheduled.
+4. Hypothyroid: clinically euthyroid. Continue current dose.
+5. Also on problem list: hyperlipidemia, obesity.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

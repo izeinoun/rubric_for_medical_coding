@@ -1,0 +1,52 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0129    Age: 84    Sex: M
+Visit date: 2026-03-19    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Follow-up visit; medication refills.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 84-year-old man, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 18 years ago. Brought meter today; morning values 105-162 mg/dL, no lows. Appetite stable. Denies nausea or abdominal pain.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Osteoarthritis, bilateral knees
+- Essential hypertension
+- Obesity
+- Hypothyroidism
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- acetaminophen 650 mg as needed
+- lisinopril 20 mg daily
+- levothyroxine 75 mcg daily
+
+VITALS
+BP 139/69 | HR 86 | Wt 98.7 kg | BMI 36.9 | SpO2 99%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date        Test                        Result
+2025-07-25  eGFR                        63 mL/min/1.73m2
+2026-03-11  eGFR                        55 mL/min/1.73m2
+2026-03-11  Hemoglobin A1c              9.0%
+2026-03-11  Urine albumin/creatinine    8 mg/g
+2026-03-11  Potassium                   4.6 mmol/L
+
+ASSESSMENT AND PLAN
+1. Diabetes mellitus, type 2: Hemoglobin A1c 9.0% (up from 7.9%). Discussed adding GLP-1 agonist at next visit if not at goal. Continue current medications.
+2. HTN: at goal on current regimen. Continue lisinopril.
+3. Obesity: weight 98.7 kg. Continue lifestyle changes.
+4. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+5. OA of knees: continue home exercises and acetaminophen PRN.
+6. Rule out chronic kidney disease: Single low eGFR of 55 after prior 63. Encouraged hydration, recheck in 3 months.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

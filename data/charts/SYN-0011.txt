@@ -1,0 +1,45 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0011    Age: 57    Sex: M
+Visit date: 2026-09-13    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+57-year-old man here for a 6-month check-in. History of type 2 diabetes diagnosed 11 years ago. Notes some difficulty with diet recently; fasting sugars 128-137 mg/dL. Sleeping reasonably well. Mood is good.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Hypothyroidism
+- Hyperlipidemia
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- levothyroxine 75 mcg daily
+- atorvastatin 40 mg nightly
+
+VITALS
+BP 147/83 | HR 85 | Wt 96.4 kg | BMI 28.4 | SpO2 96%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date        Test                        Result
+2026-05-26  eGFR                        57 mL/min/1.73m2
+2026-09-10  eGFR                        51 mL/min/1.73m2
+2026-09-10  Hemoglobin A1c              6.6%
+2026-09-10  Potassium                   4.0 mmol/L
+
+ASSESSMENT AND PLAN
+1. T2DM: A1c 6.6%, improved from 7.1%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+3. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

@@ -1,0 +1,55 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0119    Age: 52    Sex: M
+Visit date: 2026-04-02    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Diabetes check and lab review.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 52-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 16 years ago. Has been trying to walk 5 times per week. Glucose readings 116-143 mg/dL fasting. Denies chest pain, shortness of breath or leg swelling.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- CKD, stage 3a
+- Osteoarthritis, bilateral knees
+- Obesity
+- GERD
+- Seasonal allergic rhinitis
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- omeprazole 20 mg daily
+- loratadine 10 mg as needed
+
+VITALS
+BP 124/81 | HR 92 | Wt 110.7 kg | BMI 34.0 | SpO2 95%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date        Test                        Result
+2026-03-27  eGFR                        53 mL/min/1.73m2
+2026-03-27  Hemoglobin A1c              8.4%
+2026-03-27  Urine albumin/creatinine    73 mg/g
+2026-03-27  Potassium                   4.9 mmol/L
+
+ASSESSMENT AND PLAN
+(Assessment copied from note dated 2025-12-28 and updated where noted.)
+1. T2DM: Hemoglobin A1c 8.4% (up from 7.2%). Discussed adding GLP-1 agonist at next visit if not at goal. Continue current medications.
+2. OA of knees: continue home exercises and acetaminophen PRN.
+3. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+4. CKD stage 3a: eGFR 53 (no prior for comparison), albuminuria 73 mg/g. Increased losartan to 100 mg daily. Repeat potassium and creatinine in 2 weeks.
+5. GERD: symptoms controlled on omeprazole. Continue.
+6. Obesity, BMI 34.0: discussed nutrition and activity goals; referred to dietitian.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

@@ -1,0 +1,53 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0116    Age: 66    Sex: F
+Visit date: 2026-03-28    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Diabetes check and lab review.
+
+HISTORY OF PRESENT ILLNESS
+66-year-old woman here for a 3-month check-in. History of type 2 diabetes diagnosed 16 years ago. Notes some difficulty with diet recently; fasting sugars 123-157 mg/dL. Hospitalized 2025-11-11 with dehydration from viral gastroenteritis; creatinine rose and has since returned to baseline. Sleeping reasonably well. Mood is good.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Acute kidney injury (2025-11-11), resolved
+- Hypothyroidism
+- Essential hypertension
+- Seasonal allergic rhinitis
+- Hyperlipidemia
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- levothyroxine 75 mcg daily
+- lisinopril 20 mg daily
+- loratadine 10 mg as needed
+- atorvastatin 40 mg nightly
+
+VITALS
+BP 122/81 | HR 92 | Wt 88.3 kg | BMI 29.0 | SpO2 99%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date        Test                        Result
+2025-11-11  eGFR                        36 mL/min/1.73m2
+2026-03-26  eGFR                        72 mL/min/1.73m2
+2026-03-26  Hemoglobin A1c              8.1%
+2026-03-26  Urine albumin/creatinine    22 mg/g
+2026-03-26  Potassium                   5.1 mmol/L
+
+ASSESSMENT/PLAN
+1. Type 2 diabetes mellitus: A1c 8.1% (up from 7.4%). Medications unchanged; reinforced carbohydrate counting.
+2. AKI (2025-11-11) from volume depletion has resolved; eGFR 72. Kidney function normal; CKD not present.
+3. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+4. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+5. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+6. Essential hypertension: BP 122/81. Reinforced low-sodium diet; continue lisinopril 20 mg.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

@@ -1,0 +1,50 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0185    Age: 48    Sex: M
+Visit date: 2026-02-18    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+48-year-old man here for a 3-month check-in. History of type 2 diabetes diagnosed 10 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Hospitalized 2025-11-24 with dehydration from viral gastroenteritis; creatinine rose and has since returned to baseline. No urinary symptoms. No foot ulcers or numbness reported.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Acute kidney injury (2025-11-24), resolved
+- Hypothyroidism
+- Obesity
+- Hyperlipidemia
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- levothyroxine 75 mcg daily
+- atorvastatin 40 mg nightly
+
+VITALS
+BP 128/87 | HR 83 | Wt 104.8 kg | BMI 38.3 | SpO2 96%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date        Test                        Result
+2025-11-24  eGFR                        34 mL/min/1.73m2
+2026-02-17  eGFR                        74 mL/min/1.73m2
+2026-02-17  Hemoglobin A1c              9.0%
+2026-02-17  Urine albumin/creatinine    23 mg/g
+2026-02-17  Potassium                   4.5 mmol/L
+
+ASSESSMENT AND PLAN
+1. Diabetes mellitus, type 2: A1c 9.0% today (up from 7.9%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Obesity: weight 104.8 kg. Continue lifestyle changes.
+3. Hyperlipidemia: LDL 112 mg/dL. Continue atorvastatin 40 mg.
+4. History of acute kidney injury, resolved: eGFR 74 today, back to baseline. No evidence of chronic kidney disease.
+5. Hypothyroid: clinically euthyroid. Continue current dose.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

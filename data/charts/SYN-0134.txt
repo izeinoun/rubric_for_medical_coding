@@ -1,0 +1,53 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0134    Age: 52    Sex: F
+Visit date: 2026-03-10    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 52-year-old woman, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 10 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Appetite stable. Denies nausea or abdominal pain.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- semaglutide 0.5 mg weekly
+- levothyroxine 75 mcg daily
+- lisinopril 20 mg daily
+- omeprazole 20 mg daily
+- acetaminophen 650 mg as needed
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Hypothyroidism
+- Essential hypertension
+- GERD
+- Osteoarthritis, bilateral knees
+
+VITALS
+BP 146/80 | HR 92 | Wt 65.8 kg | BMI 27.4 | SpO2 95%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date        Test                        Result
+2025-09-13  eGFR                        54 mL/min/1.73m2
+2026-03-01  eGFR                        57 mL/min/1.73m2
+2026-03-01  Hemoglobin A1c              8.0%
+2026-03-01  Urine albumin/creatinine    81 mg/g
+2026-03-01  Potassium                   4.1 mmol/L
+
+ASSESSMENT/PLAN
+1. T2DM: A1c 8.0% today (improved from 9.2%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+3. HTN: at goal on current regimen. Continue lisinopril.
+4. GERD: symptoms controlled on omeprazole. Continue.
+5. OA of knees: continue home exercises and acetaminophen PRN.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD

@@ -1,0 +1,44 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: SYN-0200    Age: 80    Sex: F
+Visit date: 2026-03-08    Visit type: Office visit, established patient, face-to-face
+Provider: Synthetic Provider, MD (Internal Medicine)
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+80-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 5 years ago. Notes some difficulty with diet recently; fasting sugars 115-150 mg/dL. Sleeping reasonably well. Mood is good.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Obesity
+- Osteoarthritis, bilateral knees
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- acetaminophen 650 mg as needed
+
+VITALS
+BP 143/90 | HR 72 | Wt 105.5 kg | BMI 37.5 | SpO2 98%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date        Test                        Result
+2025-11-06  eGFR                        46 mL/min/1.73m2
+2026-02-26  eGFR                        52 mL/min/1.73m2
+2026-02-26  Hemoglobin A1c              8.3%
+2026-02-26  Potassium                   5.1 mmol/L
+
+IMPRESSION AND PLAN
+1. T2DM: A1c 8.3% (improved from 8.9%). Medications unchanged; reinforced carbohydrate counting.
+2. Obesity: weight 105.5 kg. Continue lifestyle changes.
+3. OA of knees: continue home exercises and acetaminophen PRN.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD
