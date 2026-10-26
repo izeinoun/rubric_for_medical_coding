@@ -61,3 +61,9 @@ Initial 200 charts, 10 scenarios. Superseded by v2; not used for any results.
 
 - `harness/config.json`: Gemini model set to `gemini-3.1-pro-preview` (strongest pinned Gemini model on the key; `-latest` aliases avoided because they move). Required enabling paid API billing; the free tier has no quota for it.
 - One test extraction call on dev chart SYN-0002 (output not saved under `harness/runs`): 1,287 input tokens, 341 visible output, 685 hidden thinking, valid JSON. An earlier test of `gemini-3.8-flash` spent 3,836 of the 4,000-token output limit on thinking and returned truncated JSON. No real collection yet.
+
+## 2026-10-26 — harness: reasoning-token logging, max_output_tokens 8000
+
+- `harness/providers.py`: `usage.output_tokens` now means billed output including hidden reasoning for every provider. The Gemini provider previously logged only visible output (`candidates_token_count`) and missed thinking tokens; it now adds `thoughts_token_count`. A new `usage.reasoning_tokens` field records the reasoning part where the API reports it (OpenAI, Gemini; None for Anthropic, whose output count already includes it). The report's Usage line shows the reasoning total.
+- `harness/config.json`: `max_output_tokens` raised from 4000 to 8000 (user approved), because thinking counts against the limit and a cut-off answer becomes a parse failure (`gemini-3.8-flash` hit the limit in testing). You pay only for tokens used.
+- Not pre-registered settings; no metrics affected. Checked with one call each on dev chart SYN-0002 (not saved): gpt 1,212 in / 831 out (516 reasoning); gemini 1,287 in / 1,331 out (985 reasoning); both valid JSON.

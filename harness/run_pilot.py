@@ -381,12 +381,13 @@ def evaluate(cfg, rubric, charts, model, split):
              "n_charts_M5": len(sd_m5), "n_charts_M1": len(sd_m1)}
 
     # --- usage ----------------------------------------------------------------------
-    tok = {"input": 0, "output": 0, "calls": 0}
+    tok = {"input": 0, "output": 0, "reasoning": 0, "calls": 0}
     for runs in list(ex.values()) + list(vb.values()):
         for v in runs.values():
             u = v.get("usage") or {}
             tok["input"] += u.get("input_tokens") or 0
             tok["output"] += u.get("output_tokens") or 0
+            tok["reasoning"] += u.get("reasoning_tokens") or 0
             tok["calls"] += 1
 
     # --- hypothesis checks (pre-registration section 6) -----------------------------
@@ -545,7 +546,8 @@ def write_report(res, probs, charts, out, cfg):
         L.append(f"| Kill criterion: {k} | {'TRIGGERED' if v else 'not triggered'} |")
     t = res["tokens"]
     L += ["", "## Usage", "", f"{t['calls']} extraction and verbal calls; {t['input']:,} input tokens, "
-                                 f"{t['output']:,} output tokens (M6 calls not included)."]
+                                 f"{t['output']:,} output tokens including {t.get('reasoning', 0):,} reported "
+                                 f"reasoning tokens (M6 calls not included)."]
     with open(os.path.join(out, "report.md"), "w") as f:
         f.write("\n".join(L) + "\n")
 

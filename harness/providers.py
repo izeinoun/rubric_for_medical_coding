@@ -1,5 +1,8 @@
 """Model providers. Each returns (text, usage) for a system + user prompt.
 
+usage["output_tokens"] is billed output, including hidden reasoning; usage["reasoning_tokens"] is the reasoning
+part where the API reports it separately (OpenAI, Gemini), else None.
+
 Keys are read from the environment only: ANTHROPIC_API_KEY, OPENAI_API_KEY, GEMINI_API_KEY (or GOOGLE_API_KEY).
 """
 
@@ -37,7 +40,8 @@ class AnthropicProvider:
             r = self.client.messages.create(model=self.model, max_tokens=self.max_tokens, system=system,
                                             messages=[{"role": "user", "content": user}])
             text = "".join(b.text for b in r.content if getattr(b, "type", "") == "text")
-            return text, {"input_tokens": r.usage.input_tokens, "output_tokens": r.usage.output_tokens}
+            return text, {"input_tokens": r.usage.input_tokens, "output_tokens": r.usage.output_tokens,
+                          "reasoning_tokens": None}
         return _retry(call)
 
 
@@ -53,8 +57,10 @@ class OpenAIProvider:
             r = self.client.responses.create(model=self.model, instructions=system, input=user,
                                              max_output_tokens=self.max_tokens, **kw)
             u = r.usage
+            details = getattr(u, "output_tokens_details", None)
             return r.output_text, {"input_tokens": getattr(u, "input_tokens", None),
-                                   "output_tokens": getattr(u, "output_tokens", None)}
+                                   "output_tokens": getattr(u, "output_tokens", None),
+                                   "reasoning_tokens": getattr(details, "reasoning_tokens", None)}
         return _retry(call)
 
 
@@ -72,8 +78,11 @@ class GeminiProvider:
                                                    response_mime_type="application/json")
             r = self.client.models.generate_content(model=self.model, contents=user, config=cfg)
             m = r.usage_metadata
+            thoughts = getattr(m, "thoughts_token_count", None)
+            # candidates_token_count excludes thinking, which is billed as output; add it back
             return r.text or "", {"input_tokens": getattr(m, "prompt_token_count", None),
-                                  "output_tokens": getattr(m, "candidates_token_count", None)}
+                                  "output_tokens": (getattr(m, "candidates_token_count", None) or 0) + (thoughts or 0),
+                                  "reasoning_tokens": thoughts}
         return _retry(call)
 
 

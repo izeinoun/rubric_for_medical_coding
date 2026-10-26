@@ -10,7 +10,7 @@
   },
   "extraction_runs": 5,
   "verbal_runs": 5,
-  "max_output_tokens": 4000,
+  "max_output_tokens": 8000,
   "temperature": null,
   "concurrency": 4,
   "auto_accept_precision": 0.95,
