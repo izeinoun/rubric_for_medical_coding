@@ -3,7 +3,7 @@
   "rubric_file": "rubric_e1122.json",
   "runs_dir": "runs",
   "models": {
-    "claude": {"provider": "anthropic", "model": "claude-sonnet-5-5"},
+    "claude": {"provider": "anthropic", "model": "claude-opus-5-5"},
     "gpt": {"provider": "openai", "model": "REPLACE_WITH_OPENAI_MODEL_NAME"},
     "gemini": {"provider": "gemini", "model": "REPLACE_WITH_GEMINI_MODEL_NAME"},
     "mock": {"provider": "mock", "model": "mock-offline"}

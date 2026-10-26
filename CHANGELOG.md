@@ -47,3 +47,7 @@ Initial 200 charts, 10 scenarios. Superseded by v2; not used for any results.
 ## 2026-10-25 — CLAUDE.md added
 
 - Added project instructions for Claude Code (hard rules: no test split before freeze, no changes to pre-registered parts without approval, logging and versioning of prompt changes, keys from environment only).
+
+## 2026-10-25 — Claude model set to Opus 5.5
+
+- `harness/config.json`: Claude model changed from `claude-sonnet-5-5` to `claude-opus-5-5` (user choice, before any real collection). OpenAI and Gemini model names still to be set.
