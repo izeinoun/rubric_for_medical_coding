@@ -58,3 +58,11 @@ Initial 200 charts, 10 scenarios. Superseded by v2; not used for any results.
 - `max_output_tokens` raised from 4000 to 16000. In test calls on dev charts (not saved to `runs/`), Gemini 3.8 Flash used 400 to 5,300 hidden thinking tokens per extraction call. Thinking counts against the cap, so one call was cut off mid-JSON at 4000. The cap is a ceiling only and does not change answers. GPT-5.4 used 0 reasoning tokens with the default settings.
 - `providers.py`: Gemini usage now counts thinking tokens as output tokens, since Google bills them as output and OpenAI's reported output tokens already include reasoning. Before this change, Gemini's reported tokens would have been too low.
 - No prompt, rubric, scoring or pre-registered element changed. No metrics yet.
+
+## 2026-10-26 — first full dev run: GPT-5.4 (prompt version 1, rubric version 1)
+
+- Collected 5 extraction and 5 verbal runs on all 140 dev charts; 1,400 calls, 0 errors, 1.32M input and 0.25M output tokens. Evaluated on dev.
+- M5 (fitted weights): ECE 0.029, AUROC 0.962, coverage at precision 0.95 = 0.16. M2 (Platt): ECE 0.094, AUROC 0.598. M3: AUROC 0.796. M1 verbal confidence near 0.9–1.0 on every chart (ECE 0.506).
+- C = 10 (inside the grid). Quote failures 0; per-chart score SD 0.
+- H1 not met: Q2 macro-F1 0.813, Q4 0.574. Most disagreements are the model answering "no" where the answer key says not_documented (Q4 on problem-list-only, labs-only, AKI and uncertain-CKD charts; Q2 on uncertain-CKD charts; Q1 on CKD without a stage). Q4 "yes" on copy-forward-stale (F1b) and laundry-list (N1b) charts is the main source of high scores on label-0 charts.
+- No changes made yet; M6 not yet collected.
