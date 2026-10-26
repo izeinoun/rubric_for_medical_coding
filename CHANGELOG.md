@@ -56,3 +56,8 @@ Initial 200 charts, 10 scenarios. Superseded by v2; not used for any results.
 
 - `harness/config.json`: OpenAI model set to `gpt-5.5-2026-04-23` (chosen by Claude at the user's request: newest flagship with a dated snapshot, so it cannot change during the pilot; `-pro` variants are several times the cost; undated `gpt-5.6-*`/`gpt-6-*` names avoided).
 - One test extraction call on dev chart SYN-0002 (output not saved under `harness/runs`): 1,212 input tokens, 759 output tokens (516 hidden reasoning, 243 visible), valid JSON. No real collection yet. Gemini model still to be set.
+
+## 2026-10-26 — Gemini model set to gemini-3.1-pro-preview
+
+- `harness/config.json`: Gemini model set to `gemini-3.1-pro-preview` (strongest pinned Gemini model on the key; `-latest` aliases avoided because they move). Required enabling paid API billing; the free tier has no quota for it.
+- One test extraction call on dev chart SYN-0002 (output not saved under `harness/runs`): 1,287 input tokens, 341 visible output, 685 hidden thinking, valid JSON. An earlier test of `gemini-3.8-flash` spent 3,836 of the 4,000-token output limit on thinking and returned truncated JSON. No real collection yet.
