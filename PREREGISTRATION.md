@@ -3,7 +3,7 @@
 **Status: DRAFT. Review, edit, then freeze before running any extraction.**
 To freeze: fill in the date below and commit this file (or record its SHA-256) so later changes are visible.
 
-- Frozen on: ____________
+- Frozen on: Oct 25 11:45 pm EDT ____________
 - Frozen by: Issam Zeinoun
 
 ## 1. Purpose
