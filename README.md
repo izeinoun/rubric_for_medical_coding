@@ -8,6 +8,7 @@ Synthetic outpatient office-visit notes for piloting evidence-weighted confidenc
 |---|---|
 | `PREREGISTRATION.md` | Success and kill criteria. Review and freeze before running any extraction |
 | `CHANGELOG.md` | Every version of the data and pipeline, with what changed and why |
+| `CLAUDE.md` | Instructions Claude Code reads automatically: hard rules for running the pilot |
 | `harness/` | The experiment code. Start with `harness/RUNNING.md` |
 | `generate_charts.py` | The generator (Python 3, standard library only, seed 20261024; same seed gives identical output) |
 | `data/charts/SYN-0001.txt` … `SYN-0200.txt` | One plain-text note per chart. **Only these go to the model under test** |
@@ -79,4 +80,3 @@ An independent review of 20 charts (two per scenario, read blind) agreed with ev
 - **Template regularity.** Notes come from phrase banks and one note template. They are cleaner and more uniform than real charts, and some negative scenarios still use recognizable wording (for example "possible" or "rule out" CKD), because that wording is the fact itself.
 - **Same-model risk.** The phrase banks were written with Claude. Run extraction with at least one non-Claude model.
 - **Prevalence.** 44% of charts are positive, far above a real diabetic population. Fitted intercepts will not transfer to real data.
-# rubric_for_medical_coding

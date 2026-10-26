@@ -43,3 +43,7 @@ Initial 200 charts, 10 scenarios. Superseded by v2; not used for any results.
 ## 2026-10-25 — faithfulness reported per question
 
 - Quote-failure rate now reported per question (criterion level) as well as overall, in the harness report and the pre-registration metrics table. Retested with the mock provider on dev (results deleted).
+
+## 2026-10-25 — CLAUDE.md added
+
+- Added project instructions for Claude Code (hard rules: no test split before freeze, no changes to pre-registered parts without approval, logging and versioning of prompt changes, keys from environment only).
