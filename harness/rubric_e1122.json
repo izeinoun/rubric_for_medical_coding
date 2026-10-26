@@ -1,6 +1,6 @@
 {
   "rubric_id": "E11.22",
-  "version": "1",
+  "version": "2",
   "candidate_code": "E11.22",
   "code_description": "Type 2 diabetes mellitus with diabetic chronic kidney disease",
   "answer_values": {
@@ -21,11 +21,11 @@
     },
     "Q1": {
       "text": "Is the CKD stage documented?",
-      "guidance": "A stage such as 3a, 3b, 4 or 5 stated anywhere in the note."
+      "guidance": "Answer yes if a stage such as 3a, 3b, 4 or 5 is stated anywhere in the note. If no stage is stated, answer not_documented, not no."
     },
     "Q2": {
       "text": "Do the labs show eGFR below 60 on two results at least 90 days apart?",
-      "guidance": "Answer no if the most recent eGFR is 60 or above. Answer not_documented if there are not enough results to decide. Quote the lab lines used."
+      "guidance": "Answer yes if at least two eGFR results below 60 are dated at least 90 days apart. Answer no only if the most recent eGFR is 60 or above. Otherwise (for example, the most recent eGFR is below 60 but there are not two results below 60 at least 90 days apart) answer not_documented. Quote the lab lines used."
     },
     "Q3": {
       "text": "Does the provider attribute the CKD to diabetes?",
@@ -33,7 +33,7 @@
     },
     "Q4": {
       "text": "Was the CKD addressed at this encounter (monitored, evaluated, assessed or treated)?",
-      "guidance": "Answer yes only if the assessment and plan gives the CKD a current status, evaluation or action at this visit. A bare listing in a problem list, or text carried forward from an earlier visit that refers only to old results, does not count."
+      "guidance": "Answer yes only if the assessment and plan gives the CKD a current status, evaluation or action at this visit. These do not count: a bare listing of CKD in a problem list or a list of diagnoses (including a line saying the problem list was reviewed), and text carried forward from an earlier visit that refers only to old results. If CKD is not addressed at this visit in that sense, answer not_documented, not no."
     }
   },
   "expert_weights": {

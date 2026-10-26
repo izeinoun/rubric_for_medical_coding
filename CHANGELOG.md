@@ -66,3 +66,16 @@ Initial 200 charts, 10 scenarios. Superseded by v2; not used for any results.
 - C = 10 (inside the grid). Quote failures 0; per-chart score SD 0.
 - H1 not met: Q2 macro-F1 0.813, Q4 0.574. Most disagreements are the model answering "no" where the answer key says not_documented (Q4 on problem-list-only, labs-only, AKI and uncertain-CKD charts; Q2 on uncertain-CKD charts; Q1 on CKD without a stage). Q4 "yes" on copy-forward-stale (F1b) and laundry-list (N1b) charts is the main source of high scores on label-0 charts.
 - No changes made yet; M6 not yet collected.
+
+## 2026-10-26 — rubric v2: no versus not_documented on Q1, Q2, Q4 (dev only)
+
+Plan agreed with the user: finish this pilot as registered (rubric fix on dev, Gemini, freeze, test once), then run a harder follow-up study under its own pre-registration.
+
+Why: in the GPT-5.4 dev run (prompt v1, rubric v1), H1 failed because the model answered "no" where the answer key says not_documented. Q4 macro-F1 0.574 (23 of 25 scored not_documented answers given as "no": problem-list-only, labs-only, AKI and uncertain-CKD charts); Q2 macro-F1 0.813 (10 uncertain-CKD charts with the latest eGFR below 60 but only one low result, answered "no"); Q1 macro-F1 0.971 (5 CKD-without-stage charts answered "no"). The key never uses "no" for Q1 or Q4, and uses it for Q2 only when the latest eGFR is 60 or above; the v1 guidance did not say so.
+
+What changed (`rubric_e1122.json`, version 1 → 2; guidance text only, question text unchanged):
+- Q1: an unstated stage is not_documented, not no.
+- Q2: yes, no and not_documented spelled out to match the key; "no" only when the latest eGFR is 60 or above.
+- Q4: CKD not addressed at this visit is not_documented, not no. Added "a list of diagnoses (including a line saying the problem list was reviewed)" to the cases that do not count; this targets the N1b laundry-list errors and restates the existing rule.
+- No change to prompts, answer key, labels, scoring, metrics or the fitting procedure. The copy-forward-stale (F1b) Q4 errors were left alone: those charts are already flagged ambiguous and label_needs_review.
+- Archived the v1 run to `harness/runs/archive/gpt_prompt1_rubric1/` (dev results and the weights fitted on them).
