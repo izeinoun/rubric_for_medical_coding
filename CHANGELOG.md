@@ -51,3 +51,8 @@ Initial 200 charts, 10 scenarios. Superseded by v2; not used for any results.
 ## 2026-10-25 — Claude model set to Opus 5.5
 
 - `harness/config.json`: Claude model changed from `claude-sonnet-5-5` to `claude-opus-5-5` (user choice, before any real collection). OpenAI and Gemini model names still to be set.
+
+## 2026-10-26 — OpenAI model set to gpt-5.5-2026-04-23
+
+- `harness/config.json`: OpenAI model set to `gpt-5.5-2026-04-23` (chosen by Claude at the user's request: newest flagship with a dated snapshot, so it cannot change during the pilot; `-pro` variants are several times the cost; undated `gpt-5.6-*`/`gpt-6-*` names avoided).
+- One test extraction call on dev chart SYN-0002 (output not saved under `harness/runs`): 1,212 input tokens, 759 output tokens (516 hidden reasoning, 243 visible), valid JSON. No real collection yet. Gemini model still to be set.
