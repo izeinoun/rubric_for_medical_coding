@@ -79,3 +79,8 @@ What changed (`rubric_e1122.json`, version 1 → 2; guidance text only, question
 - Q4: CKD not addressed at this visit is not_documented, not no. Added "a list of diagnoses (including a line saying the problem list was reviewed)" to the cases that do not count; this targets the N1b laundry-list errors and restates the existing rule.
 - No change to prompts, answer key, labels, scoring, metrics or the fitting procedure. The copy-forward-stale (F1b) Q4 errors were left alone: those charts are already flagged ambiguous and label_needs_review.
 - Archived the v1 run to `harness/runs/archive/gpt_prompt1_rubric1/` (dev results and the weights fitted on them).
+
+## 2026-10-26 — GPT rubric-v2 dev collection interrupted (OpenAI credits exhausted)
+
+- The re-collection stopped when the OpenAI account ran out of credits: 556 of 700 extraction responses saved (113 charts with at least one run), 139 errors (HTTP 429 insufficient_quota), 0 verbal runs. Rerunning `collect` retries only the failed calls. No evaluation yet.
+- Preview on the 556 chart-runs collected under both versions (not a report; the 5 remaining dev scenarios are not all covered): Q1 errors 14 → 0, Q3 5 → 0, Q4 (unambiguous fields) 94 → 1, N1b laundry-list Q4 "yes" 15 → 0. Q2 unchanged: 37 "no" where the key says not_documented (all N5, latest eGFR below 60 with only one low result; the model's rationale states the not_documented case but it still answers "no"), plus 6 new "not_documented" where the key says yes (N3; for example 2026-01-17 to 2026-04-28, 101 days, judged under 90 days — a date-arithmetic error).
