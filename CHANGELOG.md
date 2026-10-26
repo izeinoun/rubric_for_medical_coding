@@ -51,3 +51,10 @@ Initial 200 charts, 10 scenarios. Superseded by v2; not used for any results.
 ## 2026-10-25 — Claude model set to Opus 5.5
 
 - `harness/config.json`: Claude model changed from `claude-sonnet-5-5` to `claude-opus-5-5` (user choice, before any real collection). OpenAI and Gemini model names still to be set.
+
+## 2026-10-26 — OpenAI and Gemini models set; output cap and Gemini token accounting
+
+- `harness/config.json`: OpenAI model `gpt-5.4-2026-03-05` (dated, pinned) and Gemini model `gemini-3.8-flash` (no dated name is offered, so the version cannot be pinned). User choice, before any real collection.
+- `max_output_tokens` raised from 4000 to 16000. In test calls on dev charts (not saved to `runs/`), Gemini 3.8 Flash used 400 to 5,300 hidden thinking tokens per extraction call. Thinking counts against the cap, so one call was cut off mid-JSON at 4000. The cap is a ceiling only and does not change answers. GPT-5.4 used 0 reasoning tokens with the default settings.
+- `providers.py`: Gemini usage now counts thinking tokens as output tokens, since Google bills them as output and OpenAI's reported output tokens already include reasoning. Before this change, Gemini's reported tokens would have been too low.
+- No prompt, rubric, scoring or pre-registered element changed. No metrics yet.

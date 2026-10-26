@@ -72,8 +72,9 @@ class GeminiProvider:
                                                    response_mime_type="application/json")
             r = self.client.models.generate_content(model=self.model, contents=user, config=cfg)
             m = r.usage_metadata
-            return r.text or "", {"input_tokens": getattr(m, "prompt_token_count", None),
-                                  "output_tokens": getattr(m, "candidates_token_count", None)}
+            # Thinking tokens are billed as output and count against max_output_tokens; include them.
+            out = (getattr(m, "candidates_token_count", None) or 0) + (getattr(m, "thoughts_token_count", None) or 0)
+            return r.text or "", {"input_tokens": getattr(m, "prompt_token_count", None), "output_tokens": out}
         return _retry(call)
 
 
