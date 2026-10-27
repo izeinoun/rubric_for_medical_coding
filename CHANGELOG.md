@@ -146,3 +146,11 @@ What changed (`rubric_e1122.json`, version 1 → 2; guidance text only, question
 - Spec changes made while building: F3 is a chart-review e-consult (patient not seen) instead of a stand-alone lab report, which the rubric itself would already score 0; notes are about 1.7 times the pilot's length instead of 2–3 times.
 - Added `followup/make_review_sheet.py` and `followup/review/` (40 charts, stratified by family, for the user's label review before the freeze).
 - No model calls.
+
+## 2026-10-27 — follow-up: staged test, runner, pre-registration draft, new review sheet
+
+- User decisions: run OpenAI and Gemini only (a claude.ai subscription gives no API access); start with a smaller set for a sanity and directional check. Agreed design: a staged one-shot test. Stage 1 = 100 pre-selected charts (85 main in proportion to each scenario, 15 stress test), seed 101, listed in `followup/stage1_ids.txt`; stage 2 = the other 200 with nothing changed, unless a pre-registered technical go/no-go check fails. M9 cut to 1 run per chart.
+- Added `followup/run_transfer.py`: imports the frozen harness without editing it, checks the pilot freeze hashes (including each model's weights) and the follow-up freeze before every call, copies the frozen weights, adds M9, paired bootstrap AUROC tests, family breakdown, the family-F stress test and the technical checks; refuses a second evaluation per model and stage. Tested end to end with the offline mock model in scratch space (results not kept); guards confirmed to refuse a real run before the freeze, `--no-freeze-check` with a real model, and mock output inside the repository.
+- `estimate` on the real charts: about 1,200 calls and 1.6M input tokens per model for stage 1, 2,400 calls and 3.1M for stage 2 (plus output and Gemini thinking tokens), lower than the earlier rough estimate.
+- Added `followup/PREREGISTRATION.md` (draft until the follow-up freeze), including a reminder that adding R1–R3 to the rubric (rubric v3) is a separate later study.
+- Review sheet redrawn from the stage-1 charts (40 of the 100). No model calls.

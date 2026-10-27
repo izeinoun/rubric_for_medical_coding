@@ -147,7 +147,7 @@ Because there is no dev split, the noise level cannot be tuned against model res
 
 M1–M8 exactly as frozen in the pilot. One new baseline:
 
-- **M9, criteria-informed verbal confidence.** The verbal prompt also lists the rubric's questions and guidance, and asks for a probability (5 runs, averaged). There is no dev split to fit a Platt map, so M9 is reported raw. AUROC is unaffected by Platt scaling, so the ranking comparison is fair; ECE for M9 is uncalibrated and is reported for information only.
+- **M9, criteria-informed verbal confidence.** The verbal prompt also lists the rubric's questions and guidance, and asks for a probability (1 run per chart, decided 2026-10-27 to save cost). There is no dev split to fit a Platt map, so M9 is reported raw. AUROC is unaffected by Platt scaling, so the ranking comparison is fair; ECE for M9 is uncalibrated and is reported for information only.
 
 ## 6. Draft hypotheses (to be finalized in the follow-up pre-registration)
 
@@ -167,8 +167,9 @@ H6 adds a paired test, so "significantly better" can be claimed directly. Result
 ## 7. Size and cost
 
 - 300 charts (255 main, 45 stress test), all test (trimmed from 400 at the user's request). Positive rate in the main set 51% (129 of 255); the pilot's was 44%.
-- Per model and chart: 5 extraction, 5 verbal, 5 M9 and 1 M6 call = 16 calls, so 4,800 calls per model (3,300 without M9). The pilot used 11 per chart (no M9).
-- Notes 2 to 3 times longer: roughly 7–10M input tokens per model, plus Gemini's thinking tokens. `estimate` gives a firmer figure once the data exists, and it will be reported before any run, with one test call per model.
+- Per model and chart: 5 extraction, 5 verbal, 1 M6 and 1 M9 call = 12 calls, so 3,600 calls per model.
+- `estimate` on the real charts: about 1.6M input tokens per model for stage 1 (100 charts) and 3.1M for stage 2, plus visible output and Gemini's thinking tokens.
+- Run in two stages (decided 2026-10-27): stage 1 = 100 pre-selected charts with a technical go/no-go check, then stage 2 = the other 200. Details in `followup/PREREGISTRATION.md`. `estimate` gives a firmer figure once the data exists, and it will be reported before any run, with one test call per model.
 
 ## 8. Order of work
 
@@ -178,7 +179,11 @@ H6 adds a paired test, so "significantly better" can be claimed directly. Result
 4. Write the follow-up pre-registration (`followup/PREREGISTRATION.md`), and freeze the new data, label rules, runner and M9 prompt, with hashes, before any model call.
 5. Collect for both models, then evaluate once per model. Report.
 
-## 9. Open questions for the user
+## 9. Reminder: rubric v3
+
+The rules R1–R3 are used only in the labels here. Adding them to the rubric is a separate, later study (rubric v3, new dev split, fitting and freeze); see `followup/PREREGISTRATION.md` section 9. Raise it with the user after stage 1.
+
+## 10. Open questions for the user
 
 1. **Label check.** With no dev split, label errors go straight into the results. Can you, or a coder, read a sample (about 40 charts, stratified by scenario) and mark each label right or wrong before the freeze?
 2. **Size.** Decided: 300 charts.

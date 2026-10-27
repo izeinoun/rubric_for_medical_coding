@@ -1,5 +1,5 @@
 """
-Build the human label-review sheet for the follow-up charts: 40 charts, stratified by family, each with the
+Build the human label-review sheet for the follow-up charts: 40 of the 100 stage-1 charts, stratified by family, each with the
 label, a plain-language reason, and what to check in the text. Writes followup/review/LABEL_REVIEW.md and
 followup/review/label_review.csv (one row per chart for marking agree / disagree).
 
@@ -103,7 +103,8 @@ def why_for(scenario):
 
 
 def main():
-    charts = [json.loads(l) for l in open(os.path.join(HERE, "data", "charts.jsonl"))]
+    stage1 = {l.strip() for l in open(os.path.join(HERE, "stage1_ids.txt")) if l.strip()}
+    charts = [c for c in map(json.loads, open(os.path.join(HERE, "data", "charts.jsonl"))) if c["chart_id"] in stage1]
     rng = random.Random(SEED)
     picked = []
     for fam, n in PER_FAMILY.items():
@@ -122,7 +123,7 @@ def main():
 
     out = os.path.join(HERE, "review")
     os.makedirs(out, exist_ok=True)
-    L = ["# Label review: 40 follow-up charts", "",
+    L = ["# Label review: 40 of the 100 stage-1 charts", "",
          "For each chart, read the note and decide whether the **label** (does the note support reporting E11.22 "
          "for risk adjustment?) is right, using the reason and the checks given. You do not need to check the "
          "rubric answers. Record your verdict in `label_review.csv` (agree / disagree, plus a short note), or just "
