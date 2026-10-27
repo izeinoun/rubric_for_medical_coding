@@ -1,0 +1,220 @@
+{
+  "model": "gpt",
+  "model_name": "gpt-5.4-2026-03-05",
+  "stage": "1",
+  "n_main": 73,
+  "n_contested": 12,
+  "sensitivity": {
+    "contested labeled 0 (generator)": {
+      "n": 85,
+      "AUROC_M1": 0.47062084257206216,
+      "AUROC_M2": 0.47062084257206216,
+      "AUROC_M5": 0.8827605321507761,
+      "AUROC_M9": 0.5036031042128604,
+      "B_minus_A": [
+        0.41213968957871394,
+        0.28145959595959597,
+        0.5439433040658124
+      ]
+    },
+    "contested labeled 1 (reviewer)": {
+      "n": 85,
+      "AUROC_M1": 0.4790683962264151,
+      "AUROC_M2": 0.4790683962264151,
+      "AUROC_M5": 0.9047759433962264,
+      "AUROC_M9": 0.4053655660377359,
+      "B_minus_A": [
+        0.42570754716981124,
+        0.2696875327671176,
+        0.5751933700436334
+      ]
+    }
+  },
+  "ts": "2026-10-27T22:13:53",
+  "methods": {
+    "M1": {
+      "n": 73,
+      "AUROC": 0.46989329268292684,
+      "AUROC_CI": [
+        0.3340927704752275,
+        0.603329044117647
+      ],
+      "ECE": 0.38068493150684923,
+      "ECE_CI": [
+        0.26602397260273974,
+        0.4965958904109587
+      ]
+    },
+    "M2": {
+      "n": 73,
+      "AUROC": 0.46989329268292684,
+      "AUROC_CI": [
+        0.3340927704752275,
+        0.603329044117647
+      ],
+      "ECE": 0.13318855565020382,
+      "ECE_CI": [
+        0.036338723297766565,
+        0.25375073957335303
+      ]
+    },
+    "M5": {
+      "n": 73,
+      "AUROC": 0.9317835365853658,
+      "AUROC_CI": [
+        0.8687770837174995,
+        0.9817905824588768
+      ],
+      "ECE": 0.06811018357027336,
+      "ECE_CI": [
+        0.022353304396560716,
+        0.14394999182993892
+      ]
+    },
+    "M9": {
+      "n": 73,
+      "AUROC": 0.4405487804878049,
+      "AUROC_CI": [
+        0.30334831948862967,
+        0.575282742419839
+      ],
+      "ECE": 0.40561643835616434,
+      "ECE_CI": [
+        0.28506849315068505,
+        0.5274041095890408
+      ]
+    }
+  },
+  "paired": {
+    "B EWC minus A stated confidence (recalibrated)": {
+      "n": 73,
+      "AUROC_diff": 0.461890243902439,
+      "CI": [
+        0.31744866842916625,
+        0.6075326751946606
+      ]
+    },
+    "B EWC minus C criteria-guided confidence": {
+      "n": 73,
+      "AUROC_diff": 0.49123475609756095,
+      "CI": [
+        0.34773930794728763,
+        0.6451828808446455
+      ]
+    }
+  },
+  "families": {
+    "A": {
+      "n": 24,
+      "positives": 10,
+      "AUROC_M5": 0.9999999999999999,
+      "AUROC_M2": 0.5285714285714286,
+      "mean_M5_label1": 0.9477910922608379,
+      "mean_M5_label0": 0.002201840757665184
+    },
+    "B": {
+      "n": 7,
+      "positives": 7,
+      "AUROC_M5": null,
+      "AUROC_M2": null,
+      "mean_M5_label1": 0.913680046767856,
+      "mean_M5_label0": null
+    },
+    "C": {
+      "n": 12,
+      "positives": 6,
+      "AUROC_M5": 0.888888888888889,
+      "AUROC_M2": 0.2361111111111111,
+      "mean_M5_label1": 0.943024308040956,
+      "mean_M5_label0": 0.1648886629606788
+    },
+    "D": {
+      "n": 9,
+      "positives": 2,
+      "AUROC_M5": 1.0,
+      "AUROC_M2": 0.42857142857142855,
+      "mean_M5_label1": 0.8847354051266969,
+      "mean_M5_label0": 0.006634188021510195
+    },
+    "E": {
+      "n": 7,
+      "positives": 7,
+      "AUROC_M5": null,
+      "AUROC_M2": null,
+      "mean_M5_label1": 0.923014896182212,
+      "mean_M5_label0": null
+    },
+    "G": {
+      "n": 14,
+      "positives": 9,
+      "AUROC_M5": 0.6111111111111112,
+      "AUROC_M2": 0.37777777777777777,
+      "mean_M5_label1": 0.7361961013353011,
+      "mean_M5_label0": 0.8847354051266969
+    }
+  },
+  "stress": {
+    "all": {
+      "n": 15,
+      "mean_M1": 0.926666666666667,
+      "mean_M2": 0.4257354199696875,
+      "mean_M5": 0.9355046754099249,
+      "mean_M9": 0.9613333333333333,
+      "share_M5_above_frozen_threshold": 0.4
+    },
+    "F1_non_acceptable_provider": {
+      "n": 5,
+      "mean_M1": 0.95,
+      "mean_M2": 0.44480884795576925,
+      "mean_M5": 0.9402971686863818,
+      "mean_M9": 0.968,
+      "share_M5_above_frozen_threshold": 0.4
+    },
+    "F2_unsigned": {
+      "n": 5,
+      "mean_M1": 0.884,
+      "mean_M2": 0.3909524165649298,
+      "mean_M5": 0.9474933487091224,
+      "mean_M9": 0.946,
+      "share_M5_above_frozen_threshold": 0.6
+    },
+    "F3_not_face_to_face": {
+      "n": 5,
+      "mean_M1": 0.9460000000000001,
+      "mean_M2": 0.44144499538836357,
+      "mean_M5": 0.9187235088342705,
+      "mean_M9": 0.9700000000000001,
+      "share_M5_above_frozen_threshold": 0.2
+    }
+  },
+  "contested_mean_scores": {
+    "M1": 0.9391666666666666,
+    "M2": 0.4356814631916707,
+    "M5": 0.6023372465738315,
+    "M9": 0.9499999999999998
+  },
+  "frozen_threshold": {
+    "threshold": 0.9880796548572582,
+    "accepted": 13,
+    "coverage": 0.1780821917808219,
+    "precision": 0.9230769230769231
+  },
+  "technical": {
+    "calls": 1100,
+    "errors": 0,
+    "parse_errors": 0,
+    "input_tokens": 1554855,
+    "output_tokens": 170916,
+    "error_rate": 0.0,
+    "parse_error_rate": 0.0,
+    "input_tokens_per_chart": 15548.55,
+    "estimated_input_tokens_per_chart": 14017.185000000001,
+    "quote_failure_rate": 0.0,
+    "go": {
+      "errors <= 2%": true,
+      "unparseable <= 2%": true,
+      "quote failures < 50% (not systematic)": true,
+      "input tokens per chart <= 1.5 x estimate": true
+    }
+  }
+}

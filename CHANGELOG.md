@@ -175,3 +175,12 @@ What changed (`rubric_e1122.json`, version 1 → 2; guidance text only, question
 
 - Ran `python followup/run_transfer.py freeze` at 2026-10-27T21:42:28 (user approval). `followup/FREEZE.json` SHA-256 3e0bf8a1a1008ebf09b143c1b102a78762b211d9a6a57de5e22b66cd7a563fc6; it records the pilot freeze (e8619565…) and hashes the follow-up data, stage-1 list, runner (with the method C prompt), generator, checker and pre-registration. Independent checks before freezing: 0 of 300 charts with problems.
 - Test calls after the freeze (one median-length stage-1 chart, 3,399 characters; extraction, method A and method C prompts; answers neither shown nor saved): all six parsed. GPT-5.4 input/output tokens: extraction 1,683/417, A 1,087/15, C 1,544/13. Gemini 3.8 Flash (output includes thinking): extraction 1,785/1,095, A 1,169/314, C 1,639/2,146. Projected stage 1 per model: GPT about 1.54M input and 0.22M output; Gemini about 1.64M input and 0.92M output.
+
+## 2026-10-27 — follow-up stage 1 collected and evaluated (frozen pipeline)
+
+- Both models: 1,100 calls each, 0 errors, 0 unparseable, 0 quote failures. Tokens: GPT 1.55M input / 0.17M output; Gemini 1.67M input / 1.24M output (output includes thinking). All four pre-registered go/no-go checks pass for both models, so stage 2 runs unchanged.
+- Primary analysis set (73 uncontested main-set charts, 41 positive), AUROC: GPT A 0.470, B 0.932, C 0.441; B − A 0.462 (0.317 to 0.608); B − C 0.491 (0.348 to 0.645). Gemini A 0.731, B 0.979, C 0.961; B − A 0.248 (0.130 to 0.381); B − C 0.018 (−0.018 to 0.058). ECE: GPT A recalibrated 0.133, B 0.068; Gemini A recalibrated 0.185, B 0.031.
+- Frozen auto-accept threshold for B: GPT 13 charts accepted, precision 0.923 (wrong: FU-0105, steroid-induced diabetes read as type 2); Gemini 42 accepted (coverage 0.58), precision 0.952 (wrong: FU-0055, FU-0223, "see nephrology note" read as CKD addressed).
+- Main error sources for B: G2 "see nephrology note" read as addressed (GPT 5 charts, Gemini 2); G3 metformin reduced for eGFR not read as addressed (GPT 2, Gemini 1).
+- Stress test (family F, 15 charts): mean B 0.94 (GPT) and 0.99 (Gemini); B would auto-accept 40% (GPT) and 100% (Gemini). Mean C: GPT 0.96, Gemini 0.72.
+- Contested charts, sensitivity: B − A stays large under both labelings (GPT 0.41 and 0.43; Gemini 0.27 and 0.21).

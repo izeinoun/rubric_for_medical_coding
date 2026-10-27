@@ -1,0 +1,220 @@
+{
+  "model": "gemini",
+  "model_name": "gemini-3.8-flash",
+  "stage": "1",
+  "n_main": 73,
+  "n_contested": 12,
+  "sensitivity": {
+    "contested labeled 0 (generator)": {
+      "n": 85,
+      "AUROC_M1": 0.692350332594235,
+      "AUROC_M2": 0.692350332594235,
+      "AUROC_M5": 0.9656319290465631,
+      "AUROC_M9": 0.9587028824833702,
+      "B_minus_A": [
+        0.2732815964523282,
+        0.16665049889135253,
+        0.3827174008747747
+      ]
+    },
+    "contested labeled 1 (reviewer)": {
+      "n": 85,
+      "AUROC_M1": 0.7181603773584906,
+      "AUROC_M2": 0.7181603773584906,
+      "AUROC_M5": 0.9236438679245282,
+      "AUROC_M9": 0.9265919811320755,
+      "B_minus_A": [
+        0.20548349056603765,
+        0.07492112583068158,
+        0.3485757575757571
+      ]
+    }
+  },
+  "ts": "2026-10-27T22:16:34",
+  "methods": {
+    "M1": {
+      "n": 73,
+      "AUROC": 0.7309451219512195,
+      "AUROC_CI": [
+        0.6028530026942711,
+        0.8445713805911172
+      ],
+      "ECE": 0.374931506849315,
+      "ECE_CI": [
+        0.2663013698630138,
+        0.48398630136986287
+      ]
+    },
+    "M2": {
+      "n": 73,
+      "AUROC": 0.7309451219512195,
+      "AUROC_CI": [
+        0.6028530026942711,
+        0.8445713805911172
+      ],
+      "ECE": 0.1845960520014358,
+      "ECE_CI": [
+        0.10808929805291076,
+        0.28741143614443326
+      ]
+    },
+    "M5": {
+      "n": 73,
+      "AUROC": 0.9790396341463414,
+      "AUROC_CI": [
+        0.9475843628987645,
+        1.0
+      ],
+      "ECE": 0.03134287653335205,
+      "ECE_CI": [
+        0.007870539286342257,
+        0.08436461764717827
+      ]
+    },
+    "M9": {
+      "n": 73,
+      "AUROC": 0.9611280487804879,
+      "AUROC_CI": [
+        0.9170504750141847,
+        0.9976495407159
+      ],
+      "ECE": 0.0836986301369863,
+      "ECE_CI": [
+        0.03657191780821916,
+        0.14999999999999997
+      ]
+    }
+  },
+  "paired": {
+    "B EWC minus A stated confidence (recalibrated)": {
+      "n": 73,
+      "AUROC_diff": 0.2480945121951219,
+      "CI": [
+        0.12953820654277978,
+        0.3808498692383131
+      ]
+    },
+    "B EWC minus C criteria-guided confidence": {
+      "n": 73,
+      "AUROC_diff": 0.017911585365853577,
+      "CI": [
+        -0.0177206132340266,
+        0.05789528508771925
+      ]
+    }
+  },
+  "families": {
+    "A": {
+      "n": 24,
+      "positives": 10,
+      "AUROC_M5": 1.0,
+      "AUROC_M2": 0.7,
+      "mean_M5_label1": 0.9923593904584977,
+      "mean_M5_label0": 0.015513825579858356
+    },
+    "B": {
+      "n": 7,
+      "positives": 7,
+      "AUROC_M5": null,
+      "AUROC_M2": null,
+      "mean_M5_label1": 0.9889974104477475,
+      "mean_M5_label0": null
+    },
+    "C": {
+      "n": 12,
+      "positives": 6,
+      "AUROC_M5": 1.0,
+      "AUROC_M2": 0.625,
+      "mean_M5_label1": 0.9874290814637366,
+      "mean_M5_label0": 0.0
+    },
+    "D": {
+      "n": 9,
+      "positives": 2,
+      "AUROC_M5": 1.0,
+      "AUROC_M2": 0.9999999999999999,
+      "mean_M5_label1": 0.9817255976510252,
+      "mean_M5_label0": 0.01533572906115781
+    },
+    "E": {
+      "n": 7,
+      "positives": 7,
+      "AUROC_M5": null,
+      "AUROC_M2": null,
+      "mean_M5_label1": 0.9984739569022618,
+      "mean_M5_label0": null
+    },
+    "G": {
+      "n": 14,
+      "positives": 9,
+      "AUROC_M5": 0.7333333333333334,
+      "AUROC_M2": 0.6666666666666666,
+      "mean_M5_label1": 0.8534012508134875,
+      "mean_M5_label0": 0.4016428553625603
+    }
+  },
+  "stress": {
+    "all": {
+      "n": 15,
+      "mean_M1": 0.9539999999999998,
+      "mean_M2": 0.31516918631075247,
+      "mean_M5": 0.9874915140185488,
+      "mean_M9": 0.7233333333333332,
+      "share_M5_above_frozen_threshold": 1.0
+    },
+    "F1_non_acceptable_provider": {
+      "n": 5,
+      "mean_M1": 0.95,
+      "mean_M2": 0.2794890119710067,
+      "mean_M5": 0.991917785762765,
+      "mean_M9": 0.71,
+      "share_M5_above_frozen_threshold": 1.0
+    },
+    "F2_unsigned": {
+      "n": 5,
+      "mean_M1": 0.9620000000000001,
+      "mean_M2": 0.386529534990244,
+      "mean_M5": 0.9821351435688841,
+      "mean_M9": 0.57,
+      "share_M5_above_frozen_threshold": 1.0
+    },
+    "F3_not_face_to_face": {
+      "n": 5,
+      "mean_M1": 0.95,
+      "mean_M2": 0.2794890119710067,
+      "mean_M5": 0.9884216127239975,
+      "mean_M9": 0.8899999999999999,
+      "share_M5_above_frozen_threshold": 1.0
+    }
+  },
+  "contested_mean_scores": {
+    "M1": 0.9666666666666667,
+    "M2": 0.4284746380509941,
+    "M5": 0.13200790044220115,
+    "M9": 0.37083333333333335
+  },
+  "frozen_threshold": {
+    "threshold": 0.18264102071772778,
+    "accepted": 42,
+    "coverage": 0.5753424657534246,
+    "precision": 0.9523809523809523
+  },
+  "technical": {
+    "calls": 1100,
+    "errors": 0,
+    "parse_errors": 0,
+    "input_tokens": 1674021,
+    "output_tokens": 1242863,
+    "error_rate": 0.0,
+    "parse_error_rate": 0.0,
+    "input_tokens_per_chart": 16740.21,
+    "estimated_input_tokens_per_chart": 14017.185000000001,
+    "quote_failure_rate": 0.0,
+    "go": {
+      "errors <= 2%": true,
+      "unparseable <= 2%": true,
+      "quote failures < 50% (not systematic)": true,
+      "input tokens per chart <= 1.5 x estimate": true
+    }
+  }
+}
