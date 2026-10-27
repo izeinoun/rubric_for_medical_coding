@@ -104,3 +104,8 @@ What changed (`rubric_e1122.json`, version 1 → 2; guidance text only, question
 - M5: ECE 0.047, AUROC 0.969, coverage at precision 0.95 = 0.14. M2: ECE 0.048, AUROC 0.571. H4 passes on ECE by 0.001 only. Excluding label_needs_review charts: M5 ECE 0.033, AUROC 1.000, coverage 0.48.
 - The four F1b copy-forward-stale charts (label 0, label_needs_review) score 0.95–0.99 because GPT answers Q4 "yes"; they are the only label-0 charts above 0.02 and set the 95%-precision threshold.
 - C = 100 (inside the grid, one step from the edge).
+
+## 2026-10-27 — GPT M6 (dev)
+
+- Collected M6 for GPT: 140 calls, 0 errors. Re-evaluated on dev.
+- M6: ECE 0.176, AUROC 0.965, coverage 0.23. M5: ECE 0.047, AUROC 0.969, coverage 0.14. When GPT computes the score itself, ranking is about the same but calibration is much worse; H5 for M6 is met on ECE.
