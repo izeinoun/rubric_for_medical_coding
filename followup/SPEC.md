@@ -191,3 +191,14 @@ The rules R1–R3 are used only in the labels here. Adding them to the rubric is
 ## 11. Human label review (2026-10-27)
 
 40 stage-1 charts reviewed by the study lead (Gemini 3.1 Pro as a reading aid): 34 agree, 6 disagree. B2, B4 and G4 (37 charts) are flagged contested and excluded from the primary analysis, with a sensitivity analysis both ways. E1 stays label 1; the rule wording was corrected. Details in `followup/PREREGISTRATION.md` section 3.
+
+## 12. Hard-case scenarios for the next study (user, 2026-10-27; not part of this frozen test)
+
+Proposed after the follow-up was frozen and stage 1 had started, so they go to a separate, later study (with rubric v3, section 9):
+
+1. **Conflicting statements within one note** — e.g. CKD stage 3a in the problem list and stage 4 in the plan; "no CKD" in the HPI but CKD addressed in the plan; type 1 in one section, type 2 in another.
+2. **CKD stage contradicted by the lab values** — e.g. "CKD 3a" with eGFR 22, or "stage 4" with eGFR 55, current and dated.
+3. **Dialysis and end-stage kidney disease** — ESRD on dialysis (E11.22 with N18.6 and Z99.2), kidney transplant status, "CKD 5 not on dialysis".
+4. **Incomplete or unclear statements that partly answer the questions** — e.g. "kidneys OK", "renal function a bit off, watch", "CKD?", "DM w/ renal involvement", a stage without the word CKD, a plan line cut off mid-sentence.
+
+Each needs agreed coding rules before generation (and a human review of a sample), as in this study.
