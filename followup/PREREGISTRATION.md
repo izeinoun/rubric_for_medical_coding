@@ -1,6 +1,6 @@
 # Follow-up pre-registration: transfer test of the frozen EWC pipeline on harder charts
 
-Status: draft until `followup/FREEZE.json` exists. The design is in `followup/SPEC.md`; this file fixes what will be measured, how, and what counts as a result.
+Status: draft until `followup/FREEZE.json` exists. Simplified on 2026-10-27 at the user's request to one comparison: EWC against the model's stated confidence, with and without the rubric's questions. The design is in `followup/SPEC.md`; this file fixes what will be measured, how, and what counts as a result.
 
 ## 1. Question
 
@@ -33,11 +33,17 @@ The only setting changed in memory is concurrency (8 calls at once instead of 4)
 
 If all four pass, stage 2 runs with nothing changed, and the final analysis uses all 300 charts. If a check fails, the cause is fixed, the change is logged, the follow-up is frozen again, and stage 2 runs. Stage 1 is then reported as a rehearsal and excluded from the final analysis, which uses the 200 stage-2 charts. **Stage-1 results (AUROC, calibration, coverage) are never a reason to change anything.** The user may stop after stage 1 for cost or other reasons; stage 1 is then reported as a directional result.
 
-## 5. Methods
+## 5. Methods compared
 
-M1–M8 exactly as frozen in the pilot. One new baseline:
+Three methods, all from the same models on the same charts:
 
-- **M9, criteria-informed verbal confidence** (prompt version 1, in `followup/run_transfer.py`): the pilot's verbal-confidence question, with the rubric's questions and guidance added as "criteria to consider". One run per chart. It is not Platt-scaled, because there is no dev split; it is compared on AUROC.
+| | Method | What it is |
+|---|---|---|
+| A | The model's stated confidence | The pilot's verbal-confidence prompt (frozen): "does this note support the code?", 0–100. Reported raw (pilot M1) and recalibrated with the frozen pilot Platt map (pilot M2). Recalibration changes calibration, not ranking. |
+| B | Evidence-weighted confidence (EWC) | The frozen pilot method (pilot M5): rubric answers with exact quotes, code-verified, scored with the frozen dev-fitted weights. |
+| C | Criteria-guided confidence | A's question plus the rubric's questions and guidance, with the model told to answer each criterion for itself and base its confidence on those answers (prompt version 1, in `followup/run_transfer.py`). One run per chart. Not recalibrated, because there is no dev split; compared on AUROC. |
+
+Per chart and model: 5 extraction runs and 5 verbal runs (frozen pilot settings) and 1 run for C, 11 calls in all. The frozen pilot evaluation also reports its other variants (M3, M4, M7, M8) from the same calls; they are not part of this study's claims. M6 is not collected.
 
 ## 6. Hypotheses and pass marks
 
@@ -45,14 +51,13 @@ Computed per model on the main set of the final analysis set (section 4), with 9
 
 | ID | Claim | Pass mark |
 |---|---|---|
-| H1–H5 | As in the pilot pre-registration | Pilot pass marks, unchanged (frozen harness checks) |
-| H6 | EWC ranks better than self-reported confidence | M5 AUROC − M2 AUROC ≥ 0.10, and the lower bound of the paired bootstrap interval > 0 |
-| H7 | EWC ranks better than criteria-informed confidence | M5 AUROC − M9 AUROC > 0; paired interval reported |
-| H8 | Quote verification helps | Tested only if at least 3% of yes/no answers fail verification: M5 beats M7 on ECE or AUROC. Otherwise reported as untested |
-| H9 | The frozen auto-accept threshold transfers | Precision of M5 at the frozen threshold, with coverage (descriptive; the target is 0.95) |
-| H10 | Out-of-rubric failure is measured | Family F: mean M5 score and share of charts above the frozen threshold, overall and per type (descriptive) |
+| H1 | B ranks better than the model's stated confidence (A) | B AUROC − A AUROC ≥ 0.10, and the lower bound of the paired bootstrap interval > 0 |
+| H2 | B ranks better than criteria-guided confidence (C) | B AUROC − C AUROC > 0, and the lower bound of the paired bootstrap interval > 0 |
+| H3 | B is better calibrated than recalibrated A | B ECE ≤ A (recalibrated) ECE |
+| H4 | The frozen auto-accept threshold for B transfers | Precision of B at the frozen threshold, with coverage (descriptive; target 0.95) |
+| H5 | Out-of-rubric failure is measured | Family F: mean score of A, B and C, and the share of charts B would auto-accept, overall and per type (descriptive) |
 
-Also reported, without pass marks: results by family; the frozen pilot report (extraction accuracy per question, quote failures, reproducibility) for each stage.
+Also reported, without pass marks: results by family; extraction accuracy per question and quote-failure rate (frozen pilot report).
 
 ## 7. Analysis rules
 
@@ -69,6 +74,6 @@ Also reported, without pass marks: results by family; the frozen pilot report (e
 - Positive rate (51% in the main set) is far above real populations.
 - The generator and these charts were written with Claude, which is not one of the tested models.
 
-## 9. Planned next study (not part of this one)
+## 9. Possible next study (not part of this one)
 
-Rubric version 3 adding R1–R3 as rubric questions, with a fresh dev split, fitting and freeze. This would test whether a rubric that covers these rules removes the family-F failure.
+Rubric version 3 adding R1–R3 as questions (as gates, they would need no fitted weights). This would test whether covering these rules removes the family-F failure. Considered for this study as an exploratory arm and dropped on 2026-10-27 to keep the design simple.

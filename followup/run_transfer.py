@@ -5,7 +5,10 @@ The frozen harness (harness/run_pilot.py, pipeline.py, prompts.py, providers.py,
 dev-fitted weights) is imported, never edited. This script only:
   - points it at followup/data/charts.jsonl and an output folder (followup/runs/);
   - runs the charts in two pre-registered stages (stage 1: the 100 charts in stage1_ids.txt; stage 2: the rest);
-  - adds the M9 baseline (verbal confidence with the rubric's criteria in the prompt, 1 run per chart);
+  - adds method C (M9), criteria-guided confidence: the rubric's questions in the prompt and the model told to base
+    its confidence on them (1 run per chart). M6 is not collected;
+  - reports three methods: A = the model's stated confidence (M1 raw, M2 recalibrated with the frozen pilot map),
+    B = EWC (M5), C = criteria-guided confidence (M9);
   - adds the follow-up analyses: paired bootstrap tests (H6, H7), family breakdown, the family F stress test,
     and the stage-1 technical go/no-go checks.
 
@@ -13,7 +16,7 @@ Commands (run from the repository root):
   python followup/run_transfer.py select-stage1                     choose the 100 stage-1 charts (before freeze)
   python followup/run_transfer.py estimate --stage 1                calls and tokens per model
   python followup/run_transfer.py freeze                            hash follow-up files into followup/FREEZE.json
-  python followup/run_transfer.py collect  --model gpt --stage 1    extraction, verbal, M6 and M9 calls (resumable)
+  python followup/run_transfer.py collect  --model gpt --stage 1    extraction, verbal and M9 calls (resumable)
   python followup/run_transfer.py evaluate --model gpt --stage 1    once per model and stage
   python followup/run_transfer.py evaluate --model gpt --stage all  after stage 2: all 300 charts together
 
@@ -56,7 +59,7 @@ FOLLOWUP_FILES = ["followup/data/charts.jsonl", "followup/stage1_ids.txt", "foll
 
 M9_VERSION = "1"
 M9_SYSTEM = """You review outpatient notes for diagnosis-code support in Medicare Advantage risk adjustment.
-Consider the criteria listed in the user message.
+Answer each criterion in the user message for yourself, using only the note, then base your confidence on those answers.
 Return JSON only, with no other text, in this shape:
 {"supported": true or false, "confidence": <integer 0-100>}
 "confidence" is your probability, in percent, that the note supports reporting the code."""
@@ -68,8 +71,13 @@ def m9_user(rubric, note_text):
         q = rubric["questions"][qid]
         qs.append(f'- {q["text"]} {q["guidance"]}')
     return (f'Does this note support reporting ICD-10-CM {rubric["candidate_code"]} ({rubric["code_description"]}) '
-            f'for a risk-adjustment submission?\n\nCRITERIA TO CONSIDER\n' + "\n".join(qs) +
+            f'for a risk-adjustment submission? Use these criteria to decide your confidence.\n\nCRITERIA\n' + "\n".join(qs) +
             f'\n\nNOTE\n<<<\n{note_text}>>>')
+
+# the three methods compared (user decision 2026-10-27); the frozen pilot report.md still lists the pilot's variants
+HEADLINE = ["M1", "M2", "M5", "M9"]
+NAMES = {"M1": "A stated confidence (raw)", "M2": "A stated confidence (recalibrated)", "M5": "B EWC",
+         "M9": "C criteria-guided confidence"}
 
 # --------------------------------------------------------------------------- helpers
 
@@ -224,14 +232,11 @@ def collect_m9(cfg, rubric, charts, model, split):
 def cmd_collect(cfg, rubric, charts, model, stage, weights_from):
     tag = f"stage{stage}"
     ids = set(stage_ids(charts, stage))
-    wdir = install_weights(cfg, model, weights_from)
-    with open(os.path.join(wdir, "M5.json")) as f:
-        w = json.load(f)["weights"]
+    install_weights(cfg, model, weights_from)
     for split in (tag, tag + "F"):
         ch = charts_for(charts, ids, tag)
         for kind in ("extract", "verbal"):
             rp.collect_kind(cfg, rubric, ch, model, split, kind)
-        rp.collect_kind(cfg, rubric, ch, model, split, "m6", weights=w)
         collect_m9(cfg, rubric, ch, model, split)
 
 # --------------------------------------------------------------------------- evaluation
@@ -300,7 +305,7 @@ def technical_checks(cfg, model, splits, n_charts, est_tokens_per_chart):
     """Stage-1 go/no-go: technical problems only (pre-registered). Results never count."""
     calls = errors = parse_err = tok_in = tok_out = 0
     for split in splits:
-        for kind in ("extract", "verbal", "m6", "m9"):
+        for kind in ("extract", "verbal", "m9"):
             recs = rp.read_jsonl(os.path.join(rp.run_dir(cfg, model, split), f"{kind}.jsonl"))
             ok = rp.latest(recs)                      # last successful record per (chart, run)
             tasks = {(r["chart_id"], r["run"]) for r in recs}
@@ -321,16 +326,16 @@ def estimate_tokens_per_chart(cfg, rubric, charts, ids):
     ex = [len(prompts.EXTRACT_SYSTEM) + len(prompts.extract_user(rubric, charts[c]["text"])) for c in ids]
     vb = [len(prompts.VERBAL_SYSTEM) + len(prompts.verbal_user(rubric, charts[c]["text"])) for c in ids]
     m9 = [len(M9_SYSTEM) + len(m9_user(rubric, charts[c]["text"])) for c in ids]
-    per = (np.mean(ex) * (cfg["extraction_runs"] + 1.1) + np.mean(vb) * cfg["verbal_runs"] + np.mean(m9) * M9_RUNS) / 4
+    per = (np.mean(ex) * cfg["extraction_runs"] + np.mean(vb) * cfg["verbal_runs"] + np.mean(m9) * M9_RUNS) / 4
     return float(per)
 
 
 def cmd_estimate(cfg, rubric, charts, stage):
     ids = stage_ids(charts, stage)
     per = estimate_tokens_per_chart(cfg, rubric, charts, ids)
-    calls = len(ids) * (cfg["extraction_runs"] + cfg["verbal_runs"] + 1 + M9_RUNS)
+    calls = len(ids) * (cfg["extraction_runs"] + cfg["verbal_runs"] + M9_RUNS)
     print(f"stage {stage}: {len(ids)} charts, about {calls} calls and {per * len(ids) / 1e6:.2f}M input tokens per model; "
-          f"visible output about {len(ids) * (cfg['extraction_runs'] * 450 + (cfg['verbal_runs'] + M9_RUNS) * 30 + 480) / 1e6:.2f}M "
+          f"visible output about {len(ids) * (cfg['extraction_runs'] * 450 + (cfg['verbal_runs'] + M9_RUNS) * 30) / 1e6:.2f}M "
           f"(plus hidden reasoning or thinking tokens)")
 
 
@@ -338,7 +343,7 @@ def merge_stages(cfg, model):
     """For --stage all: concatenate the stage-1 and stage-2 records into split 'all' / 'allF'."""
     for suffix in ("", "F"):
         dst = rp.run_dir(cfg, model, "all" + suffix)
-        for kind in ("extract", "verbal", "m6", "m9"):
+        for kind in ("extract", "verbal", "m9"):
             with open(os.path.join(dst, f"{kind}.jsonl"), "w") as out:
                 for st in ("stage1", "stage2"):
                     p = os.path.join(rp.run_dir(cfg, model, st + suffix), f"{kind}.jsonl")
@@ -367,7 +372,8 @@ def cmd_evaluate(cfg, rubric, charts, model, stage):
         thr = json.load(f)["thresholds"]
     res = {"model": model, "model_name": cfg["models"][model]["model"], "stage": stage, "n_main": len(main_ids),
            "ts": dt.datetime.now().isoformat(timespec="seconds"), "methods": {}, "paired": {}, "families": {}, "stress": {}}
-    for m, pm in probs.items():
+    for m in HEADLINE:
+        pm = probs[m]
         c = [x for x in main_ids if x in pm]
         if len(c) < 10:
             continue
@@ -379,7 +385,7 @@ def cmd_evaluate(cfg, rubric, charts, model, stage):
         if len(c) >= 10:
             d, lo, hi = paired_auroc_diff([probs["M5"][x] for x in c], [probs[other][x] for x in c], [y[x] for x in c],
                                           cfg["bootstrap"], cfg["seed"])
-            res["paired"][f"M5 - {other}"] = {"n": len(c), "AUROC_diff": d, "CI": [lo, hi]}
+            res["paired"][f"{NAMES['M5']} minus {NAMES[other]}"] = {"n": len(c), "AUROC_diff": d, "CI": [lo, hi]}
     t5 = thr.get("M5")
     acc = [x for x in main_ids if probs["M5"][x] >= t5 and not review[x]]
     res["frozen_threshold"] = {"threshold": t5, "accepted": len(acc), "coverage": len(acc) / len(main_ids),
@@ -399,7 +405,7 @@ def cmd_evaluate(cfg, rubric, charts, model, stage):
     for kind in ["all"] + sorted({fch[c]["scenario"] for c in f_ids}):
         c = f_ids if kind == "all" else [x for x in f_ids if fch[x]["scenario"] == kind]
         row = {"n": len(c)}
-        for m in ("M1", "M2", "M3", "M5", "M9"):
+        for m in HEADLINE:
             v = [fprobs[m][x] for x in c if x in fprobs[m]]
             row[f"mean_{m}"] = float(np.mean(v)) if v else None
         row["share_M5_above_frozen_threshold"] = (sum(fprobs["M5"][x] >= t5 and not freview[x] for x in c) / len(c)) if c else None
@@ -429,28 +435,32 @@ def fmt(x, d=3):
 
 def write_followup_report(res, out):
     L = [f"# Follow-up transfer test — {res['model_name']} ({res['model']}), stage {res['stage']}", "",
+         "Methods: A = the model's stated confidence (raw, and recalibrated with the frozen pilot map); B = EWC; "
+         "C = the model's confidence when given the rubric's questions and told to use them. "
+         "The frozen pilot report for the same charts (report.md) also lists the pilot's other variants.", "",
          f"Generated {res['ts']}. Main-set charts: {res['n_main']}. The frozen pilot report for the same charts is in report.md.", "",
          "## Methods on the main set", "", "| Method | n | AUROC (95% CI) | ECE (95% CI) |", "|---|---|---|---|"]
     for m, r in res["methods"].items():
-        L.append(f"| {m} | {r['n']} | {fmt(r['AUROC'])} ({fmt(r['AUROC_CI'][0])}–{fmt(r['AUROC_CI'][1])}) | "
+        L.append(f"| {NAMES[m]} | {r['n']} | {fmt(r['AUROC'])} ({fmt(r['AUROC_CI'][0])}–{fmt(r['AUROC_CI'][1])}) | "
                  f"{fmt(r['ECE'])} ({fmt(r['ECE_CI'][0])}–{fmt(r['ECE_CI'][1])}) |")
-    L += ["", "M9 (criteria-informed verbal confidence) is not Platt-scaled: there is no dev split to fit one. Compare it on AUROC.", "",
+    L += ["", "Recalibration changes calibration, not ranking, so both rows of A share an AUROC. C is not recalibrated "
+          "(there is no dev split to fit a map); compare it on AUROC.", "",
           "## Paired AUROC differences (bootstrap, 95% CI)", "", "| Comparison | n | Difference | 95% CI |", "|---|---|---|---|"]
     for k, r in res["paired"].items():
         L.append(f"| {k} | {r['n']} | {fmt(r['AUROC_diff'])} | {fmt(r['CI'][0])} to {fmt(r['CI'][1])} |")
     ft = res["frozen_threshold"]
-    L += ["", "## Frozen auto-accept threshold (M5)", "",
+    L += ["", "## Frozen auto-accept threshold (B)", "",
           f"Threshold {fmt(ft['threshold'])}: {ft['accepted']} charts accepted (coverage {fmt(ft['coverage'], 2)}), "
           f"precision {fmt(ft['precision'])}.", "",
-          "## By family (main set)", "", "| Family | n | Positives | AUROC M5 | AUROC M2 | Mean M5, label 1 | Mean M5, label 0 |",
+          "## By family (main set)", "", "| Family | n | Positives | AUROC B | AUROC A | Mean B, label 1 | Mean B, label 0 |",
           "|---|---|---|---|---|---|---|"]
     for fam, r in res["families"].items():
         L.append(f"| {fam} | {r['n']} | {r['positives']} | {fmt(r['AUROC_M5'])} | {fmt(r['AUROC_M2'])} | "
                  f"{fmt(r['mean_M5_label1'])} | {fmt(r['mean_M5_label0'])} |")
     L += ["", "## Stress test: family F (all label 0, outside the rubric)", "",
-          "| Group | n | Mean M1 | Mean M2 | Mean M3 | Mean M5 | Mean M9 | M5 above frozen threshold |", "|---|---|---|---|---|---|---|---|"]
+          "| Group | n | Mean A (raw) | Mean A (recalibrated) | Mean B | Mean C | B above frozen threshold |", "|---|---|---|---|---|---|---|"]
     for k, r in res["stress"].items():
-        L.append(f"| {k} | {r['n']} | {fmt(r['mean_M1'])} | {fmt(r['mean_M2'])} | {fmt(r['mean_M3'])} | {fmt(r['mean_M5'])} | "
+        L.append(f"| {k} | {r['n']} | {fmt(r['mean_M1'])} | {fmt(r['mean_M2'])} | {fmt(r['mean_M5'])} | "
                  f"{fmt(r['mean_M9'])} | {fmt(r['share_M5_above_frozen_threshold'], 2)} |")
     t = res["technical"]
     L += ["", "## Technical checks (stage-1 go/no-go; results never count)", "",

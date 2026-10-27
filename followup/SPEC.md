@@ -145,9 +145,7 @@ Because there is no dev split, the noise level cannot be tuned against model res
 
 ## 5. Methods
 
-M1–M8 exactly as frozen in the pilot. One new baseline:
-
-- **M9, criteria-informed verbal confidence.** The verbal prompt also lists the rubric's questions and guidance, and asks for a probability (1 run per chart, decided 2026-10-27 to save cost). There is no dev split to fit a Platt map, so M9 is reported raw. AUROC is unaffected by Platt scaling, so the ranking comparison is fair; ECE for M9 is uncalibrated and is reported for information only.
+Simplified on 2026-10-27 at the user's request to three methods: A, the model's stated confidence (raw, and recalibrated with the frozen pilot map); B, EWC (frozen pilot M5); C, criteria-guided confidence (the rubric's questions in the prompt and the model told to base its confidence on them; 1 run per chart). An exploratory rule-gate arm (M10) was added and then dropped the same day. M6 is not collected. Details in `followup/PREREGISTRATION.md`.
 
 ## 6. Draft hypotheses (to be finalized in the follow-up pre-registration)
 
@@ -167,8 +165,8 @@ H6 adds a paired test, so "significantly better" can be claimed directly. Result
 ## 7. Size and cost
 
 - 300 charts (255 main, 45 stress test), all test (trimmed from 400 at the user's request). Positive rate in the main set 51% (129 of 255); the pilot's was 44%.
-- Per model and chart: 5 extraction, 5 verbal, 1 M6 and 1 M9 call = 12 calls, so 3,600 calls per model.
-- `estimate` on the real charts: about 1.6M input tokens per model for stage 1 (100 charts) and 3.1M for stage 2, plus visible output and Gemini's thinking tokens.
+- Per model and chart: 5 extraction, 5 verbal and 1 criteria-guided call = 11 calls, so 3,300 calls per model.
+- `estimate` on the real charts: about 1.4M input tokens per model for stage 1 (100 charts) and 2.8M for stage 2, plus visible output and Gemini's thinking tokens.
 - Run in two stages (decided 2026-10-27): stage 1 = 100 pre-selected charts with a technical go/no-go check, then stage 2 = the other 200. Details in `followup/PREREGISTRATION.md`. `estimate` gives a firmer figure once the data exists, and it will be reported before any run, with one test call per model.
 
 ## 8. Order of work

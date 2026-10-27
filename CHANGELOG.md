@@ -154,3 +154,11 @@ What changed (`rubric_e1122.json`, version 1 → 2; guidance text only, question
 - `estimate` on the real charts: about 1,200 calls and 1.6M input tokens per model for stage 1, 2,400 calls and 3.1M for stage 2 (plus output and Gemini thinking tokens), lower than the earlier rough estimate.
 - Added `followup/PREREGISTRATION.md` (draft until the follow-up freeze), including a reminder that adding R1–R3 to the rubric (rubric v3) is a separate later study.
 - Review sheet redrawn from the stage-1 charts (40 of the 100). No model calls.
+
+## 2026-10-27 — follow-up simplified to three methods
+
+- At the user's request the follow-up compares three methods only: A, the model's stated confidence (raw, and recalibrated with the frozen pilot map); B, EWC (frozen pilot M5); C, criteria-guided confidence (the rubric's questions in the prompt, with the model told to answer each criterion for itself and base its confidence on them).
+- An exploratory rule-gate arm (M10: B set to 0 unless R1–R3 pass) was built, tested with the mock model, and dropped the same day to keep the design simple; noted as a possible next study. M6 is no longer collected.
+- C's prompt (formerly "consider the criteria") now explicitly tells the model to use the criteria for its confidence.
+- Pre-registration hypotheses rewritten around the comparison: H1 B vs A ranking (≥ 0.10 AUROC, paired interval above 0), H2 B vs C ranking (paired interval above 0), H3 B vs recalibrated A calibration, H4 frozen threshold precision, H5 family-F stress test.
+- Per chart and model: 11 calls (5 extraction, 5 verbal, 1 for C). `estimate`: stage 1 about 1,100 calls and 1.4M input tokens per model; stage 2 about 2,200 calls and 2.8M. Mock test end to end (results not kept). No model calls.
