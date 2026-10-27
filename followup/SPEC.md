@@ -186,3 +186,8 @@ The rules R1–R3 are used only in the labels here. Adding them to the rubric is
 1. **Label check.** With no dev split, label errors go straight into the results. Can you, or a coder, read a sample (about 40 charts, stratified by scenario) and mark each label right or wrong before the freeze?
 2. **Size.** Decided: 300 charts.
 3. **M9.** Keep it in? It adds 1,500 calls per model (5 per chart).
+
+
+## 11. Human label review (2026-10-27)
+
+40 stage-1 charts reviewed by the study lead (Gemini 3.1 Pro as a reading aid): 34 agree, 6 disagree. B2, B4 and G4 (37 charts) are flagged contested and excluded from the primary analysis, with a sensitivity analysis both ways. E1 stays label 1; the rule wording was corrected. Details in `followup/PREREGISTRATION.md` section 3.

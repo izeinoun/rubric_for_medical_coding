@@ -14,10 +14,11 @@ The only setting changed in memory is concurrency (8 calls at once instead of 4)
 
 ## 3. Data
 
-- `followup/data/charts.jsonl`, generator v3, seed 20261027, 300 charts, SHA-256 ba93d3aa60fa44c7ec15a1f9a04da0afee5ec38f0e752cafb412ed0b2428aedb.
+- `followup/data/charts.jsonl`, generator v3, seed 20261027, 300 charts, SHA-256 689770cb9b688a8f7c8cffc6e36a35b2245d0068fa1c7555f9c7b37bc0e0105b.
 - Main set: 255 charts in families A–E and G (129 labeled 1). Stress test: 45 charts in family F (all labeled 0).
+- **Contested labels:** 37 main-set charts (scenarios B2 and B4, copy-forward CKD lines that cite only old results; G4, CKD only in a reviewed-problems list) are flagged `label_needs_review`. The generator labels them 0, following the frozen rubric's own rule; the human review labeled the sampled ones 1 (MEAT reading: "continue regimen" or "stable" counts as addressed). They are excluded from the primary analysis set and reported in a sensitivity analysis both ways (section 6).
 - Labels: the pilot rule applied to each chart's facts, plus three rules that GPT-5.4 and Gemini both rated high-confidence (R1 face-to-face encounter with an acceptable provider; R2 signature with credentials; R3 secondary diabetes is not type 2). No human coder confirmed R1–R3.
-- Checks before freezing: the generator's internal assertions; `followup/check_charts_v3.py` (0 of 300 charts with problems; it caught 7 of 7 deliberately planted errors); and the user's review of 40 stage-1 charts (`followup/review/`). The review outcome is recorded in `CHANGELOG.md` before the freeze.
+- Checks before freezing: the generator's internal assertions; `followup/check_charts_v3.py` (0 of 300 charts with problems; it caught 7 of 7 deliberately planted errors); and a human review of 40 stage-1 charts by the study lead, who used Gemini 3.1 Pro as a reading aid (`followup/review/`). Result: 34 agree, 6 disagree. Five disagreements were the contested copy-forward and list-only charts above (B2 ×3, B4, G4). One (FU-0049, scenario E1, "CKD due to type 2 diabetes and hypertension") was labeled 0 by the reviewer because a non-diabetic cause is named; the label stays 1, because coding guidance supports E11.22 when diabetes is one of the stated causes, and the review page's rule wording ("no non-diabetic cause is given") was misleading and has been corrected to "a different cause instead of diabetes". The disagreement is recorded here and in `CHANGELOG.md`.
 
 ## 4. Stages
 
@@ -47,7 +48,7 @@ Per chart and model: 5 extraction runs and 5 verbal runs (frozen pilot settings)
 
 ## 6. Hypotheses and pass marks
 
-Computed per model on the main set of the final analysis set (section 4), with 95% bootstrap intervals (2,000 resamples, seed 0).
+Computed per model on the **primary analysis set**: the main-set charts of the final analysis set (section 4) without contested labels (218 of 255 charts over all 300; 73 of 85 in stage 1). 95% bootstrap intervals (2,000 resamples, seed 0).
 
 | ID | Claim | Pass mark |
 |---|---|---|
@@ -57,7 +58,7 @@ Computed per model on the main set of the final analysis set (section 4), with 9
 | H4 | The frozen auto-accept threshold for B transfers | Precision of B at the frozen threshold, with coverage (descriptive; target 0.95) |
 | H5 | Out-of-rubric failure is measured | Family F: mean score of A, B and C, and the share of charts B would auto-accept, overall and per type (descriptive) |
 
-Also reported, without pass marks: results by family; extraction accuracy per question and quote-failure rate (frozen pilot report).
+Also reported, without pass marks: results by family; extraction accuracy per question and quote-failure rate (frozen pilot report); and a **sensitivity analysis** on all main-set charts with the contested charts labeled 0 (generator) and 1 (human review): AUROC of A, B and C and the paired B − A difference under each.
 
 ## 7. Analysis rules
 
@@ -71,7 +72,9 @@ Also reported, without pass marks: results by family; extraction accuracy per qu
 - Synthetic charts written from phrase banks; labels decided by rules applied to the generator's facts. The main-set labels still follow mostly from rubric-visible facts; family F is the deliberate exception.
 - R1–R3 were suggested by two models and not confirmed by a certified coder.
 - The rubric's Q2 (eGFR criteria) is clinical validation rather than a coding rule, and the pilot's "other cause → not supported" rule may be stricter than coding guidance allows (both raised by the models). Both are kept as frozen.
-- Positive rate (51% in the main set) is far above real populations.
+- Positive rate (59% in the primary analysis set, 51% in the whole main set) is far above real populations.
+- Copy-forward and list-only CKD lines are contested: the frozen rubric does not count them as addressed, while a MEAT reading does. The sensitivity analysis shows how much the conclusion depends on that choice.
+- The label review was done by one person, the study lead, with an AI reading aid, on 40 of 300 charts.
 - The generator and these charts were written with Claude, which is not one of the tested models.
 
 ## 9. Possible next study (not part of this one)

@@ -366,11 +366,14 @@ def cmd_evaluate(cfg, rubric, charts, model, stage):
 
     # 2) follow-up analyses
     probs, review, ex = scores_for(cfg, rubric, ch, model, tag)
-    main_ids = sorted(c for c, v in ch.items() if v["split"] == tag)
-    y = {c: ch[c]["label"] for c in main_ids}
+    main_all = sorted(c for c, v in ch.items() if v["split"] == tag)
+    contested = [c for c in main_all if "label_needs_review" in ch[c]["flags"]]
+    main_ids = [c for c in main_all if c not in contested]   # primary analysis set: uncontested main charts
+    y = {c: ch[c]["label"] for c in main_all}
     with open(os.path.join(rp.weights_dir(cfg, model), "thresholds.json")) as f:
         thr = json.load(f)["thresholds"]
     res = {"model": model, "model_name": cfg["models"][model]["model"], "stage": stage, "n_main": len(main_ids),
+           "n_contested": len(contested), "sensitivity": {},
            "ts": dt.datetime.now().isoformat(timespec="seconds"), "methods": {}, "paired": {}, "families": {}, "stress": {}}
     for m in HEADLINE:
         pm = probs[m]
@@ -386,6 +389,20 @@ def cmd_evaluate(cfg, rubric, charts, model, stage):
             d, lo, hi = paired_auroc_diff([probs["M5"][x] for x in c], [probs[other][x] for x in c], [y[x] for x in c],
                                           cfg["bootstrap"], cfg["seed"])
             res["paired"][f"{NAMES['M5']} minus {NAMES[other]}"] = {"n": len(c), "AUROC_diff": d, "CI": [lo, hi]}
+    # sensitivity: the contested charts (copy-forward and list-only CKD lines) added back, labeled both ways
+    for name, alt in (("contested labeled 0 (generator)", 0), ("contested labeled 1 (reviewer)", 1)):
+        yy = {c: (alt if c in contested else y[c]) for c in main_all}
+        row = {"n": len(main_all)}
+        for m in HEADLINE:
+            c = [x for x in main_all if x in probs[m]]
+            row[f"AUROC_{m}"] = P.auroc([probs[m][x] for x in c], [yy[x] for x in c]) if c else None
+        c = [x for x in main_all if x in probs["M5"] and x in probs["M2"]]
+        d, lo, hi = paired_auroc_diff([probs["M5"][x] for x in c], [probs["M2"][x] for x in c], [yy[x] for x in c],
+                                      cfg["bootstrap"], cfg["seed"])
+        row["B_minus_A"] = [d, lo, hi]
+        res["sensitivity"][name] = row
+    res["contested_mean_scores"] = {m: (float(np.mean([probs[m][x] for x in contested if x in probs[m]]))
+                                        if any(x in probs[m] for x in contested) else None) for m in HEADLINE}
     t5 = thr.get("M5")
     acc = [x for x in main_ids if probs["M5"][x] >= t5 and not review[x]]
     res["frozen_threshold"] = {"threshold": t5, "accepted": len(acc), "coverage": len(acc) / len(main_ids),
@@ -438,7 +455,9 @@ def write_followup_report(res, out):
          "Methods: A = the model's stated confidence (raw, and recalibrated with the frozen pilot map); B = EWC; "
          "C = the model's confidence when given the rubric's questions and told to use them. "
          "The frozen pilot report for the same charts (report.md) also lists the pilot's other variants.", "",
-         f"Generated {res['ts']}. Main-set charts: {res['n_main']}. The frozen pilot report for the same charts is in report.md.", "",
+         f"Generated {res['ts']}. Primary analysis set: {res['n_main']} main-set charts with uncontested labels "
+         f"({res['n_contested']} contested charts are reported separately below). The frozen pilot report for the same charts "
+         "is in report.md (its 'excluding label_needs_review' table matches the primary set).", "",
          "## Methods on the main set", "", "| Method | n | AUROC (95% CI) | ECE (95% CI) |", "|---|---|---|---|"]
     for m, r in res["methods"].items():
         L.append(f"| {NAMES[m]} | {r['n']} | {fmt(r['AUROC'])} ({fmt(r['AUROC_CI'][0])}–{fmt(r['AUROC_CI'][1])}) | "
@@ -448,6 +467,17 @@ def write_followup_report(res, out):
           "## Paired AUROC differences (bootstrap, 95% CI)", "", "| Comparison | n | Difference | 95% CI |", "|---|---|---|---|"]
     for k, r in res["paired"].items():
         L.append(f"| {k} | {r['n']} | {fmt(r['AUROC_diff'])} | {fmt(r['CI'][0])} to {fmt(r['CI'][1])} |")
+    L += ["", "## Contested charts (sensitivity analysis)", "",
+          "Copy-forward and list-only CKD lines (scenarios B2, B4, G4). The generator labels them 0 (the frozen rubric's rule: "
+          "text carried forward that refers only to old results, or a bare list, does not count as addressed); the human "
+          "review labeled them 1 (MEAT reading: 'continue regimen' or 'stable' counts).", "",
+          "Mean score on contested charts: " + "; ".join(f"{NAMES[m]} {fmt(v)}" for m, v in res["contested_mean_scores"].items()) + ".", "",
+          "| All main-set charts | n | " + " | ".join(f"AUROC {NAMES[m]}" for m in HEADLINE) + " | B minus A (95% CI) |",
+          "|---|---|" + "---|" * (len(HEADLINE) + 1)]
+    for k, r in res["sensitivity"].items():
+        d, lo, hi = r["B_minus_A"]
+        L.append(f"| {k} | {r['n']} | " + " | ".join(fmt(r[f'AUROC_{m}']) for m in HEADLINE) +
+                 f" | {fmt(d)} ({fmt(lo)} to {fmt(hi)}) |")
     ft = res["frozen_threshold"]
     L += ["", "## Frozen auto-accept threshold (B)", "",
           f"Threshold {fmt(ft['threshold'])}: {ft['accepted']} charts accepted (coverage {fmt(ft['coverage'], 2)}), "

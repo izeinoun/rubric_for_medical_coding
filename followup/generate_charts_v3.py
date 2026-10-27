@@ -266,6 +266,8 @@ def scenario_params(s, rng):
         if rng.random() < 0.5:
             p.update(cause="diabetes", cause_loc="ap")
         p["prior_section"] = False
+        if s[:2] in {"B2", "B4"}:
+            p["flags"].append("label_needs_review")  # contested in the human label review (2026-10-27)
     elif fam == "C":
         k = s[:2]
         if k == "C1":
@@ -314,6 +316,8 @@ def scenario_params(s, rng):
             p["stage"] = rng.choice(["3a", "3b"])
         p["ambiguous"].append("Q4")
         p["flags"].append("borderline")
+        if k == "G4":
+            p["flags"].append("label_needs_review")  # contested in the human label review (2026-10-27)
     elif fam == "F":
         if rng.random() < 0.5:
             p.update(cause="diabetes", cause_loc="ap")

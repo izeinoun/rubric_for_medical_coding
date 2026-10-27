@@ -131,7 +131,7 @@ def main():
          "About 45% of charts have deliberate 'format noise' (letters swapped with digits such as 'C1inician', words "
          "broken across lines, a stray page header). That is intended and is not an error.", "",
          "Label rules: supported (1) only if type 2 diabetes is documented (untyped diabetes defaults to type 2), CKD is "
-         "an established diagnosis, CKD is addressed at this visit, no non-diabetic cause is given for the CKD, the visit "
+         "an established diagnosis, CKD is addressed at this visit, the CKD is not attributed to a different cause instead of diabetes (diabetes plus another cause still counts), the visit "
          "is face-to-face with an MD, DO, NP or PA (R1), and the note is signed with credentials (R2). Secondary diabetes "
          "is not type 2 (R3).", ""]
     rows = []
