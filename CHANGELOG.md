@@ -96,3 +96,11 @@ What changed (`rubric_e1122.json`, version 1 → 2; guidance text only, question
 
 - Collected M6 (model computes the score from the dev-fitted M5 weights): 140 calls, 0 errors. Re-evaluated on dev.
 - M6: ECE 0.0084, AUROC 0.9995, coverage 0.44. M5: ECE 0.0080, AUROC 0.9987, coverage 0.45. H5 for M6 reads True only because M5's ECE is lower by 0.0004, far inside the bootstrap intervals; M5 and M6 are practically indistinguishable on these charts.
+
+## 2026-10-27 — GPT-5.4 dev run completed under rubric v2 (prompt version 1)
+
+- Retried the 144 extraction calls that failed for lack of credits, then 700 verbal calls: 0 errors. Total 1.39M input and 0.24M output tokens. Evaluated on dev.
+- Extraction: Q1 macro-F1 0.971 → 1.000, Q4 0.574 → 1.000, Q3 0.971 → 0.985; Q2 0.813 → 0.827 (still fails H1: "no" where the key says not_documented on N5 charts, and some 90-day date-arithmetic errors). Gates 1.000.
+- M5: ECE 0.047, AUROC 0.969, coverage at precision 0.95 = 0.14. M2: ECE 0.048, AUROC 0.571. H4 passes on ECE by 0.001 only. Excluding label_needs_review charts: M5 ECE 0.033, AUROC 1.000, coverage 0.48.
+- The four F1b copy-forward-stale charts (label 0, label_needs_review) score 0.95–0.99 because GPT answers Q4 "yes"; they are the only label-0 charts above 0.02 and set the 95%-precision threshold.
+- C = 100 (inside the grid, one step from the edge).
