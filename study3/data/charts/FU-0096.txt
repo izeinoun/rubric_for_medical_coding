@@ -1,0 +1,99 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0096    Age: 77    Sex: M
+Date of service: 2026-01-27    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 5
+
+CHIEF COMPLAINT
+Follow-up visit; medication refills.
+
+HISTORY OF PRESENT ILLNESS
+77-year-old man seen today for routine chronic care. History of type 2 diabetes diagnosed 13 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Energy fair. No new complaints today. Sleeping reasonably well. Mood is good.
+
+REVIEW OF SYSTEMS
+Eyes: no blurred vision; last dilated eye exam 2025.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Constitutional: denies fever, chills or unintended weight loss.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Neurological: no numbness or tingling in the feet; no headaches.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease stage 3a
+- Essential hypertension
+- GERD
+- Hyperlipidemia
+- Seasonal allergic rhinitis
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+- Right knee arthroscopy (2015)
+
+MEDICATIONS
+- metformin 1000 mg twice dai1y
+- empagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- omeprazole 20 mg daily
+- atorvastatin 40 mg nightly
+- loratadine 10 mg as needed
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+--- Page 2 of 3 --- FU-0096 --- printed 2026-01-31 ---
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+No family history of kidney disease reported.
+Mother: hypertension.
+
+SOClAL HISTORY
+Former smoker, quit 2001; 17 pack-years.
+Lives with alone. Retired accountant.
+Alcohol: none.
+
+VITALS
+BP 140/83 | HR 81 | Temp 98.5 F | Wt 75.9 kg | BMI 26.8 | SpO2 97%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date   Test	Result
+2026-01-26    eGFR     58 mL/min/1.73m2
+2026-01-26    Hemoglobin A1c	6.5%
+2026-01-26 Glucose, fasting       111 mg/dL
+2026-01-26	Urine albumin/creatinine	399 mg/g
+2026-01-26	Potassium	4.5 mmol/L
+2026-01-26 Sodium	142 mmol/L
+2026-01-26	LDL cholesterol	65 mg/dL
+2026-01-26   Hemoglobin   14.6 g/dL
+
+PRIOR VISIT SUMMARY (2025-11-03)
+(For reference only; not today’s assessment.)
+T2DM: A1c 5.5% at that visit; continued medications.
+Chronic kidney disease stage 3a: continued lisinopril.
+Essential hypertension: BP 140/83. Reinforced low-sodium diet; continue lisinopril 20 mg.
+
+IMPRESSION AND PLAN
+1. T2DM: A1c 6.5%, up from 5.5%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Chronic kidney disease stage 3a: Renal function reviewed: eGFR 58 (no prior for comparison). Continue lisinopri1 and empagliflozin. Avoid NSAIDs. Nephrology follow-up as scheduled.
+3. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+4. GERD: symptoms controlled on omeprazole. Continue.
+5. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+6. Hypertension: BP 140/83 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+7. Shingles vaccine series completed. Diabetic foot exam comp1eted today.
+
+PATIENT EDUCATION
+Encouraged 150 minutes of moderate activity weekly.
+Reviewed carbohydrate counting handout.
+
+Return to clinic in 4 months or sooner as needed.
+Elec-
+tronically signed: Synthetic Provider, MD 2026-01-27 14:08

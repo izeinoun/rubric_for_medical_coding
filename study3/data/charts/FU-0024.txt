@@ -1,0 +1,95 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0024    Age: 62    Sex: F
+Date of service: 2026-02-24    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 8
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 62-year-old woman returning for follow-up of chronic conditions. History of diabetes diagnosed 10 years ago, managed with metformin. Brought meter today; morning values 109-156 mg/dL, no lows. No polyuria or polydipsia. No visual changes. No urinary symptoms. No foot ulcers or numbness reported.
+
+REVIEW OF SYSTEMS
+Constitutional: denies fever, chills or unintended weight loss.
+Respiratory: no cough or dyspnea on exertion.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes
+- CKD stage 4
+- Seasonal allergic rhinitis
+- GERD
+- Osteoarthritis, bilateral knees
+- Obesity
+
+PAST SURGICAL HISTORY
+- Right knee arthroscopy (2015)
+- Cholecystectomy (2011)
+- Appendectomy (1988)
+
+MEDICATIONS
+- insulin glargine 18 units nightly
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+- omeprazole 20 mg daily
+- acetaminophen 650 mg as needed
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 68.
+Brother: hyperlipidemia.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Former smoker, quit 2012; 24 pack-years.
+Walks 2 times per week, about 20 minutes.
+Works part time as a cashier.
+
+VITALS
+BP 145/68 | HR 92 | Temp 98.5 F | Wt 108.1 kg | BMI 38.3 | SpO2 99%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date	Test        Result
+2025-10-12	eGFR   28 mL/min/1.73m2
+2026-02-14    eGFR  24 mL/min/1.73m2
+2026-02-14	Hemoglobin A1c 8.0%
+2026-02-14	Glucose, fasting	115 mg/dL
+2026-02-14    Urine albumin/creatinine  286 mg/g
+2026-02-14 Potassium	4.8 mmol/L
+2026-02-14  Sodium	138 mmol/L
+2026-02-14    LDL cholesterol  109 mg/dL
+2026-02-14	Hemoglobin         12.8 g/dL
+
+IMPRESSI0N AND PLAN
+1. DM: A1c 8.0% (improved from 8.8%). Medications unchanged; reinforced carbohydrate counting.
+2. Gastroesophageal reflux: stab1e; discussed trial of dose reduction at next visit.
+3. Chronic kidney disease stage 4 due to diabetes: eGFR 24 (stable from 28). Metformin discontinued given renal function. Continue dapagliflozin. Referred to nephrology for co-management.
+4. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+5. A1so on problem list: obesity, knee osteoarthritis.
+6. Dental visit within the past year. Diabetic foot exam comp1eted today.
+--- Page 2 of 3 --- FU-0024 --- printed 2026-03-10 ---
+
+PATIENT EDUCATI0N
+Patient verbalized understanding of the plan.
+Discussed hypoglycemia recognition and treatm-
+ent.
+
+Return to clinic in 6 months or sooner as needed.
+Total time 27 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-02-24 10:25

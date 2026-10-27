@@ -1,0 +1,88 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0234    Age: 61    Sex: F
+Date of service: 2026-09-23    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 2
+
+CHIEF COMPLAINT
+Follow-up visit; medication refills.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 61-year-old woman returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 18 years ago. Brought meter today; morning values 127-152 mg/dL, no lows. Energy fair. No new complaints today. Denies chest pain, shortness of breath or leg swelling.
+
+REVIEW OF SYSTEMS
+Respiratory: no cough or dyspnea on exertion.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Neurological: no numbness or tingling in the feet; no headaches.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- CKD stage 3a
+- Obesity
+- GERD
+- Seasonal allergic rhinitis
+
+PAST SURGICAL HISTORY
+- Right knee arthroscopy (2015)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- semaglutide 0.5 mg weekly
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- omeprazole 20 mg daily
+- loratadine 10 mg as needed
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+Penicillin (rash).
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Former smoker, quit 1997; 10 pack-years.
+Lives with daughter. Retired bus driver.
+Walks 2 times per week, about 20 minutes.
+
+VITALS
+BP 135/78 | HR 80 | Temp 98.6 F | Wt 89.7 kg | BMI 31.1 | SpO2 97%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date  Test                        Result
+2026-09-15  eGFR                        51 mL/min/1.73m2
+2026-09-15  Creatinine                  1.21 mg/dL
+2026-09-15  Hemoglobin A1c              7.1%
+2026-09-15  Glucose, fasting            145 mg/dL
+2026-09-15  Urine albumin/creatinine    294 mg/g
+2026-09-15  Potassium                   4.9 mmol/L
+2026-09-15  Sodium                      139 mmol/L
+2026-09-15  LDL cholesterol             107 mg/dL
+2026-09-15  Hemoglobin                  14.5 g/dL
+
+ASSESSMENT/PLAN
+1. Diabetes mellitus, type 2: A1c 7.1% today (up from 5.9%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Obesity: weight 89.7 kg. Continue lifestyle changes.
+3. Other chronic problems reviewed: GERD, allergic rhinitis, CKD 3a.
+4. Diabetic foot exam completed today. Influenza vaccine given this season.
+
+PATIENT EDUCATION
+Reviewed sick-day rules for medications.
+Encouraged 150 minutes of moderate activity weekly.
+
+Return to clinic in 4 months or sooner as needed.
+Total time 34 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-09-23 08:26

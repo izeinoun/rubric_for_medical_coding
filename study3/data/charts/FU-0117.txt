@@ -1,0 +1,74 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0117    Age: 62    Sex: M
+Date of service: 2026-07-16    Visit type: Interprofessional e-consult (chart review; patient not seen)
+Clinician: Synthetic Practitioner, FNP-C (Primary Care)
+Location: Synthetic Primary Care Clinic, Room 2
+
+REASON FOR E-CONSULT
+Question from primary care team about diabetes and kidney function management.
+
+HISTORY OF PRESENT ILLNESS
+Chart reviewed for 62-year-old man; patient not seen or examined for this consult. History of type 2 diabetes diagnosed 5 years ago.
+--- Page 2 of 3 --- FU-0117 --- printed 2026-08-03 ---
+Glucose log documented at last office visit: fasting 118-141 mg/dL.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease, stage 3a
+- Hypothyroidism
+- Obesity
+
+PAST SURGICAL HISTORY
+- Right knee arthroscopy (2015)
+- Colono-
+scopy with polypectomy (2021)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- semaglutide 0.5 mg weekly
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- levothyroxine 75 mcg daily
+Medication list taken from the chart; not reconc-
+iled with the patient.
+
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Former smoker, quit 2003; 7 pack-years.
+Lives with daughter. Retired bus driver.
+Alcohol: rare.
+
+VITALS
+Last recorded in clinic: BP 125/70, weight 100.5 kg (not measured today).
+
+EXAM
+Not performed; patient not seen for this e-consult.
+
+LABS
+Date	Test        Result
+2026-01-24 eGFR     59 mL/min/1.73m2
+2026-07-09	eGFR       54 mL/min/1.73m2
+2026-07-09 Creatinine         1.14 mg/dL
+2026-07-09    Hemoglobin A1c	7.0%
+2026-07-09  Glucose, fasting	140 mg/dL
+2026-07-09   Urine albumin/creatinine	77 mg/g
+2026-07-09  Potassium   4.3 mmol/L
+2026-07-09	Sodium	142 mmol/L
+2026-07-09  LDL cholesterol      92 mg/dL
+2026-07-09  Hemoglobin  13.2 g/dL
+
+E-C0NSULT ASSESSMENT AND RECOMMENDATIONS
+1. Diabetes me1litus, type 2: A1c 7.0% (improved from 7.2%). Recommend continuing the current regimen.
+2. Hypothyroidism: stable per chart review; no change recommended.
+3. Chronic kidney disease, stage 3a: Latest eGFR 54 (stab1e from 59), UACR 77 mg/g. Recommend continuing losartan and dapagliflozin; repeat BMP and UACR in 3 months.
+4. Obesity: stable per chart review; no change recommended.
+
+Recommendations sent to the primary care team. Total time spent on chart review: 15 minutes.
+Electronically signed: Synthetic Pract-
+itioner, FNP-C 2026-07-16 12:54

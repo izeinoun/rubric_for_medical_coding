@@ -1,0 +1,90 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0008    Age: 66    Sex: F
+Date of service: 2026-09-16    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 6
+
+CHIEF COMPLAINT
+Follow-up visit; medication refills.
+
+HISTORY OF PRESENT ILLNESS
+66-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 15 years ago. Notes some difficulty with diet recently; fasting sugars 121-145 mg/dL. No polyuria or polydipsia. No visual changes. Sleeping reasonably well. Mood is good.
+
+REVIEW OF SYSTEMS
+Constitutional: denies fever, chills or unintended weight loss.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Respiratory: no cough or dyspnea on exertion.
+Neurological: no numbness or tingling in the feet; no headaches.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- CKD stage 3a
+- Seasonal allergic rhinitis
+- Hypothyroidism
+- Obesity
+
+PAST SURGICAL HISTORY
+- Tonsillectomy (childhood)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+- levothyroxine 75 mcg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+No known drug allergies.
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 77.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Never smoker.
+Walks 5 times per week, about 20 minutes.
+Lives with spouse. Retired teacher.
+
+VITALS
+BP 144/92 | HR 86 | Temp 97.8 F | Wt 101.1 kg | BMI 38.2 | SpO2 99%
+
+LABS
+Date  Test                        Result
+2026-04-16  eGFR                        57 mL/min/1.73m2
+2026-04-16  Creatinine                  1.08 mg/dL
+2026-09-09  eGFR                        50 mL/min/1.73m2
+2026-09-09  Creatinine                  1.24 mg/dL
+2026-09-09  Hemoglobin A1c              7.2%
+2026-09-09  Glucose, fasting            110 mg/dL
+2026-09-09  Urine albumin/creatinine    256 mg/g
+2026-09-09  Potassium                   4.2 mmol/L
+2026-09-09  Sodium                      139 mmol/L
+2026-09-09  LDL cholesterol             124 mg/dL
+2026-09-09  Hemoglobin                  14.4 g/dL
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+ASSESSMENT AND PLAN
+1. Type 2 diabetes mellitus: A1c 7.2% (up from 6.3%). Medications unchanged; reinforced carbohydrate counting.
+2. Obesity, BMI 38.2: discussed nutrition and activity goals; referred to dietitian.
+3. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+4. Hypothyroid: clinically euthyroid. Continue current dose.
+5. Colorectal cancer screening up to date. Shingles vaccine series completed.
+
+PATIENT EDUCATION
+Reviewed carbohydrate counting handout.
+Reviewed sick-day rules for medications.
+
+Return to clinic in 6 months or sooner as needed.
+Total time 40 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-09-16 10:58

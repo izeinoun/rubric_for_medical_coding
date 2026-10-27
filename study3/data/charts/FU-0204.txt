@@ -1,0 +1,97 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0204    Age: 70    Sex: F
+Date of service: 2026-04-11    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Physician, DO (Family Medicine)
+Location: Synthetic Primary Care Clinic, Room 6
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+70-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 5 years ago. Notes some difficulty with diet recently; fasting sugars 125-161 mg/dL. Sleeping reasonably well. Mood is good. No urinary symptoms. No foot ulcers or numbness reported.
+
+REVIEW OF SYSTEMS
+Musculoske-
+letal: chronic knee stiffness, otherwise negative.
+Skin: no rashes or non-healing wounds.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Neurological: no numbness or tingling in the feet; no headaches.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Respiratory: no cough or dyspnea on exertion.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease, stage 3b
+- Hypothyroidism
+- Obesity
+- Essential hypertension
+- Osteoarthritis, bilateral knees
+
+PAST SURGICAL HISTORY
+- Cholecystectomy (2011)
+
+MEDICATIONS
+- metformin 1000 mg twice daily (dose being reduced today)
+- empagliflozin 10 mg daily
+- levothyroxine 75 mcg daily
+- lisinopril 20 mg daily
+- acetaminophen 650 mg as needed
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Penicillin (rash).
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Mother: hypertension.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Former smoker, quit 2010; 30 pack-years.
+Works part time as a librarian.
+Walks 2 times per week, about 20 minutes.
+
+VITALS
+BP 118/72 | HR 92 | Temp 98.1 F | Wt 83.3 kg | BMI 35.1 | SpO2 95%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+--- Page 2 of 3 --- FU-0204 --- printed 2026-04-22 ---
+Ext: no edema.
+
+LABS
+Date   Test     Result
+2026-04-05 eGFR 42 mL/min/1.73m2
+2026-04-05  Hemo-
+globin A1c     9.2%
+2026-04-05  Glucose, fasting   144 mg/dL
+2026-04-05	Urine albumin/creatinine        158 mg/g
+2026-04-05    Potassium	4.1 mmol/L
+2026-04-05   Sodium 143 mmol/L
+2026-04-05  LDL cholesterol    103 mg/dL
+2026-04-05  Hemoglobin	11.5 g/dL
+
+INTERVAL NOTE – PREVIOUS VISIT 2025-11-30
+(For reference only; not today’s assessment.)
+Type 2 diabetes mellitus: A1c 10.1% at that visit; continued medications.
+Chronic kidney disease stage 3b: continued lisinopril.
+Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+
+IMPRESSION AND PLAN
+1. Type 2 diabetes me1litus: A1c 9.2% (improved from 10.1%). Metformin reduced to 500 mg twice daily because eGFR is now 42 (no prior for comparison).
+2. Hypothyroid: clinically euthyroid. Continue current dose.
+3. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+4. Obesity: weight 83.3 kg. Continue lifestyle changes.
+5. Hypertension: BP 118/72 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+6. Diabetic foot exam completed today. Influenza vaccine given this season.
+
+PATIENT EDUCATION
+Discussed hypoglycemia recognition and treatment.
+Patient verbalized understanding of the p1an.
+
+Return to clinic in 6 months or sooner as needed.
+Total time 33 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Physician, D0 2026-04-11 15:46

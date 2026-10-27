@@ -1,0 +1,89 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0113    Age: 65    Sex: M
+Date of service: 2026-02-12    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 14
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 65-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 18 years ago. Has been trying to walk 3 times per week. Glucose readings 127-169 mg/dL fasting. Sleeping reasonably well. Mood is good. Mild bilateral knee stiffness in the mornings, unchanged.
+
+REVIEW OF SYSTEMS
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Neurological: no numbness or tingling in the feet; no headaches.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Respiratory: no cough or dyspnea on exertion.
+Constitutional: denies fever, chills or unintended weight loss.
+Skin: no rashes or non-healing wounds.
+Eyes: no blurred vision; last dilated eye exam 2025.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- CKD, stage 3a
+- Obesity
+- Essential hypertension
+- Hypothyroidism
+
+PAST SURGICAL HISTORY
+- Right knee arthroscopy (2015)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- levothyroxine 75 mcg daily
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Penicillin (rash).
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+Mother: hypertension.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Never smoker.
+Lives with daughter. Retired machinist.
+Walks 4 times per week, about 20 minutes.
+
+VITALS
+BP 134/86 | HR 67 | Temp 98.2 F | Wt 112.7 kg | BMI 37.4 | SpO2 97%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date  Test                        Result
+2025-09-15  eGFR                        52 mL/min/1.73m2
+2025-09-15  Creatinine                  1.19 mg/dL
+2026-02-02  eGFR                        45 mL/min/1.73m2
+2026-02-02  Creatinine                  1.37 mg/dL
+2026-02-02  Hemoglobin A1c              7.7%
+2026-02-02  Glucose, fasting            173 mg/dL
+2026-02-02  Urine albumin/creatinine    282 mg/g
+2026-02-02  Potassium                   4.0 mmol/L
+2026-02-02  Sodium                      138 mmol/L
+2026-02-02  LDL cholesterol             91 mg/dL
+2026-02-02  Hemoglobin                  12.7 g/dL
+
+IMPRESSION AND PLAN
+1. T2DM: A1c 7.7% today (improved from 9.0%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Obesity, BMI 37.4: discussed nutrition and activity goals; referred to dietitian.
+3. Hypertension: BP 134/86 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+4. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+5. Chronic kidney disease stage 3a: Renal function reviewed: eGFR 45 (down from 52). Continue lisinopril and dapagliflozin. Avoid NSAIDs. Nephrology follow-up as scheduled.
+6. Colorectal cancer screening up to date. Diabetic foot exam completed today.
+
+PATIENT EDUCATION
+Reviewed carbohydrate counting handout.
+Reviewed sick-day rules for medications.
+
+Return to clinic in 4 months or sooner as needed.
+Total time 32 minutes, more than half in counseling and care coordination.
+*** NOTE NOT SIGNED - pending clinician signature ***

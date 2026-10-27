@@ -1,0 +1,86 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0083    Age: 75    Sex: M
+Date of service: 2026-09-13    Visit type: Medical nutrition therapy visit, in person
+Clinician: Synthetic Dietitian, RD (Medical Nutrition Therapy)
+Location: Synthetic Primary Care Clinic, Room 6
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 75-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 11 years ago. Brought meter today; morning values 126-150 mg/dL, no lows. Mild bilateral knee stiffness in the mornings, unchanged. Appetite stable. Denies nausea or abdominal pain.
+
+REVIEW OF SYSTEMS
+Neurological: no numbness or tingling in the feet; no headaches.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Skin: no rashes or non-healing wounds.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Respiratory: no cough or dyspnea on exertion.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Constitutional: denies fever, chills or unintended weight loss.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease, stage 3a
+- Hyperlipidemia
+- GERD
+
+PAST SURGICAL HISTORY
+- Colonoscopy with polypectomy (2021)
+- Right knee arthroscopy (2015)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- semaglutide 0.5 mg weekly
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- atorvastatin 40 mg nightly
+- omeprazole 20 mg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+NKDA.
+
+FAMILY HISTORY
+Mother: hypertension.
+Father: coronary artery disease, died age 79.
+
+SOCIAL HISTORY
+Never smoker.
+Walks 4 times per week, about 20 minutes.
+Works part time as a consultant.
+
+VITALS
+BP 144/68 | HR 68 | Temp 98.0 F | Wt 78.8 kg | BMI 26.2 | SpO2 95%
+
+LABS
+Date  Test                        Result
+2026-09-09  eGFR                        52 mL/min/1.73m2
+2026-09-09  Hemoglobin A1c              7.3%
+2026-09-09  Glucose, fasting            105 mg/dL
+2026-09-09  Urine albumin/creatinine    198 mg/g
+2026-09-09  Potassium                   4.2 mmol/L
+2026-09-09  Sodium                      137 mmol/L
+2026-09-09  LDL cholesterol             95 mg/dL
+2026-09-09  Hemoglobin                  13.9 g/dL
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+ASSESSMENT AND PLAN
+1. T2DM: A1c 7.3% (up from 7.0%). Reviewed meal plan and carbohydrate counting; medications per provider.
+2. GERD: managed by primary care provider.
+3. Chronic kidney disease stage 3a due to type 2 diabetes: Kidney labs reviewed with patient: eGFR 52, UACR 198 mg/g. Reviewed renal diet handout; continue dapagliflozin as prescribed.
+4. Problem list reviewed: hyperlipidemia.
+5. Pneumococcal vaccination up to date. Dental visit within the past year.
+
+PATIENT EDUCATION
+Discussed hypoglycemia recognition and treatment.
+Encouraged 150 minutes of moderate activity weekly.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Dietitian, RD 2026-09-13 12:51

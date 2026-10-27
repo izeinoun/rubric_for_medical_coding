@@ -1,0 +1,100 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0055    Age: 62    Sex: M
+Date of service: 2026-08-09    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 7
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 62-year-old man, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 14 years ago. Notes some difficulty with diet recently; fasting sugars 118-164 mg/dL. No urinary symptoms. No foot ulcers or numbness reported. Appetite stable. Denies
+--- Page 2 of 3 --- FU-0055 --- printed 2026-08-27 ---
+nausea or abdominal pain.
+
+REVIEW OF SYSTEMS
+Constitutional: denies fever, chills or unintended weight loss.
+Neurological: no numbness or tingling in the feet; no headaches.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Respiratory: no cough or dyspnea on exertion.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease stage 3a
+- Osteoarthritis, bilateral knees
+- Hypothyroidism
+- Obesity
+- Seasonal allergic rhinitis
+
+PAST SURGICAL HISTORY
+- Right knee arthroscopy (2015)
+- Tonsillectomy (childhood)
+- Appendectomy (1988)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- levothyroxine 75 mcg daily
+- loratadine 10 mg as needed
+Med rec done with patient’s pill bottles.
+
+ALLERGIES
+No known drug allergies.
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+Mother: hypertension.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Never smoker.
+Alcohol: rare.
+Walks 4 times per week, about 20 minutes.
+
+VITALS
+BP 135/87 | HR 74 | Temp 98.4 F | Wt 103.5 kg | BMI 35.0 | SpO2 95%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date	Test      Result
+2026-04-13  eGFR	50 mL/min/1.73m2
+2026-04-13    Creatinine    1.24 mg/dL
+2026-07-31    eGFR      58 mL/min/1.73m2
+2026-07-31	Creatinine        1.06 mg/dL
+2026-07-31  Hemoglobin A1c        8.8%
+2026-07-31	Glucose, fasting	177 mg/dL
+2026-07-31  Urine albumin/creatinine        247 mg/g
+2026-07-31  Potassium	4.6 mmol/L
+2026-07-31  Sodium	141 mmol/L
+2026-07-31	LDL choleste-
+rol	95 mg/dL
+2026-07-31	Hemoglobin	12.6 g/dL
+
+IMPRESSION AND PLAN
+1. Type 2 diabetes mellitus: A1c 8.8% today (up from 8.1%). Continue current regimen. Foot exam done; annua1 eye exam reminder given.
+2. Obesity, BMl 35.0: discussed nutrition and activity goals; referred to dietitian.
+3. OA of knees: continue home exercises and acetaminophen PRN.
+4. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+5. CKD stage 3a: See nephrology note.
+6. Hypothyroid: clinically euth-
+yroid. Continue current dose.
+7. lnfluenza vaccine given this season. Pneumococcal vaccination up to date.
+
+PATIENT EDUCATION
+Discussed hypoglycemia recognition and treatment.
+Encouraged 150 minutes of moderate activity weekly.
+
+Return to clinic in 3 months or sooner as needed.
+Total time 30 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-08-09 12:54

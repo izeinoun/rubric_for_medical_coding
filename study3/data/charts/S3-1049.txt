@@ -1,0 +1,92 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: S3-1049    Age: 71    Sex: F
+Date of service: 2026-09-29    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 5
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+71-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 6 years ago. Has been trying to walk 2 times per week. Glucose readings 121-174 mg/dL fasting. No urinary symptoms. No foot ulcers or numbness reported. Denies chest pain, shortness of breath or leg swelling.
+
+REVIEW OF SYSTEMS
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Constitutional: denies fever, chills or unintended weight loss.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Respiratory: no cough or dyspnea on exertion.
+Genitourinary: no dysuria, hematuria or change in urine output.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- CKD stage 3b
+- Obesity
+- Osteoarthritis, bilateral knees
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+- Cholecystectomy (2011)
+- Tonsillectomy (childhood)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+NKDA.
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+Brother: hyperlipidemia.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Former smoker, quit 2008; 14 pack-years.
+Works part time as a librarian.
+Lives with spouse. Retired machinist.
+
+VITALS
+BP 137/82 | HR 81 | Temp 97.8 F | Wt 83.3 kg | BMI 31.7 | SpO2 95%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date  Test                        Result
+2026-09-25  eGFR                        41 mL/min/1.73m2
+2026-09-25  Hemoglobin A1c              9.5%
+2026-09-25  Glucose, fasting            155 mg/dL
+2026-09-25  Urine albumin/creatinine    328 mg/g
+2026-09-25  Potassium                   4.8 mmol/L
+2026-09-25  Sodium                      142 mmol/L
+2026-09-25  LDL cholesterol             76 mg/dL
+2026-09-25  Hemoglobin                  14.0 g/dL
+
+FROM LAST OFFICE VISIT (2026-05-26)
+(For reference only; not today's assessment.)
+T2DM: A1c 9.1% at that visit; continued medications.
+Chronic kidney disease stage 3b due to type 2 diabetes: continued losartan.
+Obesity, BMI 31.7: discussed nutrition and activity goals; referred to dietitian.
+
+ASSESSMENT AND PLAN
+1. T2DM: A1c 9.5%, up from 9.1%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Obesity: weight 83.3 kg. Continue lifestyle changes.
+3. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+4. Chronic kidney disease stage 3b due to type 2 diabetes: Latest eGFR 41 (no prior for comparison); potassium acceptable. Continue
+5. Dental visit within the past year. Pneumococcal vaccination up to date.
+
+PATIENT EDUCATION
+Encouraged 150 minutes of moderate activity weekly.
+Reviewed sick-day rules for medications.
+
+Return to clinic in 3 months or sooner as needed.
+Total time 40 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-09-29 09:10

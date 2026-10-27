@@ -1,0 +1,87 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0161    Age: 73    Sex: F
+Date of service: 2026-02-25    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Practitioner, FNP-C (Primary Care)
+Location: Synthetic Primary Care Clinic, Room 3
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+73-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 8 years ago. Has been trying to walk 3 times per week. Glucose readings 110-157 mg/dL fasting. Sleeping reasonably well. Mood is good. Appetite stable. Denies nausea or abdominal pain.
+
+REVIEW OF SYSTEMS
+Constitutional: denies fever, chills or unintended weight loss.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Respiratory: no cough or dyspnea on exertion.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease stage 3a
+- Seasonal allergic rhinitis
+--- Page 2 of 3 --- FU-0161 --- printed 2026-02-28 ---
+- Osteoarthritis, bilateral knees
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+- Cholecystectomy (2011)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+- acetaminophen 650 mg as needed
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+No known drug allergies.
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Mother: hypertension.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Never smoker.
+A1cohol: 1 to 2 drinks per week.
+Walks 3 times per week, about 20 minutes.
+
+VITALS
+BP 123/83 | HR 69 | Temp 97.7 F | Wt 57.7 kg | BMI 24.5 | Sp02 99%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date	Test       Result
+2025-07-17	eGFR  55 mL/min/1.73m2
+2025-11-22	eGFR       58 mL/min/1.73m2
+2025-11-22	Creatinine         1.06 mg/dL
+2026-02-24	Hemogl-
+obin A1c        6.8%
+2026-02-24	Glucose, fasting 150 mg/dL
+2026-02-24	LDL cholesterol	94 mg/dL
+2026-02-24  Hemoglobin    12.4 g/dL
+
+ASSESSMENT AND PLAN
+(Assessment copied from note dated 2025-11-27 and updated where noted.)
+1. Diabetes mellitus, type 2: A1c 6.8% today (up from 5.6%). Continue current regimen. Foot exam done; annua1 eye exam reminder given.
+2. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+3. Chronic kidney disease stage 3a due to type 2 diabetes: eGFR 58 (2025-11-22), stable at that time. Continue regimen as previously outlined.
+4. Knee osteoarthritis: stab1e. Acetaminophen as needed; avoid NSAIDs.
+5. Influenza vaccine given this season. Diabetic foot exam completed today.
+
+PATIENT EDUCATI0N
+Encouraged 150 minutes of moderate activity weekly.
+Patient verbalized understanding of the plan.
+
+Retum to clinic in 3 months or sooner as needed.
+Electronica1ly signed: Synthetic Practitioner, FNP-C 2026-02-25 15:06

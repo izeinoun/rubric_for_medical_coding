@@ -1,0 +1,100 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: S3-1010    Age: 65    Sex: M
+Date of service: 2026-07-22    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Physician, DO (Family Medicine)
+Location: Synthetic Primary Care Clinic, Room 10
+
+CHIEF COMPLAINT
+Diabetes check and lab review.
+
+HISTORY OF PRESENT ILLNESS
+65-year-old man here for a 4-month check-in. Outside records from
+--- Page 2 of 3 --- S3-1010 --- printed 2026-07-30 ---
+2015 list type 1 diabetes. History of type 2 diabetes diagnosed 17 years ago. Reports checking glucose twice daily; fasting readings mostly 117-152 mg/dL. Appetite stable. Denies nausea or abdominal pain. No polyuria or polydipsia. No visual changes.
+
+REVIEW OF SYSTEMS
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Skin: no rashes or non-healing wounds.
+Respiratory: no cough or dyspnea on exertion.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Neurological: no numbness or tingling in the feet; no headaches.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+
+PAST MEDlCAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD, stage 3b
+- Hypothyroidism
+- GERD
+- Obesity
+- Osteoarthritis, bilateral knees
+
+PAST SURGICAL HISTORY
+- Cholecystectomy (2011)
+- Appendectomy (1988)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- semaglutide 0.5 mg weekly
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- levothyroxine 75 mcg daily
+- omeprazole 20 mg daily
+- acetaminophen 650 mg as needed
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Father: coronary artery disease, died age 73.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Former smoker, quit 2008; 12 pack-years.
+Works part time as a cashier.
+Alcohol: rare.
+
+VITALS
+BP 136/82 | HR 79 | Temp 98.1 F | Wt 105.7 kg | BMI 34.2 | SpO2 95%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date	Test	Result
+2026-07-17   eGFR	41 mL/min/1.73m2
+2026-07-17    Creatinine	1.51 mg/dL
+2026-07-17	Hemo-
+globin A1c	8.4%
+2026-07-17  Glucose, fasting	134 mg/dL
+2026-07-17	Urine albumin/creatinine	410 mg/g
+2026-07-17 Potassium        4.0 mmol/L
+2026-07-17   Sodium 137 mmol/L
+2026-07-17    LDL cholesterol  58 mg/dL
+2026-07-17	Hemoglobin    11.3 g/dL
+
+IMPRESSION AND PLAN
+1. Diabetes mellitus, type 2: A1c 8.4% (improved from 8.9%). Medications unchanged; reinforced carbohydrate counting.
+2. OA of knees: continue home exercises and acetaminophen PRN.
+3. Obesity: weight 105.7 kg. Continue lifestyle changes.
+4. CKD stage 3b: eGFR 41 today (no prior for comparison). Continue dapagliflozin. Recheck BMP and urine albumin-to-creatinine ratio in 3 months.
+5. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+6. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+7. Pneumococcal vaccination up to date. Dental visit within the past year.
+
+PATIENT EDUCAT-
+ION
+Patient verbalized understanding of the plan.
+Reviewed carbohydrate counting handout.
+
+Retum to clinic in 6 months or sooner as needed.
+Total time 43 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Physician, D0 2026-07-22 12:38

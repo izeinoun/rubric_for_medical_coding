@@ -1,0 +1,92 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0092    Age: 69    Sex: F
+Date of service: 2026-07-01    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 6
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+69-year-old woman seen today for routine chronic care. Type 2 diabetes for 19 years; started basal insulin 2 years ago when oral agents were no longer enough. Reports checking glucose daily; fasting readings mostly 116-171 mg/dL. No polyuria or polydipsia. No visual changes. Sleeping reasonably well. Mood is good.
+
+REVIEW OF SYSTEMS
+Neurological: no numbness or tingling in the feet; no headaches.
+Skin: no rashes or non-healing wounds.
+Constitutional: denies fever, chills or unintended weight loss.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+
+MEDICATIONS
+- insulin glargine 24 units nightly
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- omeprazole 20 mg daily
+- acetaminophen 650 mg as needed
+- atorvastatin 40 mg nightly
+- loratadine 10 mg as needed
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+Penicillin (rash).
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus, insulin-requiring
+- Chronic kidney disease stage 3b
+- GERD
+- Osteoarthritis, bilateral knees
+- Hyperlipidemia
+- Seasonal allergic rhinitis
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+Father: coronary artery disease, died age 73.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Former smoker, quit 1995; 9 pack-years.
+Works part time as a cashier.
+Walks 2 times per week, about 20 minutes.
+
+VITALS
+BP 123/86 | HR 85 | Temp 98.4 F | Wt 72.2 kg | BMI 29.7 | SpO2 98%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date  Test                        Result
+2026-07-01  eGFR                        33 mL/min/1.73m2
+2026-07-01  Creatinine                  1.87 mg/dL
+2026-07-01  Hemoglobin A1c              7.5%
+2026-07-01  Glucose, fasting            134 mg/dL
+2026-07-01  Urine albumin/creatinine    245 mg/g
+2026-07-01  Potassium                   4.5 mmol/L
+2026-07-01  Sodium                      138 mmol/L
+2026-07-01  LDL cholesterol             88 mg/dL
+2026-07-01  Hemoglobin                  12.9 g/dL
+
+IMPRESSION AND PLAN
+1. T2DM, insulin-requiring: A1c 7.5% (improved from 7.9%). Medications unchanged; reinforced carbohydrate counting.
+2. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+3. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+4. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+5. Hyperlipidemia: LDL 88 mg/dL. Continue atorvastatin 40 mg.
+6. Diabetic chronic kidney disease, stage 3b: eGFR 33 (no prior for comparison), albuminuria 245 mg/g. Increased losartan to 100 mg daily. Repeat potassium and creatinine in 2 weeks.
+7. Colorectal cancer screening up to date. Shingles vaccine series completed.
+
+PATIENT EDUCATION
+Reviewed sick-day rules for medications.
+Encouraged 150 minutes of moderate activity weekly.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-07-01 13:32

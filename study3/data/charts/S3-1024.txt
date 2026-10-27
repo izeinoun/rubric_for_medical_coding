@@ -1,0 +1,96 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: S3-1024    Age: 57    Sex: M
+Date of service: 2026-04-06    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 13
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 57-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 19 years ago. Brought meter today; morning values 128-165 mg/dL, no lows. Denies chest pain,
+--- Page 2 of 3 --- S3-1024 --- printed 2026-04-11 ---
+shortness of breath or leg swelling. No urinary symptoms. No foot ulcers or numbness reported.
+
+REVIEW OF SYSTEMS
+Skin: no rashes or non-healing wounds.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Con-
+stitutional: denies fever, chills or unintended weight 1oss.
+Respiratory: no cough or dyspnea on exertion.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- CKD stage 4
+- Osteoarthritis, bilateral knees
+- Obesity
+- Essential hypertension
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+- Right knee arthroscopy (2015)
+- Appendectomy (1988)
+
+MEDICATIONS
+- insulin glargine 18 units nightly
+- empagliflozin 10 mg daily
+- acetaminophen 650 mg as needed
+- lisinopril 20 mg daily
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+No known drug allergies.
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Never smoker.
+Works part time as a librarian.
+Alcohol: 1 to 2 drinks per week.
+
+VITALS
+BP 122/77 | HR 63 | Temp 98.4 F | Wt 99.7 kg | BMI 32.6 | SpO2 97%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date	Test	Result
+2026-04-04 eGFR	58 mL/min/1.73m2
+2026-04-04	Creatinine     1.06 mg/dL
+2026-04-04    Hemoglobin A1c   8.8%
+2026-04-04    Glucose, fasting 119 mg/dL
+2026-04-04	Urine albumin/creatinine	398 mg/g
+2026-04-04    Potassium	4.8 mmol/L
+2026-04-04 Sodium	137 mmol/L
+2026-04-04	LDL cholesterol	84 mg/dL
+2026-04-04	Hemoglobin      13.6 g/dL
+
+FR0M LAST OFFlCE VISIT (2025-12-21)
+(For reference only; not today’s assessment.)
+Type 2 diabetes mellitus: A1c 9.9% at that visit; continued medications.
+CKD stage 4 secondary to type 2 diabetes: continued lisinopril.
+Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+
+ASSESSMENT/PLAN
+1. Type 2 diabetes mellitus: A1c 8.8% (improved from 9.9%). Medications unchanged; reinforced carbohydrate counting.
+2. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+3. CKD stage 4 secondary to type 2 diabetes: Advanced kidney disease, eGFR 58. 0ff metformin. Nephrology following; discussed rena1 diet and avoidance of contrast and NSAIDs.
+4. Obesity, BMI 32.6: discussed nutrition and activity goals; referred to dietitian.
+5. Also on problem list: hypertension.
+6. Dental visit within the past year. Retinal exam due; referral placed.
+
+PATIENT EDUCATION
+Discussed hypoglycemia recognition and treatment.
+Patient verbalized understanding of the plan.
+
+Retum to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-04-06 12:35

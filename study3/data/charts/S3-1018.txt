@@ -1,0 +1,89 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: S3-1018    Age: 50    Sex: M
+Date of service: 2026-08-18    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 9
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 50-year-old man, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 6 years ago. Brought meter today; morning values 129-143 mg/dL, no lows. Appetite stable. Denies nausea or abdominal pain. Denies chest pain, shortness of breath or leg swelling.
+
+REVIEW OF SYSTEMS
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Skin: no rashes or non-healing wounds.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Respiratory: no cough or dyspnea on exertion.
+Constitutional: denies fever, chills or unintended weight loss.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Genitourinary: no dysuria, hematuria or change in urine output.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+- acetaminophen 650 mg as needed
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease stage 3a
+- Seasonal allergic rhinitis
+- Osteoarthritis, bilateral knees
+
+PAST SURGICAL HISTORY
+- Tonsillectomy (childhood)
+
+FAMILY HISTORY
+No family history of kidney disease reported.
+Mother: hypertension.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Never smoker.
+Alcohol: 1 to 2 drinks per week.
+Works part time as a cashier.
+
+VITALS
+BP 123/85 | HR 75 | Temp 98.2 F | Wt 88.0 kg | BMI 27.8 | SpO2 98%
+
+LABS
+Date  Test	Result
+2026-03-21	eGFR         28 mL/min/1.73m2
+2026-03-21    Creatinine	2.21 mg/dL
+2026-08-15 eGFR	20 mL/min/1.73m2
+2026-08-15   Creatinine	3.09 mg/dL
+2026-08-15	Hemoglobin A1c        8.5%
+2026-08-15 Glucose, fasting	139 mg/dL
+2026-08-15    Urine albumin/creatinine      344 mg/g
+2026-08-15	Potassium	4.1 mmol/L
+2026-08-15	Sodium      137 mmol/L
+2026-08-15 LDL cholesterol	59 mg/dL
+2026-08-15	Hemoglobin    14.6 g/dL
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+IMPRESSION AND PLAN
+1. Diabetes mellitus, type 2: A1c 8.5%, improved from 9.2%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Chronic kidney disease, stage 3a: Labs reviewed with patient, eGFR 20. Continue empagliflozin; metformin dose appropriate for current eGFR. Recheck in 3 to 4 months.
+3. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+4. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+5. Shingles vaccine series completed. Pneumococcal vaccination up to date.
+
+PATIENT EDUCATION
+Discussed hypoglycemia recognition and treatment.
+Reviewed sick-day rules for medications.
+
+Return to clinic in 4 months or sooner as needed.
+Total time 28 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-08-18 12:35

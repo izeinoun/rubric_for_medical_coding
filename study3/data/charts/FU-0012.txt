@@ -1,0 +1,90 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0012    Age: 57    Sex: F
+Date of service: 2026-05-05    Visit type: Medical nutrition therapy visit, in person
+Clinician: Synthetic Dietitian, RD (Medical Nutrition Therapy)
+Location: Synthetic Primary Care Clinic, Room 2
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 57-year-old woman returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 11 years ago. Has been trying to walk 3 times per week. Glucose readings 121-143 mg/dL fasting. No urinary symptoms. No foot ulcers or numbness reported. Denies chest pain, shortness of breath or leg swelling.
+
+REVIEW OF SYSTEMS
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Constitutional: denies fever, chills or unintended weight loss.
+Respiratory: no cough or dyspnea on exertion.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Skin: no rashes or non-healing wounds.
+Neurological: no numbness or tingling in the feet; no headaches.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- atorvastatin 40 mg nightly
+- omeprazole 20 mg daily
+- lisinopril 20 mg daily
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Penicillin (rash).
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease stage 3a
+- Hyperlipidemia
+- GERD
+- Essential hypertension
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+- Cholecystectomy (2011)
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+No family history of kidney disease reported.
+Father: coronary artery disease, died age 76.
+
+SOCIAL HISTORY
+Former smoker, quit 1998; 16 pack-years.
+Lives with alone. Retired machinist.
+Works part time as a cashier.
+
+VITALS
+BP 146/77 | HR 92 | Temp 97.7 F | Wt 58.4 kg | BMI 24.3 | SpO2 97%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date  Test                        Result
+2026-04-28  eGFR                        48 mL/min/1.73m2
+2026-04-28  Creatinine                  1.29 mg/dL
+2026-04-28  Hemoglobin A1c              9.0%
+2026-04-28  Glucose, fasting            150 mg/dL
+2026-04-28  Urine albumin/creatinine    336 mg/g
+2026-04-28  Potassium                   4.5 mmol/L
+2026-04-28  Sodium                      136 mmol/L
+2026-04-28  LDL cholesterol             64 mg/dL
+2026-04-28  Hemoglobin                  12.7 g/dL
+
+ASSESSMENT/PLAN
+1. Type 2 diabetes mellitus: A1c 9.0% (up from 8.5%). Reviewed meal plan and carbohydrate counting; medications per provider.
+2. CKD, stage 3a: eGFR 48 reviewed (no prior for comparison); reinforced low-sodium diet and medication adherence. Provider to review labs.
+3. Hypertension: managed by primary care provider.
+4. Hyperlipidemia: managed by primary care provider.
+5. GERD: managed by primary care provider.
+6. Dental visit within the past year. Influenza vaccine given this season.
+
+PATIENT EDUCATION
+Encouraged 150 minutes of moderate activity weekly.
+Patient verbalized understanding of the plan.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Dietitian, RD 2026-05-05 15:54

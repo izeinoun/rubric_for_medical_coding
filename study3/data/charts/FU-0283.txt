@@ -1,0 +1,91 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0283    Age: 64    Sex: M
+Date of service: 2026-09-21    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Physician, DO (Family Medicine)
+Location: Synthetic Primary Care Clinic, Room 14
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+64-year-old man here for a 4-month check-in. Type 1 diabetes since age 25. States adherence to medications is good. Denies hypoglycemic episodes. Energy fair. No new complaints today. Denies chest pain, shortness of breath or leg swelling.
+
+REVIEW OF SYSTEMS
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Neurological: no numbness or tingling in the feet; no headaches.
+Respiratory: no cough or dyspnea on exertion.
+Skin: no rashes or non-healing wounds.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus, on insulin
+- CKD, stage 3a
+- GERD
+- Seasonal allergic rhinitis
+- Osteoarthritis, bilateral knees
+- Obesity
+
+PAST SURGICAL HISTORY
+- Colonoscopy with polypectomy (2021)
+- Right knee arthroscopy (2015)
+
+MEDICATIONS
+- insulin glargine 22 units nightly and insulin lispro with meals; continuous glucose monitor
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- omeprazole 20 mg daily
+- loratadine 10 mg as needed
+- acetaminophen 650 mg as needed
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 77.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Former smoker, quit 2000; 28 pack-years.
+Lives with spouse. Retired bus driver.
+Alcohol: rare.
+
+VITALS
+BP 118/84 | HR 68 | Temp 98.3 F | Wt 82.0 kg | BMI 31.2 | SpO2 97%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date  Test                        Result
+2026-02-10  eGFR                        47 mL/min/1.73m2
+2026-09-15  eGFR                        45 mL/min/1.73m2
+2026-09-15  Hemoglobin A1c              6.4%
+2026-09-15  Glucose, fasting            106 mg/dL
+2026-09-15  Urine albumin/creatinine    346 mg/g
+2026-09-15  Potassium                   4.4 mmol/L
+2026-09-15  Sodium                      136 mmol/L
+2026-09-15  LDL cholesterol             71 mg/dL
+2026-09-15  Hemoglobin                  11.6 g/dL
+
+ASSESSMENT/PLAN
+1. Diabetes mellitus: A1c 6.4%. Continue basal-bolus insulin; reviewed CGM download, time in range 61%. Endocrinology follow-up in 3 months.
+2. GERD: symptoms controlled on omeprazole. Continue.
+3. OA of knees: continue home exercises and acetaminophen PRN.
+4. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+5. Diabetic chronic kidney disease, stage 3a: eGFR 45 today (stable from 47). Continue losartan. Recheck BMP and urine albumin-to-creatinine ratio in 3 months.
+6. Obesity, BMI 31.2: discussed nutrition and activity goals; referred to dietitian.
+7. Diabetic foot exam completed today. Shingles vaccine series completed.
+
+PATIENT EDUCATION
+Reviewed carbohydrate counting handout.
+Reviewed sick-day rules for medications.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Physician, DO 2026-09-21 16:09

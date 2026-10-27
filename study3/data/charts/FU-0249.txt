@@ -1,0 +1,90 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0249    Age: 81    Sex: M
+Date of service: 2026-05-21    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 7
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+81-year-old man here for a 3-month check-in. History of type 2 diabetes diagnosed 5 years ago. Home glucose log reviewed, fasting values 115-162 mg/dL with occasional post-meal readings above 200. Denies chest pain, shortness of breath or leg swelling. Energy fair. No new complaints today.
+
+REVIEW OF SYSTEMS
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Skin: no rashes or non-healing wounds.
+Neurological: no numbness or tingling in the feet; no headaches.
+Constitutional: denies fever, chills or unintended weight loss.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- levothyroxine 75 mcg daily
+- omeprazole 20 mg daily
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+No known drug allergies.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease stage 3b
+- Osteoarthritis, bilateral knees
+- Hypothyroidism
+- GERD
+- Obesity
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Former smoker, quit 1999; 13 pack-years.
+Walks 2 times per week, about 20 minutes.
+Works part time as a cashier.
+
+VITALS
+BP 131/78 | HR 89 | Temp 97.7 F | Wt 126.9 kg | BMI 36.0 | SpO2 94%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date  Test                        Result
+2026-02-17  eGFR                        36 mL/min/1.73m2
+2026-02-17  Creatinine                  1.72 mg/dL
+2026-05-18  eGFR                        39 mL/min/1.73m2
+2026-05-18  Hemoglobin A1c              8.4%
+2026-05-18  Glucose, fasting            148 mg/dL
+2026-05-18  Urine albumin/creatinine    186 mg/g
+2026-05-18  Potassium                   4.5 mmol/L
+2026-05-18  Sodium                      137 mmol/L
+2026-05-18  LDL cholesterol             115 mg/dL
+2026-05-18  Hemoglobin                  13.5 g/dL
+
+IMPRESSION AND PLAN
+1. T2DM: A1c 8.4%, up from 7.9%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. CKD, stage 3b: Renal function reviewed: eGFR 39 (stable from 36). Continue losartan and empagliflozin. Avoid NSAIDs. Nephrology follow-up as scheduled.
+3. Obesity: weight 126.9 kg. Continue lifestyle changes.
+4. Hypothyroid: clinically euthyroid. Continue current dose.
+5. Problem list reviewed: knee osteoarthritis, GERD.
+6. Pneumococcal vaccination up to date. Influenza vaccine given this season.
+
+PATIENT EDUCATION
+Encouraged 150 minutes of moderate activity weekly.
+Reviewed carbohydrate counting handout.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-05-21 08:50

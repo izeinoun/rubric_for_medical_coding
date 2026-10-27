@@ -1,0 +1,85 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0075    Age: 58    Sex: F
+Date of service: 2026-03-11    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Associate, PA-C (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 8
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+58-year-old woman here for a 3-month check-in. History of type 2 diabetes diagnosed 14 years ago. Has been trying to walk 2 times per week. Glucose readings 109-157 mg/dL fasting. Energy fair. No new complaints today. Mild bilateral knee stiffness in the mornings, unchanged.
+
+REVIEW OF SYSTEMS
+Constitutional: denies fever, chills or unintended weight loss.
+Neurological: no numbness or tingling in the feet; no headaches.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Skin: no rashes or non-healing wounds.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease
+- Essential hypertension
+- Seasonal allergic rhinitis
+
+PAST SURGICAL HISTORY
+- Colonoscopy with polypectomy (2021)
+- Appendectomy (1988)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- semaglutide 0.5 mg weekly
+- empagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- loratadine 10 mg as needed
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+NKDA.
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 77.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Never smoker.
+Walks 2 times per week, about 20 minutes.
+Alcohol: none.
+
+VITALS
+BP 118/86 | HR 76 | Temp 97.8 F | Wt 71.4 kg | BMI 25.7 | SpO2 99%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date  Test                        Result
+2026-03-07  eGFR                        39 mL/min/1.73m2
+2026-03-07  Creatinine                  1.58 mg/dL
+2026-03-07  Hemoglobin A1c              9.3%
+2026-03-07  Glucose, fasting            169 mg/dL
+2026-03-07  Urine albumin/creatinine    378 mg/g
+2026-03-07  Potassium                   4.9 mmol/L
+2026-03-07  Sodium                      142 mmol/L
+2026-03-07  LDL cholesterol             96 mg/dL
+2026-03-07  Hemoglobin                  11.4 g/dL
+
+ASSESSMENT/PLAN
+1. Diabetes mellitus, type 2: A1c 9.3%, improved from 9.8%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+3. Diabetic kidney disease: Latest eGFR 39 (no prior for comparison); potassium acceptable. Continue lisinopril and empagliflozin. BMP in 3 months.
+4. Hypertension: BP 118/86 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+5. Diabetic foot exam completed today. Influenza vaccine given this season.
+
+PATIENT EDUCATION
+Discussed hypoglycemia recognition and treatment.
+Encouraged 150 minutes of moderate activity weekly.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Associate, PA-C 2026-03-11 13:43

@@ -1,0 +1,96 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0107    Age: 81    Sex: M
+Date of service: 2026-03-21    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 10
+
+CHIEF COMPLAINT
+Diabetes check and lab review.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 81-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 16 years ago. Notes some difficulty with diet recently; fasting sugars 128-175 mg/dL. Kidney function decline has been attributed to his diabetes; no other renal disease identified on workup. Denies chest pain, shortness of breath or leg swelling. Energy fair. No new complaints today.
+
+REVIEW OF SYSTEMS
+Neurological: no numbness or tingling in the feet; no headaches.
+Respiratory: no cough or dyspnea on exertion.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Constitutional: denies fever, chills or unintended weight loss.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease stage 3a
+- Hyperlipidemia
+- Hypothyroidism
+- Obesity
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- atorvastatin 40 mg nightly
+- levothyroxine 75 mcg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+FAMILY HISTORY
+No family history of kidney disease reported.
+Father: coronary artery disease, died age 67.
+
+SOCIAL HISTORY
+Never smoker.
+Lives with alone. Retired accountant.
+Alcohol: 1 to 2 drinks per week.
+
+VITALS
+BP 143/82 | HR 80 | Temp 98.6 F | Wt 108.1 kg | BMI 38.0 | SpO2 96%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date  Test                        Result
+2025-11-08  eGFR                        53 mL/min/1.73m2
+2025-11-08  Creatinine                  1.17 mg/dL
+2026-03-11  eGFR                        49 mL/min/1.73m2
+2026-03-11  Hemoglobin A1c              8.6%
+2026-03-11  Glucose, fasting            181 mg/dL
+2026-03-11  Urine albumin/creatinine    67 mg/g
+2026-03-11  Potassium                   5.0 mmol/L
+2026-03-11  Sodium                      136 mmol/L
+2026-03-11  LDL cholesterol             61 mg/dL
+2026-03-11  Hemoglobin                  11.6 g/dL
+
+INTERVAL NOTE - PREVIOUS VISIT 2025-11-11
+(For reference only; not today's assessment.)
+Diabetes mellitus, type 2: A1c 8.4% at that visit; continued medications.
+Chronic kidney disease stage 3a: eGFR 53 at that visit; continued losartan.
+HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+
+ASSESSMENT/PLAN
+1. Diabetes mellitus, type 2: A1c 8.6% today (up from 8.4%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Chronic kidney disease stage 3a: eGFR 49 (stable from 53), albuminuria 67 mg/g. Increased losartan to 100 mg daily. Repeat potassium and creatinine in 2 weeks.
+3. Obesity: weight 108.1 kg. Continue lifestyle changes.
+4. Hypothyroid: clinically euthyroid. Continue current dose.
+5. Hyperlipidemia: LDL 61 mg/dL. Continue atorvastatin 40 mg.
+6. Pneumococcal vaccination up to date. Retinal exam due; referral placed.
+
+PATIENT EDUCATION
+Patient verbalized understanding of the plan.
+Reviewed sick-day rules for medications.
+
+Return to clinic in 3 months or sooner as needed.
+Total time 44 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-03-21 13:17

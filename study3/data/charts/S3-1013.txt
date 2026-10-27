@@ -1,0 +1,88 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: S3-1013    Age: 70    Sex: F
+Date of service: 2026-07-22    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Physician, DO (Family Medicine)
+Location: Synthetic Primary Care Clinic, Room 11
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+70-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 7 years ago. Has been trying to walk 4 times per week. Glucose readings 128-136 mg/dL fasting. Denies chest pain, shortness of breath or leg swelling. Appetite stable. Denies nausea or abdominal pain.
+
+REVIEW OF SYSTEMS
+Neurological: no numbness or tingling in the feet; no headaches.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Respiratory: no cough or dyspnea on exertion.
+Eyes: no blurred vision; last dilated eye exam 2023.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Chronic kidney disease stage 3a
+- T2DM, on oral agents
+- Seasonal allergic rhinitis
+- Hyperlipidemia
+- GERD
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- loratadine 10 mg as needed
+- atorvastatin 40 mg nightly
+- omeprazole 20 mg daily
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 73.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Never smoker.
+Lives with alone. Retired bus driver.
+Works part time as a consultant.
+
+VITALS
+BP 136/73 | HR 75 | Temp 97.8 F | Wt 79.0 kg | BMI 27.1 | SpO2 96%
+
+LABS
+Date  Test                        Result
+2026-02-02  eGFR                        61 mL/min/1.73m2
+2026-02-02  Creatinine                  1.01 mg/dL
+2026-07-19  eGFR                        57 mL/min/1.73m2
+2026-07-19  Hemoglobin A1c              6.8%
+2026-07-19  Glucose, fasting            119 mg/dL
+2026-07-19  Urine albumin/creatinine    13 mg/g
+2026-07-19  Potassium                   4.0 mmol/L
+2026-07-19  Sodium                      141 mmol/L
+2026-07-19  LDL cholesterol             90 mg/dL
+2026-07-19  Hemoglobin                  12.9 g/dL
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+IMPRESSION AND PLAN
+1. Type 2 diabetes mellitus: A1c 6.8% (up from 6.5%). Medications unchanged; reinforced carbohydrate counting.
+2. GERD: symptoms controlled on omeprazole. Continue.
+3. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+4. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+5. Decreased eGFR, possible early CKD versus lab variation: eGFR 57 today, previously 61. Repeat BMP and urine albumin in 3 months to confirm chronicity.
+6. Shingles vaccine series completed. Pneumococcal vaccination up to date.
+
+PATIENT EDUCATION
+Encouraged 150 minutes of moderate activity weekly.
+Reviewed carbohydrate counting handout.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Physician, DO 2026-07-22 12:46

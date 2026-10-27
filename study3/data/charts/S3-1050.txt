@@ -1,0 +1,99 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: S3-1050    Age: 78    Sex: M
+Date of service: 2026-01-29    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 9
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+78-year-old man seen today for routine chronic care. History of type 2 diabetes diagnosed 19 years ago. Reports checking glucose a few times a week; fasting readings mostly 115-166 mg/dL. Sleeping reasonably well. Mood is good. Denies chest pain, shortness of breath or leg swelling.
+
+REVIEW OF SYSTEMS
+Skin: no rashes or non-healing wounds.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Constitutional: denies fever, chills or unintended weight loss.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Neurological: no numbness or tingling in the feet; no headaches.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+
+MEDICATIONS
+- insulin glargine 18 units nightly
+- semaglutide 0.5 mg weekly
+- dapagliflozin 10 mg daily
+- atorvastatin 40 mg nightly
+- lisinopril 20 mg daily
+- omeprazole 20 mg daily
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+NKDA.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease, stage 4
+- Hyperlipidemia
+- Essential hypertension
+- GERD
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+No family history of kidney disease reported.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Former smoker, quit 1995; 22 pack-years.
+Alcohol: 1 to 2 drinks per week.
+Walks 2 times per week, about 20 minutes.
+
+VITALS
+BP 145/78 | HR 92 | Temp 98.4 F | Wt 92.8 kg | BMI 29.7 | SpO2 97%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date    Test         Result
+2025-07-09	eGFR	16 mL/min/1.73m2
+2026-01-24    eGFR 24 mL/min/1.73m2
+2026-01-24	Creatinine 2.57 mg/dL
+2026-01-24	Hemoglobin A1c   8.7%
+2026-01-24 Glucose, fasting        135 mg/dL
+2026-01-24    Urine albumin/creatinine	172 mg/g
+2026-01-24	Potassium    3.8 mmol/L
+2026-01-24 Sodium         143 mmol/L
+2026-01-24    LDL cholesterol   112 mg/dL
+2026-01-24  Hemoglobin         12.7 g/dL
+
+PRIOR VISIT SUMMARY (2025-07-12)
+(For reference only; not today's assessment.)
+T2DM: A1c 9.0% at that visit; continued medications.
+Diabetic chronic kidney disease, stage 4: eGFR 16 at that visit; continued lisinopril.
+Hyperlipidemia: LDL 112 mg/dL. Continue atorvastatin 40 mg.
+
+ASSESSMENT AND PLAN
+1. T2DM: A1c 8.7%, improved from 9.0%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. GERD: symptoms controlled on omeprazole. Continue.
+3. Diabetic chronic kidney disease, stage 4: eGFR 24 (up from 16). Continue
+4. HTN: at goal on current regimen. Continue lisinopril.
+5. Problem list reviewed: hyperlipidemia.
+6. Dental visit within the past year. Diabetic foot exam completed today.
+
+PATIENT EDUCATION
+Patient verbalized understanding of the plan.
+Discussed hypoglycemia recognition and treatment.
+
+Return to clinic in 4 months or sooner as needed.
+Total time 28 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-01-29 08:31

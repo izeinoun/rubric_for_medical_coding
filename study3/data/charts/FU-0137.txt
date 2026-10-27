@@ -1,0 +1,93 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0137    Age: 59    Sex: F
+Date of service: 2026-03-03    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Practitioner, FNP-C (Primary Care)
+Location: Synthetic Primary Care Clinic, Room 5
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 59-year-old woman, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 13 years ago. States adherence to medications is good. Denies hypoglycemic episodes. No urinary symptoms. No foot ulcers or numbness reported. Sleeping reasonably well. Mood is good.
+
+REVIEW OF SYSTEMS
+Respiratory: no cough or dyspnea on exertion.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Neurological: no numbness or tingling in the feet; no headaches.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- CKD stage 3a
+- Essential hypertension
+- Hypothyroidism
+- Hyperlipidemia
+- Obesity
+
+PAST SURGICAL HISTORY
+- Right knee arthroscopy (2015)
+- Cataract extraction, left eye (2022)
+- Tonsillectomy (childhood)
+
+MEDICATIONS
+- metformin 1000 mg twice daily (dose being reduced today)
+- semaglutide 0.5 mg weekly
+- dapagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- levothyroxine 75 mcg daily
+- atorvastatin 40 mg nightly
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Father: coronary artery disease, died age 80.
+
+SOCIAL HISTORY
+Never smoker.
+Lives with spouse. Retired teacher.
+Alcohol: none.
+
+VITALS
+BP 136/68 | HR 87 | Temp 98.5 F | Wt 100.2 kg | BMI 36.7 | SpO2 96%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date  Test                        Result
+2025-10-10  eGFR                        58 mL/min/1.73m2
+2026-02-27  eGFR                        45 mL/min/1.73m2
+2026-02-27  Creatinine                  1.37 mg/dL
+2026-02-27  Hemoglobin A1c              8.0%
+2026-02-27  Glucose, fasting            126 mg/dL
+2026-02-27  Urine albumin/creatinine    161 mg/g
+2026-02-27  Potassium                   4.0 mmol/L
+2026-02-27  Sodium                      143 mmol/L
+2026-02-27  LDL cholesterol             75 mg/dL
+2026-02-27  Hemoglobin                  12.8 g/dL
+
+ASSESSMENT AND PLAN
+1. Diabetes mellitus, type 2: A1c 8.0% (up from 7.6%). Metformin reduced to 500 mg twice daily because eGFR is now 45 (down from 58).
+2. Hypertension: BP 136/68 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+3. Obesity: weight 100.2 kg. Continue lifestyle changes.
+4. Hypothyroid: clinically euthyroid. Continue current dose.
+5. Also on problem list: hyperlipidemia.
+6. Colorectal cancer screening up to date. Dental visit within the past year.
+
+PATIENT EDUCATION
+Patient verbalized understanding of the plan.
+Reviewed sick-day rules for medications.
+
+Return to clinic in 6 months or sooner as needed.
+Total time 39 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Practitioner, FNP-C 2026-03-03 08:15

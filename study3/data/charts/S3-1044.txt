@@ -1,0 +1,94 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: S3-1044    Age: 72    Sex: F
+Date of service: 2026-03-10    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Physician, DO (Family Medicine)
+Location: Synthetic Primary Care Clinic, Room 8
+
+CHIEF COMPLAINT
+Follow-up visit; medication refills.
+
+--- Page 2 of 3 --- S3-1044 --- printed 2026-03-14 ---
+HISTORY OF PRESENT ILLNESS
+72-year-o1d woman seen today for routine chronic care. History of type 2 diabetes diagnosed 8 years ago. Notes some difficulty with diet recently; fasting sugars 123-147 mg/dL. Denies chest pain, shor-
+tness of breath or leg swelling. No urinary symptoms. No foot ulcers or numbness reported.
+
+REVIEW OF SYSTEMS
+Eyes: no blurred vision; last dilated eye exam 2023.
+Constitutional: denies fever, chills or uninte-
+nded weight loss.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Musculoskeletal: chronic knee stiffness, otherw-
+ise negative.
+Skin: no rashes or non-healing wounds.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Obesity
+- Seasonal allergic rhinitis
+- Essential hypertension
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+- Cholecystectomy (2011)
+- Tonsillectomy (childhood)
+
+MEDlCATIONS
+- metformin 1000 mg twice daily
+- loratadine 10 mg as needed
+- lisinopril 20 mg daily
+- atorvastatin 40 mg nightly
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Father: coronary artery disease, died age 70.
+
+SOCIAL HISTORY
+Former smoker, quit 2012; 9 pack-years.
+Lives with spouse. Retired accountant.
+Alcohol: 1 to 2 drinks per week.
+
+VITALS
+BP 125/78 | HR 63 | Temp 98.0 F | Wt 89.4 kg | BMI 36.3 | SpO2 95%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date  Test                        Result
+2025-10-21  eGFR                        50 mL/min/1.73m2
+2025-10-21  Creatinine                  1.24 mg/dL
+2026-03-05  eGFR                        57 mL/min/1.73m2
+2026-03-05  Creatinine                  1.08 mg/dL
+2026-03-05  Hemoglobin A1c              7.6%
+2026-03-05  Glucose, fasting            171 mg/dL
+2026-03-05  Urine albumin/creatinine    203 mg/g
+2026-03-05  Potassium                   4.7 mmol/L
+2026-03-05  Sodium                      141 mmol/L
+2026-03-05  LDL cholesterol             58 mg/dL
+2026-03-05  Hemoglobin                  12.0 g/dL
+
+ASSESSMENT/PLAN
+1. Type 2 diabetes me1litus: A1c 7.6% (up from 6.3%). Medications unchanged; reinforced carbohydrate counting.
+1b. Kidneys OK per last labs.
+2. Obesity, BMl 36.3: discussed nutrition and activity goals; referred to dietitian.
+3. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+4. A1so on problem list: hypertension, allergic rhinitis.
+5. Influenza vaccine given this season. Pneumococcal vaccination up to date.
+
+PATIENT EDUCATION
+Encouraged 150 minutes of moderate activity weekly.
+Patient verbalized understanding of the plan.
+
+Retum to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Physician, DO 2026-03-10 11:08

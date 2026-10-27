@@ -1,0 +1,84 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0261    Age: 59    Sex: M
+Date of service: 2026-06-09    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 12
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+59-year-old man presents for scheduled follow-up. History of type 2 diabetes diagnosed 13 years ago. Has been trying to walk 4 times per week. Glucose readings 126-166 mg/dL fasting. Denies chest pain, shortness of breath or leg swelling. Appetite stable. Denies nausea or abdominal pain.
+
+REVIEW OF SYSTEMS
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Respiratory: no cough or dyspnea on exertion.
+Constitutional: denies fever, chills or unintended weight loss.
+Skin: no rashes or non-healing wounds.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Obesity
+- Hypothyroidism
+- Seasonal allergic rhinitis
+
+PAST SURGICAL HISTORY
+- Cholecystectomy (2011)
+- Right knee arthroscopy (2015)
+- Cataract extraction, left eye (2022)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- semaglutide 0.5 mg weekly
+- levothyroxine 75 mcg daily
+- loratadine 10 mg as needed
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+Penicillin (rash).
+
+FAMILY HISTORY
+No family history of kidney disease reported.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Former smoker, quit 2002; 10 pack-years.
+Lives with alone. Retired machinist.
+Walks 3 times per week, about 20 minutes.
+
+VITALS
+BP 128/68 | HR 82 | Temp 98.7 F | Wt 98.7 kg | BMI 34.8 | SpO2 95%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date  Test                        Result
+2026-02-22  eGFR                        55 mL/min/1.73m2
+2026-02-22  Creatinine                  1.12 mg/dL
+2026-06-07  eGFR                        57 mL/min/1.73m2
+2026-06-07  Hemoglobin A1c              6.4%
+2026-06-07  Glucose, fasting            108 mg/dL
+2026-06-07  Potassium                   4.1 mmol/L
+2026-06-07  Sodium                      143 mmol/L
+2026-06-07  LDL cholesterol             96 mg/dL
+2026-06-07  Hemoglobin                  12.4 g/dL
+
+IMPRESSION AND PLAN
+1. T2DM: A1c 6.4% (improved from 7.1%). Medications unchanged; reinforced carbohydrate counting.
+2. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+3. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+4. Obesity: weight 98.7 kg. Continue lifestyle changes.
+5. Dental visit within the past year. Colorectal cancer screening up to date.
+
+PATIENT EDUCATION
+Patient verbalized understanding of the plan.
+Reviewed carbohydrate counting handout.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-06-09 10:43

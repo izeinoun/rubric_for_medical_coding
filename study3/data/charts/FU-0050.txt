@@ -1,0 +1,94 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0050    Age: 48    Sex: M
+Date of service: 2026-08-05    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 8
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 48-year-old man returning for follow-up of chronic conditions. History of type
+--- Page 2 of 3 --- FU-0050 --- printed 2026-08-24 ---
+2 diabetes diagnosed 14 years ago. Reports checking glucose a few times a week; fasting readings mostly 118-143 mg/dL. Appetite stable. Denies nausea or abdominal pain. Sleeping reasonably well. Mood is good.
+
+REVIEW OF SYSTEMS
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Constitutional: denies fever, chills or unintended weight loss.
+Skin: no rashes or non-healing wounds.
+Neurological: no numbness or tingling in the feet; no headaches.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Respiratory: no cough or dyspnea on exertion.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- loratadine 10 mg as needed
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Penicillin (rash).
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- CKD stage 3a
+- Essential hypertension
+- Seasonal allergic rhinitis
+- Obesity
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+- Colonoscopy with polypectomy (2021)
+
+FAMILY HISTORY
+Mother: hypertension.
+Father: coronary artery disease, died age 74.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Former smoker, quit 2010; 20 pack-years.
+Walks 5 times per week, about 20 minutes.
+Alcohol: none.
+
+VITALS
+BP 126/72 | HR 70 | Temp 97.9 F | Wt 93.8 kg | BMI 31.6 | SpO2 98%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date  Test        Result
+2026-05-03   eGFR	51 mL/min/1.73m2
+2026-08-01   eGFR	46 mL/min/1.73m2
+2026-08-01	Creatinine 1.34 mg/dL
+2026-08-01    Hemogl-
+obin A1c     8.0%
+2026-08-01  Glucose, fasting        172 mg/dL
+2026-08-01	Urine albumin/creatinine         287 mg/g
+2026-08-01 Potassium	3.9 mmol/L
+2026-08-01  Sodium       143 mmol/L
+2026-08-01 LDL cholesterol  110 mg/dL
+2026-08-01   Hemoglobin    13.5 g/dL
+
+IMPRESSION AND PLAN
+1. Type 2 diabetes mellitus: A1c 8.0%, up from 7.8%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. 0besity: weight 93.8 kg. Continue lifestyle changes.
+3. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+4. Essential hypertension: BP 126/72. Reinforced 1ow-sodium diet; continue lisinopril 20 mg.
+5. Pneumococcal vaccination up to date. Influenza vaccine given this season.
+
+PATIENT EDUCATI0N
+Enc-
+ouraged 150 minutes of moderate activity weekly.
+Reviewed sick-day rules for medications.
+
+Retum to clinic in 3 months or sooner as needed.
+Total time 33 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-08-05 13:59

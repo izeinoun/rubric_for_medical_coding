@@ -1,0 +1,102 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0282    Age: 81    Sex: M
+Date of service: 2026-09-19    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Practitioner, FNP-C (Primary Care)
+Location: Synthetic Primary Care Clinic, Room 2
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 81-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 12 years ago. Notes some difficulty with diet recently; fasting sugars 122-168 mg/dL. Energy fair. No new complaints today. Sleeping reasonably well. Mood is good.
+
+REVIEW OF SYSTEMS
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Constitutional: denies fever, chills or unintended weight loss.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Respiratory: no cough or dyspnea on exertion.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Neurological: no numbness or tingling in the feet; no headaches.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- atorvastatin 40 mg nightly
+- levothyroxine 75 mcg daily
+- loratadine 10 mg as needed
+- lisinopril 20 mg daily
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease, stage 3b
+- Hyperlipidemia
+- Hypothyroidism
+- Seasonal allergic rhinitis
+- Essential hypertension
+
+PAST SURGICAL HISTORY
+- Tonsillectomy (childhood)
+- Right knee arthroscopy (2015)
+- Appendectomy (1988)
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+Mother: hypertension.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Never smoker.
+Works part time as a cashier.
+Alcohol: none.
+
+VITALS
+BP 123/69 | HR 72 | Temp 98.2 F | Wt 87.2 kg | BMI 28.2 | SpO2 99%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date  Test                        Result
+2026-05-09  eGFR                        32 mL/min/1.73m2
+2026-09-15  eGFR                        37 mL/min/1.73m2
+2026-09-15  Creatinine                  1.67 mg/dL
+2026-09-15  Hemoglobin A1c              7.3%
+2026-09-15  Glucose, fasting            159 mg/dL
+2026-09-15  Urine albumin/creatinine    239 mg/g
+2026-09-15  Potassium                   3.9 mmol/L
+2026-09-15  Sodium                      141 mmol/L
+2026-09-15  LDL cholesterol             107 mg/dL
+2026-09-15  Hemoglobin                  12.2 g/dL
+
+INTERVAL NOTE - PREVIOUS VISIT 2026-05-14
+(For reference only; not today's assessment.)
+Diabetes mellitus, type 2: A1c 6.0% at that visit; continued medications.
+CKD 3b: eGFR 32 at that visit; continued lisinopril.
+HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+
+IMPRESSION AND PLAN
+1. Diabetes mellitus, type 2: A1c 7.3%, up from 6.0%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Hyperlipidemia: LDL 107 mg/dL. Continue atorvastatin 40 mg.
+3. HTN: at goal on current regimen. Continue lisinopril.
+4. Hypothyroid: clinically euthyroid. Continue current dose.
+5. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+6. CKD 3b, stable on lisinopril; no changes.
+7. Shingles vaccine series completed. Colorectal cancer screening up to date.
+
+PATIENT EDUCATION
+Patient verbalized understanding of the plan.
+Reviewed sick-day rules for medications.
+
+Return to clinic in 6 months or sooner as needed.
+Total time 37 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Practitioner, FNP-C 2026-09-19 14:12

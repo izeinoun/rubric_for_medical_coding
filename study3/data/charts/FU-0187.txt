@@ -1,0 +1,95 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0187    Age: 77    Sex: M
+Date of service: 2026-06-01    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synth-
+etic Primary Care Clinic, Room 12
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 77-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 14 years ago. Has been trying to walk 5 times per week. Glucose readings 110-152 mg/dL fasting. Labs drawn 2026-06-01 were reviewed with the patient today: eGFR 51, UACR 406 mg/g. Appetite stable. Denies nausea or abdominal pain. Sleeping reasonably well. Mood is good.
+
+REVIEW OF SYSTEMS
+Neurological: no numbness or tingling in the feet; no headaches.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Skin: no rashes or non-healing wounds.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Musculoskeletal: chronic knee stiffn-
+ess, otherwise negative.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Respiratory: no cough or dyspnea on exertion.
+Constitutional: denies fever, chills or unintended weight loss.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- CKD, stage 3a
+- Osteoarthritis, bilateral knees
+- Seasonal allergic rhinitis
+- Obesity
+
+PAST SURGICAL HISTORY
+- Right knee arthroscopy (2015)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- semaglutide 0.5 mg weekly
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- loratadine 10 mg as needed
+Med rec done with patient’s pill bottles.
+
+ALLERGIES
+Penicillin (rash).
+
+FAMILY HIST0RY
+Sister: hypothyroidism.
+Father: coronary artery disease, died age 76.
+
+SOCIAL HISTORY
+Former smoker, quit 2014; 6 pack-years.
+Lives with daughter. Retired machinist.
+Alcohol: 1 to 2 drinks per week.
+
+VITALS
+BP 140/72 | HR 79 | Temp 98.2 F | Wt 115.8 kg | BMI 33.6 | SpO2 99%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+--- Page 2 of 3 --- FU-0187 --- printed 2026-06-15 ---
+LABS
+Date    Test	Result
+2026-06-01    eGFR       51 mL/min/1.73m2
+2026-06-01	Creatinine	1.21 mg/dL
+2026-06-01   Hemoglobin A1c    7.9%
+2026-06-01   Glucose, fasting	110 mg/dL
+2026-06-01    Urine albumin/creatinine    406 mg/g
+2026-06-01    Potassium	4.2 mmol/L
+2026-06-01	Sodium	143 mmol/L
+2026-06-01 LDL cholesterol	120 mg/dL
+2026-06-01  Hemoglobin       14.3 g/dL
+
+ASSESSMENT/PLAN
+(A/P carried forward from 2025-12-19; reviewed and unchanged.)
+1. Diabetes mellitus, type 2: A1c 7.9%, improved from 8.7%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Chronic kidney disease stage 3a due to type 2 diabetes: Today’s results as above, at baseline; continue losartan and empagliflozin.
+3. 0besity: weight 115.8 kg. Continue lifestyle changes.
+4. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAlDs.
+5. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+6. Influenza vaccine given this season. Retinal exam due; referral placed.
+
+PATIENT EDUCATION
+Patient verbalized understa-
+nding of the p1an.
+Reviewed sick-day rules for medications.
+
+Return to clinic in 4 months or sooner as needed.
+Total time 27 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-06-01 15:42

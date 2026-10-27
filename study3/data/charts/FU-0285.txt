@@ -1,0 +1,90 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0285    Age: 48    Sex: F
+Date of service: 2026-06-17    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 3
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 48-year-old woman, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 15 years ago. Notes some difficulty with diet recently; fasting sugars 121-161 mg/dL. No urinary symptoms. No foot ulcers or numbness reported. Appetite stable. Denies nausea or abdominal pain.
+
+REVIEW OF SYSTEMS
+Eyes: no blurred vision; last dilated eye exam 2023.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Skin: no rashes or non-healing wounds.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Obesity
+- Hyperlipidemia
+- Essential hypertension
+- Seasonal allergic rhinitis
+
+PAST SURGICAL HISTORY
+- Colonoscopy with polypectomy (2021)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- atorvastatin 40 mg nightly
+- lisinopril 20 mg daily
+- loratadine 10 mg as needed
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+NKDA.
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Never smoker.
+Lives with daughter. Retired teacher.
+Walks 3 times per week, about 20 minutes.
+
+VITALS
+BP 134/72 | HR 89 | Temp 97.8 F | Wt 79.8 kg | BMI 33.3 | SpO2 95%
+
+LABS
+Date  Test                        Result
+2025-11-14  eGFR                        48 mL/min/1.73m2
+2025-11-14  Creatinine                  1.29 mg/dL
+2026-06-08  eGFR                        50 mL/min/1.73m2
+2026-06-08  Creatinine                  1.24 mg/dL
+2026-06-08  Hemoglobin A1c              7.7%
+2026-06-08  Glucose, fasting            114 mg/dL
+2026-06-08  Potassium                   4.8 mmol/L
+2026-06-08  Sodium                      139 mmol/L
+2026-06-08  LDL cholesterol             102 mg/dL
+2026-06-08  Hemoglobin                  12.9 g/dL
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+PRIOR VISIT SUMMARY (2025-11-16)
+(For reference only; not today's assessment.)
+Diabetes mellitus, type 2: A1c 8.5% at that visit; continued medications.
+Obesity: weight 79.8 kg. Continue lifestyle changes.
+
+ASSESSMENT/PLAN
+1. Diabetes mellitus, type 2: A1c 7.7% today (improved from 8.5%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+3. Obesity, BMI 33.3: discussed nutrition and activity goals; referred to dietitian.
+4. Also on problem list: allergic rhinitis, hypertension.
+5. Diabetic foot exam completed today. Colorectal cancer screening up to date.
+
+PATIENT EDUCATION
+Reviewed carbohydrate counting handout.
+Reviewed sick-day rules for medications.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-06-17 13:20

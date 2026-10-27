@@ -1,0 +1,85 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0063    Age: 60    Sex: F
+Date of service: 2026-01-20    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Practitioner, FNP-C (Primary Care)
+Location: Synthetic Primary Care Clinic, Room 9
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 60-year-old woman returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 7 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Appetite stable. Denies nausea or abdominal pain. Energy fair. No new complaints today.
+
+REVIEW OF SYSTEMS
+Neurological: no numbness or tingling in the feet; no headaches.
+Respiratory: no cough or dyspnea on exertion.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Skin: no rashes or non-healing wounds.
+Constitutional: denies fever, chills or unintended weight loss.
+Eyes: no blurred vision; last dilated eye exam 2024.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- omeprazole 20 mg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+NKDA.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease stage 3a
+- Osteoarthritis, bilateral knees
+- GERD
+
+PAST SURGICAL HISTORY
+- Right knee arthroscopy (2015)
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Former smoker, quit 2012; 9 pack-years.
+Walks 5 times per week, about 20 minutes.
+Alcohol: none.
+
+VITALS
+BP 141/82 | HR 83 | Temp 98.5 F | Wt 86.1 kg | BMI 28.4 | SpO2 96%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date  Test                        Result
+2026-01-14  eGFR                        57 mL/min/1.73m2
+2026-01-14  Creatinine                  1.08 mg/dL
+2026-01-14  Hemoglobin A1c              8.2%
+2026-01-14  Glucose, fasting            128 mg/dL
+2026-01-14  Urine albumin/creatinine    49 mg/g
+2026-01-14  Potassium                   4.9 mmol/L
+2026-01-14  Sodium                      142 mmol/L
+2026-01-14  LDL cholesterol             67 mg/dL
+2026-01-14  Hemoglobin                  13.9 g/dL
+
+ASSESSMENT/PLAN
+1. Type 2 diabetes mellitus: A1c 8.2% (up from 7.4%). Medications unchanged; reinforced carbohydrate counting.
+2. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+3. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+4. Diabetic kidney disease, CKD stage 3a: Labs reviewed with patient, eGFR 57. Continue dapagliflozin; metformin dose appropriate for current eGFR. Recheck in 3 to 4 months.
+5. Diabetic foot exam completed today. Pneumococcal vaccination up to date.
+
+PATIENT EDUCATION
+Patient verbalized understanding of the plan.
+Reviewed sick-day rules for medications.
+
+Return to clinic in 3 months or sooner as needed.
+*** NOTE NOT SIGNED - pending clinician signature ***

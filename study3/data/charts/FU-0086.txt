@@ -1,0 +1,99 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0086    Age: 63    Sex: F
+Date of service: 2026-02-07    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Associate, PA-C (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 11
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+63-year-old woman presents for scheduled follow-up. Type 1 diabetes since age 12. Has been trying to walk 2 times per week. Glucose readings
+--- Page 2 of 3 --- FU-0086 --- printed 2026-02-26 ---
+128-175 mg/dL fasting. No polyuria or polydipsia. No visual changes. Mild bilateral knee stiffness in the mornings, unchanged.
+
+REVlEW OF SYSTEMS
+Constitutional: denies fever, chills or unintended weight loss.
+Neurological: no numbness or tingling in the feet; no headaches.
+Respira-
+tory: no cough or dyspnea on exertion.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Skin: no rashes or non-healing wounds.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Musculoskeletal: chronic knee stiffness, otherw-
+ise negative.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Eyes: no blurred vision; last dilated eye exam 2024.
+
+PAST MEDICAL HIST0RY / PROBLEM LIST
+- Diabetes mellitus, on insulin
+- Chronic kidney disease stage 3b
+- Osteoarthritis, bilateral knees
+- Obesity
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+- Tonsillectomy (childhood)
+
+MEDICATIONS
+- insulin pump (lispro) with continuous glucose monitor
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+Med rec done with patient’s pill bottles.
+
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Father: coronary artery disease, died age 74.
+
+SOCIAL HISTORY
+Never smoker.
+Alcohol: 1 to 2 drinks per week.
+Walks 3 times per week, about 20 minutes.
+
+VITALS
+BP 124/74 | HR 71 | Temp 98.1 F | Wt 88.9 kg | BMI 33.9 | SpO2 99%
+
+LABS
+Date Test	Result
+2025-07-05	eGFR        33 mL/min/1.73m2
+2025-07-05   Creatinine       1.87 mg/dL
+2026-02-03	eGFR	36 mL/min/1.73m2
+2026-02-03 Hemoglobin A1c        6.7%
+2026-02-03	Glucose, fasting	160 mg/dL
+2026-02-03   Urine albumin/creatinine       179 mg/g
+2026-02-03    Potassium        4.7 mmol/L
+2026-02-03   Sodium       138 mmol/L
+2026-02-03	LDL cholesterol  82 mg/dL
+2026-02-03   Hemoglobin      12.9 g/dL
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+INTERVAL NOTE – PREVIOUS VISIT 2025-07-06
+(For reference only; not today’s assessment.)
+Diabetes mellitus: A1c 7.6% at that visit; continued medications.
+CKD stage 3b secondary to diabetes: eGFR 33 at that visit; continued losartan.
+Knee osteoarthritis: stable. Acetami-
+nophen as needed; avoid NSAIDs.
+
+IMPRESSI0N AND PLAN
+1. Diabetes mellitus: A1c 6.7%. Continue basal-bolus insulin; reviewed CGM download, time in range 61%. Endocrinology follow-up in 3 months.
+2. 0besity, BMl 33.9: discussed nutrition and activity goals; referred to dietitian.
+3. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+4. CKD stage 3b secondary to diabetes: eGFR 36 today (stable from 33). Continue losartan. Recheck BMP and urine albumin-to-creatinine ratio in 3 months.
+5. Diabetic foot exam completed today. Dental visit within the past year.
+
+PATlENT EDUCATI0N
+Patient verbalized understanding of the plan.
+Reviewed sick-day rules for medications.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Associate, PA-C 2026-02-07 12:37

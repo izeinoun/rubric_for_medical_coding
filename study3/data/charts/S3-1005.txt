@@ -1,0 +1,95 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: S3-1005    Age: 84    Sex: M
+Date of service: 2026-03-14    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Practitioner, FNP-C (Primary Care)
+Location: Synthetic Primary Care Clinic, Room 12
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 84-year-old man, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 20 years ago. Notes some difficulty with diet recently; fasting sugars 129-152 mg/dL. No polyuria or polydipsia. No visual changes. Appetite stable. Denies nausea or abdominal pain.
+
+REVIEW OF SYSTEMS
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Neurological: no numbness or tingling in the feet; no headaches.
+Respiratory: no cough or dyspnea on exertion.
+Constitutional: denies fever, chills or unintended weight loss.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Eyes: no blurred vision; last dilated eye exam 2025.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD, stage 4
+- Seasonal allergic rhinitis
+- Osteoarthritis, bilateral knees
+- Hypothyroidism
+- GERD
+
+PAST SURGICAL HISTORY
+- Cholecystectomy (2011)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+- acetaminophen 650 mg as needed
+- levothyroxine 75 mcg daily
+- omeprazole 20 mg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 79.
+Mother: hypertension.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Former smoker, quit 2004; 17 pack-years.
+Alcohol: rare.
+Works part time as a librarian.
+
+VITALS
+BP 125/90 | HR 78 | Temp 98.7 F | Wt 71.7 kg | BMI 23.9 | SpO2 97%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date    Test	Result
+2025-09-12	eGFR    56 mL/min/1.73m2
+2025-09-12	Creatinine         1.1 mg/dL
+2026-03-05   eGFR	52 mL/min/1.73m2
+2026-03-05   Creatinine	1.19 mg/dL
+2026-03-05  Hemoglobin A1c	8.5%
+2026-03-05    Glucose, fasting   169 mg/dL
+2026-03-05    Urine albumin/creatinine	366 mg/g
+2026-03-05  Potassium      4.3 mmol/L
+2026-03-05	Sodium     137 mmol/L
+2026-03-05 LDL cholesterol	97 mg/dL
+2026-03-05	Hemoglobin  14.4 g/dL
+
+ASSESSMENT AND PLAN
+1. Type 2 diabetes mellitus: A1c 8.5%, improved from 8.8%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. CKD, stage 3a: eGFR 52 today (stable from 56). Continue empagliflozin. Recheck BMP and urine albumin-to-creatinine ratio in 3 months.
+3. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+4. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+5. Hypothyroid: clinically euthyroid. Continue current dose.
+6. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+7. Influenza vaccine given this season. Dental visit within the past year.
+
+PATIENT EDUCATION
+Patient verbalized understanding of the plan.
+Reviewed sick-day rules for medications.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Practitioner, FNP-C 2026-03-14 10:49

@@ -1,0 +1,92 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0243    Age: 79    Sex: M
+Date of service: 2026-09-10    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 2
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+79-year-old man seen today for routine chronic care. History of type 2 diabetes diagnosed 9 years ago. Notes some difficulty with diet recently; fasting sugars 128-156 mg/dL. Sleeping reasonably well. Mood is good. Energy fair. No new complaints today.
+
+REVIEW OF SYSTEMS
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Respiratory: no cough or dyspnea on exertion.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Constitutional: denies fever, chills or unintended weight loss.
+Skin: no rashes or non-healing wounds.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Neurological: no numbness or tingling in the feet; no headaches.
+
+MEDICATIONS
+- insulin glargine 18 units nightly
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- loratadine 10 mg as needed
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+Penicillin (rash).
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease
+- Osteoarthritis, bilateral knees
+- Seasonal allergic rhinitis
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+- Cholecystectomy (2011)
+- Right knee arthroscopy (2015)
+
+FAMILY HISTORY
+No family history of kidney disease reported.
+Mother: hypertension.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Former smoker, quit 2002; 6 pack-years.
+Walks 2 times per week, about 20 minutes.
+Lives with alone. Retired accountant.
+
+VITALS
+BP 144/88 | HR 72 | Temp 98.5 F | Wt 73.1 kg | BMI 27.5 | SpO2 97%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date  Test                        Result
+2026-03-11  eGFR                        21 mL/min/1.73m2
+2026-03-11  Creatinine                  2.94 mg/dL
+2026-09-05  eGFR                        23 mL/min/1.73m2
+2026-09-05  Creatinine                  2.68 mg/dL
+2026-09-05  Hemoglobin A1c              7.1%
+2026-09-05  Glucose, fasting            140 mg/dL
+2026-09-05  Urine albumin/creatinine    382 mg/g
+2026-09-05  Potassium                   4.6 mmol/L
+2026-09-05  Sodium                      140 mmol/L
+2026-09-05  LDL cholesterol             105 mg/dL
+2026-09-05  Hemoglobin                  13.7 g/dL
+
+IMPRESSION AND PLAN
+1. T2DM: A1c 7.1% (up from 6.4%). Medications unchanged; reinforced carbohydrate counting.
+2. OA of knees: continue home exercises and acetaminophen PRN.
+3. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+4. Chronic kidney disease: Renal function reviewed; stable.
+5. Colorectal cancer screening up to date. Dental visit within the past year.
+
+PATIENT EDUCATION
+Reviewed carbohydrate counting handout.
+Encouraged 150 minutes of moderate activity weekly.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-09-10 09:58

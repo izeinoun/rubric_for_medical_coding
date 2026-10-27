@@ -1,0 +1,92 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: S3-1001    Age: 61    Sex: M
+Date of service: 2026-01-31    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Associate, PA-C (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 5
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+61-year-old man presents for scheduled follow-up. No history of kidney disease. History of type 2 diabetes diagnosed 21 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Energy fair. No new complaints today. No polyuria or polydipsia. No visual changes.
+
+REVIEW OF SYSTEMS
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Respiratory: no cough or dyspnea on exertion.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Skin: no rashes or non-healing wounds.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Constitutional: denies fever, chills or unintended weight loss.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease stage 3b
+- Hyperlipidemia
+- GERD
+- Seasonal allergic rhinitis
+
+PAST SURGICAL HISTORY
+- Colonoscopy with polypectomy (2021)
+- Tonsillectomy (childhood)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- semaglutide 0.5 mg weekly
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- atorvastatin 40 mg nightly
+- omeprazole 20 mg daily
+- loratadine 10 mg as needed
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+NKDA.
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 62.
+Mother: hypertension.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Never smoker.
+Lives with spouse. Retired accountant.
+Walks 4 times per week, about 20 minutes.
+
+VITALS
+BP 136/89 | HR 87 | Temp 97.7 F | Wt 94.3 kg | BMI 28.4 | SpO2 94%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date   Test    Result
+2025-06-18    eGFR	34 mL/min/1.73m2
+2026-01-23   eGFR       30 mL/min/1.73m2
+2026-01-23   Creatinine	2.06 mg/dL
+2026-01-23  Hemoglobin A1c	8.3%
+2026-01-23   Glucose, fasting	115 mg/dL
+2026-01-23 Urine albumin/creatinine       215 mg/g
+2026-01-23	Potassium    4.7 mmol/L
+2026-01-23	Sodium 137 mmol/L
+2026-01-23 LDL cholesterol	62 mg/dL
+2026-01-23  Hemoglobin        12.1 g/dL
+
+ASSESSMENT AND PLAN
+1. Type 2 diabetes mellitus: A1c 8.3% (up from 7.8%). Medications unchanged; reinforced carbohydrate counting.
+2. CKD stage 3b secondary to type 2 diabetes: eGFR 30 (stable from 34), albuminuria 215 mg/g. Increased losartan to 100 mg daily. Repeat potassium and creatinine in 2 weeks.
+3. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+4. Problem list reviewed: allergic rhinitis, GERD.
+5. Shingles vaccine series completed. Pneumococcal vaccination up to date.
+
+PATIENT EDUCATION
+Encouraged 150 minutes of moderate activity weekly.
+Reviewed carbohydrate counting handout.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Associate, PA-C 2026-01-31 15:11

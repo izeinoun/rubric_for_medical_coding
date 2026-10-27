@@ -1,0 +1,96 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0146    Age: 77    Sex: F
+Date of service: 2026-07-22    Visit type: Nurse visit, diabetes education, in person
+Clinician: Synthetic Nurse, RN (Diabetes Education)
+Location: Synthetic Primary Care Clinic, Room 8
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+77-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 8 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Denies chest pain, shortness of breath or leg swelling. Sleeping reasonably well. Mood is good.
+
+REVIEW OF SYSTEMS
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Respiratory: no cough or dyspnea on exertion.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Eyes: no blurred vision; last dilated eye exam 2025.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease, stage 3a
+- Seasonal allergic rhinitis
+- Essential hypertension
+- Obesity
+- GERD
+
+PAST SURGICAL HISTORY
+- Tonsillectomy (childhood)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- loratadine 10 mg as needed
+- lisinopril 20 mg daily
+- omeprazole 20 mg daily
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+No known drug allergies.
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+Father: coronary artery disease, died age 64.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Never smoker.
+Walks 5 times per week, about 20 minutes.
+Works part time as a cashier.
+
+VITALS
+BP 128/74 | HR 81 | Temp 98.6 F | Wt 91.8 kg | BMI 36.7 | SpO2 98%
+
+LABS
+Date  Test                        Result
+2026-02-27  eGFR                        50 mL/min/1.73m2
+2026-07-19  eGFR                        54 mL/min/1.73m2
+2026-07-19  Creatinine                  1.14 mg/dL
+2026-07-19  Hemoglobin A1c              8.1%
+2026-07-19  Glucose, fasting            104 mg/dL
+2026-07-19  Urine albumin/creatinine    99 mg/g
+2026-07-19  Potassium                   3.9 mmol/L
+2026-07-19  Sodium                      139 mmol/L
+2026-07-19  LDL cholesterol             64 mg/dL
+2026-07-19  Hemoglobin                  13.4 g/dL
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+PRIOR VISIT SUMMARY (2026-03-05)
+(For reference only; not today's assessment.)
+Type 2 diabetes mellitus: A1c 7.3% at that visit; continued medications.
+Chronic kidney disease stage 3a: eGFR 50 at that visit; continued lisinopril.
+Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+
+IMPRESSION AND PLAN
+1. Type 2 diabetes mellitus: A1c 8.1% (up from 7.3%). Reviewed meal plan and carbohydrate counting; medications per provider.
+2. GERD: managed by primary care provider.
+3. Allergic rhinitis: managed by primary care provider.
+4. Chronic kidney disease stage 3a: Kidney labs reviewed with patient: eGFR 54, UACR 99 mg/g. Reviewed renal diet handout; continue empagliflozin as prescribed.
+5. Hypertension: managed by primary care provider.
+6. Obesity: managed by primary care provider.
+7. Dental visit within the past year. Shingles vaccine series completed.
+
+PATIENT EDUCATION
+Discussed hypoglycemia recognition and treatment.
+Reviewed carbohydrate counting handout.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Nurse, RN 2026-07-22 16:21

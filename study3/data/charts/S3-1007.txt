@@ -1,0 +1,92 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: S3-1007    Age: 53    Sex: M
+Date of service: 2026-05-14    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Practitioner, FNP-C (Primary Care)
+Location: Synthetic Primary Care Clinic, Room 11
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 53-year-old man, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 11 years ago. Brought meter today; morning values 126-158 mg/dL, no lows. Denies chest pain, shortness of breath or leg swelling. Energy fair. No new complaints today.
+
+REVIEW OF SYSTEMS
+Neurological: no numbness or tingling in the feet; no headaches.
+Skin: no rashes or non-healing wounds.
+Respiratory: no cough or dyspnea on exertion.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Constitutional: denies fever, chills or unintended weight loss.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD, stage 4
+- Hyperlipidemia
+- Osteoarthritis, bilateral knees
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+- Right knee arthroscopy (2015)
+--- Page 2 of 3 --- S3-1007 --- printed 2026-05-21 ---
+- Colonoscopy with polypectomy (2021)
+
+MEDICATI0NS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- atorvastatin 40 mg nightly
+- acetaminophen 650 mg as needed
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+NKDA.
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Former smoker, quit 2006; 15 pack-years.
+Walks 4 times per week, about 20 minutes.
+Lives with spouse. Retired accountant.
+
+VITALS
+BP 142/92 | HR 91 | Temp 98.0 F | Wt 72.8 kg | BMI 23.5 | SpO2 99%
+
+LABS
+Date  Test	Result
+2026-01-24   eGFR	56 mL/min/1.73m2
+2026-01-24   Creatinine	1.1 mg/dL
+2026-05-08	eGFR	46 mL/min/1.73m2
+2026-05-08  Hemoglobin A1c	9.3%
+2026-05-08   Glucose, fasting         183 mg/dL
+2026-05-08  Urine albumin/creatinine    284 mg/g
+2026-05-08    Pota-
+ssium	4.2 mmol/L
+2026-05-08    Sodium	138 mmol/L
+2026-05-08	LDL cholesterol  124 mg/dL
+2026-05-08 Hemoglobin    13.2 g/dL
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+ASSESSMENT AND PLAN
+1. T2DM: A1c 9.3% (improved from 10.1%). Medications unchanged; reinfor-
+ced carbohydrate counting.
+2. Hyper1ipidemia: LDL 124 mg/dL. Continue atorvastatin 40 mg.
+3. Chronic kidney disease stage 3a: eGFR 46 today (down from 56). Continue empagliflozin. Recheck BMP and urine albumin-to-creatinine ratio in 3 months.
+4. Knee osteoarthritis: stab1e. Acetaminophen as needed; avoid NSAlDs.
+5. Shing1es vaccine series completed. Dental visit within the past year.
+
+PATIENT EDUCATI0N
+Reviewed sick-day rules for medications.
+Encouraged 150 minutes of moderate activity weekly.
+
+Retum to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Practitioner, FNP-C 2026-05-14 14:06

@@ -1,0 +1,94 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0213    Age: 52    Sex: F
+Date of service: 2026-09-22    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 9
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 52-year-old woman returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 12 years ago. Has been trying to walk 2 times per week. Glucose readings 122-157 mg/dL fasting. Hospitalized 2026-04-27 with dehydration from viral gastroenteritis; creatinine rose and has since returned to baseline. No polyuria or poly-
+dipsia. No visual changes. Mild bila-
+teral knee stiffness in the mornings, unchanged.
+
+REVIEW OF SYSTEMS
+Respiratory: no cough or dyspnea on exertion.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Neurological: no numbness or tingling in the feet; no headaches.
+Skin: no rashes or non-healing wounds.
+Gastrointestinal: no nausea, vomiting, diarrhea or cons-
+tipation.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Acute kidney injury (2026-04-27), resolved
+- Hypothyroidism
+- Seasonal allergic rhinitis
+- Osteoarthritis, bilateral knees
+- Obesity
+
+PAST SURGICAL HISTORY
+- Colonoscopy with polypectomy (2021)
+- Right knee arthroscopy (2015)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- levothyroxine 75 mcg daily
+- loratadine 10 mg as needed
+- acetaminophen 650 mg as needed
+Med rec done with patient’s pill bottles.
+
+ALLERGIES
+No known drug allergies.
+
+FAMILY HISTORY
+No family history of kidney disease reported.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Never smoker.
+--- Page 2 of 3 --- FU-0213 --- printed 2026-09-26 ---
+Lives with spouse. Retired machinist.
+Walks 3 times per week, about 20 minutes.
+
+VITALS
+BP 125/91 | HR 79 | Temp 98.2 F | Wt 89.9 kg | BMl 34.9 | SpO2 94%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date   Test	Result
+2026-04-27   eGFR	32 mL/min/1.73m2
+2026-09-15 eGFR	77 mL/min/1.73m2
+2026-09-15   Creatinine     0.8 mg/dL
+2026-09-15    Hemoglobin A1c	7.7%
+2026-09-15	Glucose, fasting 161 mg/dL
+2026-09-15  Potassium	5.0 mmol/L
+2026-09-15	Sodium	141 mmol/L
+2026-09-15    LDL cholesterol	84 mg/dL
+2026-09-15	Hemoglobin	12.1 g/dL
+
+ASSESSMENT AND PLAN
+1. Type 2 diabetes mellitus: A1c 7.7% (improved from 8.4%). Medications unchanged; reinforced carbohydrate counting.
+2. OA of knees: continue home exercises and acetaminophen PRN.
+3. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+4. Obesity: weight 89.9 kg. Continue lifestyle changes.
+5. Prior AKl, recovered. eGFR 77 today. Does not meet criteria for chronic kidney disease.
+6. Hypothyroidism: TSH within range. Continue 1evothyroxine 75 mcg.
+7. Diabetic foot exam completed today. Retinal exam due; referral placed.
+
+PATIENT EDUCATI0N
+Patient verbalized understanding of the plan.
+Encouraged 150 minutes of moderate activity week1y.
+
+Retum to clinic in 3 months or sooner as needed.
+Total time 34 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-09-22 16:44

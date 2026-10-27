@@ -1,0 +1,82 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0193    Age: 51    Sex: F
+Date of service: 2026-09-01    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider
+Location: Synthetic Primary Care Clinic, Room 4
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+51-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 5 years ago. Notes some difficulty with diet recently; fasting sugars 126-139 mg/dL. Denies chest pain, shortness of breath or leg swelling. No urinary symptoms. No foot ulcers or numbness reported.
+
+REVIEW OF SYSTEMS
+Neurological: no numbness or tingling in the feet; no headaches.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Respiratory: no cough or dyspnea on exertion.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Skin: no rashes or non-healing wounds.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- semaglutide 0.5 mg weekly
+- empagliflozin 10 mg daily
+- lisinopril 20 mg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Penicillin (rash).
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD stage 3a
+- Obesity
+- Essential hypertension
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+- Right knee arthroscopy (2015)
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Never smoker.
+Alcohol: rare.
+Works part time as a consultant.
+
+VITALS
+BP 120/73 | HR 73 | Temp 97.8 F | Wt 80.2 kg | BMI 32.2 | SpO2 94%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date  Test                        Result
+2026-08-26  eGFR                        59 mL/min/1.73m2
+2026-08-26  Hemoglobin A1c              9.2%
+2026-08-26  Glucose, fasting            120 mg/dL
+2026-08-26  Urine albumin/creatinine    323 mg/g
+2026-08-26  Potassium                   4.7 mmol/L
+2026-08-26  Sodium                      142 mmol/L
+2026-08-26  LDL cholesterol             116 mg/dL
+2026-08-26  Hemoglobin                  12.1 g/dL
+
+ASSESSMENT AND PLAN
+1. Diabetes mellitus, type 2: A1c 9.2% today (improved from 10.0%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Diabetic kidney disease, CKD stage 3a: eGFR 59, UACR 323 mg/g. On empagliflozin and lisinopril; counseled on avoiding nephrotoxins. Repeat labs in 3 months.
+3. Problem list reviewed: obesity, hypertension.
+4. Retinal exam due; referral placed. Diabetic foot exam completed today.
+
+PATIENT EDUCATION
+Patient verbalized understanding of the plan.
+Encouraged 150 minutes of moderate activity weekly.
+
+Return to clinic in 4 months or sooner as needed.
+Total time 36 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider 2026-09-01

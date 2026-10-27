@@ -1,0 +1,93 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0156    Age: 82    Sex: F
+Date of service: 2026-07-23    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Physician, DO (Family Medicine)
+Location: Synthetic Primary Care Clinic, Room 9
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+82-year-old woman presents for scheduled follow-up. History of type 2 diabetes diagnosed 18 years ago. Reports checking glucose a few times a week; fasting readings mostly 105-146 mg/dL. Kidney function decline has been attributed to her diabetes; no other renal disease identified on workup. Appetite stable. Denies nausea or abdominal pain. Denies chest pain, shortness of breath or leg swelling.
+
+REVIEW OF SYSTEMS
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Constitutional: denies fever, chills or unintended weight loss.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Skin: no rashes or non-healing wounds.
+Respiratory: no cough or dyspnea on exertion.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Eyes: no blurred vision; last dilated eye exam 2024.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease, stage 4
+- Hyperlipidemia
+- Hypothyroidism
+- Essential hypertension
+- Osteoarthritis, bilateral knees
+
+PAST SURGICAL HISTORY
+- Right knee arthroscopy (2015)
+
+MEDICATIONS
+- insulin glargine 18 units nightly
+- semaglutide 0.5 mg weekly
+- dapagliflozin 10 mg daily
+- atorvastatin 40 mg nightly
+- levothyroxine 75 mcg daily
+- lisinopril 20 mg daily
+- acetaminophen 650 mg as needed
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 65.
+No family history of kidney disease reported.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Former smoker, quit 2005; 29 pack-years.
+Walks 2 times per week, about 20 minutes.
+Alcohol: rare.
+
+VITALS
+BP 140/88 | HR 73 | Temp 98.4 F | Wt 66.4 kg | BMI 27.3 | SpO2 99%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date  Test                        Result
+2026-03-07  eGFR                        24 mL/min/1.73m2
+2026-07-18  eGFR                        26 mL/min/1.73m2
+2026-07-18  Hemoglobin A1c              7.8%
+2026-07-18  Glucose, fasting            104 mg/dL
+2026-07-18  Urine albumin/creatinine    153 mg/g
+2026-07-18  Potassium                   5.0 mmol/L
+2026-07-18  Sodium                      140 mmol/L
+2026-07-18  LDL cholesterol             110 mg/dL
+2026-07-18  Hemoglobin                  12.4 g/dL
+
+ASSESSMENT/PLAN
+1. Type 2 diabetes mellitus: A1c 7.8% today (up from 7.3%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Essential hypertension: BP 140/88. Reinforced low-sodium diet; continue lisinopril 20 mg.
+3. Hypothyroid: clinically euthyroid. Continue current dose.
+4. CKD, stage 4: Advanced kidney disease, eGFR 26. Off metformin. Nephrology following; discussed renal diet and avoidance of contrast and NSAIDs.
+5. Also on problem list: hyperlipidemia, knee osteoarthritis.
+6. Shingles vaccine series completed. Retinal exam due; referral placed.
+
+PATIENT EDUCATION
+Reviewed sick-day rules for medications.
+Encouraged 150 minutes of moderate activity weekly.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Physician, DO 2026-07-23 11:34

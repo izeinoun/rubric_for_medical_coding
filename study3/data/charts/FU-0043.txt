@@ -1,0 +1,91 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0043    Age: 61    Sex: F
+Date of service: 2026-07-27    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Associate, PA-C (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 6
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+61-year-old woman presents for scheduled follow-up. History of type 2 diabetes diagnosed 9 years ago. Notes some difficulty with diet recently; fasting sugars 109-173 mg/dL. Sleeping reasonably well. Mood is good. No polyuria or polydipsia. No visual changes.
+
+REVIEW OF SYSTEMS
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Respiratory: no cough or dyspnea on exertion.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Skin: no rashes or non-healing wounds.
+--- Page 2 of 3 --- FU-0043 --- printed 2026-08-03 ---
+Constitutional: denies fever, chills or unintended weight loss.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- semaglutide 0.5 mg weekly
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+NKDA.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease, stage 3a
+- Osteoarthritis, bilateral knees
+- Obesity
+
+PAST SURGICAL HISTORY
+- Appen-
+dectomy (1988)
+- Colonoscopy with polypectomy (2021)
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Father: coronary artery disease, died age 69.
+
+SOCIAL HISTORY
+Former smoker, quit 2015; 17 pack-years.
+Alcohol: 1 to 2 drinks per week.
+Walks 2 times per week, about 20 minutes.
+
+VITALS
+BP 148/79 | HR 86 | Temp 98.7 F | Wt 115.1 kg | BMI 38.2 | SpO2 99%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date	Test     Result
+2026-04-07	eGFR        54 mL/min/1.73m2
+2026-04-07 Creatinine	1.14 mg/dL
+2026-07-27    eGFR	>60 mL/min/1.73m2
+2026-07-27	Creatinine	1.01 mg/dL
+2026-07-27    Hemoglobin A1c   6.6%
+2026-07-27	Glucose, fasting     177 mg/dL
+2026-07-27    Urine albumin/creatinine  214 mg/g
+2026-07-27    Potassium	4.9 mmol/L
+2026-07-27  Sodium	142 mmol/L
+2026-07-27  LDL cholesterol	98 mg/dL
+2026-07-27 Hemoglobin	13.2 g/dL
+
+ASSESSMENT AND PLAN
+1. Diabetes mellitus, type 2: A1c 6.6%, up from 5.3%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAlDs.
+3. Problem list reviewed: obesity.
+4. Pneumococcal vaccination up to date. Dental visit within the past year.
+
+PATIENT EDUCATI0N
+Discussed hypog1ycemia recognition and treatment.
+Encouraged 150 minutes of moderate activity weekly.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Associate, PA-C 2026-07-27 16:14

@@ -1,0 +1,94 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0218    Age: 80    Sex: F
+Date of service: 2026-04-05    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Physician, DO (Family Medicine)
+Location: Synthetic Primary Care Clinic, Room 11
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+80-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 5 years ago. Notes some difficulty with diet recently; fasting sugars 119-141 mg/dL. Sleeping reasonably well. Mood is good. No polyuria or polydipsia. No visual changes.
+
+REVIEW OF SYSTEMS
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Neurological: no numbness or tingling in the feet; no headaches.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Skin: no rashes or non-healing wounds.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease (entered 2024) - see assessment
+- Hypothyroidism
+- Hyperl-
+ipidemia
+- Essential hypertension
+
+PAST SURGICAL HISTORY
+- Colonoscopy with polypectomy (2021)
+- Appendectomy (1988)
+- Cholecystectomy (2011)
+
+MEDICATIONS
+- metfo-
+rmin 1000 mg twice daily
+- semaglutide 0.5 mg weekly
+- dapagliflozin 10 mg daily
+- levothyroxine 75 mcg daily
+- atorvastatin 40 mg nightly
+- lisinopril 20 mg daily
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+Father: coronary artery disease, died age 66.
+
+SOCIAL HISTORY
+Never smoker.
+Walks 2 times per week, about 20 minutes.
+Lives with spouse. Retired machinist.
+
+VITALS
+BP 138/91 | HR 72 | Temp 98.7 F | Wt 68.8 kg | BMI 24.4 | SpO2 96%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date  Test	Result
+2025-04-21  eGFR       53 mL/min/1.73m2
+2025-11-28   eGFR  72 mL/min/1.73m2
+2025-11-28   Creatinine	0.86 mg/dL
+2026-04-02 eGFR  78 mL/min/1.73m2
+2026-04-02	Hemoglobin A1c       7.0%
+2026-04-02 Glucose, fasting        178 mg/dL
+2026-04-02 Potassium	4.3 mmol/L
+2026-04-02	Sodium	140 mmol/L
+2026-04-02   LDL cholesterol	59 mg/dL
+2026-04-02	Hemoglobin      11.4 g/dL
+
+IMPRESSION AND PLAN
+1. Diabetes mellitus, type 2: A1c 7.0% today (up from 6.3%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+--- Page 2 of 3 --- FU-0218 --- printed 2026-04-10 ---
+2. Hypothyroidism: TSH within range. Continue lev-
+othyroxine 75 mcg.
+3. Chronic kidney disease on problem list, removed today: eGFR 72 and 78 on repeat testing over 6 months, urine albumin normal; prior eGFR 53 (2025-04-21) was during an acute illness. Does not have chronic kidney disease.
+4. Hyperlipidemia: LDL 59 mg/dL. Continue atorvastatin 40 mg.
+5. Essential hypertension: BP 138/91. Reinforced low-sodium diet; continue lisinopril 20 mg.
+6. Pneumococcal vaccination up to date. lnfluenza vaccine given this season.
+
+PATIENT EDUCATI0N
+Reviewed sick-day rules for medications.
+Patient verbalized understanding of the plan.
+
+Retum to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Physician, DO 2026-04-05 17:04

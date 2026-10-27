@@ -1,0 +1,88 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0272    Age: 64    Sex: F
+Date of service: 2026-07-31    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 6
+
+CHIEF COMPLAINT
+Diabetes check and lab review.
+
+HISTORY OF PRESENT ILLNESS
+64-year-old woman here for a 3-month check-in. History of type 2 diabetes diagnosed 17 years ago. Has been trying to walk 3 times per week. Glucose readings 119-174 mg/dL fasting. History of CKD, diagnosed 2023, followed in this clinic. Energy fair. No new complaints today. Mild bilateral knee stiffness in the mornings, unchanged.
+
+REVIEW OF SYSTEMS
+Neurological: no numbness or tingling in the feet; no headaches.
+Skin: no rashes or non-healing wounds.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD stage 3a
+- GERD
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+- Right knee arthroscopy (2015)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- omeprazole 20 mg daily
+- atorvastatin 40 mg nightly
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Penicillin (rash).
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 68.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Former smoker, quit 1999; 5 pack-years.
+Walks 4 times per week, about 20 minutes.
+Alcohol: none.
+
+VITALS
+BP 133/82 | HR 62 | Temp 98.1 F | Wt 79.6 kg | BMI 28.9 | SpO2 96%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date  Test                        Result
+2026-04-06  eGFR                        59 mL/min/1.73m2
+2026-04-06  Creatinine                  1.05 mg/dL
+2026-07-24  eGFR                        53 mL/min/1.73m2
+2026-07-24  Creatinine                  1.17 mg/dL
+2026-07-24  Hemoglobin A1c              6.7%
+2026-07-24  Glucose, fasting            120 mg/dL
+2026-07-24  Urine albumin/creatinine    419 mg/g
+2026-07-24  Potassium                   3.9 mmol/L
+2026-07-24  Sodium                      136 mmol/L
+2026-07-24  LDL cholesterol             59 mg/dL
+2026-07-24  Hemoglobin                  13.3 g/dL
+
+IMPRESSION AND PLAN
+1. Diabetes mellitus, type 2: A1c 6.7% today (up from 6.0%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+3. Chronic kidney disease, stage 3a: eGFR 53 today (down from 59). Continue empagliflozin. Recheck BMP and urine albumin-to-creatinine ratio in 3 months.
+4. Hyperlipidemia: LDL 59 mg/dL. Continue atorvastatin 40 mg.
+5. Shingles vaccine series completed. Retinal exam due; referral placed.
+
+PATIENT EDUCATION
+Reviewed carbohydrate counting handout.
+Discussed hypoglycemia recognition and treatment.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-07-31 17:21

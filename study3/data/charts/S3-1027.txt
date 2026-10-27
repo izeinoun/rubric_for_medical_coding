@@ -1,0 +1,106 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: S3-1027    Age: 48    Sex: M
+Date of service: 2026-08-05    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 3
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+48-year-old man presents for scheduled follow-up. History of type 2 diabetes diagnosed 20 years ago. States adherence to medications
+--- Page 2 of 3 --- S3-1027 --- printed 2026-08-15 ---
+is good. Denies hypoglycemic episodes. No urinary symptoms. No foot ulcers or numbness reported. Energy fair. No new complaints today.
+
+REVIEW OF SYSTEMS
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Skin: no rashes or non-healing wounds.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Constitutional: denies fever, chills or unintended weight loss.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Neurological: no numbness or tingling in the feet; no headaches.
+Eyes: no blurred vision; last dilated eye exam 2024.
+Endocrine: no polyuria, pol-
+ydipsia or heat or cold intolerance.
+Respiratory: no cough or dyspnea on exertion.
+
+MEDICATI0NS
+- insulin glargine 12 units nightly
+- semaglutide 0.5 mg weekly
+- sevelamer 800 mg with meals
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+- levothyroxine 75 mcg daily
+- acetaminophen 650 mg as needed
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Codeine (nausea).
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- CKD, stage 5 (ESRD), on hemodialysis
+- Obesity
+- Seasonal allergic rhinitis
+- Hypothyroidism
+- Osteoarthritis, bilateral knees
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+- Right knee arthroscopy (2015)
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Father: coronary artery disease, died age 66.
+
+SOCIAL HISTORY
+Former smoker, quit 2007; 10 pack-years.
+Works part time as a cashier.
+Lives with spouse. Retired machinist.
+
+VITALS
+BP 139/77 | HR 87 | Temp 98.5 F | Wt 96.8 kg | BMI 35.4 | SpO2 94%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date  Test                        Result
+2026-01-09  eGFR                        8 mL/min/1.73m2
+2026-01-09  Creatinine                  7.72 mg/dL
+2026-08-05  eGFR                        12 mL/min/1.73m2
+2026-08-05  Hemoglobin A1c              6.7%
+2026-08-05  Glucose, fasting            186 mg/dL
+2026-08-05  Urine albumin/creatinine    283 mg/g
+2026-08-05  Potassium                   4.1 mmol/L
+2026-08-05  Sodium                      138 mmol/L
+2026-08-05  LDL cholesterol             122 mg/dL
+2026-08-05  Hemoglobin                  14.8 g/dL
+
+PRlOR VISIT SUMMARY (2026-01-11)
+(For reference only; not today's assessment.)
+T2DM: A1c 5.5% at that visit; continued medications.
+Diabetic chronic kidney disease, stage 5 (ESRD), on hemodialysis: eGFR 8 at that visit; continued losartan.
+Obesity: weight 96.8 kg. Continue lifestyle changes.
+
+ASSESSMENT/PLAN
+1. T2DM: A1c 6.7% today (up from 5.5%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. OA of knees: continue home exercises and acetaminophen PRN.
+3. Obesity, BMI 35.4: discussed nutrition and activity goals; referred to diet-
+itian.
+4. Diabetic chronic kidney disease, stage 5 (ESRD), on hemodialysis: End-stage renal disease on hemodialysis Monday, Wednesday and Friday via nephrology; eGFR 12, dry weight stable, potassium acceptable. Continue sevelamer; dialysis per nephrology.
+5. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+6. A1lergic rhinitis: seasona1 symptoms; continue loratadine PRN.
+7. Diabetic foot exam completed today. Dental visit within the past year.
+
+PATlENT EDUCATI0N
+Discussed hypoglycemia recognition and treatment.
+Reviewed sick-day rules for medications.
+
+Retum to clinic in 6 months or sooner as needed.
+Total time 32 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-08-05 14:23

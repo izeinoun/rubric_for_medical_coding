@@ -1,0 +1,91 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0118    Age: 78    Sex: M
+Date of service: 2026-01-16    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 7
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 78-year-old man returning for follow-up
+--- Page 2 of 3 --- FU-0118 --- printed 2026-01-31 ---
+of chronic conditions. History of type 2 diabetes diagnosed 4 years ago. Reports checking glucose twice daily; fasting readings mostly 128-140 mg/dL. Energy fair. No new complaints today. No polyuria or polydipsia. No visual changes.
+
+REVIEW OF SYSTEMS
+Respiratory: no cough or dyspnea on exertion.
+Skin: no rashes or non-healing wounds.
+Neurological: no numbness or tingling in the feet; no headaches.
+Musculoskeletal: chronic knee stiffness, otherw-
+ise negative.
+Constitutional: denies fever, chills or uni-
+ntended weight loss.
+Psychiat-
+ric: mood stable; sleeping 6 to 7 hours a night.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD, stage 4
+- Hypothyroidism
+- Essential hypertension
+- GERD
+
+PAST SURGICAL HIST0RY
+- Right knee arthroscopy (2015)
+
+MEDICATIONS
+- insulin glargine 18 units nightly
+- dapagliflozin 10 mg daily
+- levothyroxine 75 mcg daily
+- lisinopril 20 mg daily
+- omeprazole 20 mg daily
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 78.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Never smoker.
+Alcohol: none.
+Works part time as a librarian.
+
+VITALS
+BP 128/69 | HR 66 | Temp 97.8 F | Wt 84.8 kg | BMI 28.9 | SpO2 95%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date   Test   Result
+2026-01-16 eGFR	16 mL/min/1.73m2
+2026-01-16 Hemoglobin A1c    7.0%
+2026-01-16	Glucose, fasting	141 mg/dL
+2026-01-16   Urine albumin/creatinine  213 mg/g
+2026-01-16	Potassium	5.0 mmol/L
+2026-01-16   Sodium  138 mmol/L
+2026-01-16   LDL cholesterol	97 mg/dL
+2026-01-16 Hemoglobin         14.5 g/dL
+
+ASSESSMENT AND PLAN
+(A/P carried forward from 2025-09-17; reviewed and unchanged.)
+1. Diabetes mellitus, type 2: A1c 7.0%, improved from 7.7%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. HTN: at goal on current regimen. Continue 1isinopril.
+3. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+4. GERD: symptoms controlled on omeprazole. Continue.
+5. CKD, stage 4: Continue current renal regimen. Addendum 2026-01-16: eGFR 16 today, no prior for comparison. No change to lisinopril.
+6. Colorectal cancer screening up to date. Retinal exam due; referral placed.
+
+PATIENT EDUCATI0N
+Reviewed carbohydrate counting handout.
+Patient verbalized understanding of the plan.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-01-16 12:05

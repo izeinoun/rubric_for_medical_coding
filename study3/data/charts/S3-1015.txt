@@ -1,0 +1,90 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: S3-1015    Age: 83    Sex: F
+Date of service: 2026-02-28    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Practitioner, FNP-C (Primary Care)
+Location: Synthetic Primary Care Clinic, Room 11
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 83-year-old woman returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 6 years ago. Notes some difficulty with diet recently; fasting sugars 116-156 mg/dL. No polyuria or polydipsia. No visual changes. Sleeping reasonably well. Mood is good.
+
+REVIEW 0F SYSTEMS
+Genitourinary: no dysuria, hematuria or change in urine output.
+Respiratory: no cough or dyspnea on exertion.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Eyes: no blurred vision; last dilated eye exam 2025.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD, stage 3a
+- Hyperlipidemia
+- Essential hypertension
+- Osteoarthritis, bilateral knees
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+- Colonoscopy with polypectomy (2021)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- semaglutide 0.5 mg weekly
+- empagliflozin 10 mg daily
+- atorvastatin 40 mg nightly
+- lisinopril 20 mg daily
+- acetaminophen 650 mg as needed
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+Mother: hypertension.
+Father: coronary artery disease, died age 79.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+--- Page 2 of 3 --- S3-1015 --- printed 2026-03-17 ---
+Never smoker.
+Works part time as a consultant.
+Alcohol: rare.
+
+VITALS
+BP 121/70 | HR 70 | Temp 98.4 F | Wt 70.4 kg | BMI 29.7 | SpO2 99%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date    Test      Result
+2026-02-22 eGFR        22 mL/min/1.73m2
+2026-02-22 Hemoglobin A1c   6.6%
+2026-02-22 Glucose, fasting	128 mg/dL
+2026-02-22 Urine albumin/creatinine       410 mg/g
+2026-02-22	Potassium   4.1 mmol/L
+2026-02-22    Sodium     140 mmol/L
+2026-02-22	LDL cholesterol	119 mg/dL
+2026-02-22	Hemoglobin      13.0 g/dL
+
+ASSESSMENT/PLAN
+1. Type 2 diabetes mellitus: A1c 6.6% (improved from 7.3%). Medications unchanged; reinfor-
+ced carbohydrate counting.
+2. Chronic kidney disease, stage 3a: Labs reviewed with patient, eGFR 22. Continue empagliflozin; metformin dose appropriate for current eGFR. Recheck in 3 to 4 months.
+3. HTN: at goal on current regimen. Continue lisinopril.
+4. Hyperlipidemia: LDL 119 mg/dL. Continue atorvastatin 40 mg.
+5. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+6. Dental visit within the past year. Shingles vaccine series completed.
+
+PATIENT EDUCATI0N
+Discussed hypoglycemia recognition and treatment.
+Reviewed sick-day rules for medications.
+
+Retum to clinic in 4 months or sooner as needed.
+E1ectronically signed: Synthetic Practitioner, FNP-C 2026-02-28 15:31

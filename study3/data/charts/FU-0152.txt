@@ -1,0 +1,94 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0152    Age: 77    Sex: F
+Date of service: 2026-04-18    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Practitioner, FNP-C (Primary Care)
+Location: Synthetic Primary Care Clinic, Room 7
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 77-year-old woman returning for follow-up of chronic conditions. History of type 2 diabetes
+--- Page 2 of 3 --- FU-0152 --- printed 2026-04-24 ---
+diagnosed 10 years ago. Has been trying to walk 4 times per week. Glucose readings 117-157 mg/dL fasting. Denies chest pain, shortness of breath or leg swelling. Sleeping reasonably well. Mood is good.
+
+REVlEW OF SYSTEMS
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Skin: no rashes or non-healing wounds.
+Neurological: no numbness or tingling in the feet; no headaches.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Respiratory: no cough or dyspnea on exertion.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Endocrine: no polyuria, polydipsia or heat or cold intol-
+erance.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Essential hypertension
+- Obesity
+- Seasonal allergic rhinitis
+
+PAST SURGICAL HISTORY
+- Tonsillectomy (childhood)
+- Right knee arthroscopy (2015)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- loratadine 10 mg as needed
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+Penicillin (rash).
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Former smoker, quit 1997; 26 pack-years.
+Walks 2 times per week, about 20 minutes.
+Works part time as a consultant.
+
+VITALS
+BP 133/75 | HR 70 | Temp 98.3 F | Wt 92.9 kg | BMI 33.1 | SpO2 96%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date	Test Result
+2025-08-30	eGFR 68 mL/min/1.73m2
+2025-08-30  Creatinine        0.91 mg/dL
+2026-04-18    eGFR       54 mL/min/1.73m2
+2026-04-18 Creatinine	1.14 mg/dL
+2026-04-18    Hemoglobin A1c	8.9%
+2026-04-18   Glucose, fasting	124 mg/dL
+2026-04-18    Potassium   4.8 mmol/L
+2026-04-18	Sodium	138 mmol/L
+2026-04-18    LDL cholesterol     99 mg/dL
+2026-04-18    Hemoglobin      12.8 g/dL
+
+PRIOR VISIT SUMMARY (2025-08-30)
+(For reference only; not today's assessment.)
+T2DM: A1c 10.3% at that visit; continued medications.
+Hypertension: BP 133/75 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+
+ASSESSMENT/PLAN
+1. T2DM: A1c 8.9% (improved from 10.3%). Medications unchanged; reinforced carbohydrate counting.
+2. Decreased eGFR, possible early CKD versus lab variation: eGFR 54 (was 68). Will recheck renal panel in 90 days; diagnosis deferred until repeat testing.
+3. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+4. Obesity: weight 92.9 kg. Continue lifestyle changes.
+5. Hypertension: BP 133/75 today. Continue lisinopril 20 mg dai1y. Home BP log reviewed.
+6. Pneumococcal vaccination up to date. Retinal exam due; referral placed.
+
+PATIENT EDUCATION
+Reviewed sick-day rules for medications.
+Encouraged 150 minutes of moderate activity weekly.
+
+Retum to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Practitioner, FNP-C 2026-04-18 12:04

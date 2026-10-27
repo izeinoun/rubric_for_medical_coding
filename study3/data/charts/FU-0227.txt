@@ -1,0 +1,86 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0227    Age: 73    Sex: F
+Date of service: 2026-07-09    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Physician, DO (Family Medicine)
+Location: Synthetic Primary Care Clinic, Room 5
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 73-year-old woman, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 21 years ago. States adherence to medications is good. Denies hypoglycemic episodes. History of CKD, diagnosed 2016, followed in this clinic. Denies chest pain, shortness of breath or leg swelling. Energy fair. No new complaints today.
+
+REVIEW OF SYSTEMS
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Neurological: no numbness or tingling in the feet; no headaches.
+Skin: no rashes or non-healing wounds.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Constitutional: denies fever, chills or unintended weight loss.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- CKD stage 4
+- Essential hypertension
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Cholecystectomy (2011)
+- Colonoscopy with polypectomy (2021)
+
+MEDICATIONS
+- insulin glargine 18 units nightly
+- empagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- atorvastatin 40 mg nightly
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Penicillin (rash).
+
+FAMILY HISTORY
+Mother: hypertension.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Former smoker, quit 2002; 19 pack-years.
+Alcohol: rare.
+Walks 2 times per week, about 20 minutes.
+
+VITALS
+BP 146/69 | HR 83 | Temp 98.0 F | Wt 69.9 kg | BMI 28.5 | SpO2 98%
+
+LABS
+Date  Test                        Result
+2026-02-27  eGFR                        27 mL/min/1.73m2
+2026-07-08  eGFR                        20 mL/min/1.73m2
+2026-07-08  Creatinine                  3.09 mg/dL
+2026-07-08  Hemoglobin A1c              8.5%
+2026-07-08  Glucose, fasting            140 mg/dL
+2026-07-08  Urine albumin/creatinine    254 mg/g
+2026-07-08  Potassium                   5.0 mmol/L
+2026-07-08  Sodium                      142 mmol/L
+2026-07-08  LDL cholesterol             128 mg/dL
+2026-07-08  Hemoglobin                  12.1 g/dL
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+IMPRESSION AND PLAN
+1. Type 2 diabetes mellitus: A1c 8.5% today (up from 7.2%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. CKD stage 4: eGFR 20 (down from 27). Metformin discontinued given renal function. Continue empagliflozin. Referred to nephrology for co-management.
+3. Problem list reviewed: hypertension, hyperlipidemia.
+4. Colorectal cancer screening up to date. Dental visit within the past year.
+
+PATIENT EDUCATION
+Reviewed carbohydrate counting handout.
+Discussed hypoglycemia recognition and treatment.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Physician, DO 2026-07-09 09:25

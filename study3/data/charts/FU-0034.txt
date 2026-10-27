@@ -1,0 +1,94 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0034    Age: 56    Sex: F
+Date of service: 2026-04-04    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 12
+
+CHIEF COMPLAINT
+Diabetes check and lab review.
+
+HISTORY OF PRESENT ILLNESS
+56-year-old woman seen today
+--- Page 2 of 3 --- FU-0034 --- printed 2026-04-08 ---
+for routine chronic care. History of type 2 diabetes diagnosed 13 years ago. Has been trying to walk 4 times per week. Glucose readings 112-156 mg/dL fasting. No polyuria or polydipsia. No visual changes. Sleeping reas-
+onably well. Mood is good.
+
+REVIEW OF SYSTEMS
+Genitourinary: no dysuria, hematuria or change in urine output.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Constitutional: denies fever, chills or unintended weight loss.
+Neurological: no numbness or tingling in the feet; no headaches.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Eyes: no blurred vision; last dilated eye exam 2025.
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- empagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- loratadine 10 mg as needed
+- omeprazole 20 mg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease, stage 3b
+- Obesity
+- Essential hypertension
+- Seasonal allergic rhinitis
+- GERD
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+
+FAMILY HISTORY
+Mother: hypertension.
+Brother: hyperlipidemia.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Former smoker, quit 2012; 26 pack-years.
+Works part time as a cashier.
+Alcohol: rare.
+
+VITALS
+BP 130/91 | HR 76 | Temp 98.7 F | Wt 109.9 kg | BMI 38.2 | SpO2 95%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pu1ses 2+.
+
+LABS
+Date  Test	Result
+2026-04-01  eGFR  42 mL/min/1.73m2
+2026-04-01    Creatinine       1.47 mg/dL
+2026-04-01   Hemoglobin A1c         8.0%
+2026-04-01  Glucose, fasting    121 mg/dL
+2026-04-01	Urine albumin/creatinine    77 mg/g
+2026-04-01   Potassium	3.9 mmol/L
+2026-04-01 Sodium    140 mmol/L
+2026-04-01   LDL chole-
+sterol     117 mg/dL
+2026-04-01    Hemoglobin	14.2 g/dL
+
+ASSESSMENT/PLAN
+1. Diabetes mellitus, type 2: A1c 8.0% today (improved from 8.8%). Continue current regimen. Foot exam done; annua1 eye exam reminder given.
+2. GERD: symptoms controlled on omeprazole. Continue.
+3. Obesity: weight 109.9 kg. Continue lifestyle changes.
+4. Hypertension: BP 130/91 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+5. 0ther chronic problems reviewed: a1lergic rhinitis, CKD 3b.
+6. Shingles vaccine series completed. Diabetic foot exam completed today.
+
+PATlENT EDUCATION
+Patient verbalized understanding of the plan.
+Reviewed carbohydrate counting handout.
+
+Retum to clinic in 6 months or sooner as needed.
+Elec-
+tronically signed: Synthetic Provider, MD 2026-04-04 10:13

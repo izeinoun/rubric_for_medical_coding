@@ -1,0 +1,92 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0022    Age: 50    Sex: M
+Date of service: 2026-02-20    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Practitioner, FNP-C (Primary Care)
+Location: Synthetic Primary Care Clinic, Room 8
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+50-year-old man seen today for routine chronic care. History of type 2 diabetes diagnosed 15 years ago. Has been trying to walk 2 times per week. Glucose readings 130-162 mg/dL fasting. Denies chest pain, shortness of breath or leg swelling. Energy fair. No new complaints today.
+
+REVIEW OF SYSTEMS
+Neurological: no numbness or tingling in the feet; no headaches.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Eyes: no blurred vision; last dilated eye exam 2024.
+Constitutional: denies fever, chills or unintended weight loss.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Skin: no rashes or non-healing wounds.
+Respiratory: no cough or dyspnea on exertion.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Hyperlipidemia
+- Osteoarthritis, bilateral knees
+- GERD
+- Seasonal allergic rhinitis
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- atorvastatin 40 mg nightly
+- acetaminophen 650 mg as needed
+- omeprazole 20 mg daily
+- loratadine 10 mg as needed
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Mother: hypertension.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Never smoker.
+Works part time as a librarian.
+Walks 5 times per week, about 20 minutes.
+
+VITALS
+BP 138/69 | HR 89 | Temp 98.2 F | Wt 65.2 kg | BMI 23.5 | SpO2 97%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date  Test                        Result
+2025-09-03  eGFR                        64 mL/min/1.73m2
+2025-09-03  Creatinine                  0.96 mg/dL
+2026-02-17  eGFR                        57 mL/min/1.73m2
+2026-02-17  Hemoglobin A1c              6.6%
+2026-02-17  Glucose, fasting            144 mg/dL
+2026-02-17  Potassium                   4.9 mmol/L
+2026-02-17  Sodium                      139 mmol/L
+2026-02-17  LDL cholesterol             113 mg/dL
+2026-02-17  Hemoglobin                  12.7 g/dL
+
+IMPRESSION AND PLAN
+1. Type 2 diabetes mellitus: A1c 6.6%, up from 6.0%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+3. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+4. Rule out chronic kidney disease: eGFR 57 today, previously 64. Repeat BMP and urine albumin in 3 months to confirm chronicity.
+5. GERD: symptoms controlled on omeprazole. Continue.
+6. OA of knees: continue home exercises and acetaminophen PRN.
+7. Influenza vaccine given this season. Colorectal cancer screening up to date.
+
+PATIENT EDUCATION
+Discussed hypoglycemia recognition and treatment.
+Encouraged 150 minutes of moderate activity weekly.
+
+Return to clinic in 6 months or sooner as needed.
+Total time 36 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Practitioner, FNP-C 2026-02-20 12:57

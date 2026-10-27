@@ -1,0 +1,93 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0194    Age: 69    Sex: F
+Date of service: 2026-09-06    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Practitioner, FNP-C (Primary Care)
+Location: Synthetic Primary Care Clinic, Room 12
+
+CHIEF COMPLAINT
+Diabetes check and lab review.
+
+HISTORY OF PRESENT ILLNESS
+69-year-old woman here for a 6-month check-in. History of type 2 diabetes diagnosed 4 years ago. Home glucose log reviewed, fasting values 109-157 mg/dL with occasional post-meal readings above 200. No polyuria or polydipsia. No visual changes. Mild bilateral knee stiffness in the mornings, unchanged.
+
+REVIEW OF SYSTEMS
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Respiratory: no cough or dyspnea on exertion.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease, stage 3a
+- Obesity
+- Essential hypertension
+- GERD
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Right knee arthroscopy (2015)
+- Cataract extraction, left eye (2022)
+- Tonsillectomy (childhood)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- omeprazole 20 mg daily
+- atorvastatin 40 mg nightly
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+Mother: hypertension.
+Father: coronary artery disease, died age 69.
+
+SOCIAL HISTORY
+Never smoker.
+Alcohol: rare.
+Walks 2 times per week, about 20 minutes.
+
+VITALS
+BP 146/75 | HR 90 | Temp 98.2 F | Wt 81.3 kg | BMI 30.7 | SpO2 98%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date  Test                        Result
+2026-05-19  eGFR                        53 mL/min/1.73m2
+2026-05-19  Creatinine                  1.17 mg/dL
+2026-09-06  eGFR                        52 mL/min/1.73m2
+2026-09-06  Creatinine                  1.19 mg/dL
+2026-09-06  Hemoglobin A1c              9.2%
+2026-09-06  Glucose, fasting            144 mg/dL
+2026-09-06  Urine albumin/creatinine    189 mg/g
+2026-09-06  Potassium                   3.8 mmol/L
+2026-09-06  Sodium                      140 mmol/L
+2026-09-06  LDL cholesterol             101 mg/dL
+2026-09-06  Hemoglobin                  13.1 g/dL
+
+ASSESSMENT AND PLAN
+(Assessment copied from note dated 2026-03-26 and updated where noted.)
+1. Diabetes mellitus, type 2: A1c 9.2%, up from 7.8%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Essential hypertension: BP 146/75. Reinforced low-sodium diet; continue lisinopril 20 mg.
+3. Obesity, BMI 30.7: discussed nutrition and activity goals; referred to dietitian.
+4. Chronic kidney disease, stage 3a: Today's eGFR 52 (2026-09-06), stable from 53. Continue lisinopril and empagliflozin. Labs again in 3 months.
+5. GERD: symptoms controlled on omeprazole. Continue.
+6. Problem list reviewed: hyperlipidemia.
+7. Influenza vaccine given this season. Retinal exam due; referral placed.
+
+PATIENT EDUCATION
+Reviewed sick-day rules for medications.
+Encouraged 150 minutes of moderate activity weekly.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Practitioner, FNP-C 2026-09-06 13:19

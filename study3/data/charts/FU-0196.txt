@@ -1,0 +1,95 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0196    Age: 60    Sex: F
+Date of service: 2026-06-27    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Associate, PA-C (Internal Medicine)
+Location: Synthe-
+tic Primary Care Clinic, Room 9
+
+CHIEF COMPLAINT
+Follow-up visit; medication refills.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 60-year-old woman returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 8 years ago. Brought meter today; morning values 124-155 mg/dL, no lows. Appetite stable. Denies nausea or abdominal pain. Energy fair. No new complaints today.
+
+REVIEW OF SYSTEMS
+Eyes: no blurred vision; last dilated eye exam 2024.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Respiratory: no cough or dyspnea on exertion.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Skin: no rashes or non-healing wounds.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Constitutional: denies fever, chills or unintended weight loss.
+
+MEDICATI0NS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- levothyroxine 75 mcg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Codeine (nausea).
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease stage 3a
+- Essential hypert-
+ension
+- Hypothyroidism
+- Obesity
+
+PAST SURGICAL HISTORY
+- Cholecystectomy (2011)
+- Appendectomy (1988)
+- Cataract extraction, left eye (2022)
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 77.
+No family history of kidney disease reported.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Former smoker, quit 2005; 9 pack-years.
+Alcohol: 1 to 2 drinks per week.
+Walks 5 times per week, about 20 minutes.
+
+VITALS
+BP 144/88 | HR 72 | Temp 98.7 F | Wt 97.2 kg | BMI 34.0 | SpO2 98%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date	Test	Result
+2026-06-26 eGFR        51 mL/min/1.73m2
+2026-06-26  Creatinine         1.21 mg/dL
+--- Page 2 of 3 --- FU-0196 --- printed 2026-07-02 ---
+2026-06-26 Hemoglobin A1c	6.7%
+2026-06-26   Glucose, fasting     110 mg/dL
+2026-06-26  Urine albumin/creatinine	35 mg/g
+2026-06-26	Potassium	4.1 mmol/L
+2026-06-26	Sodium	140 mmol/L
+2026-06-26   LDL cholesterol  68 mg/dL
+2026-06-26   Hemoglobin	13.9 g/dL
+
+ASSESSMENT AND PLAN
+1. Diabetes mellitus, type 2: A1c 6.7% today (up from 5.5%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Chronic kidney disease stage 3a, most likely due to type 2 diabetes: eGFR 51, UACR 35 mg/g. On empagliflozin and lisinopril; counseled on avoiding nephrotoxins. Repeat labs in 3 months.
+3. Hypothyroid: clinically euthyroid. Continue current dose.
+4. 0besity, BMl 34.0: discussed nutrition and activity goa1s; referred to die-
+titian.
+5. Essential hypertension: BP 144/88. Reinforced low-sodium diet; continue lisinopril 20 mg.
+6. Retinal exam due; referral placed. lnfluenza vaccine given this season.
+
+PATIENT EDUCATI0N
+Discussed hypoglycemia recognition and treatment.
+Reviewed sick-day rules for medications.
+
+Retum to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Associate, PA-C 2026-06-27 13:06

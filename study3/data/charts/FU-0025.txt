@@ -1,0 +1,93 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0025    Age: 78    Sex: F
+Date of service: 2026-01-19    Visit type: Nurse visit, diabetes education, in person
+Clinician: Synthetic Nurse, RN (Diabetes Education)
+Location: Synthetic Primary Care Clinic, Room 3
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 78-year-old woman returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 17 years ago. Notes some difficulty with diet recently; fasting sugars 115-162 mg/dL. No urinary symptoms. No foot ulcers or numbness reported. Sleeping reasonably well. Mood is good.
+
+REVIEW OF SYSTEMS
+Constitutional: denies fever, chills or unintended weight loss.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Neurological: no numbness or tingling in the feet; no headaches.
+Respiratory: no cough or dyspnea on exertion.
+Genitourinary: no dysuria, hematuria or change in urine output.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease, stage 3b
+- Osteoarthritis, bilateral knees
+- Essential hypertension
+- GERD
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Right knee arthroscopy (2015)
+- Appendectomy (1988)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- empagliflozin 10 mg daily
+- acetaminophen 650 mg as needed
+- lisinopril 20 mg daily
+- omeprazole 20 mg daily
+- atorvastatin 40 mg nightly
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+No known drug allergies.
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 76.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Former smoker, quit 1996; 27 pack-years.
+Walks 2 times per week, about 20 minutes.
+Alcohol: none.
+
+VITALS
+BP 145/92 | HR 87 | Temp 98.4 F | Wt 63.6 kg | BMI 24.6 | SpO2 97%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date  Test                        Result
+2025-06-11  eGFR                        35 mL/min/1.73m2
+2026-01-13  eGFR                        43 mL/min/1.73m2
+2026-01-13  Hemoglobin A1c              9.2%
+2026-01-13  Glucose, fasting            102 mg/dL
+2026-01-13  Urine albumin/creatinine    193 mg/g
+2026-01-13  Potassium                   5.0 mmol/L
+2026-01-13  Sodium                      136 mmol/L
+2026-01-13  LDL cholesterol             129 mg/dL
+2026-01-13  Hemoglobin                  14.3 g/dL
+
+ASSESSMENT AND PLAN
+1. Type 2 diabetes mellitus: A1c 9.2% (improved from 10.4%). Reviewed meal plan and carbohydrate counting; medications per provider.
+2. Chronic kidney disease stage 3b: Kidney labs reviewed with patient: eGFR 43, UACR 193 mg/g. Reviewed renal diet handout; continue empagliflozin as prescribed.
+3. Hypertension: managed by primary care provider.
+4. Knee osteoarthritis: managed by primary care provider.
+5. Hyperlipidemia: managed by primary care provider.
+6. GERD: managed by primary care provider.
+7. Pneumococcal vaccination up to date. Dental visit within the past year.
+
+PATIENT EDUCATION
+Encouraged 150 minutes of moderate activity weekly.
+Reviewed sick-day rules for medications.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Nurse, RN 2026-01-19 17:23

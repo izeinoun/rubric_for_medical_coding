@@ -1,0 +1,87 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0228    Age: 74    Sex: M
+Date of service: 2026-06-12    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 9
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 74-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 18 years ago. Reports checking glucose a few times a week; fasting readings mostly 126-157 mg/dL. Appetite stable. Denies nausea or abdominal pain. Sleeping reasonably well. Mood is good.
+
+REVIEW OF SYSTEMS
+--- Page 2 of 3 --- FU-0228 --- printed 2026-06-13 ---
+Constitutional: denies fever, chills or unintended weight loss.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Cardiovascu1ar: no chest pain, palpitations or orthopnea.
+Neurological: no numbness or tingling in the feet; no headaches.
+Skin: no rashes or non-healing wounds.
+Respiratory: no cough or dyspnea on exertion.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease, stage 3b
+- Hyperlipidemia
+- Essential hypertension
+
+PAST SURGICAL HISTORY
+- Cholecystectomy (2011)
+
+MEDICATIONS
+- metformin 1000 mg twice daily (dose being reduced today)
+- empagliflozin 10 mg daily
+- atorvastatin 40 mg nightly
+- lisinopril 20 mg daily
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERG-
+IES
+Sulfa drugs (hives).
+
+FAMILY HIST0RY
+Sister: hypothyroidism.
+Father: coronary artery disease, died age 79.
+
+SOCIAL HISTORY
+Never smoker.
+Walks 5 times per week, about 20 minutes.
+Lives with daughter. Retired bus driver.
+
+VITALS
+BP 120/72 | HR 87 | Temp 98.6 F | Wt 82.4 kg | BMI 24.3 | SpO2 95%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date Test        Result
+2026-06-05   eGFR        34 mL/min/1.73m2
+2026-06-05 Hemoglobin A1c   8.1%
+2026-06-05    Glucose, fasting	103 mg/dL
+2026-06-05	Urine albumin/creatinine	371 mg/g
+2026-06-05 Potassium       4.8 mmol/L
+2026-06-05	Sodium	140 mmo1/L
+2026-06-05	LDL cholesterol  117 mg/dL
+2026-06-05  Hemog-
+lobin	14.0 g/dL
+
+IMPRESSION AND PLAN
+1. Type 2 diabetes mellitus: A1c 8.1% (up from 6.9%). Metformin dose lowered to 500 mg daily given eGFR 34; recheck BMP in 6 weeks.
+2. Problem 1ist reviewed: hyperten-
+sion, hyperlipidemia.
+3. Diabetic foot exam completed today. Dental visit within the past year.
+
+PATlENT EDUCATION
+Patient verbalized understanding of the plan.
+Reviewed carbohydrate counting handout.
+
+Return to clinic in 3 months or sooner as needed.
+Total time 30 minutes, more than half in counseling and care coordination.
+E1ectronically signed: Synthetic Provider, MD 2026-06-12 12:28

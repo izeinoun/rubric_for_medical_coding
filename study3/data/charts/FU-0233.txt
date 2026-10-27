@@ -1,0 +1,96 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0233    Age: 61    Sex: M
+Date of service: 2026-04-18    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Physician, DO (Family Medicine)
+Location: Synthetic Primary Care Clinic, Room 13
+
+CHIEF COMPLAINT
+Follow-up visit; medication refills.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 61-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 8 years ago. States adherence to medications is good. Denies hypoglycemic episodes. No polyuria or polydipsia. No visual changes. Denies chest pain, shortness of breath or leg swelling.
+
+REVIEW OF SYSTEMS
+Respiratory: no cough or dyspnea on exertion.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Skin: no rashes or non-healing wounds.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Neurological: no numbness or tingling in the feet; no headaches.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- semaglutide 0.5 mg weekly
+- dapagliflozin 10 mg daily
+- omeprazole 20 mg daily
+- levo-
+thyroxine 75 mcg daily
+- lisino-
+pril 20 mg daily
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+No known drug allergies.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- CKD stage 3a due to hypertensive nephrosc1erosis
+- GERD
+- Hypothyroidism
+- Essential hypertension
+
+PAST SURGICAL HISTORY
+- Colonoscopy with polypectomy (2021)
+- Cholecystectomy (2011)
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 69.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Never smoker.
+Lives with daughter. Retired machinist.
+Alcohol: rare.
+
+VITALS
+BP 134/80 | HR 66 | Temp 98.1 F | Wt 81.8 kg | BMI 24.0 | SpO2 94%
+
+LABS
+Date    Test	Result
+2025-09-19 eGFR       46 mL/min/1.73m2
+2026-04-11  eGFR      52 mL/min/1.73m2
+2026-04-11 Hemoglobin A1c	8.6%
+2026-04-11   Glucose, fasting    123 mg/dL
+2026-04-11 Urine albumin/creatinine	376 mg/g
+2026-04-11    Potassium     4.7 mmol/L
+2026-04-11	Sodium	138 mmol/L
+2026-04-11   LDL cholesterol	88 mg/dL
+2026-04-11	Hemoglobin      14.6 g/dL
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nont-
+ender.
+Ext: no edema; feet without lesions.
+
+IMPRESSI0N AND PLAN
+1. Type 2 diabetes mellitus: A1c 8.6% today (up from 7.6%). Continue current regimen. Foot exam done; annua1 eye exam reminder given.
+2. Hypertension: BP 134/80 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+3. CKD stage 3a due to hypertensive nephrosclerosis: Labs reviewed with patient, eGFR 52. Continue dapagliflozin; metformin dose appropriate for current eGFR. Recheck in 3 to
+--- Page 2 of 3 --- FU-0233 --- printed 2026-05-03 ---
+4 months.
+4. GERD: symptoms controlled on omeprazole. Continue.
+5. Problem list reviewed: hypothyroidism.
+6. Retinal exam due; referral placed. Colorectal cancer screening up to date.
+
+PATIENT EDUCATI0N
+Discussed hypoglycemia recognition and treatment.
+Reviewed carbohydrate counting handout.
+
+Return to clinic in 6 months or sooner as needed.
+E1ectronically signed: Synthetic Physician, D0 2026-04-18 13:41

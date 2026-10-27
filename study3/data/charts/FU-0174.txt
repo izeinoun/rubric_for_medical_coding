@@ -1,0 +1,73 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0174    Age: 78    Sex: F
+Date of service: 2026-08-05    Visit type: Interprofessional e-consult (chart review; patient not seen)
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 8
+
+REASON FOR E-CONSULT
+Question from primary care team about diabetes and kidney function management.
+
+HISTORY OF PRESENT ILLNESS
+Chart reviewed for 78-year-old woman; patient not seen or examined for this consult. History of type 2 diabetes diagnosed 7 years ago. Glucose log documented at last office visit: fasting 124-149 mg/dL.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- CKD, stage 3b
+- Hyperlipidemia
+- Seasonal allergic rhinitis
+- GERD
+- Hypothyroidism
+
+PAST SURGICAL HISTORY
+- Right knee arthroscopy (2015)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- atorvastatin 40 mg nightly
+- loratadine 10 mg as needed
+- omeprazole 20 mg daily
+- levothyroxine 75 mcg daily
+Medication list taken from the chart; not reconciled with the patient.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Father: coronary artery disease, died age 80.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Never smoker.
+Alcohol: 1 to 2 drinks per week.
+Works part time as a cashier.
+
+VITALS
+Last recorded in clinic: BP 143/77, weight 67.8 kg (not measured today).
+
+EXAM
+Not performed; patient not seen for this e-consult.
+
+LABS
+Date  Test                        Result
+2026-07-26  eGFR                        40 mL/min/1.73m2
+2026-07-26  Hemoglobin A1c              9.3%
+2026-07-26  Glucose, fasting            171 mg/dL
+2026-07-26  Urine albumin/creatinine    257 mg/g
+2026-07-26  Potassium                   4.4 mmol/L
+2026-07-26  Sodium                      141 mmol/L
+2026-07-26  LDL cholesterol             108 mg/dL
+2026-07-26  Hemoglobin                  14.8 g/dL
+
+E-CONSULT ASSESSMENT AND RECOMMENDATIONS
+1. T2DM: A1c 9.3% (up from 8.2%). Recommend continuing the current regimen.
+2. Hyperlipidemia: stable per chart review; no change recommended.
+3. Chronic kidney disease stage 3b due to type 2 diabetes: Latest eGFR 40 (no prior for comparison), UACR 257 mg/g. Recommend continuing losartan and dapagliflozin; repeat BMP and UACR in 3 months.
+4. GERD: stable per chart review; no change recommended.
+5. Allergic rhinitis: stable per chart review; no change recommended.
+6. Hypothyroidism: stable per chart review; no change recommended.
+
+Recommendations sent to the primary care team. Total time spent on chart review: 15 minutes.
+Electronically signed: Synthetic Provider, MD 2026-08-05 11:07

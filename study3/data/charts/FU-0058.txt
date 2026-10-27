@@ -1,0 +1,95 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0058    Age: 68    Sex: F
+Date of service: 2026-04-05    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 11
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+68-year-old woman seen today for routine chronic care. Type 2 diabetes for 11 years; started basal insulin 4 years ago when oral agents were no longer enough. Home glucose log reviewed, fasting values 117-156 mg/dL with occasional post-meal readings above 200. No urinary symptoms. No foot ulcers or numbness reported. No polyuria or polydipsia. No visual changes.
+
+REVIEW OF SYSTEMS
+Neurological: no numbness or tingling in the feet; no headaches.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Skin: no rashes or non-healing wounds.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Constitutional: denies fever, chills or unintended weight loss.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Respiratory: no cough or dyspnea on exertion.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus, insulin-requiring
+- Chronic kidney disease stage 3a
+- Hypothyroidism
+- Essential hypertension
+- Seasonal allergic rhinitis
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Tonsillectomy (childhood)
+
+MEDICATIONS
+- insulin glargine 24 units nightly
+- metformin 500 mg twice daily (renally dosed)
+- empagliflozin 10 mg daily
+- levothyroxine 75 mcg daily
+- lisinopril 20 mg daily
+- loratadine 10 mg as needed
+- atorvastatin 40 mg nightly
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+No family history of kidney disease reported.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Former smoker, quit 2006; 12 pack-years.
+Works part time as a cashier.
+Alcohol: none.
+
+VITALS
+BP 127/86 | HR 80 | Temp 98.4 F | Wt 73.5 kg | BMI 26.9 | SpO2 97%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date  Test                        Result
+2025-08-17  eGFR                        53 mL/min/1.73m2
+2025-08-17  Creatinine                  1.17 mg/dL
+2026-03-30  eGFR                        47 mL/min/1.73m2
+2026-03-30  Creatinine                  1.31 mg/dL
+2026-03-30  Hemoglobin A1c              9.5%
+2026-03-30  Glucose, fasting            178 mg/dL
+2026-03-30  Urine albumin/creatinine    274 mg/g
+2026-03-30  Potassium                   5.0 mmol/L
+2026-03-30  Sodium                      137 mmol/L
+2026-03-30  LDL cholesterol             108 mg/dL
+2026-03-30  Hemoglobin                  13.2 g/dL
+
+ASSESSMENT AND PLAN
+1. Type 2 diabetes mellitus on insulin: A1c 9.5% today (improved from 10.6%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+3. Hypertension: BP 127/86 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+4. CKD stage 3a: Renal function reviewed: eGFR 47 (down from 53). Continue lisinopril and empagliflozin. Avoid NSAIDs. Nephrology follow-up as scheduled.
+5. Hypothyroid: clinically euthyroid. Continue current dose.
+6. Hyperlipidemia: LDL 108 mg/dL. Continue atorvastatin 40 mg.
+7. Shingles vaccine series completed. Diabetic foot exam completed today.
+
+PATIENT EDUCATION
+Reviewed sick-day rules for medications.
+Reviewed carbohydrate counting handout.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-04-05 10:39

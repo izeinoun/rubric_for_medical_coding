@@ -1,0 +1,85 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: S3-1042    Age: 48    Sex: M
+Date of service: 2026-08-19    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 2
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+48-year-old man here for
+--- Page 2 of 3 --- S3-1042 --- printed 2026-08-29 ---
+a 6-month check-in. History of type 2 diabetes diagnosed 17 years ago. Brought meter today; morning values 105-149 mg/dL, no lows. Sleeping reasonably well. Mood is good. Denies chest pain, shortness of breath or leg swelling.
+
+REVlEW OF SYSTEMS
+Respiratory: no cough or dyspnea on exertion.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Constitutional: denies fever, chills or unintended weight loss.
+Neurological: no numbness or tingling in the feet; no headaches.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- atorvastatin 40 mg nightly
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Hyperlipidemia
+- Obesity
+
+PAST SURGICAL HISTORY
+- Colonoscopy with polypectomy (2021)
+- Cholecystectomy (2011)
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Father: coronary artery disease, died age 78.
+
+SOCIAL HISTORY
+Never smoker.
+Lives with alone. Retired mach-
+inist.
+Walks 4 times per week, about 20 minutes.
+
+VITALS
+BP 124/76 | HR 64 | Temp 98.1 F | Wt 97.6 kg | BMI 32.4 | SpO2 96%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to ausculta-
+tion.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date  Test                        Result
+2026-01-31  eGFR                        50 mL/min/1.73m2
+2026-08-11  eGFR                        48 mL/min/1.73m2
+2026-08-11  Creatinine                  1.29 mg/dL
+2026-08-11  Hemoglobin A1c              7.5%
+2026-08-11  G1ucose, fasting            163 mg/dL
+2026-08-11  Urine albumin/creatinine    353 mg/g
+2026-08-11  Potassium                   4.5 mmol/L
+2026-08-11  Sodium                      140 mmol/L
+2026-08-11  LDL cholesterol             131 mg/dL
+2026-08-11  Hemoglobin                  13.2 g/dL
+
+IMPRESSION AND PLAN
+1. T2DM: A1c 7.5% (up from 7.0%). Medications unchanged; reinforced carbohydrate counting.
+1b. Kidneys 0K per last labs.
+2. Problem list reviewed: obesity, hyper1ipidemia.
+3. Colorectal cancer screening up to date. Dental visit within the past year.
+
+PATIENT EDUCATI0N
+Patient verbalized understanding of the plan.
+Reviewed carbohydrate counting handout.
+
+Retum to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-08-19 11:11

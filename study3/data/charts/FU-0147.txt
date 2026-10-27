@@ -1,0 +1,91 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0147    Age: 66    Sex: M
+Date of service: 2026-07-29    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Associate, PA-C (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 3
+
+CHIEF COMPLAINT
+Diabetes check and lab review.
+
+HISTORY OF PRESENT ILLNESS
+66-year-old man here for a 3-month check-in. History of type 2 diabetes diagnosed 7 years ago. Has been trying to walk 2 times per week. Glucose readings 105-170 mg/dL fasting. Outside lab result brought by patient: eGFR 54 (date not recorded). Mild bilateral knee stiffness in the mornings, unchanged. No polyuria or polydipsia. No visual changes.
+
+REVIEW OF SYSTEMS
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Neurological: no numbness or tingling in the feet; no headaches.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Skin: no rashes or non-healing wounds.
+Eyes: no blurred vision; last dilated eye exam 2023.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- omeprazole 20 mg daily
+- levothyroxine 75 mcg daily
+- loratadine 10 mg as needed
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Penicillin (rash).
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease stage 3a
+- GERD
+- Hypothyroidism
+- Seasonal allergic rhinitis
+
+PAST SURGICAL HISTORY
+- Right knee arthroscopy (2015)
+- Tonsillectomy (childhood)
+- Colonoscopy with polypectomy (2021)
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 65.
+Sister: hypothyroidism.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Former smoker, quit 2008; 18 pack-years.
+Alcohol: 1 to 2 drinks per week.
+Works part time as a librarian.
+
+VITALS
+BP 137/75 | HR 90 | Temp 97.8 F | Wt 86.4 kg | BMI 28.3 | SpO2 96%
+
+LABS
+Date  Test                        Result
+2026-07-26  eGFR                        46 mL/min/1.73m2
+2026-07-26  Creatinine                  1.34 mg/dL
+2026-07-26  Hemoglobin A1c              8.3%
+2026-07-26  Glucose, fasting            151 mg/dL
+2026-07-26  Urine albumin/creatinine    141 mg/g
+2026-07-26  Potassium                   4.4 mmol/L
+2026-07-26  Sodium                      143 mmol/L
+2026-07-26  LDL cholesterol             88 mg/dL
+2026-07-26  Hemoglobin                  13.9 g/dL
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+IMPRESSION AND PLAN
+1. T2DM: A1c 8.3% (up from 8.1%). Medications unchanged; reinforced carbohydrate counting.
+2. CKD, stage 3a: Latest eGFR 46 (no prior for comparison); potassium acceptable. Continue losartan and empagliflozin. BMP in 3 months.
+3. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+4. Also on problem list: allergic rhinitis, hypothyroidism.
+5. Diabetic foot exam completed today. Dental visit within the past year.
+
+PATIENT EDUCATION
+Discussed hypoglycemia recognition and treatment.
+Encouraged 150 minutes of moderate activity weekly.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Associate, PA-C 2026-07-29 16:35

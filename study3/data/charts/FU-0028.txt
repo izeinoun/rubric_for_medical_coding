@@ -1,0 +1,104 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0028    Age: 77    Sex: F
+Date of service: 2026-07-27    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 5
+
+CHIEF COMPLAINT
+Follow-up visit; medication refills.
+
+HISTORY OF PRESENT ILLNESS
+77-year-old woman presents for scheduled follow-up. Type 2 diabetes for 20 years; started basa1 insulin 4 years ago when oral agents were no longer enough. Notes some difficulty with diet recently; fasting sugars 107-152 mg/dL. No urinary symptoms. No foot ulcers or numbness reported. Mild bilateral knee stiffness in the mornings, unchan-
+ged.
+
+REVIEW OF SYSTEMS
+Genitourinary: no dysuria, hematuria or change in urine output.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Skin: no rashes or non-healing wounds.
+Neurological: no numbness or tingling in the feet; no headaches.
+
+PAST MEDlCAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus, insulin-requiring
+- CKD, stage 3a
+- Seasonal allergic rhinitis
+- Hyperlipidemia
+- Hypothyroidism
+- Osteoarthritis, bilateral knees
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+- Cholecystectomy (2011)
+
+MEDICATIONS
+- insulin glargine 24 units nightly
+- metformin 500 mg twice daily (renally dosed)
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+- atorvastatin 40 mg nightly
+- levothyroxine 75 mcg daily
+- acetaminophen 650 mg as needed
+Med rec done with patient's pill bottles.
+
+--- Page 2 of 3 --- FU-0028 --- printed 2026-07-29 ---
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HIST0RY
+Brother: hyperlipidemia.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Never smoker.
+Alcohol: rare.
+Works part time as a cashier.
+
+VITALS
+BP 129/75 | HR 73 | Temp 97.9 F | Wt 85.2 kg | BMI 29.4 | SpO2 94%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date	Test	Result
+2026-02-26	eGFR	46 mL/min/1.73m2
+2026-07-19	eGFR	49 mL/min/1.73m2
+2026-07-19  Creatinine     1.26 mg/dL
+2026-07-19	Hemoglobin A1c    6.7%
+2026-07-19  Glucose, fasting     120 mg/dL
+2026-07-19	Urine albumin/creatinine	75 mg/g
+2026-07-19 Potassium      4.6 mmol/L
+2026-07-19	Sodium      140 mmol/L
+2026-07-19	LDL cholesterol         96 mg/dL
+2026-07-19   Hemoglobin 13.2 g/dL
+
+FROM LAST OFFICE VISIT (2026-02-26)
+(For reference only; not today's assessment.)
+Type 2 diabetes mellitus on insulin: A1c 7.2% at that visit; continued medications.
+Diabetic chronic kidney disease, stage 3a: eGFR 46 at that visit; continued losartan.
+Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+
+ASSESSMENT AND PLAN
+1. Type 2 diabetes mellitus on insulin: A1c 6.7% (improved from 7.2%). Medications unchanged; reinforced carbohydrate counting.
+2. Hypothyroid: clinically euthyroid. Continue current dose.
+3. Diabetic chronic kidney disease, stage 3a: eGFR 49 (stable from 46), albuminuria 75 mg/g. Increased losartan to 100 mg daily. Repeat potassium and creatinine in 2 weeks.
+4. Hyperlipidemia: LDL 96 mg/dL. Continue atorvastatin 40 mg.
+5. OA of knees: continue home exercises and acetaminophen PRN.
+6. Also on problem list: allergic rhinitis.
+7. Retinal exam due; referral placed. Pneumococcal vaccination up to date.
+
+PATlENT EDUCATI0N
+Encouraged 150 minutes of moderate activity weekly.
+Reviewed sick-day rules for medications.
+
+Retum to clinic in 6 months or sooner as needed.
+Total time 32 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-07-27 14:42

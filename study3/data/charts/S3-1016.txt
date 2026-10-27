@@ -1,0 +1,92 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: S3-1016    Age: 71    Sex: F
+Date of service: 2026-04-20    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Physician, DO (Family Medicine)
+Location: Synthetic Primary Care Clinic, Room 12
+
+CHIEF COMPLAINT
+Follow-up visit; medication refills.
+
+HISTORY OF PRESENT ILLNESS
+71-year-old woman here for a 3-month check-in. History of type 2 diabetes diagnosed 7 years ago. Home glucose log reviewed, fasting values 126-149 mg/dL with occasional post-meal readings above 200. Denies chest pain, shortness of breath or leg swelling. Mild bilateral knee stiffness in the mornings, unchanged.
+
+REVIEW OF SYSTEMS
+Neurological: no numbness or tingling in the feet; no headaches.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Respiratory: no cough or dyspnea on exertion.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Skin: no rashes or non-healing wounds.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD stage 3a
+- Hypothyroidism
+- Seasonal allergic rhinitis
+- GERD
+
+PAST SURGICAL HISTORY
+- Right knee arthroscopy (2015)
+- Cataract extraction, left eye (2022)
+- Tonsillectomy (childhood)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- levothyroxine 75 mcg daily
+- loratadine 10 mg as needed
+- omeprazole 20 mg daily
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+No known drug allergies.
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Former smoker, quit 2005; 18 pack-years.
+Alcohol: 1 to 2 drinks per week.
+Lives with alone. Retired teacher.
+
+VITALS
+BP 118/75 | HR 80 | Temp 98.6 F | Wt 62.5 kg | BMI 25.5 | SpO2 99%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date	Test	Result
+2025-09-26	eGFR	20 mL/min/1.73m2
+2025-09-26   Creatinine    3.09 mg/dL
+2026-04-14	eGFR  21 mL/min/1.73m2
+2026-04-14 Creatinine	2.94 mg/dL
+2026-04-14  Hemoglobin A1c       9.2%
+2026-04-14    Glucose, fasting	165 mg/dL
+2026-04-14 Urine albumin/creatinine        363 mg/g
+2026-04-14	Potassium       4.2 mmol/L
+2026-04-14  Sodium	139 mmol/L
+2026-04-14   LDL cholesterol        88 mg/dL
+2026-04-14	Hemoglobin 13.3 g/dL
+
+IMPRESSION AND PLAN
+1. T2DM: A1c 9.2%, up from 8.3%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+3. CKD, stage 3a: eGFR 21, UACR 363 mg/g. On dapagliflozin and losartan; counseled on avoiding nephrotoxins. Repeat labs in 3 months.
+4. Hypothyroid: clinically euthyroid. Continue current dose.
+5. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+6. Dental visit within the past year. Diabetic foot exam completed today.
+
+PATIENT EDUCATION
+Discussed hypoglycemia recognition and treatment.
+Patient verbalized understanding of the plan.
+
+Return to clinic in 6 months or sooner as needed.
+Total time 28 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Physician, DO 2026-04-20 11:17

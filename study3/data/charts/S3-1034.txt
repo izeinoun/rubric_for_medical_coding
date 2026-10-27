@@ -1,0 +1,95 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: S3-1034    Age: 81    Sex: F
+Date of service: 2026-06-03    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care C1inic, Room 10
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+81-year-old woman here for a 4-month check-in. History of type 2 diabetes diagnosed 6 years ago. Brought meter today; morning values 130-175 mg/dL, no lows. No urinary symptoms. No
+--- Page 2 of 3 --- S3-1034 --- printed 2026-06-22 ---
+foot ulcers or numbness reported. No polyuria or polydipsia. No visual changes.
+
+REVIEW OF SYSTEMS
+Respiratory: no cough or dyspnea on exertion.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Neurological: no numbness or tingling in the feet; no headaches.
+Skin: no rashes or non-healing wounds.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Genitourinary: no dysuria, hematuria or change in urine output.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease, stage 5 (ESRD), on hemodialysis
+- Osteoarthritis, bilateral knees
+- Essential hypertension
+- Obesity
+- Hypothyroidism
+
+PAST SURGICAL HISTORY
+- Cholecystectomy (2011)
+- Tonsillectomy (childhood)
+
+MEDICATIONS
+- insulin glargine 12 units nightly
+- semaglutide 0.5 mg weekly
+- dapagliflozin 10 mg daily
+- acetaminophen 650 mg as needed
+- lisinopril 20 mg daily
+- levothyroxine 75 mcg daily
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+NKDA.
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Former smoker, quit 2010; 11 pack-years.
+Walks 3 times per week, about 20 minutes.
+Lives with alone. Retired accountant.
+
+VITALS
+BP 136/75 | HR 72 | Temp 97.8 F | Wt 74.0 kg | BMI 31.7 | SpO2 99%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date  Test                        Result
+2026-06-01  eGFR                        6 mL/min/1.73m2
+2026-06-01  Creatinine                  10.29 mg/dL
+2026-06-01  Hemoglobin A1c              9.1%
+2026-06-01  Glucose, fasting            173 mg/dL
+2026-06-01  Urine albumin/creatinine    166 mg/g
+2026-06-01  Potassium                   4.6 mmol/L
+2026-06-01  Sodium                      136 mmol/L
+2026-06-01  LDL cholesterol             65 mg/dL
+2026-06-01  Hemoglobin                  13.8 g/dL
+
+IMPRESSI0N AND PLAN
+1. Diabetes mellitus, type 2: A1c 9.1% (up from 8.9%). Medications unchanged; reinforced carbohydrate counting.
+2. Hypothyroid-
+ism: TSH within range. Continue 1evothyroxine 75 mcg.
+3. HTN: at goal on current regimen. Continue lisinopril.
+4. 0besity, BMI 31.7: discussed nutrition and activity goa1s; referred to dietitian.
+5. OA of knees: continue home exercises and acetaminophen PRN.
+6. Dental visit within the past year. Diabetic foot exam completed today.
+
+PATIENT EDUCATION
+Discussed hypoglycemia recognition and treatment.
+Encouraged 150 minutes of moderate activity week1y.
+
+Retum to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-06-03 08:23

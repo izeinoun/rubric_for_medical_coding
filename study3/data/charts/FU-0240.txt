@@ -1,0 +1,90 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0240    Age: 81    Sex: M
+Date of service: 2026-09-07    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 8
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 81-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 14 years ago. Home glucose log reviewed, fasting values 122-135 mg/dL with occasional post-meal readings above 200. No polyuria or polydipsia. No visual changes. No urinary symptoms. No foot ulcers or numbness reported.
+
+REVIEW OF SYSTEMS
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Respiratory: no cough or dyspnea on exertion.
+Neurological: no numbness or tingling in the feet; no headaches.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Constitutional: denies fever, chills or unintended weight loss.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Genitourinary: no dysuria, hematuria or change in urine output.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD, stage 3a
+- Seasonal allergic rhinitis
+- Hyperlipidemia
+- Obesity
+- Essential hypertension
+
+PAST SURGICAL HISTORY
+- Cholecystectomy (2011)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- semaglutide 0.5 mg weekly
+- empagliflozin 10 mg daily
+- loratadine 10 mg as needed
+- atorvastatin 40 mg nightly
+- lisinopril 20 mg daily
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+No known drug allergies.
+
+FAMILY HISTORY
+Mother: hypertension.
+Brother: hyperlipidemia.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Former smoker, quit 2007; 18 pack-years.
+Lives with alone. Retired accountant.
+Alcohol: 1 to 2 drinks per week.
+
+VITALS
+BP 126/73 | HR 83 | Temp 98.3 F | Wt 108.7 kg | BMI 32.0 | SpO2 98%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date  Test                        Result
+2026-05-20  eGFR                        48 mL/min/1.73m2
+2026-05-20  Creatinine                  1.29 mg/dL
+2026-08-28  eGFR                        52 mL/min/1.73m2
+2026-08-28  Hemoglobin A1c              6.8%
+2026-08-28  Glucose, fasting            165 mg/dL
+2026-08-28  Urine albumin/creatinine    260 mg/g
+2026-08-28  Potassium                   4.4 mmol/L
+2026-08-28  Sodium                      143 mmol/L
+2026-08-28  LDL cholesterol             96 mg/dL
+2026-08-28  Hemoglobin                  13.4 g/dL
+
+ASSESSMENT AND PLAN
+1. Diabetes mellitus, type 2: A1c 6.8% (up from 5.6%). Medications unchanged; reinforced carbohydrate counting.
+2. Obesity, BMI 32.0: discussed nutrition and activity goals; referred to dietitian.
+3. Hypertension: BP 126/73 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+4. Chronic conditions reviewed: hyperlipidemia, allergic rhinitis, CKD 3a.
+5. Dental visit within the past year. Colorectal cancer screening up to date.
+
+PATIENT EDUCATION
+Reviewed sick-day rules for medications.
+Reviewed carbohydrate counting handout.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-09-07 11:38

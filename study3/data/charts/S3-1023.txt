@@ -1,0 +1,89 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: S3-1023    Age: 76    Sex: F
+Date of service: 2026-07-03    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 9
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+Patient is
+--- Page 2 of 3 --- S3-1023 --- printed 2026-07-15 ---
+a 76-year-old woman returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 15 years ago. Home glucose log reviewed, fasting values 117-169 mg/dL with occasional post-meal readings above 200. Denies chest pain, shortness of breath or leg swelling. Appetite stable. Denies nausea or abdominal pain.
+
+REVlEW OF SYSTEMS
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Skin: no rashes or non-healing wounds.
+Neurological: no numbness or tingling in the feet; no headaches.
+
+MEDICATIONS
+- insulin glargine 18 units nightly
+- semaglutide 0.5 mg weekly
+- dapagliflozin 10 mg daily
+- levothyroxine 75 mcg daily
+- lisinopril 20 mg daily
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Penicillin (rash).
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease stage 4
+- Hypothyroidism
+- Obesity
+- Essential hypertension
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 75.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Never smoker.
+Lives with daughter. Retired machinist.
+Works part time as a librarian.
+
+VITALS
+BP 148/72 | HR 79 | Temp 98.7 F | Wt 73.3 kg | BMI 31.3 | SpO2 99%
+
+LABS
+Date Test	Result
+2026-06-30  eGFR	51 mL/min/1.73m2
+2026-06-30 Creatinine  1.21 mg/dL
+2026-06-30	Hem-
+oglobin A1c	9.1%
+2026-06-30	Glucose, fasting	146 mg/dL
+2026-06-30	Urine albumin/creatinine         135 mg/g
+2026-06-30	Potassium	4.3 mmol/L
+2026-06-30 Sodium   141 mmol/L
+2026-06-30  LDL cholesterol 79 mg/dL
+2026-06-30    Hemoglobin	12.7 g/dL
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+ASSESSMENT/PLAN
+1. Type 2 diabetes mellitus: A1c 9.1% today (up from 8.1%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. CKD stage 4 secondary to type 2 diabetes: Advanced kidney disease, eGFR 51. Off metformin. Nephro1ogy following; discussed renal diet and avoidance of contrast and NSAIDs.
+3. Essential hypertension: BP 148/72. Reinforced low-sodium diet; continue lisinopril 20 mg.
+4. Obesity, BMI 31.3: discussed nutrition and activity goals; referred to dietitian.
+5. Problem list reviewed: hypothyroidism.
+6. lnfluenza vaccine given this season. Dental visit within the past year.
+
+PATIENT EDUCATION
+Discussed hypoglycemia recognition and treatment.
+Patient verbalized understanding of the plan.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-07-03 08:54

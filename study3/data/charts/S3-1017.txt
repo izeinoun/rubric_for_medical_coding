@@ -1,0 +1,92 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: S3-1017    Age: 75    Sex: F
+Date of service: 2026-07-17    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 8
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 75-year-old woman, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 17 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Mild bilateral knee stiffness in the mornings, unchanged. No polyuria or polydipsia. No visual changes.
+
+REVIEW OF SYSTEMS
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Respiratory: no cough or dyspnea on exertion.
+Neurological: no numbness or tingling in the feet; no headaches.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Skin: no rashes or non-healing wounds.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease stage 3a
+- Hyperlipidemia
+- Hypothyroidism
+- Osteoarthritis, bilateral knees
+- Seasonal allergic rhinitis
+
+PAST SURGICAL HISTORY
+- Cholecystectomy (2011)
+- Right knee arthroscopy (2015)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- atorvastatin 40 mg nightly
+- levothyroxine 75 mcg daily
+- acetaminophen 650 mg as needed
+- loratadine 10 mg as needed
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+No known drug allergies.
+
+FAMILY HISTORY
+No family history of kidney disease reported.
+Father: coronary artery disease, died age 63.
+
+SOCIAL HISTORY
+Never smoker.
+Alcohol: 1 to 2 drinks per week.
+Lives with alone. Retired teacher.
+
+VITALS
+BP 126/73 | HR 68 | Temp 98.3 F | Wt 68.7 kg | BMI 29.4 | SpO2 97%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date  Test                        Result
+2025-12-12  eGFR                        21 mL/min/1.73m2
+2026-07-07  eGFR                        20 mL/min/1.73m2
+2026-07-07  Creatinine                  3.09 mg/dL
+2026-07-07  Hemoglobin A1c              8.8%
+2026-07-07  Glucose, fasting            154 mg/dL
+2026-07-07  Urine albumin/creatinine    42 mg/g
+2026-07-07  Potassium                   4.0 mmol/L
+2026-07-07  Sodium                      136 mmol/L
+2026-07-07  LDL cholesterol             83 mg/dL
+2026-07-07  Hemoglobin                  14.1 g/dL
+
+IMPRESSION AND PLAN
+1. Type 2 diabetes mellitus: A1c 8.8%, up from 7.9%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+3. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+4. Hypothyroid: clinically euthyroid. Continue current dose.
+5. Chronic kidney disease stage 3a: eGFR 20 today (stable from 21). Continue dapagliflozin. Recheck BMP and urine albumin-to-creatinine ratio in 3 months.
+6. Problem list reviewed: hyperlipidemia.
+7. Shingles vaccine series completed. Dental visit within the past year.
+
+PATIENT EDUCATION
+Reviewed sick-day rules for medications.
+Encouraged 150 minutes of moderate activity weekly.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-07-17 08:57

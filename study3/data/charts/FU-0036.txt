@@ -1,0 +1,94 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0036    Age: 67    Sex: M
+Date of service: 2026-03-30    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 2
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+67-year-old man here for a 3-month check-in. History of type 2 diabetes diagnosed 20 years ago. Brought meter today; morning values 106-150 mg/dL, no lows. Appetite stable. Denies nausea or abdominal pain. Sleeping reasonably well. Mood is good.
+
+REVIEW OF SYSTEMS
+Constitutional: denies fever, chills or unintended weight loss.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Respiratory: no cough or dyspnea on exertion.
+Skin: no rashes or non-healing wounds.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Neurological: no numbness or tingling in the feet; no headaches.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- CKD, stage 4
+- Obesity
+- Seasonal allergic rhinitis
+- Osteoarthritis, bilateral knees
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+- Appendectomy (1988)
+
+MEDICATIONS
+- insulin glargine 18 units nightly
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+- acetaminophen 650 mg as needed
+- atorvastatin 40 mg nightly
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+Penicillin (rash).
+
+FAMILY HISTORY
+No family history of kidney disease reported.
+Father: coronary artery disease, died age 78.
+
+SOCIAL HISTORY
+Never smoker.
+Works part time as a librarian.
+Walks 5 times per week, about 20 minutes.
+
+VITALS
+BP 143/73 | HR 88 | Temp 98.3 F | Wt 114.9 kg | BMI 33.9 | SpO2 97%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date  Test                        Result
+2025-08-13  eGFR                        23 mL/min/1.73m2
+2025-08-13  Creatinine                  2.68 mg/dL
+2026-03-27  eGFR                        29 mL/min/1.73m2
+2026-03-27  Hemoglobin A1c              8.6%
+2026-03-27  Glucose, fasting            161 mg/dL
+2026-03-27  Urine albumin/creatinine    290 mg/g
+2026-03-27  Potassium                   4.0 mmol/L
+2026-03-27  Sodium                      141 mmol/L
+2026-03-27  LDL cholesterol             77 mg/dL
+2026-03-27  Hemoglobin                  14.1 g/dL
+
+ASSESSMENT/PLAN
+1. Diabetes mellitus, type 2: A1c 8.6%, improved from 10.0%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Obesity: weight 114.9 kg. Continue lifestyle changes.
+3. Hyperlipidemia: LDL 77 mg/dL. Continue atorvastatin 40 mg.
+4. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+5. Chronic conditions reviewed: knee osteoarthritis, CKD 4.
+6. Dental visit within the past year. Diabetic foot exam completed today.
+
+PATIENT EDUCATION
+Patient verbalized understanding of the plan.
+Reviewed carbohydrate counting handout.
+
+Return to clinic in 3 months or sooner as needed.
+Total time 41 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-03-30 14:00

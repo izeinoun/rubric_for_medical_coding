@@ -1,0 +1,96 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0106    Age: 55    Sex: F
+Date of service: 2026-09-17    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Physician, DO (Family Medicine)
+Location: Synthetic Primary Care Clinic, Room 14
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 55-year-old woman, presenting for chronic disease follow-up. History of diabetes diagnosed 11 years ago, managed with metformin. Reports checking glucose daily; fasting readings mostly 126-159 mg/dL. No urinary symptoms. No foot ulcers or numbness reported. Sleeping reasonably well. Mood is good.
+
+REVIEW OF SYSTEMS
+Eyes: no blurred vision; last dilated eye exam 2024.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Skin: no rashes or non-healing wounds.
+Respiratory: no cough or dyspnea on exertion.
+Neurological: no numbness or tingling in the feet; no headaches.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus
+- Chronic kidney disease, stage 3a
+- Essential hypertension
+- Obesity
+- Osteoarthritis, bilateral knees
+- GERD
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+--- Page 2 of 3 --- FU-0106 --- printed 2026-10-05 ---
+- Colonoscopy with polypectomy (2021)
+- Tonsillectomy (childhood)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- acetaminophen 650 mg as needed
+- omeprazole 20 mg daily
+Med rec done with patient’s pill bottles.
+
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Sister: hypothyroidism.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Former smoker, quit 2001; 26 pack-years.
+Lives with daughter. Retired accountant.
+Alcohol: 1 to 2 drinks per week.
+
+VITALS
+BP 122/79 | HR 83 | Temp 98.7 F | Wt 88.9 kg | BMI 33.3 | SpO2 99%
+
+LABS
+Date	Test	Result
+2026-01-23   eGFR      53 mL/min/1.73m2
+2026-01-23	Creatinine 1.17 mg/dL
+2026-09-07	eGFR	52 mL/min/1.73m2
+2026-09-07  Creatinine	1.19 mg/dL
+2026-09-07  Hemoglobin A1c	8.5%
+2026-09-07	Glucose, fasting      153 mg/dL
+2026-09-07	Urine albumin/creatinine	93 mg/g
+2026-09-07	Potassium     3.8 mmol/L
+2026-09-07	Sodium   142 mmol/L
+2026-09-07	LDL cholesterol         89 mg/dL
+2026-09-07   Hemoglobin        11.9 g/dL
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+ASSESSMENT AND PLAN
+1. DM: A1c 8.5%, up from 7.7%. Reviewed diet and activity. Continue medications. Retina1 exam due.
+2. Hypertension: BP 122/79 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+3. Gastroesophageal reflux: stable; dis-
+cussed trial of dose reduction at next visit.
+4. CKD stage 3a secondary to diabetes: Labs reviewed with patient, eGFR 52. Continue empagliflozin; metformin dose appropriate for current eGFR. Recheck in 3 to 4 months.
+5. Also on problem list: knee osteoarthritis, obesity.
+6. lnfluenza vaccine given this season. Retinal exam due; referral placed.
+
+PATIENT EDUCATION
+Reviewed sick-day rules for medications.
+Patient verbalized understanding of the plan.
+
+Retum to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Physician, DO 2026-09-17 13:56

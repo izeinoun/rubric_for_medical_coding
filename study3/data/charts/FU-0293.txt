@@ -1,0 +1,87 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0293    Age: 59    Sex: M
+Date of service: 2026-03-25    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Physician, DO (Family Medicine)
+Location: Synthetic Primary Care Clinic, Room 4
+
+CHIEF COMPLAINT
+Diabetes check and lab review.
+
+HISTORY OF PRESENT ILLNESS
+59-year-old man here for a 6-month check-in. Type 1 diabetes since age 27. Has been trying to walk 3 times per week. Glucose readings 111-136 mg/dL fasting. Energy fair. No new complaints today. No polyuria or polydipsia. No visual changes.
+
+REVIEW OF SYSTEMS
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Skin: no rashes or non-healing wounds.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Respiratory: no cough or dyspnea on exertion.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+
+MEDICATIONS
+- insulin pump (lispro) with continuous glucose monitor
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+- acetaminophen 650 mg as needed
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+NKDA.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes, insulin pump
+- CKD, stage 4
+- Seasonal allergic rhinitis
+- Osteoarthritis, bilateral knees
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+
+FAMILY HISTORY
+No family history of kidney disease reported.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Never smoker.
+Works part time as a librarian.
+Alcohol: none.
+
+VITALS
+BP 148/83 | HR 86 | Temp 98.7 F | Wt 73.7 kg | BMI 27.4 | SpO2 96%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date  Test                        Result
+2026-03-15  eGFR                        17 mL/min/1.73m2
+2026-03-15  Creatinine                  3.63 mg/dL
+2026-03-15  Hemoglobin A1c              8.5%
+2026-03-15  Glucose, fasting            129 mg/dL
+2026-03-15  Urine albumin/creatinine    253 mg/g
+2026-03-15  Potassium                   4.4 mmol/L
+2026-03-15  Sodium                      140 mmol/L
+2026-03-15  LDL cholesterol             89 mg/dL
+2026-03-15  Hemoglobin                  13.6 g/dL
+
+ASSESSMENT/PLAN
+1. Diabetes mellitus: A1c 8.5%. Continue basal-bolus insulin; reviewed CGM download, time in range 61%. Endocrinology follow-up in 3 months.
+2. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+3. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+4. CKD, stage 4: eGFR 17 today (no prior for comparison). Continue losartan. Recheck BMP and urine albumin-to-creatinine ratio in 3 months.
+5. Shingles vaccine series completed. Retinal exam due; referral placed.
+
+PATIENT EDUCATION
+Discussed hypoglycemia recognition and treatment.
+Reviewed sick-day rules for medications.
+
+Return to clinic in 6 months or sooner as needed.
+Total time 33 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Physician, DO 2026-03-25 15:08

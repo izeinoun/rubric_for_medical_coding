@@ -1,0 +1,95 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0029    Age: 71    Sex: M
+Date of service: 2026-07-09    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 9
+
+CHIEF COMPLAINT
+Follow-up visit; medication refills.
+
+HISTORY OF PRESENT ILLNESS
+71-year-old man here for a 3-month check-in. History of type 2 diabetes diagnosed 22 years ago. Reports checking glucose daily; fasting readings mostly 106-160 mg/dL. Sleeping reasonably well. Mood is good. Denies chest pain, shortness of breath or leg swelling.
+
+REVIEW OF SYSTEMS
+Constitutional: denies fever, chills or unintended weight loss.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Neurological: no numbness or tingling in the feet; no headaches.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease stage 3a
+- Essential hypertension
+- Osteoarthritis, bilateral knees
+- Obesity
+- Hypothyroidism
+
+PAST SURGICAL HISTORY
+- Right knee arthroscopy (2015)
+- Tonsillectomy (childhood)
+- Cholecystectomy (2011)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- semaglutide 0.5 mg weekly
+- dapagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- acetaminophen 650 mg as needed
+- levothyroxine 75 mcg daily
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+FAMILY HISTORY
+No family history of kidney disease reported.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Former smoker, quit 2003; 14 pack-years.
+Alcohol: none.
+Works part time as a consultant.
+
+VITALS
+BP 135/76 | HR 81 | Temp 97.6 F | Wt 111.1 kg | BMI 33.7 | SpO2 99%
+
+LABS
+Date  Test                        Result
+2026-03-30  eGFR                        54 mL/min/1.73m2
+2026-03-30  Creatinine                  1.14 mg/dL
+2026-07-09  eGFR                        52 mL/min/1.73m2
+2026-07-09  Creatinine                  1.19 mg/dL
+2026-07-09  Hemoglobin A1c              8.1%
+2026-07-09  Glucose, fasting            137 mg/dL
+2026-07-09  Urine albumin/creatinine    335 mg/g
+2026-07-09  Potassium                   4.6 mmol/L
+2026-07-09  Sodium                      137 mmol/L
+2026-07-09  LDL cholesterol             66 mg/dL
+2026-07-09  Hemoglobin                  14.6 g/dL
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+ASSESSMENT/PLAN
+(Plan unchanged from visit of 2026-03-09.)
+1. Type 2 diabetes mellitus: A1c 8.1%, up from 7.6%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+3. OA of knees: continue home exercises and acetaminophen PRN.
+4. Hypertension: BP 135/76 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+5. CKD, stage 3a: Today's eGFR 52 (2026-07-09), stable from 54. Continue lisinopril and dapagliflozin. Labs again in 3 months.
+6. Obesity: weight 111.1 kg. Continue lifestyle changes.
+7. Retinal exam due; referral placed. Shingles vaccine series completed.
+
+PATIENT EDUCATION
+Discussed hypoglycemia recognition and treatment.
+Reviewed sick-day rules for medications.
+
+Return to clinic in 4 months or sooner as needed.
+Total time 39 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-07-09 14:51

@@ -1,0 +1,92 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0124    Age: 77    Sex: M
+Date of service: 2026-04-08    Visit type: Nurse visit, diabetes education, in person
+Clinician: Synthetic Nurse, RN (Diabetes Education)
+Location: Synthetic Primary Care Clinic, Room 13
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+77-year-old man seen today for routine chronic care. History of type 2 diabetes diagnosed 16 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Appetite stable. Denies nausea or abdominal pain. Energy fair. No new complaints today.
+
+REVIEW OF SYSTEMS
+Genitourinary: no dysuria, hematuria or change in urine output.
+Constitutional: denies fever, chills or unintended weight loss.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Respiratory: no cough or dyspnea on exertion.
+Skin: no rashes or non-healing wounds.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- CKD, stage 3b
+- Essential hypertension
+- Hyperlipidemia
+- Hypothyroidism
+- Osteoarthritis, bilateral knees
+
+PAST SURGICAL HISTORY
+- Right knee arthroscopy (2015)
+- Colonoscopy with polypectomy (2021)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- empagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- atorvastatin 40 mg nightly
+- levothyroxine 75 mcg daily
+- acetaminophen 650 mg as needed
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Former smoker, quit 2002; 30 pack-years.
+Alcohol: 1 to 2 drinks per week.
+Works part time as a cashier.
+
+VITALS
+BP 130/85 | HR 69 | Temp 98.6 F | Wt 73.8 kg | BMI 24.6 | SpO2 95%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date  Test                        Result
+2025-12-15  eGFR                        30 mL/min/1.73m2
+2025-12-15  Creatinine                  2.06 mg/dL
+2026-04-01  eGFR                        36 mL/min/1.73m2
+2026-04-01  Creatinine                  1.72 mg/dL
+2026-04-01  Hemoglobin A1c              9.0%
+2026-04-01  Glucose, fasting            147 mg/dL
+2026-04-01  Urine albumin/creatinine    332 mg/g
+2026-04-01  Potassium                   4.4 mmol/L
+2026-04-01  Sodium                      143 mmol/L
+2026-04-01  LDL cholesterol             105 mg/dL
+2026-04-01  Hemoglobin                  13.2 g/dL
+
+IMPRESSION AND PLAN
+1. Type 2 diabetes mellitus: A1c 9.0% (improved from 9.9%). Reviewed meal plan and carbohydrate counting; medications per provider.
+2. Knee osteoarthritis: managed by primary care provider.
+3. Chronic kidney disease stage 3b due to type 2 diabetes: eGFR 36 reviewed (up from 30); reinforced low-sodium diet and medication adherence. Provider to review labs.
+4. Hyperlipidemia: managed by primary care provider.
+5. Hypothyroidism: managed by primary care provider.
+6. Hypertension: managed by primary care provider.
+7. Diabetic foot exam completed today. Pneumococcal vaccination up to date.
+
+PATIENT EDUCATION
+Reviewed sick-day rules for medications.
+Encouraged 150 minutes of moderate activity weekly.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Nurse, RN 2026-04-08 17:18

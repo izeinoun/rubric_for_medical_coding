@@ -1,0 +1,89 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: S3-1043    Age: 77    Sex: M
+Date of service: 2026-02-08    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 12
+
+CHIEF COMPLAINT
+Follow-up visit; medication refills.
+
+HISTORY OF PRESENT ILLNESS
+77-year-old man seen today for routine chronic care. History of type 2 diabetes diagnosed 17 years ago. Reports checking glucose a few times a week; fasting readings mostly 129-152 mg/dL. Denies chest pain, shortness of breath or leg swelling. No urinary symptoms. No foot ulcers or numbness reported.
+
+REVIEW OF SYSTEMS
+Neurological: no numbness or tingling in the feet; no headaches.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Skin: no rashes or non-healing wounds.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Respiratory: no cough or dyspnea on exertion.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Constitutional: denies fever, chills or unintended weight loss.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Hyperlipidemia
+- Osteoarthritis, bilateral knees
+- Hypothyroidism
+- Essential hypertension
+
+PAST SURGICAL HISTORY
+- Colonoscopy with polypectomy (2021)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- atorvastatin 40 mg nightly
+- acetaminophen 650 mg as needed
+- levothyroxine 75 mcg daily
+- lisinopril 20 mg daily
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+No known drug allergies.
+
+FAMILY HISTORY
+No family history of kidney disease reported.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Former smoker, quit 2009; 6 pack-years.
+Works part time as a consultant.
+Walks 3 times per week, about 20 minutes.
+
+VITALS
+BP 142/92 | HR 62 | Temp 98.0 F | Wt 73.9 kg | BMI 28.1 | SpO2 97%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date	Test	Result
+2025-10-12	eGFR      55 mL/min/1.73m2
+2025-10-12    Creatinine	1.12 mg/dL
+2026-01-31  eGFR 58 mL/min/1.73m2
+2026-01-31	Creatinine      1.06 mg/dL
+2026-01-31  Hemoglobin A1c         7.8%
+2026-01-31	Glucose, fasting         107 mg/dL
+2026-01-31 Potassium      3.9 mmol/L
+2026-01-31	Sodium       136 mmol/L
+2026-01-31 LDL cholesterol    62 mg/dL
+2026-01-31	Hemoglobin        11.6 g/dL
+
+ASSESSMENT AND PLAN
+1. T2DM: A1c 7.8%, up from 7.0%. Reviewed diet and activity. Continue medications. Retinal exam due.
+1b. Kidneys OK per last labs.
+2. Essential hypertension: BP 142/92. Reinforced low-sodium diet; continue lisinopril 20 mg.
+3. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+4. Also on problem list: knee osteoarthritis, hypothyroidism.
+5. Shingles vaccine series completed. Dental visit within the past year.
+
+PATIENT EDUCATION
+Encouraged 150 minutes of moderate activity weekly.
+Discussed hypoglycemia recognition and treatment.
+
+Return to clinic in 6 months or sooner as needed.
+Total time 35 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-02-08 10:48

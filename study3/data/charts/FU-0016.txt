@@ -1,0 +1,93 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0016    Age: 67    Sex: M
+Date of service: 2026-05-25    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 2
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+67-year-old man presents for scheduled follow-up. Diabetes since total pancreatectomy for chronic pancreatitis in 2020. Home glucose log reviewed, fasting values 118-150 mg/dL with occasional post-meal readings above 200. Denies chest pain, shortness of breath or leg swelling. Energy fair. No new complaints today.
+
+REVIEW OF SYSTEMS
+Eyes: no blurred vision; last dilated eye exam 2024.
+Constitutional: denies fever, chills or uninten-
+ded weight loss.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus due to total pancreatectomy
+- Chronic kidney disease, stage 3a
+- GERD
+- Essential hypertension
+- Seasonal allergic rhinitis
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+- Total pancreatectomy (see HPI)
+
+MEDICATIONS
+- insulin glargine 14 units nightly
+- insulin aspart sliding scale with meals
+- pancrelipase with meals
+- empagliflozin 10 mg daily
+- omeprazole 20 mg daily
+- lisinopril 20 mg daily
+- loratadine 10 mg as needed
+--- Page 2 of 3 --- FU-0016 --- printed 2026-06-09 ---
+Med rec done with patient’s pill bottles.
+
+ALLERGlES
+No known drug allergies.
+
+FAMILY HISTORY
+Mother: hypertension.
+Father: coronary artery disease, died age 80.
+
+SOCIAL HISTORY
+Never smoker.
+Works part time as a cashier.
+Alcohol: none.
+
+VITALS
+BP 129/84 | HR 87 | Temp 98.0 F | Wt 76.4 kg | BMI 26.5 | SpO2 97%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date  Test       Result
+2025-12-03   eGFR     54 mL/min/1.73m2
+2026-05-19  eGFR  59 mL/min/1.73m2
+2026-05-19	Creatinine         1.05 mg/dL
+2026-05-19	Hemoglobin A1c	9.0%
+2026-05-19   Glucose, fasting      172 mg/dL
+2026-05-19	Urine albumin/creatinine	120 mg/g
+2026-05-19   Potassium   4.1 mmol/L
+2026-05-19	Sodium 143 mmol/L
+2026-05-19 LDL cholesterol    112 mg/dL
+2026-05-19	Hemoglobin        12.3 g/dL
+
+ASSESSMENT AND PLAN
+1. Diabetes mellitus due to total pancreatectomy: A1c 9.0% (up from 7.6%). Continue current regimen; reviewed glucose log.
+2. Chronic kidney disease, stage 3a: eGFR 59 today (stab1e from 54). Continue empagliflozin. Recheck BMP and urine albumin-to-creatinine ratio in 3 months.
+3. Gastroesophagea1 reflux: stable; discussed tria1 of dose reduction at next visit.
+4. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+5. HTN: at goal on current regimen. Continue lisinopril.
+6. Colorectal cancer screening up to date. Retinal exam due; referral placed.
+
+PATIENT EDUCATI0N
+Encouraged 150 minutes of moderate activity weekly.
+Discussed hypoglycemia recognition and treatment.
+
+Retum to clinic in 3 months or sooner as needed.
+Tota1 time 41 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-05-25 11:27

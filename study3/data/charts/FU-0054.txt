@@ -1,0 +1,93 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0054    Age: 75    Sex: M
+Date of service: 2026-07-19    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 3
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 75-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 16 years ago. Has been trying to walk 3 times per week. Glucose readings 115-147 mg/dL fasting. Mild bilateral knee stiffness in the mornings, unchanged. Energy fair. No new complaints today.
+
+REVIEW OF SYSTEMS
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Neurological: no numbness or tingling in the feet; no headaches.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Eyes: no blurred vision; last dilated eye exam 2024.
+Constitutional: denies fever, chills or unintended weight loss.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Respiratory: no cough or dyspnea on exertion.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- CKD, stage 3a
+- Hyperlipidemia
+- Osteoarthritis, bilateral knees
+- Seasonal allergic rhinitis
+- Essential hypertension
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+- Cholecystectomy (2011)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- atorvastatin 40 mg nightly
+- acetaminophen 650 mg as needed
+- loratadine 10 mg as needed
+- lisinopril 20 mg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+NKDA.
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Father: coronary artery disease, died age 67.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Never smoker.
+Works part time as a cashier.
+Walks 4 times per week, about 20 minutes.
+
+VITALS
+BP 121/88 | HR 82 | Temp 98.6 F | Wt 93.7 kg | BMI 27.7 | SpO2 96%
+
+LABS
+Date  Test                        Result
+2025-12-09  eGFR                        50 mL/min/1.73m2
+2025-12-09  Creatinine                  1.24 mg/dL
+2026-07-11  eGFR                        49 mL/min/1.73m2
+2026-07-11  Creatinine                  1.26 mg/dL
+2026-07-11  Hemoglobin A1c              7.1%
+2026-07-11  Glucose, fasting            154 mg/dL
+2026-07-11  Urine albumin/creatinine    222 mg/g
+2026-07-11  Potassium                   4.4 mmol/L
+2026-07-11  Sodium                      139 mmol/L
+2026-07-11  LDL cholesterol             64 mg/dL
+2026-07-11  Hemoglobin                  13.9 g/dL
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+ASSESSMENT AND PLAN
+1. Diabetes mellitus, type 2: A1c 7.1% today (up from 6.0%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+3. Essential hypertension: BP 121/88. Reinforced low-sodium diet; continue lisinopril 20 mg.
+4. Hyperlipidemia: LDL 64 mg/dL. Continue atorvastatin 40 mg.
+5. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+6. Shingles vaccine series completed. Diabetic foot exam completed today.
+
+PATIENT EDUCATION
+Reviewed carbohydrate counting handout.
+Reviewed sick-day rules for medications.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-07-19 12:43

@@ -1,0 +1,91 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0065    Age: 66    Sex: M
+Date of service: 2026-07-31    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 7
+
+CHIEF COMPLAINT
+Diabetes check and lab review.
+
+HISTORY OF PRESENT ILLNESS
+66-year-old man here for a 6-month check-in. History of type 2 diabetes diagnosed 10 years ago. Home glucose log reviewed, fasting values 113-168 mg/dL with occa-
+sional post-meal readings above 200. No polyuria or polydipsia. No visual changes. Energy fair. No new complaints today.
+
+REVIEW OF SYSTEMS
+Eyes: no blurred vision; last dilated eye exam 2025.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+--- Page 2 of 3 --- FU-0065 --- printed 2026-08-15 ---
+Respiratory: no cough or dyspnea on exertion.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Neurological: no numbness or tingling in the feet; no headaches.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease (entered 2024) - see assessment
+- Essen-
+tial hypertension
+- Osteoarthritis, bilateral knees
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+- Cholecystectomy (2011)
+- Colonoscopy with polypectomy (2021)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- lisinopril 20 mg daily
+- acetaminophen 650 mg as needed
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Penicillin (rash).
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 69.
+No family history of kidney disease reported.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Never smoker.
+Alcohol: none.
+Lives with alone. Retired accountant.
+
+VITALS
+BP 145/90 | HR 89 | Temp 98.2 F | Wt 91.4 kg | BMI 27.0 | SpO2 99%
+
+LABS
+Date Test         Result
+2025-06-14   eGFR	55 mL/min/1.73m2
+2025-06-14  Creatinine     1.12 mg/dL
+2026-01-16  eGFR	76 mL/min/1.73m2
+2026-07-31	eGFR      81 mL/min/1.73m2
+2026-07-31   Creatinine       0.76 mg/dL
+2026-07-31  Hemoglobin A1c 6.9%
+2026-07-31    Glucose, fasting	112 mg/dL
+2026-07-31 Potassium         5.0 mmol/L
+2026-07-31    Sodium	143 mmol/L
+2026-07-31 LDL cholesterol 116 mg/dL
+2026-07-31   Hemoglobin     12.7 g/dL
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+IMPRESSION AND PLAN
+1. Type 2 diabetes mellitus: A1c 6.9% today (up from 6.1%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Hypertension: BP 145/90 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+3. OA of knees: continue home exercises and acetaminophen PRN.
+4. Chronic kidney disease on problem list, removed today: eGFR 76 and 81 on repeat testing over 6 months, urine a1bumin normal; prior eGFR 55 (2025-06-14) was during an acute illness. Chronic kidney disease ruled out.
+5. Colorectal cancer screening up to date. lnfluenza vaccine given this season.
+
+PATIENT EDUCATION
+Discussed hypoglycemia recognition and treatment.
+Reviewed sick-day rules for medications.
+
+Retum to clinic in 4 months or sooner as needed.
+Electr-
+onically signed: Synthetic Provider, MD 2026-07-31 09:37

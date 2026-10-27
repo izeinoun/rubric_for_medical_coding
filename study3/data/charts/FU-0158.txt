@@ -1,0 +1,90 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0158    Age: 57    Sex: M
+Date of service: 2026-07-15    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Practitioner, FNP-C (Primary Care)
+Location: Synthetic Primary Care C1inic, Room 7
+
+CHIEF COMPLAINT
+--- Page 2 of 3 --- FU-0158 --- printed 2026-07-16 ---
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+57-year-old man seen today for routine chronic care. History of type 2 diabetes diagnosed 4 years ago. Notes some difficulty with diet recently; fasting sugars 118-138 mg/dL. No polyuria or polydipsia. No visual changes. Energy fair. No new complaints today.
+
+REVIEW 0F SYSTEMS
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Skin: no rashes or non-healing wounds.
+Respiratory: no cough or dyspnea on exertion.
+Constitutional: denies fever, chills or unintended weight loss.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD stage 3b
+- Obesity
+- Seasonal allergic rhinitis
+- Essential hypertension
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+
+MEDICATIONS
+- metformin 500 mg twice dai1y (renally dosed)
+- dapagliflozin 10 mg daily
+- loratadine 10 mg as needed
+- lisinopril 20 mg daily
+Med rec done with patient’s pill bottles.
+
+ALLERGIES
+No known drug allergies.
+
+FAMILY HISTORY
+Mother: hypertension.
+Father: coronary artery disease, died age 74.
+
+SOCIAL HISTORY
+Former smoker, quit 2001; 5 pack-years.
+Alcohol: rare.
+Works part time as a librarian.
+
+VITALS
+BP 148/80 | HR 65 | Temp 98.2 F | Wt 84.9 kg | BMI 30.7 | SpO2 98%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date  Test     Result
+2026-01-03 eGFR        34 mL/min/1.73m2
+2026-01-03	Creatinine      1.82 mg/dL
+2026-07-06	eGFR        42 mL/min/1.73m2
+2026-07-06   Creatinine    1.47 mg/dL
+2026-07-06	Hemoglobin A1c	8.2%
+2026-07-06   Glucose, fasting	159 mg/dL
+2026-07-06 Urine albumin/creatinine        188 mg/g
+2026-07-06	Pot-
+assium	4.7 mmol/L
+2026-07-06  Sodium       140 mmol/L
+2026-07-06	LDL cholesterol        68 mg/dL
+2026-07-06	Hemoglobin       11.6 g/dL
+
+ASSESSMENT AND PLAN
+1. Diabetes mellitus, type 2: A1c 8.2% today (up from 6.8%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Obesity, BMI 30.7: discussed nutrition and activity goals; referred to dietitian.
+3. Hyperte-
+nsion: BP 148/80 today. Continue 1isinopril 20 mg daily. Home BP log reviewed.
+4. Also on problem list: chronic kidney disease stage 3b, allergic rhinitis.
+5. Colorectal cancer screening up to date. Influenza vaccine given this season.
+
+PATIENT EDUCATI0N
+Reviewed carbohydrate counting handout.
+Encoura-
+ged 150 minutes of moderate activity weekly.
+
+Retum to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Practitioner, FNP-C 2026-07-15 10:23

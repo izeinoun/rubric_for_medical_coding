@@ -1,0 +1,92 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: S3-1030    Age: 80    Sex: M
+Date of service: 2026-09-23    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Associate, PA-C (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 3
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HIST0RY OF PRESENT ILLNESS
+Established patient,
+--- Page 2 of 3 --- S3-1030 --- printed 2026-10-02 ---
+80-year-old man, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 7 years ago. Notes some difficulty with diet recently; fasting sugars 105-164 mg/dL. Mild bilateral knee stiffness in the mornings, unchanged. No polyuria or polydipsia. No visual changes.
+
+REVIEW OF SYSTEMS
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Constitutional: denies fever, chills or unintended weight loss.
+Respiratory: no cough or dyspnea on exertion.
+Skin: no rashes or non-healing wounds.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease, stage 5 (ESRD), on hemodialysis
+- Obesity
+- Essential hypertension
+
+PAST SURGICAL HISTORY
+- Right knee arthroscopy (2015)
+- Appendectomy (1988)
+
+MEDICATIONS
+- insulin glargine 12 units nightly
+- semaglutide 0.5 mg weekly
+- sevelamer 800 mg with meals
+- lisinopril 20 mg daily
+Med rec done with patient’s pill bottles.
+
+ALLER-
+GIES
+Penicillin (rash).
+
+FAMILY HIST0RY
+Mother: hypertension.
+Father: coronary artery disease, died age 76.
+
+SOCIAL HISTORY
+Former smoker, quit 2008; 28 pack-years.
+Walks 2 times per week, about 20 minutes.
+Works part time as a cashier.
+
+VITALS
+BP 118/72 | HR 90 | Temp 98.3 F | Wt 94.4 kg | BMI 35.3 | SpO2 95%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date   Test	Result
+2026-01-29	eGFR      12 mL/min/1.73m2
+2026-01-29	Creatinine   5.15 mg/dL
+2026-09-20	eGFR         11 mL/min/1.73m2
+2026-09-20 Creatinine  5.61 mg/dL
+2026-09-20	Hemoglobin A1c    6.6%
+2026-09-20  Glucose, fasting	105 mg/dL
+2026-09-20	Urine albumin/creatinine	346 mg/g
+2026-09-20	Potassium 4.4 mmol/L
+2026-09-20	Sodium  143 mmol/L
+2026-09-20	LDL cholesterol       98 mg/dL
+2026-09-20  Hemoglobin	13.7 g/dL
+
+ASSESSMENT/PLAN
+1. Diabetes mellitus, type 2: A1c 6.6%, up from 5.3%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Obesity, BMI 35.3: discussed nutrition and activity goals; referred to dietitian.
+3. Essential hypertension: BP 118/72. Reinforced low-sodium diet; continue lisinopril 20 mg.
+4. Diabetic chronic kidney disease, stage 5 (ESRD), on hemodialysis: End-stage rena1 disease on hemodialysis Monday, Wednesday and Friday via nephrology; eGFR 11, dry weight stable, potassium acceptable. Continue sevelamer; dialysis per nephrology.
+5. Retinal exam due; referral placed. Colorectal cancer screening up to date.
+
+PATIENT EDUCATI0N
+Encouraged 150 minutes of moderate activity weekly.
+Reviewed carbohydrate counting handout.
+
+Return to clinic in 3 months or sooner as needed.
+Total time 28 minutes, more than half in counseling and care coordinat-
+ion.
+Electronically signed: Synt-
+hetic Associate, PA-C 2026-09-23 17:12

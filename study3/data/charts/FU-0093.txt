@@ -1,0 +1,90 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0093    Age: 54    Sex: M
+Date of service: 2026-07-18    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Associate, PA-C (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 7
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 54-year-old man, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 19 years ago. Reports checking glucose a few times a week; fasting readings mostly 126-162 mg/dL. Denies chest pain, shortness of breath or leg swelling. No polyuria or polydipsia. No visual changes.
+
+REVIEW OF SYSTEMS
+Genitourinary: no dysuria, hematuria or change in urine output.
+Respiratory: no cough or dyspnea on exertion.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Constitutional: denies fever, chills or unintended weight loss.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Skin: no rashes or non-healing wounds.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- CKD, stage 3a
+- GERD
+- Hypothyroidism
+- Seasonal allergic rhinitis
+- Obesity
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+- Cataract extraction, left eye (2022)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- omeprazole 20 mg daily
+- levothyroxine 75 mcg daily
+- loratadine 10 mg as needed
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+NKDA.
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 63.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Never smoker.
+Walks 3 times per week, about 20 minutes.
+Works part time as a cashier.
+
+VITALS
+BP 118/91 | HR 92 | Temp 98.5 F | Wt 120.8 kg | BMI 37.9 | SpO2 96%
+
+LABS
+Date  Test                        Result
+2025-12-07  eGFR                        58 mL/min/1.73m2
+2025-12-07  Creatinine                  1.06 mg/dL
+2026-03-26  eGFR                        49 mL/min/1.73m2
+2026-07-16  Hemoglobin A1c              9.6%
+2026-07-16  Glucose, fasting            160 mg/dL
+2026-07-16  LDL cholesterol             125 mg/dL
+2026-07-16  Hemoglobin                  11.5 g/dL
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+ASSESSMENT/PLAN
+(Assessment copied from note dated 2026-03-29 and updated where noted.)
+1. Diabetes mellitus, type 2: A1c 9.6%, up from 8.2%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. GERD: symptoms controlled on omeprazole. Continue.
+3. CKD stage 3a secondary to type 2 diabetes: Last eGFR 49 on 2026-03-26. Continue current renal regimen. Labs before next visit.
+4. Obesity, BMI 37.9: discussed nutrition and activity goals; referred to dietitian.
+5. Hypothyroid: clinically euthyroid. Continue current dose.
+6. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+7. Pneumococcal vaccination up to date. Shingles vaccine series completed.
+
+PATIENT EDUCATION
+Patient verbalized understanding of the plan.
+Reviewed sick-day rules for medications.
+
+Return to clinic in 3 months or sooner as needed.
+Total time 42 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Associate, PA-C 2026-07-18 15:53

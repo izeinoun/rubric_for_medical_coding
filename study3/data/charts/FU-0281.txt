@@ -1,0 +1,89 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0281    Age: 67    Sex: M
+Date of service: 2026-06-18    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 4
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+67-year-old man seen today for routine chronic care. History of diabetes diagnosed 22 years ago, managed with metformin. Has been trying to walk 5 times per week. Glucose readings 109-136 mg/dL fasting. Mild bilateral knee stiffness in the mornings, unchanged. Sleeping reasonably well. Mood is good.
+
+REVIEW OF SYSTEMS
+Eyes: no blurred vision; last dilated eye exam 2023.
+Respiratory: no cough or dyspnea on exertion.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Skin: no rashes or non-healing wounds.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Constitutional: denies fever, chills or unintended weight loss.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes
+- CKD, stage 3a
+- Obesity
+- Hypothyroidism
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- semaglutide 0.5 mg weekly
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- levothyroxine 75 mcg daily
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+Mother: hypertension.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Never smoker.
+Lives with daughter. Retired bus driver.
+Works part time as a consultant.
+
+VITALS
+BP 125/92 | HR 90 | Temp 97.6 F | Wt 105.9 kg | BMI 38.4 | SpO2 99%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date  Test                        Result
+2026-02-18  eGFR                        58 mL/min/1.73m2
+2026-02-18  Creatinine                  1.06 mg/dL
+2026-06-12  eGFR                        57 mL/min/1.73m2
+2026-06-12  Creatinine                  1.08 mg/dL
+2026-06-12  Hemoglobin A1c              7.6%
+2026-06-12  Glucose, fasting            156 mg/dL
+2026-06-12  Urine albumin/creatinine    110 mg/g
+2026-06-12  Potassium                   4.3 mmol/L
+2026-06-12  Sodium                      136 mmol/L
+2026-06-12  LDL cholesterol             63 mg/dL
+2026-06-12  Hemoglobin                  12.8 g/dL
+
+IMPRESSION AND PLAN
+1. Diabetes mellitus: A1c 7.6% today (improved from 8.5%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Diabetic kidney disease, CKD stage 3a: Renal function reviewed: eGFR 57 (stable from 58). Continue losartan and empagliflozin. Avoid NSAIDs. Nephrology follow-up as scheduled.
+3. Obesity: weight 105.9 kg. Continue lifestyle changes.
+4. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+5. Pneumococcal vaccination up to date. Colorectal cancer screening up to date.
+
+PATIENT EDUCATION
+Reviewed carbohydrate counting handout.
+Discussed hypoglycemia recognition and treatment.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-06-18 09:16

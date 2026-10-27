@@ -1,0 +1,89 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: S3-1047    Age: 57    Sex: M
+Date of service: 2026-07-20    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Associate, PA-C (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 9
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+57-year-old man here for a 3-month check-in. History of type 2 diabetes diagnosed 22 years ago. Home glucose log reviewed, fasting values 128-154 mg/dL with occasional post-meal readings above 200. Denies chest pain, shortness of breath or leg swelling. Energy fair. No new complaints today.
+
+REVIEW OF SYSTEMS
+Neurological: no numbness or tingling in the feet; no headaches.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Constitutional: denies fever, chills or unintended weight loss.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Genitourinary: no dysuria, hematuria or change in urine output.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Hypothyroidism
+- Essential hypertension
+
+PAST SURGICAL HISTORY
+- Cholecystectomy (2011)
+- Colonoscopy with polypectomy (2021)
+- Tonsillectomy (childhood)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- levothyroxine 75 mcg daily
+- lisinopril 20 mg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+NKDA.
+
+FAMILY HISTORY
+No family history of kidney disease reported.
+Sister: hypothyroidism.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Former smoker, quit 2013; 26 pack-years.
+Works part time as a consultant.
+Lives with daughter. Retired machinist.
+
+VITALS
+BP 124/92 | HR 91 | Temp 98.3 F | Wt 77.7 kg | BMI 24.1 | SpO2 99%
+
+LABS
+Date   Test         Result
+2025-11-26    eGFR	56 mL/min/1.73m2
+2025-11-26 Creatinine     1.1 mg/dL
+2026-07-15	eGFR	54 mL/min/1.73m2
+2026-07-15   Creatinine	1.14 mg/dL
+2026-07-15	Hemoglobin A1c  8.1%
+2026-07-15	Glucose, fasting	176 mg/dL
+2026-07-15    Potassium	4.1 mmol/L
+2026-07-15	Sodium     143 mmol/L
+2026-07-15    LDL cholesterol   73 mg/dL
+2026-07-15  Hemoglobin    14.7 g/dL
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+ASSESSMENT/PLAN
+1. Type 2 diabetes mellitus: A1c 8.1%, up from 7.8%. Reviewed diet and activity. Continue medications. Retinal exam due.
+1b. DM w/ renal involvement: eGFR 54, continue current medications.
+2. Hypertension: BP 124/92 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+3. Hypothyroid: clinically euthyroid. Continue current dose.
+4. Shingles vaccine series completed. Retinal exam due; referral placed.
+
+PATIENT EDUCATION
+Discussed hypoglycemia recognition and treatment.
+Patient verbalized understanding of the plan.
+
+Return to clinic in 4 months or sooner as needed.
+Total time 31 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Associate, PA-C 2026-07-20 16:00

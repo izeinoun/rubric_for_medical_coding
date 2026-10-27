@@ -1,0 +1,98 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: S3-1037    Age: 55    Sex: M
+Date of service: 2026-01-28    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Practitioner, FNP-C (Primary Care)
+Location: Synthetic Primary Care Clinic, Room 3
+
+CHIEF COMPLAINT
+Diabetes check and lab review.
+
+HISTORY OF PRESENT ILLNESS
+55-year-old man here for a 6-month check-in. History of type 2 diabetes diagnosed 5 years ago. Brought meter today; morning values 130-149 mg/dL, no lows. Sleeping reasonably well. Mood is good. Denies chest pain, shortness of breath or leg swelling.
+
+REVIEW OF SYSTEMS
+Eyes: no blurred vision; last dilated eye exam 2025.
+Neurological: no numbness or tingling in the feet; no headaches.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Respiratory: no cough or dyspnea on exertion.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Constitutional: denies fever, chills or unintended weight loss.
+Skin: no rashes or non-healing wounds.
+
+MEDICATIONS
+- insulin glargine 12 units nightly
+- sevelamer 800 mg with meals
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- omeprazole 20 mg daily
+- atorvastatin 40 mg nightly
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+NKDA.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- CKD stage 5, not on dialysis
+- Osteoarthritis, bilateral knees
+- Obesity
+- GERD
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Right knee arthroscopy (2015)
+- Cataract extraction, left eye (2022)
+
+FAMILY HISTORY
+Mother: hypertension.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Never smoker.
+Alcohol: none.
+Lives with daughter. Retired machinist.
+
+VITALS
+BP 127/68 | HR 74 | Temp 98.0 F | Wt 94.6 kg | BMI 30.7 | SpO2 97%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date    Test Result
+2025-07-02	eGFR         9 mL/min/1.73m2
+2025-07-02 Creatinine         6.86 mg/dL
+2026-01-19    eGFR       6 mL/min/1.73m2
+2026-01-19 Creatinine         10.29 mg/dL
+2026-01-19 Hemoglobin A1c    7.6%
+2026-01-19    Glucose, fasting	126 mg/dL
+2026-01-19 Urine albumin/creatinine	384 mg/g
+2026-01-19    Potassium	5.0 mmol/L
+2026-01-19 Sodium    141 mmol/L
+2026-01-19  LDL cholesterol	131 mg/dL
+2026-01-19	Hemoglobin  13.3 g/dL
+
+INTERVAL NOTE - PREVIOUS VISIT 2025-07-02
+(For reference only; not today's assessment.)
+Type 2 diabetes mellitus: A1c 8.8% at that visit; continued medications.
+CKD stage 5, not on dialysis secondary to type 2 diabetes: eGFR 9 at that visit; continued losartan.
+Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+
+IMPRESSION AND PLAN
+1. Type 2 diabetes mellitus: A1c 7.6% today (improved from 8.8%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. CKD stage 5, not on dialysis secondary to type 2 diabetes: eGFR 6, stage 5, not on dialysis not on dialysis; conservative management chosen after shared decision-making. Renal diet reviewed; nephrology follow-up in 1 month.
+3. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+4. Obesity, BMI 30.7: discussed nutrition and activity goals; referred to dietitian.
+5. Problem list reviewed: hyperlipidemia, GERD.
+6. Shingles vaccine series completed. Diabetic foot exam completed today.
+
+PATIENT EDUCATION
+Encouraged 150 minutes of moderate activity weekly.
+Reviewed sick-day rules for medications.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Practitioner, FNP-C 2026-01-28 11:40

@@ -1,0 +1,95 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0002    Age: 48    Sex: F
+Date of service: 2026-04-04    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Practitioner, FNP-C (Primary Care)
+Location: Synthetic Primary Care Clinic, Room 6
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+48-year-old woman here for a 6-month check-in. History of type 2 diabetes diagnosed 5 years ago. Brought meter today; morning values 127-162 mg/dL, no lows. Denies chest pain, shortness of breath or leg swelling. No polyuria or polydipsia. No visual changes.
+
+REVIEW OF SYSTEMS
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Constitutional: denies fever, chills or unintended weight loss.
+Neurological: no numbness or tingling in the feet; no headaches.
+Skin: no rashes or non-healing wounds.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Eyes: no blurred vision; last dilated eye exam 2023.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- CKD stage 3a
+- Hypothyroidism
+- Osteoarthritis, bilateral knees
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Cholecystectomy (2011)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- levothyroxine 75 mcg daily
+- acetaminophen 650 mg as needed
+- atorvastatin 40 mg nightly
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+No known drug allergies.
+
+FAMILY HISTORY
+Mother: hypertension.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Never smoker.
+Lives with alone. Retired machinist.
+Alcohol: 1 to 2 drinks per week.
+
+VITALS
+BP 124/73 | HR 81 | Temp 98.0 F | Wt 69.1 kg | BMI 23.7 | SpO2 98%
+
+LABS
+Date  Test                        Result
+2025-12-17  eGFR                        54 mL/min/1.73m2
+2026-03-26  eGFR                        51 mL/min/1.73m2
+2026-03-26  Hemoglobin A1c              7.3%
+2026-03-26  Glucose, fasting            155 mg/dL
+2026-03-26  Urine albumin/creatinine    130 mg/g
+2026-03-26  Potassium                   5.0 mmol/L
+2026-03-26  Sodium                      142 mmol/L
+2026-03-26  LDL cholesterol             85 mg/dL
+2026-03-26  Hemoglobin                  12.8 g/dL
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+INTERVAL NOTE - PREVIOUS VISIT 2025-12-21
+(For reference only; not today's assessment.)
+T2DM: A1c 6.5% at that visit; continued medications.
+CKD stage 3a: eGFR 54 at that visit; continued losartan.
+Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+
+ASSESSMENT AND PLAN
+1. T2DM: A1c 7.3%, up from 6.5%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+3. OA of knees: continue home exercises and acetaminophen PRN.
+4. Chronic conditions reviewed: hyperlipidemia, CKD 3a.
+5. Retinal exam due; referral placed. Dental visit within the past year.
+
+PATIENT EDUCATION
+Encouraged 150 minutes of moderate activity weekly.
+Reviewed carbohydrate counting handout.
+
+Return to clinic in 6 months or sooner as needed.
+Total time 34 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Practitioner, FNP-C 2026-04-04 08:25

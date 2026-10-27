@@ -1,0 +1,90 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: S3-1039    Age: 80    Sex: F
+Date of service: 2026-05-30    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 8
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 80-year-old woman,
+--- Page 2 of 3 --- S3-1039 --- printed 2026-06-14 ---
+presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 18 years ago. Notes some difficulty with diet recently; fasting sugars 122-145 mg/dL. Sleeping reas-
+onably well. Mood is good. No polyuria or polydipsia. No visual changes.
+
+REVIEW OF SYSTEMS
+Neurological: no numbness or tingling in the feet; no headaches.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Respir-
+atory: no cough or dyspnea on exertion.
+Constitutional: denies fever, chills or unintended weight loss.
+Skin: no rashes or non-healing wounds.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Osteoarthritis, bilateral knees
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+- Right knee arthroscopy (2015)
+- Cholecystectomy (2011)
+
+MEDICATIONS
+- metformin 1000 mg twice dai1y
+- acetaminophen 650 mg as needed
+- atorvastatin 40 mg nightly
+Med rec done with patient’s pill bottles.
+
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+Mother: hypertension.
+Brother: hyperlipidemia.
+Father: coronary artery disease, died age 66.
+
+SOCIAL HISTORY
+Never smoker.
+Works part time as a cashier.
+Lives with spouse. Retired accountant.
+
+VITALS
+BP 121/90 | HR 65 | Temp 98.0 F | Wt 72.3 kg | BMI 29.4 | SpO2 95%
+
+LABS
+Date	Test	Result
+2025-12-06	eGFR	62 mL/min/1.73m2
+2025-12-06    Creatinine	1.0 mg/dL
+2026-05-25    eGFR	54 mL/min/1.73m2
+2026-05-25    Hemoglobin A1c     7.6%
+2026-05-25	Glucose, fasting  136 mg/dL
+2026-05-25  Potassium	4.0 mmol/L
+2026-05-25	Sodium  139 mmol/L
+2026-05-25  LDL cholesterol	77 mg/dL
+2026-05-25	Hemoglobin	13.9 g/dL
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+IMPRESSION AND PLAN
+1. Diabetes mellitus, type 2: A1c 7.6% (up from 6.5%). Medications unchanged; reinforced carbohydrate counting.
+2. CKD?: eGFR 54 (was 62). Will recheck renal panel in 90 days; diagnosis deferred until repeat testing.
+3. Problem list reviewed: knee osteoarthritis, hyperlipidemia.
+4. Pneumococcal vaccination up to date. Diabetic foot exam completed today.
+
+PATlENT EDUCATION
+Encouraged 150 minutes of moderate activity weekly.
+Reviewed sick-day rules for medications.
+
+Retum to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-05-30 17:27

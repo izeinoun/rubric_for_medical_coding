@@ -1,0 +1,88 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0212    Age: 76    Sex: M
+Date of service: 2026-02-01    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Practitioner, FNP-C (Primary Care)
+Location: Synthetic Primary Care Clinic, Room 2
+
+CHIEF COMPLAINT
+Follow-up visit; medication refills.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 76-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 10 years ago. Reports checking glucose a few times a week; fasting readings mostly 108-163 mg/dL. No polyuria or polydipsia. No visual changes. Appetite stable. Denies nausea or abdominal pain.
+
+REVIEW OF SYSTEMS
+Skin: no rashes or non-healing wounds.
+Constitutional: denies fever, chills or unintended weight loss.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Respiratory: no cough or dyspnea on exertion.
+Neurological: no numbness or tingling in the feet; no headaches.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- CKD stage 3a
+- Hyperlipidemia
+- Obesity
+- GERD
+
+PAST SURGICAL HISTORY
+- Cholecystectomy (2011)
+- Right knee arthroscopy (2015)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- atorvastatin 40 mg nightly
+- omeprazole 20 mg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+Father: coronary artery disease, died age 65.
+
+SOCIAL HISTORY
+Former smoker, quit 2000; 25 pack-years.
+Alcohol: rare.
+Walks 4 times per week, about 20 minutes.
+
+VITALS
+BP 147/92 | HR 75 | Temp 98.5 F | Wt 90.9 kg | BMI 33.9 | SpO2 97%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date  Test                        Result
+2025-06-08  eGFR                        51 mL/min/1.73m2
+2026-01-29  eGFR                        59 mL/min/1.73m2
+2026-01-29  Creatinine                  1.05 mg/dL
+2026-01-29  Hemoglobin A1c              9.4%
+2026-01-29  Glucose, fasting            188 mg/dL
+2026-01-29  Urine albumin/creatinine    94 mg/g
+2026-01-29  Potassium                   4.2 mmol/L
+2026-01-29  Sodium                      139 mmol/L
+2026-01-29  LDL cholesterol             87 mg/dL
+2026-01-29  Hemoglobin                  11.7 g/dL
+
+ASSESSMENT AND PLAN
+1. T2DM: A1c 9.4%, improved from 10.2%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. CKD stage 3a: eGFR 59, UACR 94 mg/g. On dapagliflozin and losartan; counseled on avoiding nephrotoxins. Repeat labs in 3 months.
+3. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+4. Obesity: weight 90.9 kg. Continue lifestyle changes.
+5. Also on problem list: GERD.
+6. Retinal exam due; referral placed. Diabetic foot exam completed today.
+
+PATIENT EDUCATION
+Discussed hypoglycemia recognition and treatment.
+Encouraged 150 minutes of moderate activity weekly.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Practitioner, FNP-C 2026-02-01 08:09

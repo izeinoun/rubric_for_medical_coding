@@ -1,0 +1,105 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0220    Age: 76    Sex: M
+Date of service: 2026-01-27    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 10
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+76-year-old man here for a 4-month check-in. History of type 2 diabetes diagnosed 16 years ago. Has been trying to walk 5 times per week. Glucose readings 116-150 mg/dL fasting. Energy fair. No new complaints today. Denies chest pain, shortness of breath or leg swelling.
+
+REVIEW OF SYSTEMS
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Neurological: no numbness or tingling in the feet; no heada-
+ches.
+Constitutional: denies fever, chills or unintended weight loss.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Skin: no rashes or non-healing wounds.
+Respiratory: no cough or dyspnea on exertion.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- CKD, stage 3a
+- GERD
+- Osteoarthritis, bilateral knees
+- Hypothyroidism
+- Obesity
+
+PAST SURGICAL HISTORY
+- Cholecystectomy (2011)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- semaglutide 0.5 mg weekly
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- omeprazole 20 mg daily
+- acetaminophen 650 mg as needed
+- levothyroxine 75 mcg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGlES
+NKDA.
+
+FAMILY HISTORY
+Mother: hypertension.
+Brother: hyperlipidemia.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Former smoker, quit 1995; 25 pack-years.
+Works part time as a librarian.
+Lives with alone. Retired bus driver.
+
+VITALS
+BP 130/84 | HR 80 | Temp 97.8 F | Wt 106.3 kg | BMI 37.0 | SpO2 96%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date	Test	Result
+2025-08-18	eGFR       46 mL/min/1.73m2
+2025-08-18    Creatinine	1.34 mg/dL
+2026-01-22  eGFR	47 mL/min/1.73m2
+2026-01-22  Creatinine    1.31 mg/dL
+2026-01-22	Hemoglobin A1c      6.8%
+2026-01-22	Glucose, fasting       171 mg/dL
+2026-01-22	Urine albumin/creatinine        124 mg/g
+2026-01-22	Potassium	4.8 mmol/L
+2026-01-22    Sodium	140 mmol/L
+2026-01-22	LDL cholesterol	123 mg/dL
+2026-01-22    Hemoglobin	14.5 g/dL
+
+FROM LAST OFFICE VISIT (2025-08-19)
+(For reference only; not today's assessment.)
+Diabetes mellitus, type 2: A1c 6.6% at that visit; continued medications.
+CKD, stage 3a: eGFR 46 at that visit; continued losartan.
+GERD: symptoms controlled on omeprazole. Continue.
+
+ASSESSMENT/PLAN
+1. Diabetes mellitus, type 2: A1c 6.8% today (up from 6.6%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. GERD: symptoms controlled on omeprazole. Continue.
+3. 0besity, BMl 37.0: discussed nutrition and activity goals; referred to dietitian.
+4. Hypothyroid: clinically euthyroid. Continue current dose.
+5. CKD, stage 3a: Per nephrology; see their note.
+6. OA of knees: continue home exercises and acetaminophen PRN.
+7. Inf1uenza vaccine given this season. Retinal exam due; referral placed.
+
+PATIENT EDUCATION
+Reviewed carbohydrate counting handout.
+Patient verba1ized understanding of the plan.
+
+--- Page 2 of 3 --- FU-0220 --- printed 2026-02-15 ---
+Retum to clinic in 6 months or sooner as needed.
+Total time 43 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-01-27 11:38

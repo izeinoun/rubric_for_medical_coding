@@ -1,0 +1,91 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0210    Age: 74    Sex: F
+Date of service: 2026-02-26    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Practitioner, FNP-C (Primary Care)
+Location: Synthetic Primary Care Clinic, Room 7
+
+CHIEF COMPLAINT
+Diabetes check and lab review.
+
+HISTORY OF PRESENT ILLNESS
+74-year-old woman presents for scheduled follow-up. History of type 2 diabetes diagnosed 21 years ago. Has been trying to walk 3 times per week. Glucose readings 122-173 mg/dL fasting. Denies chest pain, shortness of breath or leg swelling. Appetite stable. Denies nausea or abdominal pain.
+
+REVIEW OF SYSTEMS
+Constitutional: denies fever, chills or unintended weight loss.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Eyes: no blurred vision; last dilated eye exam 2024.
+Neurological: no numbness or tingling in the feet; no headaches.
+Respiratory: no cough or dyspnea on exertion.
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- acetaminophen 650 mg as needed
+- loratadine 10 mg as needed
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease stage 3b
+- Essential hypertension
+- Osteoarthritis, bilateral knees
+- Obesity
+- Seasonal allergic rhinitis
+
+PAST SURGICAL HISTORY
+- Colonoscopy with polypectomy (2021)
+- Cataract extraction, left eye (2022)
+- Cholecystectomy (2011)
+
+FAMILY HISTORY
+No family history of kidney disease reported.
+Father: coronary artery disease, died age 64.
+
+SOCIAL HISTORY
+Never smoker.
+Lives with spouse. Retired machinist.
+Works part time as a librarian.
+
+VITALS
+BP 127/76 | HR 81 | Temp 98.1 F | Wt 82.3 kg | BMI 32.0 | SpO2 98%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date  Test                        Result
+2025-08-21  eGFR                        42 mL/min/1.73m2
+2026-02-19  eGFR                        34 mL/min/1.73m2
+2026-02-19  Creatinine                  1.82 mg/dL
+2026-02-19  Hemoglobin A1c              7.1%
+2026-02-19  Glucose, fasting            136 mg/dL
+2026-02-19  Urine albumin/creatinine    180 mg/g
+2026-02-19  Potassium                   4.4 mmol/L
+2026-02-19  Sodium                      141 mmol/L
+2026-02-19  LDL cholesterol             60 mg/dL
+2026-02-19  Hemoglobin                  11.3 g/dL
+
+ASSESSMENT/PLAN
+1. Diabetes mellitus, type 2: A1c 7.1% (up from 6.6%). Medications unchanged; reinforced carbohydrate counting.
+2. OA of knees: continue home exercises and acetaminophen PRN.
+3. Hypertension: BP 127/76 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+4. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+5. Also on problem list: obesity, chronic kidney disease stage 3b.
+6. Pneumococcal vaccination up to date. Colorectal cancer screening up to date.
+
+PATIENT EDUCATION
+Encouraged 150 minutes of moderate activity weekly.
+Patient verbalized understanding of the plan.
+
+Return to clinic in 6 months or sooner as needed.
+Total time 32 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Practitioner, FNP-C 2026-02-26 13:20

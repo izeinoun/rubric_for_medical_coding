@@ -1,0 +1,94 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: S3-1031    Age: 71    Sex: F
+Date of service: 2026-06-02    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Practitioner, FNP-C (Primary Care)
+Location: Synthetic Primary Care Clinic, Room 2
+
+CHIEF COMPLAINT
+Diabetes check and lab review.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 71-year-old woman
+--- Page 2 of 3 --- S3-1031 --- printed 2026-06-20 ---
+returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 14 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Sleeping reasonably well. Mood is good. Denies chest pain, shortness of breath or leg swelling.
+
+REVIEW 0F SYSTEMS
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Skin: no rashes or non-healing wounds.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Neurological: no numbness or tingling in the feet; no headaches.
+
+MEDIC-
+ATIONS
+- insulin glargine 12 units nightly
+- sevelamer 800 mg with meals
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+Med rec done with patient’s pill bottles.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- CKD, stage 5 (ESRD), on hemodialysis
+- Obesity
+- Osteoarthritis, bilateral knees
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+- Cholecystectomy (2011)
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Former smoker, quit 2014; 17 pack-years.
+Alcohol: 1 to 2 drinks per week.
+Walks 5 times per week, about 20 minutes.
+
+VITALS
+BP 131/80 | HR 74 | Temp 98.4 F | Wt 92.4 kg | BMI 38.0 | SpO2 98%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date  Test                        Result
+2026-06-01  eGFR                        6 mL/min/1.73m2
+2026-06-01  Creatinine                  10.29 mg/dL
+2026-06-01  Hemoglobin A1c              8.0%
+2026-06-01  Glucose, fasting            160 mg/dL
+2026-06-01  Urine albumin/creatinine    250 mg/g
+2026-06-01  Potassium                   4.7 mmol/L
+2026-06-01  Sodium                      141 mmol/L
+2026-06-01  LDL cholesterol             110 mg/dL
+2026-06-01  Hemoglobin                  13.5 g/dL
+
+FROM LAST OFFICE VISIT (2025-12-13)
+(For reference only; not today’s assessment.)
+T2DM: A1c 8.2% at that visit; continued medications.
+Diabetic kidney disease, CKD stage 5 (ESRD), on hemodialysis: continued losartan.
+Obesity: weight 92.4 kg. Continue lifestyle changes.
+
+IMPRESSION AND PLAN
+1. T2DM: A1c 8.0% today (improved from 8.2%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. 0besity: weight 92.4 kg. Continue lifestyle changes.
+3. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+4. Diabetic kidney disease, CKD stage 5 (ESRD), on hemodialysis: End-stage renal disease on hemodialysis Monday, Wednesday and Friday via nephrology; eGFR 6, dry weight stable, potassium acceptable. Continue sevelamer; dialysis per nephrology.
+5. Diabetic foot exam completed today. Colorectal cancer screening up to date.
+
+PATIENT EDUCATION
+Reviewed sick-day rules for medications.
+Encouraged 150 minutes of moderate activity weekly.
+
+Retum to clinic in 6 months or sooner as needed.
+Total time 41 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Practitioner, FNP-C 2026-06-02 08:57

@@ -1,0 +1,88 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: S3-1038    Age: 70    Sex: F
+Date of service: 2026-09-24    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 14
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+70-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 21 years ago. Reports checking glucose daily; fasting readings mostly 121-157 mg/dL. Energy fair. No new complaints today. No polyuria or polydipsia. No visual changes.
+
+REVIEW OF SYSTEMS
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Respiratory: no cough or dyspnea on exertion.
+Constitutional: denies fever, chills or unintended weight loss.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Neurological: no numbness or tingling in the feet; no headaches.
+Eyes: no blurred vision; last dilated eye exam 2023.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Hypothyroidism
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Tonsillectomy (childhood)
+- Appendectomy (1988)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- semaglutide 0.5 mg weekly
+- levothyroxine 75 mcg daily
+- atorvastatin 40 mg nightly
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Former smoker, quit 2008; 6 pack-years.
+Alcohol: none.
+Works part time as a consultant.
+
+VITALS
+BP 143/79 | HR 76 | Temp 98.2 F | Wt 69.8 kg | BMI 27.2 | SpO2 94%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date  Test                        Result
+2026-06-01  eGFR                        67 mL/min/1.73m2
+2026-06-01  Creatinine                  0.92 mg/dL
+2026-09-23  eGFR                        57 mL/min/1.73m2
+2026-09-23  Creatinine                  1.08 mg/dL
+2026-09-23  Hemoglobin A1c              7.9%
+2026-09-23  Glucose, fasting            143 mg/dL
+2026-09-23  Urine albumin/creatinine    24 mg/g
+2026-09-23  Potassium                   4.1 mmol/L
+2026-09-23  Sodium                      140 mmol/L
+2026-09-23  LDL cholesterol             107 mg/dL
+2026-09-23  Hemoglobin                  12.6 g/dL
+
+ASSESSMENT AND PLAN
+1. T2DM: A1c 7.9% (up from 7.5%). Medications unchanged; reinforced carbohydrate counting.
+2. CKD?: Single low eGFR of 57 after prior 67. Encouraged hydration, recheck in 3 months.
+3. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+4. Hypothyroid: clinically euthyroid. Continue current dose.
+5. Influenza vaccine given this season. Colorectal cancer screening up to date.
+
+PATIENT EDUCATION
+Patient verbalized understanding of the plan.
+Reviewed sick-day rules for medications.
+
+Return to clinic in 3 months or sooner as needed.
+Total time 41 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-09-24 12:25

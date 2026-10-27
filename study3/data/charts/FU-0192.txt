@@ -1,0 +1,89 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0192    Age: 57    Sex: M
+Date of service: 2026-05-17    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 13
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+57-year-old man here for a 3-month check-in. History of type 2 diabetes diagnosed 7 years ago. Home glucose log reviewed, fasting values 122-135 mg/dL with occasional post-meal readings above 200. Denies chest pain, shortness of breath or leg swelling. Mild bilateral knee stiffness in the mornings, unchanged.
+
+REVIEW OF SYSTEMS
+Respiratory: no cough or dyspnea on exertion.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Neurological: no numbness or tingling in the feet; no headaches.
+Genitourinary: no dysuria, hematuria or change in urine output.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease (entered 2024) - see assessment
+- Hypothyroidism
+- Hyperlipidemia
+- Osteoarthritis, bilateral knees
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- semaglutide 0.5 mg weekly
+- levothyroxine 75 mcg daily
+- atorvastatin 40 mg nightly
+- acetaminophen 650 mg as needed
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 64.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Never smoker.
+Lives with spouse. Retired teacher.
+Alcohol: rare.
+
+VITALS
+BP 133/92 | HR 71 | Temp 97.8 F | Wt 84.0 kg | BMI 26.0 | SpO2 98%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date  Test                        Result
+2025-05-29  eGFR                        57 mL/min/1.73m2
+2025-05-29  Creatinine                  1.08 mg/dL
+2025-11-17  eGFR                        73 mL/min/1.73m2
+2025-11-17  Creatinine                  0.85 mg/dL
+2026-05-08  eGFR                        76 mL/min/1.73m2
+2026-05-08  Creatinine                  0.81 mg/dL
+2026-05-08  Hemoglobin A1c              7.7%
+2026-05-08  Glucose, fasting            112 mg/dL
+2026-05-08  Potassium                   4.6 mmol/L
+2026-05-08  Sodium                      136 mmol/L
+2026-05-08  LDL cholesterol             63 mg/dL
+2026-05-08  Hemoglobin                  11.7 g/dL
+
+ASSESSMENT/PLAN
+1. T2DM: A1c 7.7% today (up from 6.9%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Chronic kidney disease on problem list, removed today: eGFR 73 and 76 on repeat testing over 6 months, urine albumin normal; prior eGFR 57 (2025-05-29) was during an acute illness. Chronic kidney disease ruled out.
+3. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+4. Hyperlipidemia: LDL 63 mg/dL. Continue atorvastatin 40 mg.
+5. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+6. Diabetic foot exam completed today. Influenza vaccine given this season.
+
+PATIENT EDUCATION
+Discussed hypoglycemia recognition and treatment.
+Patient verbalized understanding of the plan.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-05-17 09:04

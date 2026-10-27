@@ -1,0 +1,91 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: S3-1008    Age: 58    Sex: F
+Date of service: 2026-06-17    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 5
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 58-year-old woman returning for follow-up of chronic conditions. Outside records from 2015 list type 1 diabetes. History of type
+--- Page 2 of 3 --- S3-1008 --- printed 2026-06-25 ---
+2 diabetes diagnosed 22 years ago. Brought meter today; morning values 105-140 mg/dL, no lows. No polyuria or polydipsia. No visual changes. Energy fair. No new complaints today.
+
+REVIEW OF SYSTEMS
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Constitutional: denies fever, chills or unintended weight loss.
+Neurological: no numbness or tingling in the feet; no headaches.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Respiratory: no cough or dyspnea on exertion.
+
+PAST MEDlCAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease stage 3b
+- Obesity
+- GERD
+- Essential hypertension
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- empagliflozin 10 mg daily
+- omeprazole 20 mg daily
+- lisinopril 20 mg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Penicillin (rash).
+
+FAMILY HISTORY
+Mother: hypertension.
+Sister: hypothyroidism.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Never smoker.
+Works part time as a cashier.
+Lives with alone. Retired bus driver.
+
+VITALS
+BP 143/75 | HR 71 | Temp 98.6 F | Wt 93.3 kg | BMI 33.5 | SpO2 97%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date   Test        Result
+2025-12-25    eGFR    41 mL/min/1.73m2
+2025-12-25  Creatinine	1.51 mg/dL
+2026-06-10 eGFR	38 mL/min/1.73m2
+2026-06-10   Creatinine	1.62 mg/dL
+2026-06-10	Hemog1obin A1c        7.1%
+2026-06-10	Glucose, fasting	176 mg/dL
+2026-06-10    Urine albumin/creatinine	254 mg/g
+2026-06-10    Potassium 4.0 mmol/L
+2026-06-10	Sodium	142 mmol/L
+2026-06-10    LDL cholesterol	99 mg/dL
+2026-06-10	Hemoglobin    11.3 g/dL
+
+ASSESSMENT/PLAN
+1. Type 2 diabetes mellitus: A1c 7.1% today (improved from 7.6%). Continue current regimen. Foot exam done; annua1 eye exam reminder given.
+2. Obesity, BMl 33.5: disc-
+ussed nutrition and activity goals; referred to dietitian.
+3. Chronic kidney disease, stage 3b: Renal function reviewed: eGFR 38 (stable from 41). Continue lisinopril and empagliflozin. Avoid NSAlDs. Nephrology follow-up as scheduled.
+4. Also on problem list: hypertension, GERD.
+5. Shingles vaccine series completed. Influenza vaccine given this season.
+
+PATlENT EDUCATION
+Patient verbalized understanding of the plan.
+Encouraged 150 minutes of moderate activity weekly.
+
+Retum to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-06-17 08:15

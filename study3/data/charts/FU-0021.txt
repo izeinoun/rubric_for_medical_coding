@@ -1,0 +1,89 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0021    Age: 67    Sex: F
+Date of service: 2026-07-10    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 8
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+67-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 18 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Energy fair. No new complaints today. Sleeping reasonably well. Mood is good.
+
+REVIEW OF SYSTEMS
+Skin: no rashes or non-healing wounds.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Neurological: no numbness or tingling in the feet; no headaches.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- CKD, stage 3b
+- GERD
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Cholecystectomy (2011)
+- Right knee arthroscopy (2015)
+- Tonsillectomy (childhood)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- omeprazole 20 mg daily
+- atorvastatin 40 mg nightly
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Penicillin (rash).
+
+FAMILY HISTORY
+No family history of kidney disease reported.
+Father: coronary artery disease, died age 69.
+
+SOCIAL HISTORY
+Former smoker, quit 2012; 8 pack-years.
+Walks 5 times per week, about 20 minutes.
+Works part time as a librarian.
+
+VITALS
+BP 126/69 | HR 83 | Temp 98.2 F | Wt 67.8 kg | BMI 25.8 | SpO2 97%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date  Test                        Result
+2025-12-04  eGFR                        32 mL/min/1.73m2
+2026-07-10  eGFR                        38 mL/min/1.73m2
+2026-07-10  Creatinine                  1.62 mg/dL
+2026-07-10  Hemoglobin A1c              7.7%
+2026-07-10  Glucose, fasting            183 mg/dL
+2026-07-10  Urine albumin/creatinine    68 mg/g
+2026-07-10  Potassium                   4.2 mmol/L
+2026-07-10  Sodium                      142 mmol/L
+2026-07-10  LDL cholesterol             73 mg/dL
+2026-07-10  Hemoglobin                  13.2 g/dL
+
+IMPRESSION AND PLAN
+(Assessment copied from note dated 2026-03-25 and updated where noted.)
+1. T2DM: A1c 7.7% (up from 7.1%). Medications unchanged; reinforced carbohydrate counting.
+2. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+3. GERD: symptoms controlled on omeprazole. Continue.
+4. CKD, stage 3b: Last eGFR 32 on 2025-12-04. Continue current renal regimen. Labs before next visit. Addendum 2026-07-10: eGFR 38 today, up from 32. No change to losartan.
+5. Pneumococcal vaccination up to date. Shingles vaccine series completed.
+
+PATIENT EDUCATION
+Reviewed carbohydrate counting handout.
+Reviewed sick-day rules for medications.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-07-10 17:37

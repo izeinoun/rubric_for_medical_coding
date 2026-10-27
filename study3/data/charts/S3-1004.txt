@@ -1,0 +1,87 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: S3-1004    Age: 61    Sex: F
+Date of service: 2026-07-08    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Physician, DO (Family Medicine)
+Location: Synthetic Primary Care Clinic, Room 10
+
+CHIEF COMPLAINT
+Follow-up visit; medication refills.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 61-year-old woman returning for follow-up of chronic conditions. No history of kidney disease. History of type 2 diabetes diagnosed 13 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Denies chest pain, shortness of breath or leg swelling. No polyuria or polydipsia. No visual changes.
+
+REVIEW OF SYSTEMS
+Constitutional: denies fever, chills or unintended weight loss.
+Neurological: no numbness or tingling in the feet; no headaches.
+Skin: no rashes or non-healing wounds.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease stage 3a
+- GERD
+- Essential hypertension
+
+PAST SURGICAL HISTORY
+- Tonsillectomy (childhood)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- omeprazole 20 mg daily
+- lisinopril 20 mg daily
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 78.
+Mother: hypertension.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Never smoker.
+Lives with spouse. Retired machinist.
+Works part time as a cashier.
+
+VITALS
+BP 120/85 | HR 81 | Temp 98.4 F | Wt 76.6 kg | BMI 25.8 | SpO2 95%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date    Test  Result
+2026-02-08 eGFR       51 mL/min/1.73m2
+2026-02-08    Creatinine   1.21 mg/dL
+2026-06-29	eGFR  57 mL/min/1.73m2
+2026-06-29	Creatinine	1.08 mg/dL
+2026-06-29 Hemoglobin A1c         9.4%
+2026-06-29	Glucose, fasting	117 mg/dL
+2026-06-29	Urine albumin/creatinine   120 mg/g
+2026-06-29	Potassium    4.2 mmol/L
+2026-06-29  Sodium	141 mmol/L
+2026-06-29	LDL cholesterol     79 mg/dL
+2026-06-29	Hemoglobin	11.7 g/dL
+
+ASSESSMENT/PLAN
+1. Type 2 diabetes mellitus: A1c 9.4% (improved from 10.6%). Medications unchanged; reinforced carbohydrate counting.
+2. Hypertension: BP 120/85 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+3. Diabetic kidney disease, CKD stage 3a: Labs reviewed with patient, eGFR 57. Continue dapagliflozin; metformin dose appropriate for current eGFR. Recheck in 3 to 4 months.
+4. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+5. Pneumococcal vaccination up to date. Shingles vaccine series completed.
+
+PATIENT EDUCATION
+Reviewed carbohydrate counting handout.
+Discussed hypoglycemia recognition and treatment.
+
+Return to clinic in 4 months or sooner as needed.
+Total time 38 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Physician, DO 2026-07-08 16:08

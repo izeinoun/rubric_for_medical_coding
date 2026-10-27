@@ -1,0 +1,89 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0020    Age: 63    Sex: F
+Date of service: 2026-07-14    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 12
+
+CHIEF COMPLAINT
+Follow-up visit; medication refills.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 63-year-old woman, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 19 years ago. Brought meter today; morning values 128-165 mg/dL, no lows. Sleeping reasonably well. Mood is good. No urinary symptoms. No foot ulcers or numbness reported.
+
+REVIEW OF SYSTEMS
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Constitutional: denies fever, chills or unintended weight loss.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Skin: no rashes or non-healing wounds.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Neurological: no numbness or tingling in the feet; no headaches.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD stage 3a
+- GERD
+- Hypothyroidism
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Right knee arthroscopy (2015)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- omeprazole 20 mg daily
+- levothyroxine 75 mcg daily
+- atorvastatin 40 mg nightly
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+FAMILY HISTORY
+Mother: hypertension.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Former smoker, quit 2007; 22 pack-years.
+Works part time as a librarian.
+Alcohol: 1 to 2 drinks per week.
+
+VITALS
+BP 138/92 | HR 85 | Temp 98.1 F | Wt 57.6 kg | BMI 24.6 | SpO2 96%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date  Test                        Result
+2026-03-29  eGFR                        53 mL/min/1.73m2
+2026-03-29  Creatinine                  1.17 mg/dL
+2026-07-05  eGFR                        60 mL/min/1.73m2
+2026-07-05  Hemoglobin A1c              9.4%
+2026-07-05  Glucose, fasting            150 mg/dL
+2026-07-05  Urine albumin/creatinine    382 mg/g
+2026-07-05  Potassium                   4.1 mmol/L
+2026-07-05  Sodium                      136 mmol/L
+2026-07-05  LDL cholesterol             101 mg/dL
+2026-07-05  Hemoglobin                  11.8 g/dL
+
+IMPRESSION AND PLAN
+1. T2DM: A1c 9.4% today (improved from 10.1%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Hyperlipidemia: LDL 101 mg/dL. Continue atorvastatin 40 mg.
+3. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+4. GERD: symptoms controlled on omeprazole. Continue.
+5. Colorectal cancer screening up to date. Influenza vaccine given this season.
+
+PATIENT EDUCATION
+Reviewed carbohydrate counting handout.
+Patient verbalized understanding of the plan.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-07-14 11:47

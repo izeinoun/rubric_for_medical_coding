@@ -1,0 +1,92 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0253    Age: 84    Sex: M
+Date of service: 2026-09-09    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Practitioner, FNP-C (Primary Care)
+Location: Synthetic Primary Care Clinic, Room 14
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+84-year-old man seen today for routine chronic care. History of type 2 diabetes diagnosed 7 years ago. Brought meter today; morning values 127-152 mg/dL, no lows. Denies chest pain, shortness of breath or leg swelling. Mild bilateral knee stiffness in the mornings, unchanged.
+
+REVlEW OF SYSTEMS
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Respiratory: no cough or dyspnea on exertion.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Eyes: no blurred vision; last dilated eye exam 2025.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease, stage 4
+- Seasonal allergic rhinitis
+- GERD
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Right knee arthroscopy (2015)
+- Cholecystectomy (2011)
+- Append-
+ectomy (1988)
+
+MEDICATIONS
+- insulin glargine 18 units nightly
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+- omeprazole 20 mg daily
+- atorvastatin 40 mg nightly
+Med rec done with patient’s pill bottles.
+--- Page 2 of 3 --- FU-0253 --- printed 2026-09-12 ---
+
+ALLERGIES
+Sulfa drugs (hives).
+
+FAMILY HISTORY
+No family history of kidney disease reported.
+Sister: hypothyroidism.
+Father: coronary artery disease, died age 73.
+
+SOCIAL HISTORY
+Never smoker.
+Lives with daughter. Retired teacher.
+Wa1ks 3 times per week, about 20 minutes.
+
+VITALS
+BP 138/68 | HR 85 | Temp 97.7 F | Wt 97.5 kg | BMI 28.9 | SpO2 95%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date	Test	Result
+2026-03-29	eGFR	20 mL/min/1.73m2
+2026-08-31   eGFR	21 mL/min/1.73m2
+2026-08-31	Creatinine       2.94 mg/dL
+2026-08-31	Hemoglobin A1c     6.7%
+2026-08-31	Glucose, fasting  111 mg/dL
+2026-08-31    Urine albumin/creatinine         69 mg/g
+2026-08-31  Potassium      4.3 mmol/L
+2026-08-31	Sodium	141 mmol/L
+2026-08-31   LDL cho-
+lesterol	81 mg/dL
+2026-08-31 Hemoglobin	13.6 g/dL
+
+ASSESSMENT AND PLAN
+1. Type 2 diabetes mellitus: A1c 6.7% (improved from 7.0%). Medications unchanged; reinforced carbohydrate counting.
+2. HLD: to1erating statin. Continue atorvastatin; recheck lipids in 12 months.
+3. Chronic conditions reviewed: GERD, CKD 4, a1lergic rhinitis.
+4. Dental visit within the past year. Colorectal cancer screening up to date.
+
+PATlENT EDUCATI0N
+Patient verbalized understanding of the plan.
+Reviewed carbohydrate counting handout.
+
+Retum to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Practitioner, FNP-C 2026-09-09 12:37

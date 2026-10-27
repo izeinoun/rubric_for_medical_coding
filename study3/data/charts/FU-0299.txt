@@ -1,0 +1,85 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0299    Age: 69    Sex: M
+Date of service: 2026-06-10    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 6
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+69-year-old man here for a 4-month check-in. History of type 2 diabetes diagnosed 9 years ago. Notes some difficulty with diet recently; fasting sugars 105-165 mg/dL. Mild bilateral knee stiffness in the mornings, unchanged. Energy fair. No new complaints today.
+
+REVIEW OF SYSTEMS
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Respiratory: no cough or dyspnea on exertion.
+Constitutional: denies fever, chills or unintended weight loss.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Skin: no rashes or non-healing wounds.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Neurological: no numbness or tingling in the feet; no headaches.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Diabetic chronic kidney disease, stage 3b
+- Essential hypertension
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Right knee arthroscopy (2015)
+- Colonoscopy with polypectomy (2021)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- atorvastatin 40 mg nightly
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+NKDA.
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Former smoker, quit 2006; 10 pack-years.
+Walks 2 times per week, about 20 minutes.
+Works part time as a librarian.
+
+VITALS
+BP 132/87 | HR 91 | Temp 98.6 F | Wt 85.8 kg | BMI 28.1 | SpO2 97%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date  Test                        Result
+2026-06-09  eGFR                        33 mL/min/1.73m2
+2026-06-09  Hemoglobin A1c              7.6%
+2026-06-09  Glucose, fasting            131 mg/dL
+2026-06-09  Urine albumin/creatinine    171 mg/g
+2026-06-09  Potassium                   4.9 mmol/L
+2026-06-09  Sodium                      140 mmol/L
+2026-06-09  LDL cholesterol             116 mg/dL
+2026-06-09  Hemoglobin                  11.3 g/dL
+
+ASSESSMENT AND PLAN
+1. T2DM: A1c 7.6%, up from 6.6%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Hypertension: BP 132/87 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+3. Problem list reviewed: hyperlipidemia.
+4. Colorectal cancer screening up to date. Dental visit within the past year.
+
+PATIENT EDUCATION
+Reviewed sick-day rules for medications.
+Discussed hypoglycemia recognition and treatment.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-06-10 11:01

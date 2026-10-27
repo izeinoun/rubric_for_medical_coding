@@ -1,0 +1,95 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0202    Age: 48    Sex: F
+Date of service: 2026-05-16    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 10
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+48-year-old woman presents for scheduled follow-up. Type 1 diabetes since age 12. Has been trying to walk 2 times per week. Glucose readings 127-146 mg/dL fasting. No polyuria or polydipsia. No visual changes. Mild bilateral knee stiffness in the mornings, unchanged.
+
+REVIEW OF SYSTEMS
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Neurological: no numbness or tingling in the feet; no headaches.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Constitutional: denies fever, chills or unintended weight loss.
+Genitourinary: no dysuria, hematuria or change in urine output.
+
+MEDICATIONS
+- insulin glargine 22 units nightly and insulin lispro with meals; continuous glucose monitor
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- levothyroxine 75 mcg daily
+- loratadine 10 mg as needed
+- acetaminophen 650 mg as needed
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 1 diabetes mellitus
+- CKD, stage 3a
+- Obesity
+- Hypothyroidism
+- Seasonal allergic rhinitis
+- Osteoarthritis, bilateral knees
+
+PAST SURGICAL HISTORY
+- Colonoscopy with polypectomy (2021)
+
+FAMILY HISTORY
+Mother: hypertension.
+Father: coronary artery disease, died age 69.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Never smoker.
+Works part time as a cashier.
+Walks 4 times per week, about 20 minutes.
+
+VITALS
+BP 138/69 | HR 72 | Temp 98.3 F | Wt 83.7 kg | BMI 34.8 | SpO2 94%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date  Test                        Result
+2025-12-26  eGFR                        47 mL/min/1.73m2
+2025-12-26  Creatinine                  1.31 mg/dL
+2026-05-07  eGFR                        45 mL/min/1.73m2
+2026-05-07  Creatinine                  1.37 mg/dL
+2026-05-07  Hemoglobin A1c              8.2%
+2026-05-07  Glucose, fasting            163 mg/dL
+2026-05-07  Urine albumin/creatinine    107 mg/g
+2026-05-07  Potassium                   4.2 mmol/L
+2026-05-07  Sodium                      139 mmol/L
+2026-05-07  LDL cholesterol             119 mg/dL
+2026-05-07  Hemoglobin                  12.5 g/dL
+
+IMPRESSION AND PLAN
+1. Type 1 diabetes mellitus: A1c 8.2% on insulin pump. Adjusted overnight basal rate. Continue CGM.
+2. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+3. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+4. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+5. Obesity: weight 83.7 kg. Continue lifestyle changes.
+6. Diabetic chronic kidney disease, stage 3a: eGFR 45 today (stable from 47). Continue losartan. Recheck BMP and urine albumin-to-creatinine ratio in 3 months.
+7. Influenza vaccine given this season. Shingles vaccine series completed.
+
+PATIENT EDUCATION
+Encouraged 150 minutes of moderate activity weekly.
+Discussed hypoglycemia recognition and treatment.
+
+Return to clinic in 6 months or sooner as needed.
+Total time 35 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-05-16 13:44

@@ -1,0 +1,87 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0095    Age: 58    Sex: M
+Date of service: 2026-07-14    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 5
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 58-year-old man, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 4 years ago. Notes some difficulty with diet recently; fasting sugars 127-159 mg/dL. No polyuria or polydipsia. No visual changes. Denies chest pain, shortness of breath or leg swelling.
+
+REVIEW OF SYSTEMS
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Respiratory: no cough or dyspnea on exertion.
+Constitutional: denies fever, chills or unintended weight loss.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease stage 3b
+- Essential hypertension
+- Hypothyroidism
+
+PAST SURGICAL HISTORY
+- Cholecystectomy (2011)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- semaglutide 0.5 mg weekly
+- dapagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- levothyroxine 75 mcg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Penicillin (rash).
+
+FAMILY HISTORY
+Mother: hypertension.
+Brother: hyperlipidemia.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Never smoker.
+Works part time as a consultant.
+Lives with alone. Retired teacher.
+
+VITALS
+BP 131/85 | HR 62 | Temp 98.7 F | Wt 66.0 kg | BMI 24.1 | SpO2 99%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date  Test                        Result
+2026-02-24  eGFR                        33 mL/min/1.73m2
+2026-07-12  eGFR                        44 mL/min/1.73m2
+2026-07-12  Creatinine                  1.4 mg/dL
+2026-07-12  Hemoglobin A1c              8.8%
+2026-07-12  Glucose, fasting            183 mg/dL
+2026-07-12  Urine albumin/creatinine    231 mg/g
+2026-07-12  Potassium                   4.5 mmol/L
+2026-07-12  Sodium                      141 mmol/L
+2026-07-12  LDL cholesterol             109 mg/dL
+2026-07-12  Hemoglobin                  14.6 g/dL
+
+IMPRESSION AND PLAN
+1. Diabetes mellitus, type 2: A1c 8.8% (up from 7.9%). Medications unchanged; reinforced carbohydrate counting.
+2. CKD 3b, stable on lisinopril; no changes.
+3. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+4. Hypertension: BP 131/85 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+5. Diabetic foot exam completed today. Dental visit within the past year.
+
+PATIENT EDUCATION
+Discussed hypoglycemia recognition and treatment.
+Reviewed carbohydrate counting handout.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-07-14 09:26

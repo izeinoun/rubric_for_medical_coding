@@ -1,0 +1,96 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0059    Age: 56    Sex: M
+Date of service: 2026-01-15    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 14
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+56-year-old man presents for scheduled follow-up. History of type 2 diabetes diagnosed 8 years ago. Notes some difficulty with diet recently; fasting sugars 119-153 mg/dL. Reviewed this morning's labs (2026-01-15) with the patient: eGFR 21, potassium 4.9. No polyuria or polydipsia. No visual changes. Mild bilateral knee stiffness in the mornings, unchanged.
+
+REVIEW OF SYSTEMS
+Genitourinary: no dysuria, hematuria or change in urine output.
+Neurological: no numbness or tingling in the feet; no headaches.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Respiratory: no cough or dyspnea on exertion.
+Skin: no rashes or non-healing wounds.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- CKD stage 4
+- Hypothyroidism
+- GERD
+- Osteoarthritis, bilateral knees
+- Essential hypertension
+
+PAST SURGICAL HISTORY
+- Right knee arthroscopy (2015)
+
+MEDICATIONS
+- insulin glargine 18 units nightly
+- empagliflozin 10 mg daily
+- levothyroxine 75 mcg daily
+- omeprazole 20 mg daily
+- acetaminophen 650 mg as needed
+- lisinopril 20 mg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Penicillin (rash).
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+No family history of kidney disease reported.
+Father: coronary artery disease, died age 69.
+
+SOCIAL HISTORY
+Never smoker.
+Lives with daughter. Retired bus driver.
+Alcohol: rare.
+
+VITALS
+BP 140/86 | HR 68 | Temp 97.8 F | Wt 72.7 kg | BMI 26.8 | SpO2 97%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date  Test                        Result
+2025-09-13  eGFR                        29 mL/min/1.73m2
+2025-09-13  Creatinine                  2.13 mg/dL
+2026-01-15  eGFR                        21 mL/min/1.73m2
+2026-01-15  Creatinine                  2.94 mg/dL
+2026-01-15  Hemoglobin A1c              8.9%
+2026-01-15  Glucose, fasting            166 mg/dL
+2026-01-15  Urine albumin/creatinine    339 mg/g
+2026-01-15  Potassium                   4.9 mmol/L
+2026-01-15  Sodium                      142 mmol/L
+2026-01-15  LDL cholesterol             88 mg/dL
+2026-01-15  Hemoglobin                  11.5 g/dL
+
+ASSESSMENT/PLAN
+(Assessment copied from note dated 2025-09-29 and updated where noted.)
+1. Diabetes mellitus, type 2: A1c 8.9% (up from 7.9%). Medications unchanged; reinforced carbohydrate counting.
+2. Hypothyroid: clinically euthyroid. Continue current dose.
+3. Chronic kidney disease stage 4: Today's results as above, at baseline; continue lisinopril and empagliflozin.
+4. Hypertension: BP 140/86 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+5. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+6. GERD: symptoms controlled on omeprazole. Continue.
+7. Dental visit within the past year. Retinal exam due; referral placed.
+
+PATIENT EDUCATION
+Encouraged 150 minutes of moderate activity weekly.
+Patient verbalized understanding of the plan.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-01-15 17:04

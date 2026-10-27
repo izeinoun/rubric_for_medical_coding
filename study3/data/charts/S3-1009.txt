@@ -1,0 +1,96 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: S3-1009    Age: 84    Sex: F
+Date of service: 2026-07-07    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 3
+
+CHIEF COMPLAINT
+Follow-up visit; medication refills.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 84-year-old woman, presenting for chronic disease follow-up. Outside records from 2015 list type 1 diabetes. History of type 2 diabetes diagnosed 16 years ago. States adherence to medications is good. Denies hypoglycemic episodes. No urinary symptoms. No foot ulcers or numbness reported. Denies chest pain, shortness of breath or leg swelling.
+
+REVIEW OF SYSTEMS
+Respiratory: no cough or dyspnea on exertion.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Skin: no rashes or non-healing wounds.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease, stage 4
+- Hypothyroidism
+- Osteoarthritis, bilateral knees
+- Hyperlipidemia
+- Essential hypertension
+
+PAST SURGICAL HISTORY
+- Colonoscopy with polypectomy (2021)
+- Cataract extraction, left eye (2022)
+
+MEDICATIONS
+- insulin glargine 18 units nightly
+- semaglutide 0.5 mg weekly
+- empagliflozin 10 mg daily
+- levothyroxine 75 mcg daily
+- acetaminophen 650 mg as needed
+- atorvastatin 40 mg nightly
+- lisinopril 20 mg daily
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Sister: hypothyroidism.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Former smoker, quit 2015; 14 pack-years.
+Works part time as a consultant.
+Walks 3 times per week, about 20 minutes.
+
+VITALS
+BP 141/90 | HR 85 | Temp 97.8 F | Wt 74.9 kg | BMI 24.7 | SpO2 99%
+
+LABS
+Date  Test   Result
+2026-07-04   eGFR	26 mL/min/1.73m2
+2026-07-04  Hemoglobin A1c	8.8%
+2026-07-04   Glucose, fasting	181 mg/dL
+2026-07-04    Urine albumin/creatinine   232 mg/g
+2026-07-04  Potassium	3.9 mmol/L
+2026-07-04	Sodium	139 mmol/L
+2026-07-04 LDL cholesterol         76 mg/dL
+2026-07-04	Hemoglobin	14.2 g/dL
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+INTERVAL NOTE - PREVIOUS VISIT 2026-01-29
+(For reference only; not today's assessment.)
+Diabetes mellitus, type 2: A1c 9.5% at that visit; continued medications.
+Chronic kidney disease, stage 4: continued lisinopril.
+Hypothyroid: clinically euthyroid. Continue current dose.
+
+IMPRESSION AND PLAN
+1. Diabetes mellitus, type 2: A1c 8.8%, improved from 9.5%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. OA of knees: continue home exercises and acetaminophen PRN.
+3. Hypothyroid: clinically euthyroid. Continue current dose.
+4. Chronic kidney disease, stage 4: Advanced kidney disease, eGFR 26. Off metformin. Nephrology following; discussed renal diet and avoidance of contrast and NSAIDs.
+5. Problem list reviewed: hypertension, hyperlipidemia.
+6. Colorectal cancer screening up to date. Retinal exam due; referral placed.
+
+PATIENT EDUCATION
+Discussed hypoglycemia recognition and treatment.
+Encouraged 150 minutes of moderate activity weekly.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-07-07 09:36

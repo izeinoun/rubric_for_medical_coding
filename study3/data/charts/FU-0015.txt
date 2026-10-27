@@ -1,0 +1,91 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0015    Age: 67    Sex: M
+Date of service: 2026-09-04    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 11
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+67-year-old man presents for scheduled follow-up. History of type 2 diabetes diagnosed 7 years ago. Brought meter today; morning values 113-170 mg/dL, no lows. No urinary symptoms. No foot ulcers or numbness reported. Denies chest pain, shortness of breath or leg swelling.
+
+REVIEW OF SYSTEMS
+Eyes: no blurred vision; last dilated eye exam 2023.
+Neurological: no numbness or tingling in the feet; no headaches.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Constitutional: denies fever, chills or unintended weight loss.
+Respiratory: no cough or dyspnea on exertion.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- CKD stage 3b
+- Essential hypertension
+- Osteoarthritis, bilateral knees
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Colonoscopy with polypectomy (2021)
+- Right knee arthroscopy (2015)
+- Appendectomy (1988)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- semaglutide 0.5 mg weekly
+- dapagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- acetaminophen 650 mg as needed
+- atorvastatin 40 mg nightly
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+FAMILY HISTORY
+No family history of kidney disease reported.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Never smoker.
+Lives with spouse. Retired machinist.
+Works part time as a librarian.
+
+VITALS
+BP 142/72 | HR 85 | Temp 98.3 F | Wt 89.2 kg | BMI 27.5 | SpO2 98%
+
+LABS
+Date  Test                        Result
+2026-09-04  eGFR                        35 mL/min/1.73m2
+2026-09-04  Hemoglobin A1c              6.9%
+2026-09-04  Glucose, fasting            168 mg/dL
+2026-09-04  Urine albumin/creatinine    354 mg/g
+2026-09-04  Potassium                   4.7 mmol/L
+2026-09-04  Sodium                      140 mmol/L
+2026-09-04  LDL cholesterol             114 mg/dL
+2026-09-04  Hemoglobin                  11.9 g/dL
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+ASSESSMENT/PLAN
+(A/P carried forward from 2026-02-28; reviewed and unchanged.)
+1. Diabetes mellitus, type 2: A1c 6.9% (improved from 8.2%). Medications unchanged; reinforced carbohydrate counting.
+2. OA of knees: continue home exercises and acetaminophen PRN.
+3. Hyperlipidemia: LDL 114 mg/dL. Continue atorvastatin 40 mg.
+4. Chronic kidney disease stage 3b: Continue current renal regimen. Addendum 2026-09-04: eGFR 35 today, no prior for comparison. No change to lisinopril.
+5. HTN: at goal on current regimen. Continue lisinopril.
+6. Colorectal cancer screening up to date. Influenza vaccine given this season.
+
+PATIENT EDUCATION
+Discussed hypoglycemia recognition and treatment.
+Reviewed sick-day rules for medications.
+
+Return to clinic in 4 months or sooner as needed.
+Total time 38 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-09-04 09:43

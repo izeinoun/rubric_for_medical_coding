@@ -1,0 +1,90 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: S3-1006    Age: 69    Sex: F
+Date of service: 2026-03-20    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Practitioner, FNP-C (Primary Care)
+Location: Synthetic Primary Care Clinic, Room 5
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 69-year-old woman returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 20 years ago. Home glucose log reviewed, fasting values 117-160 mg/dL with occasional post-meal readings above 200. Energy fair. No new complaints today. Sleeping reasonably well. Mood is good.
+
+REVIEW OF SYSTEMS
+Genitourinary: no dysuria, hematuria or change in urine output.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Respiratory: no cough or dyspnea on exertion.
+Constitutional: denies fever, chills or unintended weight loss.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Neurological: no numbness or tingling in the feet; no headaches.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- CKD, stage 4
+- Osteoarthritis, bilateral knees
+- Hypothyroidism
+- Obesity
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+- Cholecystectomy (2011)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- levothyroxine 75 mcg daily
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+No known drug allergies.
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 79.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Never smoker.
+Alcohol: rare.
+Lives with spouse. Retired accountant.
+
+VITALS
+BP 147/92 | HR 66 | Temp 98.8 F | Wt 84.6 kg | BMI 34.4 | SpO2 95%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date    Test      Result
+2025-10-22	eGFR	45 mL/min/1.73m2
+2025-10-22	Creatinine 1.37 mg/dL
+2026-03-12  eGFR	47 mL/min/1.73m2
+2026-03-12 Hemoglobin A1c 7.0%
+2026-03-12 Glucose, fasting   138 mg/dL
+2026-03-12  Urine albumin/creatinine   297 mg/g
+2026-03-12	Potassium 4.4 mmol/L
+2026-03-12  Sodium 136 mmol/L
+2026-03-12  LDL cholesterol	131 mg/dL
+2026-03-12   Hemoglobin      13.3 g/dL
+
+IMPRESSION AND PLAN
+1. T2DM: A1c 7.0% today (up from 6.5%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+3. Chronic kidney disease stage 3a: Labs reviewed with patient, eGFR 47. Continue dapagliflozin; metformin dose appropriate for current eGFR. Recheck in 3 to 4 months.
+4. Problem list reviewed: obesity, knee osteoarthritis.
+5. Colorectal cancer screening up to date. Diabetic foot exam completed today.
+
+PATIENT EDUCATION
+Patient verbalized understanding of the plan.
+Encouraged 150 minutes of moderate activity weekly.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Practitioner, FNP-C 2026-03-20 16:47

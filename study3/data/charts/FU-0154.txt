@@ -1,0 +1,92 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0154    Age: 68    Sex: F
+Date of service: 2026-01-29    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Practitioner, FNP-C (Primary Care)
+Location: Synthetic Primary Care Clinic, Room 10
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+68-year-old woman presents for scheduled follow-up. History of type 2 diabetes diagnosed 22 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Appetite stable. Denies nausea or abdominal pain. Mild bilateral knee stiffness in the mornings, unchanged.
+
+REVIEW OF SYSTEMS
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Neurological: no numbness or tingling in the feet; no headaches.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Respiratory: no cough or dyspnea on exertion.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- CKD stage 3a
+- Essential hypertension
+- Obesity
+- Hypothyroidism
+
+PAST SURGICAL HISTORY
+- Tonsillectomy (childhood)
+- Appendectomy (1988)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- levothyroxine 75 mcg daily
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Never smoker.
+Walks 3 times per week, about 20 minutes.
+Alcohol: 1 to 2 drinks per week.
+
+VITALS
+BP 146/75 | HR 75 | Temp 98.0 F | Wt 103.2 kg | BMI 38.2 | SpO2 97%
+
+LABS
+Date  Test                        Result
+2025-09-08  eGFR                        59 mL/min/1.73m2
+2025-09-08  Creatinine                  1.05 mg/dL
+2026-01-29  eGFR                        46 mL/min/1.73m2
+2026-01-29  Creatinine                  1.34 mg/dL
+2026-01-29  Hemoglobin A1c              8.4%
+2026-01-29  Glucose, fasting            176 mg/dL
+2026-01-29  Urine albumin/creatinine    157 mg/g
+2026-01-29  Potassium                   5.0 mmol/L
+2026-01-29  Sodium                      141 mmol/L
+2026-01-29  LDL cholesterol             121 mg/dL
+2026-01-29  Hemoglobin                  12.3 g/dL
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+IMPRESSION AND PLAN
+(Plan unchanged from visit of 2025-10-05.)
+1. Type 2 diabetes mellitus: A1c 8.4%, up from 7.6%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. HTN: at goal on current regimen. Continue lisinopril.
+3. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+4. Obesity, BMI 38.2: discussed nutrition and activity goals; referred to dietitian.
+5. Chronic kidney disease, stage 3a: eGFR 46 today (2026-01-29), down from 59. Continue empagliflozin; recheck BMP in 3 months.
+6. Shingles vaccine series completed. Dental visit within the past year.
+
+PATIENT EDUCATION
+Encouraged 150 minutes of moderate activity weekly.
+Reviewed carbohydrate counting handout.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Practitioner, FNP-C 2026-01-29 12:06

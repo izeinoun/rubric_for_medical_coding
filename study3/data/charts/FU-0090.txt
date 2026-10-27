@@ -1,0 +1,88 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0090    Age: 70    Sex: F
+Date of service: 2026-05-22    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Physician, DO (Family Medicine)
+Location: Synthetic Primary Care Clinic, Room 3
+
+CHIEF COMPLAINT
+Follow-up visit; medication refills.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 70-year-old woman returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 14 years ago. Home glucose log reviewed, fasting values 114-145 mg/dL with occasional post-meal readings above 200. Sleeping reasonably well. Mood is good. No urinary symptoms. No foot ulcers or numbness reported.
+
+REVIEW OF SYSTEMS
+Constitutional: denies fever, chills or unintended weight loss.
+Eyes: no blurred vision; last dilated eye exam 2024.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Skin: no rashes or non-healing wounds.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- CKD, stage 4
+- Seasonal allergic rhinitis
+- GERD
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+- Right knee arthroscopy (2015)
+- Cholecystectomy (2011)
+
+MEDICATIONS
+- insulin glargine 18 units nightly
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+- omeprazole 20 mg daily
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+Father: coronary artery disease, died age 73.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Never smoker.
+Alcohol: rare.
+Lives with daughter. Retired machinist.
+
+VITALS
+BP 124/77 | HR 87 | Temp 98.4 F | Wt 61.6 kg | BMI 25.7 | SpO2 97%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date  Test                        Result
+2026-01-19  eGFR                        29 mL/min/1.73m2
+2026-05-22  eGFR                        28 mL/min/1.73m2
+2026-05-22  Creatinine                  2.21 mg/dL
+2026-05-22  Hemoglobin A1c              7.4%
+2026-05-22  Glucose, fasting            173 mg/dL
+2026-05-22  Urine albumin/creatinine    359 mg/g
+2026-05-22  Potassium                   4.8 mmol/L
+2026-05-22  Sodium                      142 mmol/L
+2026-05-22  LDL cholesterol             102 mg/dL
+2026-05-22  Hemoglobin                  14.5 g/dL
+
+ASSESSMENT/PLAN
+1. T2DM: A1c 7.4% (improved from 8.7%). Medications unchanged; reinforced carbohydrate counting.
+2. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+3. Chronic kidney disease stage 4: Per nephrology; see their note.
+4. GERD: symptoms controlled on omeprazole. Continue.
+5. Retinal exam due; referral placed. Shingles vaccine series completed.
+
+PATIENT EDUCATION
+Patient verbalized understanding of the plan.
+Discussed hypoglycemia recognition and treatment.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Physician, DO 2026-05-22 15:19

@@ -1,0 +1,100 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0163    Age: 50    Sex: M
+Date of service: 2026-02-25    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 6
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+50-year-old man here for a 4-month check-in. History of type 2 diabetes diagnosed 11 years ago. Brought meter today; morning values 129-141 mg/dL, no lows. Sleeping reasonably well. Mood is good. Appetite stable. Denies nausea or abdominal pain.
+
+REVIEW OF SYSTEMS
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Constitutional: denies fever, chills or unintended weight loss.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Skin: no rashes or non-healing wounds.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Neurological: no numbness or tingling in the feet; no headaches.
+Respiratory: no cough or dyspnea on exertion.
+Genitourinary: no dysuria, hematuria or change in urine output.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease stage 3b
+- Hypothyroidism
+- Osteoarthritis, bilateral knees
+- Obesity
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Colonoscopy with polypectomy (2021)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- levothyroxine 75 mcg daily
+- acetaminophen 650 mg as needed
+- atorvastatin 40 mg nightly
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Former smoker, quit 1996; 17 pack-years.
+Lives with spouse. Retired bus driver.
+Works part time as a consultant.
+
+VITALS
+BP 123/92 | HR 91 | Temp 98.0 F | Wt 88.8 kg | BMI 33.4 | SpO2 99%
+
+LABS
+Date  Test                        Result
+2025-09-09  eGFR                        33 mL/min/1.73m2
+2025-09-09  Creatinine                  1.87 mg/dL
+2026-02-22  eGFR                        43 mL/min/1.73m2
+2026-02-22  Hemoglobin A1c              8.4%
+2026-02-22  Glucose, fasting            170 mg/dL
+2026-02-22  Urine albumin/creatinine    71 mg/g
+2026-02-22  Potassium                   4.0 mmol/L
+2026-02-22  Sodium                      140 mmol/L
+2026-02-22  LDL cholesterol             129 mg/dL
+2026-02-22  Hemoglobin                  13.9 g/dL
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+PRIOR VISIT SUMMARY (2025-09-11)
+(For reference only; not today's assessment.)
+T2DM: A1c 9.0% at that visit; continued medications.
+CKD stage 3b: eGFR 33 at that visit; continued losartan.
+Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+
+IMPRESSION AND PLAN
+1. T2DM: A1c 8.4% today (improved from 9.0%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+3. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+4. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+5. Obesity, BMI 33.4: discussed nutrition and activity goals; referred to dietitian.
+6. CKD stage 3b: See nephrology note.
+7. Shingles vaccine series completed. Diabetic foot exam completed today.
+
+PATIENT EDUCATION
+Patient verbalized understanding of the plan.
+Encouraged 150 minutes of moderate activity weekly.
+
+Return to clinic in 3 months or sooner as needed.
+Total time 34 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-02-25 17:08

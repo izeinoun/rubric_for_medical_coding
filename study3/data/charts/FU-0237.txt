@@ -1,0 +1,91 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0237    Age: 78    Sex: F
+Date of service: 2026-09-11    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Practitioner, FNP-C (Primary Care)
+Location: Synthetic Primary Care Clinic, Room 13
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+78-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 21 years ago. Notes some difficulty with diet recently; fasting sugars 126-159 mg/dL. No urinary symptoms. No foot ulcers or numbness reported. Energy fair. No new complaints today.
+
+REVIEW OF SYSTEMS
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Skin: no rashes or non-healing wounds.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Constitutional: denies fever, chills or unintended weight loss.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease stage 3b
+- Hypothyroidism
+- Seasonal allergic rhinitis
+- GERD
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- levothyroxine 75 mcg daily
+- loratadine 10 mg as needed
+- omeprazole 20 mg daily
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+No known drug allergies.
+
+FAMILY HISTORY
+No family history of kidney disease reported.
+Sister: hypothyroidism.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Never smoker.
+Lives with spouse. Retired accountant.
+Works part time as a cashier.
+
+VITALS
+BP 122/68 | HR 81 | Temp 98.6 F | Wt 56.6 kg | BMI 23.6 | SpO2 99%
+
+LABS
+Date  Test                        Result
+2026-04-05  Creatinine                  1.67 mg/dL
+2026-09-05  Creatinine                  1.58 mg/dL
+2026-09-05  Hemoglobin A1c              9.6%
+2026-09-05  Glucose, fasting            108 mg/dL
+2026-09-05  Urine albumin/creatinine    410 mg/g
+2026-09-05  Potassium                   5.0 mmol/L
+2026-09-05  Sodium                      140 mmol/L
+2026-09-05  LDL cholesterol             67 mg/dL
+2026-09-05  Hemoglobin                  14.7 g/dL
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+ASSESSMENT AND PLAN
+1. Diabetes mellitus, type 2: A1c 9.6% today (improved from 10.8%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+3. GERD: symptoms controlled on omeprazole. Continue.
+4. Chronic kidney disease, stage 3b: Renal function: creatinine 1.58 mg/dL, previously 1.67. Continue losartan; avoid NSAIDs.
+5. Problem list reviewed: hypothyroidism.
+6. Diabetic foot exam completed today. Shingles vaccine series completed.
+
+PATIENT EDUCATION
+Discussed hypoglycemia recognition and treatment.
+Reviewed carbohydrate counting handout.
+
+Return to clinic in 3 months or sooner as needed.
+Total time 42 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Practitioner, FNP-C 2026-09-11 16:21

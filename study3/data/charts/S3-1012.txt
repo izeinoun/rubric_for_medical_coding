@@ -1,0 +1,85 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: S3-1012    Age: 65    Sex: F
+Date of service: 2026-04-20    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 11
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 65-year-old woman returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 10 years ago. Reports checking glucose twice daily; fasting readings mostly 106-148 mg/dL. Appetite stable. Denies nausea or abdominal pain. Mild bilateral knee stiffness in the mornings, unchanged.
+
+REVIEW OF SYSTEMS
+Neurological: no numbness or tingling in the feet; no headaches.
+Respiratory: no cough or dyspnea on exertion.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Skin: no rashes or non-healing wounds.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Chronic kidney disease stage 3a
+- Diabetes mellitus type 2
+- Obesity
+- GERD
+
+PAST SURGICAL HISTORY
+- Right knee arthroscopy (2015)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- semaglutide 0.5 mg weekly
+- empagliflozin 10 mg daily
+- omeprazole 20 mg daily
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Former smoker, quit 2013; 21 pack-years.
+Alcohol: 1 to 2 drinks per week.
+Lives with spouse. Retired accountant.
+
+VITALS
+BP 119/87 | HR 82 | Temp 97.9 F | Wt 102.5 kg | BMI 35.8 | SpO2 94%
+
+LABS
+Date  Test                        Result
+2025-11-26  eGFR                        67 mL/min/1.73m2
+2026-04-14  eGFR                        55 mL/min/1.73m2
+2026-04-14  Creatinine                  1.12 mg/dL
+2026-04-14  Hemoglobin A1c              9.5%
+2026-04-14  Glucose, fasting            106 mg/dL
+2026-04-14  Potassium                   5.1 mmol/L
+2026-04-14  Sodium                      137 mmol/L
+2026-04-14  LDL cholesterol             80 mg/dL
+2026-04-14  Hemoglobin                  12.8 g/dL
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+ASSESSMENT/PLAN
+1. Diabetes mellitus, type 2: A1c 9.5% (up from 8.4%). Medications unchanged; reinforced carbohydrate counting.
+2. Obesity: weight 102.5 kg. Continue lifestyle changes.
+3. Mildly reduced eGFR, CKD not yet established: eGFR 55 (was 67). Will recheck renal panel in 90 days; diagnosis deferred until repeat testing.
+4. Also on problem list: GERD.
+5. Pneumococcal vaccination up to date. Colorectal cancer screening up to date.
+
+PATIENT EDUCATION
+Reviewed sick-day rules for medications.
+Patient verbalized understanding of the plan.
+
+Return to clinic in 3 months or sooner as needed.
+Total time 41 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-04-20 15:03

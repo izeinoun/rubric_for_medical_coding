@@ -1,0 +1,102 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0066    Age: 61    Sex: M
+Date of service: 2026-01-30    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Physician
+Location: Synthetic Primary Care Clinic, Room 3
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 61-year-old man retu-
+rning for follow-up of chronic conditions. History of type 2 diabetes diagno-
+sed 12 years ago. Home glucose log reviewed, fasting values 130-160 mg/dL with occasional post-meal readings above 200. Denies chest pain, shortness of breath or leg swelling. Energy fair. No new complaints today.
+
+REVIEW OF SYSTEMS
+Respiratory: no cough or dyspnea on exertion.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Skin: no rashes or non-healing wounds.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease stage 3b
+- Hypothyroidism
+- GERD
+- Seasonal allergic rhinitis
+- Osteoarthritis, bilateral knees
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+- Appendectomy (1988)
+
+MEDICATI0NS
+- metformin 500 mg twice daily (renally dosed)
+- semaglutide 0.5 mg weekly
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- levothyroxine 75 mcg daily
+- omeprazole 20 mg daily
+- loratadine 10 mg as needed
+- acetaminophen 650 mg as needed
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+No known drug allergies.
+--- Page 2 of 3 --- FU-0066 --- printed 2026-02-10 ---
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Father: coronary artery disease, died age 63.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Never smoker.
+Lives with daughter. Retired teacher.
+Works part time as a librarian.
+
+VITALS
+BP 132/89 | HR 73 | Temp 97.8 F | Wt 63.3 kg | BMI 23.5 | SpO2 96%
+
+LABS
+Date    Test         Result
+2026-01-29 eGFR       37 mL/min/1.73m2
+2026-01-29   Hemoglobin A1c         8.9%
+2026-01-29    Glucose, fasting     120 mg/dL
+2026-01-29  Urine albumin/creatinine       45 mg/g
+2026-01-29	Potassium       4.0 mmol/L
+2026-01-29	Sodium	142 mmol/L
+2026-01-29  LDL cholesterol      60 mg/dL
+2026-01-29   Hemoglobin	14.5 g/dL
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+FROM LAST OFFICE VISIT (2025-09-09)
+(For reference only; not today’s assessment.)
+Type 2 diabetes mellitus: A1c 7.9% at that visit; continued medications.
+Chronic kidney disease stage 3b: continued losartan.
+Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+
+ASSESSMENT AND PLAN
+1. Type 2 diabetes mellitus: A1c 8.9%, up from 7.9%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Hypo-
+thyroid: clinically euthyroid. Continue current dose.
+3. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+4. Chronic kidney disease stage 3b: Labs reviewed with patient, eGFR 37. Continue empagliflozin; metformin dose appropriate for current eGFR. Recheck in 3 to 4 months.
+5. GERD: symptoms controlled on omeprazole. Continue.
+6. OA of knees: continue home exercises and acetaminophen PRN.
+7. Dental visit within the past year. Colorectal cancer screening up to date.
+
+PATIENT EDUCATION
+Encouraged 150 minutes of moderate activity week1y.
+Discussed hypoglycemia recognition and treatment.
+
+Retum to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Physician 2026-01-30

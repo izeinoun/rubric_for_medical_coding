@@ -1,0 +1,89 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0232    Age: 59    Sex: M
+Date of service: 2026-06-27    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 11
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+59-year-old man here for a 3-month check-in. History of type 2 diabetes diagnosed 21 years ago. Home glucose log reviewed, fasting values 120-150 mg/dL with occasional post-meal readings above 200. Sleeping reasonably well. Mood is good. Appetite stable. Denies nausea or abdominal pain.
+
+REVIEW OF SYSTEMS
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Skin: no rashes or non-healing wounds.
+Neurological: no numbness or tingling in the feet; no headaches.
+Eyes: no blurred vision; last dilated eye exam 2025.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD stage 3a
+- Osteoarthritis, bilateral knees
+- GERD
+- Obesity
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- omeprazole 20 mg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+Brother: hyperlipidemia.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Former smoker, quit 2015; 9 pack-years.
+Works part time as a consultant.
+Walks 5 times per week, about 20 minutes.
+
+VITALS
+BP 141/69 | HR 82 | Temp 98.0 F | Wt 86.9 kg | BMI 32.0 | SpO2 97%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date  Test                        Result
+2026-02-22  eGFR                        54 mL/min/1.73m2
+2026-06-24  eGFR                        50 mL/min/1.73m2
+2026-06-24  Hemoglobin A1c              6.4%
+2026-06-24  Glucose, fasting            114 mg/dL
+2026-06-24  Urine albumin/creatinine    397 mg/g
+2026-06-24  Potassium                   4.3 mmol/L
+2026-06-24  Sodium                      143 mmol/L
+2026-06-24  LDL cholesterol             116 mg/dL
+2026-06-24  Hemoglobin                  13.4 g/dL
+
+ASSESSMENT/PLAN
+1. T2DM: A1c 6.4% today (improved from 7.6%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. CKD, stage 3a: Latest eGFR 50 (stable from 54); potassium acceptable. Continue losartan and dapagliflozin. BMP in 3 months.
+3. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+4. GERD: symptoms controlled on omeprazole. Continue.
+5. Obesity: weight 86.9 kg. Continue lifestyle changes.
+6. Dental visit within the past year. Influenza vaccine given this season.
+
+PATIENT EDUCATION
+Patient verbalized understanding of the plan.
+Discussed hypoglycemia recognition and treatment.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-06-27 16:10

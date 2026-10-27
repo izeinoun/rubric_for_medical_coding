@@ -1,0 +1,95 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: S3-1036    Age: 53    Sex: F
+Date of service: 2026-07-03    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 12
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+53-year-old woman here for a 3-month check-in. History of type 2 diabetes diagnosed 16 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Denies chest pain, shortness of breath or leg swelling. No polyuria or polydipsia. No visual changes.
+
+REVIEW OF SYSTEMS
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Skin: no rashes or non-healing wounds.
+Respiratory: no cough or dyspnea on exertion.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Constitutional: denies fever, chills or unintended weight loss.
+
+MEDICATIONS
+- insulin glargine 12 units nightly
+- semaglutide 0.5 mg weekly
+- sevelamer 800 mg with meals
+- loratadine 10 mg as needed
+- atorvastatin 40 mg nightly
+- omeprazole 20 mg daily
+- lisinopril 20 mg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+NKDA.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- CKD, stage 5, not on dialysis
+- Seasonal allergic rhinitis
+- Hyperlipidemia
+- GERD
+- Essential hypertension
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+- Tonsillectomy (childhood)
+- Cholecystectomy (2011)
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 63.
+No family history of kidney disease reported.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Never smoker.
+Works part time as a librarian.
+Walks 4 times per week, about 20 minutes.
+
+VITALS
+BP 146/85 | HR 85 | Temp 98.3 F | Wt 69.9 kg | BMI 29.4 | SpO2 94%
+
+LABS
+Date	Test    Result
+2025-12-06	eGFR	7 mL/min/1.73m2
+2025-12-06    Creatinine   8.82 mg/dL
+2026-06-29    eGFR	6 mL/min/1.73m2
+2026-06-29   Creatinine 10.29 mg/dL
+2026-06-29	Hemoglobin A1c       7.7%
+2026-06-29	Glucose, fasting	122 mg/dL
+2026-06-29  Urine albumin/creatinine	164 mg/g
+2026-06-29	Potassium	5.1 mmol/L
+2026-06-29   Sodium  138 mmol/L
+2026-06-29	LDL cholesterol	129 mg/dL
+2026-06-29   Hemoglobin	12.6 g/dL
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+IMPRESSION AND PLAN
+1. T2DM: A1c 7.7%, up from 6.3%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Essential hypertension: BP 146/85. Reinforced low-sodium diet; continue lisinopril 20 mg.
+3. Hyperlipidemia: LDL 129 mg/dL. Continue atorvastatin 40 mg.
+4. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+5. CKD stage 5, not on dialysis secondary to type 2 diabetes: eGFR 6, stage 5, not on dialysis not on dialysis; conservative management chosen after shared decision-making. Renal diet reviewed; nephrology follow-up in 1 month.
+6. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+7. Pneumococcal vaccination up to date. Shingles vaccine series completed.
+
+PATIENT EDUCATION
+Discussed hypoglycemia recognition and treatment.
+Reviewed carbohydrate counting handout.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-07-03 13:24

@@ -1,0 +1,93 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0128    Age: 80    Sex: M
+Date of service: 2026-09-11    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 14
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 80-year-old man, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 22 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Mild bilateral knee stiffness in the mornings, unchanged. Appetite stable. Denies nausea or abdominal pain.
+
+REVIEW OF SYSTEMS
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Neurological: no numbness or tingling in the feet; no headaches.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Skin: no rashes or non-healing wounds.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Eyes: no blurred vision; last dilated eye exam 2024.
+Constitutional: denies fever, chills or unintended weight loss.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- levothyroxine 75 mcg daily
+- lisinopril 20 mg daily
+- atorvastatin 40 mg nightly
+- omeprazole 20 mg daily
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease
+- Hypothyroidism
+- Essential hypertension
+- Hyperlipidemia
+- GERD
+
+PAST SURGICAL HISTORY
+- Tonsillectomy (childhood)
+- Right knee arthroscopy (2015)
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 70.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Former smoker, quit 2011; 13 pack-years.
+Alcohol: 1 to 2 drinks per week.
+Works part time as a librarian.
+
+VITALS
+BP 139/78 | HR 87 | Temp 97.8 F | Wt 88.9 kg | BMI 26.6 | SpO2 98%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date  Test                        Result
+2026-09-10  eGFR                        58 mL/min/1.73m2
+2026-09-10  Creatinine                  1.06 mg/dL
+2026-09-10  Hemoglobin A1c              7.7%
+2026-09-10  Glucose, fasting            167 mg/dL
+2026-09-10  Urine albumin/creatinine    156 mg/g
+2026-09-10  Potassium                   4.7 mmol/L
+2026-09-10  Sodium                      137 mmol/L
+2026-09-10  LDL cholesterol             117 mg/dL
+2026-09-10  Hemoglobin                  14.0 g/dL
+
+ASSESSMENT/PLAN
+1. T2DM: A1c 7.7% today (improved from 8.5%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. GERD: symptoms controlled on omeprazole. Continue.
+3. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+4. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+5. Chronic kidney disease: Renal function reviewed, stable.
+6. HTN: at goal on current regimen. Continue lisinopril.
+7. Diabetic foot exam completed today. Retinal exam due; referral placed.
+
+PATIENT EDUCATION
+Encouraged 150 minutes of moderate activity weekly.
+Patient verbalized understanding of the plan.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-09-11 10:16

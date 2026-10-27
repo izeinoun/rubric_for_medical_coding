@@ -1,0 +1,101 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0103    Age: 72    Sex: M
+Date of service: 2026-07-04    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 10
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 72-year-old man returning for follow-up of chronic conditions. Steroid-induced diabetes since starting long-term prednisone for polymyalgia rheumatica in 2017. Notes some difficulty with diet recently; fasting sugars 117-145 mg/dL. No urinary symptoms. No foot u1cers or numbness reported. No polyuria or polydipsia. No visual changes.
+
+REVIEW OF SYSTEMS
+Eyes: no blurred vision; last dilated eye exam 2024.
+Genitou-
+rinary: no dysuria, hematuria or change in urine output.
+Skin: no rashes or non-healing wounds.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Neurological: no numbness or tingling in the feet; no headaches.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Constitutional: denies fever, chills or unintended weight loss.
+
+PAST MEDlCAL HISTORY / PROBLEM LIST
+- Steroid-induced diabetes mellitus
+- Chronic kidney disease, stage 4
+- Osteoarthritis, bila-
+teral knees
+- Seasonal allergic rhinitis
+- Essential hypertension
+- Hyperlipidemia
+- Polymyalgia rheumatica, on long-term prednisone
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+- Cataract extraction, left eye (2022)
+- Tonsillectomy (childhood)
+
+MEDICATIONS
+- prednisone 10 mg daily (polymyalgia rheumatica)
+- glipizide 5 mg daily
+- empagliflozin 10 mg daily
+- acetaminophen 650 mg as needed
+- loratadine 10 mg as needed
+- lisinopril 20 mg daily
+- atorvastatin 40 mg nightly
+Med rec done with patient’s pill bottles.
+
+ALLERGIES
+NKDA.
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+Brother: hyperlipidemia.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Never smoker.
+Alcohol: rare.
+Works part time as a cashier.
+
+VITALS
+BP 147/91 | HR 78 | Temp 98.6 F | Wt 96.0 kg | BMI 27.8 | SpO2 95%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date	Test     Result
+2025-11-29   eGFR      19 mL/min/1.73m2
+2025-11-29 Creatinine  3.25 mg/dL
+2026-07-03	eGFR	29 mL/min/1.73m2
+2026-07-03	Creatinine 2.13 mg/dL
+2026-07-03   Hemoglobin A1c   6.8%
+2026-07-03	Glucose, fasting        164 mg/dL
+2026-07-03	Urine albumin/creatinine   406 mg/g
+2026-07-03 Potassium    4.3 mmol/L
+2026-07-03	Sodium	142 mmol/L
+2026-07-03	LDL cholesterol	111 mg/dL
+2026-07-03	Hemoglobin	12.9 g/dL
+
+ASSESSMENT/PLAN
+1. Steroid-induced diabetes mellitus: A1c 6.8% (up from 6.3%). Continue current regimen; reviewed glucose log.
+2. Chronic kidney disease stage 4 due to diabetes: eGFR 29 (up from 19). Metfo-
+rmin discontinued given renal
+--- Page 2 of 3 --- FU-0103 --- printed 2026-07-18 ---
+function. Continue empagliflozin. Referred to nephrology for co-management.
+3. Hypertension: BP 147/91 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+4. Hyperlipidemia: LDL 111 mg/dL. Continue atorvastatin 40 mg.
+5. Problem list reviewed: knee osteoarthritis, allergic rhinitis.
+6. Shingles vaccine series completed. Dental visit within the past year.
+
+PATlENT EDUCATI0N
+Patient verbalized understanding of the plan.
+Reviewed carbohydrate counting handout.
+
+Retum to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-07-04 15:30

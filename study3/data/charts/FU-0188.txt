@@ -1,0 +1,98 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0188    Age: 53    Sex: M
+Date of service: 2026-09-29    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 14
+
+CHIEF COMPLAINT
+Follow-up visit; medication refills.
+
+HISTORY OF PRESENT ILLNESS
+53-year-old man here for a 4-month check-in. History of
+--- Page 2 of 3 --- FU-0188 --- printed 2026-10-06 ---
+type 2 diabetes diagnosed 8 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Sleeping reasonably well. Mood is good. Energy fair. No new complaints today.
+
+REVIEW OF SYSTEMS
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Cardiovascu1ar: no chest pain, palpitations or orthopnea.
+Musculoskeletal: chronic knee stiffness, other-
+wise negative.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Neurological: no numbness or tingling in the feet; no headaches.
+Eyes: no blurred vision; last dilated eye exam 2024.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Constitutional: denies fever, chills or unintended weight loss.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- CKD, stage 3b
+- Hypothyroidism
+- Obesity
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+- Cholecystectomy (2011)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- levothyroxine 75 mcg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Codeine (nausea).
+
+FAMlLY HISTORY
+Brother: hyperlipidemia.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Former smoker, quit 1999; 29 pack-years.
+Alcohol: 1 to 2 drinks per week.
+Lives with spouse. Retired machinist.
+
+VITALS
+BP 143/84 | HR 71 | Temp 98.1 F | Wt 117.4 kg | BMI 34.9 | SpO2 99%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date	Test   Result
+2026-05-22    eGFR      39 mL/min/1.73m2
+2026-09-29   eGFR 36 mL/min/1.73m2
+2026-09-29 Creatinine	1.72 mg/dL
+2026-09-29 Hemoglobin A1c	6.5%
+2026-09-29 Glucose, fasting	119 mg/dL
+2026-09-29  Urine albumin/creatinine	276 mg/g
+2026-09-29	Potassium        4.2 mmol/L
+2026-09-29	Sodium  136 mmol/L
+2026-09-29    LDL cholesterol  89 mg/dL
+2026-09-29   Hemoglobin   12.6 g/dL
+
+PRIOR VISIT SUMMARY (2026-05-25)
+(For reference only; not today’s assessment.)
+Diabetes mellitus, type 2: A1c 5.9% at that visit; continued medications.
+CKD 3b: eGFR 39 at that visit; continued losartan.
+Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+
+IMPRESSION AND PLAN
+1. Diabetes mellitus, type 2: A1c 6.5% (up from 5.9%). Medications unchan-
+ged; reinforced carbohydrate counting.
+2. CKD 3b, stab1e on losartan; no changes.
+3. Hypothyroid: clinically euthyroid. Continue current dose.
+4. 0besity: weight 117.4 kg. Continue lifestyle changes.
+5. Dental visit within the past year. lnfluenza vaccine given this season.
+
+PATIENT EDUCATION
+Discussed hypoglycemia recognition and treatment.
+Reviewed carbohydrate counting handout.
+
+Return to clinic in 4 months or sooner as needed.
+Elec-
+tronically signed: Synthetic Provider, MD 2026-09-29 09:19

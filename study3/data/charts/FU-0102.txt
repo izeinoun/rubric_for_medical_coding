@@ -1,0 +1,97 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0102    Age: 61    Sex: F
+Date of service: 2026-07-21    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 11
+
+CHIEF COMPLAINT
+Follow-up visit; medication refills.
+
+HISTORY OF PRESENT ILLNESS
+61-year-old woman here for a 4-month check-in. History of type 2 diabetes diagnosed 6 years ago. Notes some difficulty with diet recently; fasting sugars 126-172 mg/dL. Energy fair. No new complaints today. Appetite stable. Denies nausea or abdominal pain.
+
+REVIEW OF SYSTEMS
+Eyes: no blurred vision; last dilated eye exam 2024.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Neurological: no numbness or tingling in the feet; no headaches.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Skin: no rashes or non-healing wounds.
+Constitutional: denies fever, chills or unintended weight loss.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease
+- Hyperlipidemia
+- Hypothyroidism
+- Essential hypertension
+- Seasonal allergic rhinitis
+
+PAST SURGICAL HISTORY
+- Right knee arthroscopy (2015)
+- Cataract extraction, left eye (2022)
+- Appendectomy (1988)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- empagliflozin 10 mg daily
+- atorvastatin 40 mg nightly
+- levothyroxine 75 mcg daily
+- lisinopril 20 mg daily
+- loratadine 10 mg as needed
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+No family history of kidney disease reported.
+Father: coronary artery disease, died age 74.
+
+SOCIAL HISTORY
+Never smoker.
+Alcohol: rare.
+Lives with alone. Retired machinist.
+
+VITALS
+BP 145/71 | HR 68 | Temp 98.0 F | Wt 86.8 kg | BMI 29.4 | SpO2 95%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date  Test                        Result
+2025-11-27  eGFR                        34 mL/min/1.73m2
+2025-11-27  Creatinine                  1.82 mg/dL
+2026-07-14  eGFR                        44 mL/min/1.73m2
+2026-07-14  Creatinine                  1.4 mg/dL
+2026-07-14  Hemoglobin A1c              9.1%
+2026-07-14  Glucose, fasting            121 mg/dL
+2026-07-14  Urine albumin/creatinine    164 mg/g
+2026-07-14  Potassium                   4.8 mmol/L
+2026-07-14  Sodium                      136 mmol/L
+2026-07-14  LDL cholesterol             60 mg/dL
+2026-07-14  Hemoglobin                  12.2 g/dL
+
+IMPRESSION AND PLAN
+1. Type 2 diabetes mellitus: A1c 9.1% (up from 8.5%). Medications unchanged; reinforced carbohydrate counting.
+2. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+3. HTN: at goal on current regimen. Continue lisinopril.
+4. Hyperlipidemia: LDL 60 mg/dL. Continue atorvastatin 40 mg.
+5. Problem list reviewed: hypothyroidism, chronic kidney disease.
+6. Shingles vaccine series completed. Retinal exam due; referral placed.
+
+PATIENT EDUCATION
+Reviewed sick-day rules for medications.
+Reviewed carbohydrate counting handout.
+
+Return to clinic in 6 months or sooner as needed.
+Total time 37 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-07-21 17:45

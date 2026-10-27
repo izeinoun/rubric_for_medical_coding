@@ -1,0 +1,95 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0082    Age: 83    Sex: F
+Date of service: 2026-04-07    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Associate, PA-C (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 8
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 83-year-old woman, presenting for chronic disease follow-up. Type 2 diabetes for 4 years; started basal insulin 2 years ago when oral agents were no longer enough. Brought meter today; morning values 126-144 mg/dL, no lows. No urinary symptoms. No foot ulcers or numbness reported. Denies chest pain, shortness of breath or leg swelling.
+
+REVIEW OF SYSTEMS
+Genitourinary: no dysuria, hematuria or change in urine output.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Constitutional: denies fever, chills or unintended weight loss.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Neurological: no numbness or tingling in the feet; no headaches.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus, insulin-requiring
+- Chronic kidney disease, stage 3a
+- Osteoarthritis, bilateral knees
+- Obesity
+- Seasonal allergic rhinitis
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+- Appendectomy (1988)
+
+MEDICATIONS
+- insulin glargine 24 units nightly
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- loratadine 10 mg as needed
+- atorvastatin 40 mg nightly
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Never smoker.
+Alcohol: none.
+Works part time as a cashier.
+
+VITALS
+BP 120/69 | HR 81 | Temp 98.6 F | Wt 93.3 kg | BMI 33.8 | SpO2 97%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date  Test                        Result
+2025-08-23  eGFR                        48 mL/min/1.73m2
+2026-04-04  eGFR                        51 mL/min/1.73m2
+2026-04-04  Creatinine                  1.21 mg/dL
+2026-04-04  Hemoglobin A1c              7.2%
+2026-04-04  Glucose, fasting            130 mg/dL
+2026-04-04  Urine albumin/creatinine    167 mg/g
+2026-04-04  Potassium                   5.1 mmol/L
+2026-04-04  Sodium                      140 mmol/L
+2026-04-04  LDL cholesterol             76 mg/dL
+2026-04-04  Hemoglobin                  12.8 g/dL
+
+ASSESSMENT AND PLAN
+1. T2DM, insulin-requiring: A1c 7.2% today (up from 6.4%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+3. Diabetic chronic kidney disease, stage 3a: eGFR 51 (stable from 48), albuminuria 167 mg/g. Increased losartan to 100 mg daily. Repeat potassium and creatinine in 2 weeks.
+4. Obesity, BMI 33.8: discussed nutrition and activity goals; referred to dietitian.
+5. Hyperlipidemia: LDL 76 mg/dL. Continue atorvastatin 40 mg.
+6. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+7. Dental visit within the past year. Diabetic foot exam completed today.
+
+PATIENT EDUCATION
+Reviewed carbohydrate counting handout.
+Patient verbalized understanding of the plan.
+
+Return to clinic in 3 months or sooner as needed.
+Total time 42 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Associate, PA-C 2026-04-07 09:28

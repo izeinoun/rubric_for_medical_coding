@@ -1,0 +1,96 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0225    Age: 57    Sex: F
+Date of service: 2026-06-03    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Practitioner, FNP-C (Primary Care)
+Location: Synthetic Primary Care Clinic, Room 13
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+57-year-old woman here for a 4-month check-in. History of type 2 diabetes diagnosed 14 years ago. Has been trying to walk 2 times per week. Glucose readings 121-140 mg/dL fasting. Appetite stable. Denies nausea or abdominal pain. No urinary symptoms. No foot ulcers or numbness reported.
+
+REVIEW OF SYSTEMS
+Respiratory: no cough or dyspnea on exertion.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Skin: no rashes or non-healing wounds.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Constitutional: denies fever, chills or unintended weight loss.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease, stage 3b
+- Hypothyroidism
+- Hyperlipidemia
+- Obesity
+- GERD
+
+PAST SURGICAL HISTORY
+- Cholecystectomy (2011)
+- Appendectomy (1988)
+- Tonsillectomy (childhood)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- levothyroxine 75 mcg daily
+- atorvastatin 40 mg nightly
+- omeprazole 20 mg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Penicillin (rash).
+
+FAMILY HISTORY
+Mother: hypertension.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Former smoker, quit 1995; 18 pack-years.
+Works part time as a librarian.
+Walks 2 times per week, about 20 minutes.
+
+VITALS
+BP 140/91 | HR 65 | Temp 98.6 F | Wt 89.2 kg | BMI 34.9 | SpO2 98%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date  Test                        Result
+2025-11-30  eGFR                        32 mL/min/1.73m2
+2025-11-30  Creatinine                  1.93 mg/dL
+2026-06-03  eGFR                        31 mL/min/1.73m2
+2026-06-03  Creatinine                  1.99 mg/dL
+2026-06-03  Hemoglobin A1c              7.9%
+2026-06-03  Glucose, fasting            124 mg/dL
+2026-06-03  Urine albumin/creatinine    406 mg/g
+2026-06-03  Potassium                   4.3 mmol/L
+2026-06-03  Sodium                      142 mmol/L
+2026-06-03  LDL cholesterol             78 mg/dL
+2026-06-03  Hemoglobin                  14.0 g/dL
+
+ASSESSMENT AND PLAN
+(Assessment copied from note dated 2026-02-04 and updated where noted.)
+1. Diabetes mellitus, type 2: A1c 7.9%, improved from 8.9%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+3. GERD: symptoms controlled on omeprazole. Continue.
+4. Obesity: weight 89.2 kg. Continue lifestyle changes.
+5. CKD stage 3b secondary to type 2 diabetes: Last eGFR 32 on 2025-11-30. Continue current renal regimen. Labs before next visit. Addendum 2026-06-03: eGFR 31 today, stable from 32. No change to losartan.
+6. Also on problem list: hyperlipidemia.
+7. Dental visit within the past year. Retinal exam due; referral placed.
+
+PATIENT EDUCATION
+Reviewed sick-day rules for medications.
+Reviewed carbohydrate counting handout.
+
+Return to clinic in 3 months or sooner as needed.
+Total time 42 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Practitioner, FNP-C 2026-06-03 09:12

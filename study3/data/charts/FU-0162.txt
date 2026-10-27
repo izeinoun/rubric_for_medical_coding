@@ -1,0 +1,95 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0162    Age: 49    Sex: F
+Date of service: 2026-07-13    Visit type: Nurse visit, diabetes education, in person
+Clinician: Synthetic Nurse, RN (Diabetes Education)
+Location: Synthetic Primary Care Clinic, Room 5
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 49-year-old woman, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 16 years ago. Notes some difficulty with diet recently; fasting sugars 107-161 mg/dL. Sleeping reasonably well. Mood is good. Denies chest pain, shortness of breath or leg swelling.
+
+REVIEW OF SYSTEMS
+Respiratory: no cough or dyspnea on exertion.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Neurological: no numbness or tingling in the feet; no headaches.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease stage 3a
+- Seasonal allergic rhinitis
+- GERD
+- Hypothyroidism
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Cholecystectomy (2011)
+- Cataract extraction, left eye (2022)
+- Tonsillectomy (childhood)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+- omeprazole 20 mg daily
+- levothyroxine 75 mcg daily
+- atorvastatin 40 mg nightly
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+No known drug allergies.
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 63.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Never smoker.
+Lives with spouse. Retired machinist.
+Walks 3 times per week, about 20 minutes.
+
+VITALS
+BP 134/74 | HR 64 | Temp 97.7 F | Wt 74.6 kg | BMI 24.6 | SpO2 99%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date  Test                        Result
+2025-12-16  eGFR                        58 mL/min/1.73m2
+2025-12-16  Creatinine                  1.06 mg/dL
+2026-07-10  eGFR                        56 mL/min/1.73m2
+2026-07-10  Creatinine                  1.1 mg/dL
+2026-07-10  Hemoglobin A1c              7.2%
+2026-07-10  Glucose, fasting            143 mg/dL
+2026-07-10  Urine albumin/creatinine    217 mg/g
+2026-07-10  Potassium                   4.8 mmol/L
+2026-07-10  Sodium                      136 mmol/L
+2026-07-10  LDL cholesterol             65 mg/dL
+2026-07-10  Hemoglobin                  14.2 g/dL
+
+ASSESSMENT/PLAN
+1. Type 2 diabetes mellitus: A1c 7.2% (improved from 7.5%). Reviewed meal plan and carbohydrate counting; medications per provider.
+2. Diabetic kidney disease, CKD stage 3a: eGFR 56 reviewed (stable from 58); reinforced low-sodium diet and medication adherence. Provider to review labs.
+3. Hypothyroidism: managed by primary care provider.
+4. GERD: managed by primary care provider.
+5. Also on problem list: allergic rhinitis, hyperlipidemia.
+6. Pneumococcal vaccination up to date. Retinal exam due; referral placed.
+
+PATIENT EDUCATION
+Reviewed carbohydrate counting handout.
+Reviewed sick-day rules for medications.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Nurse, RN 2026-07-13 11:11

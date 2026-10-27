@@ -1,0 +1,98 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0219    Age: 79    Sex: M
+Date of service: 2026-06-27    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 13
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 79-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 17 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Nephrology evaluated his kidney disease in 2020 and attributed it to longstanding diabetes. Mild bilateral knee stiffness in the mornings, unchanged. Energy fair. No new complaints today.
+
+REVIEW OF SYSTEMS
+Respiratory: no cough or dyspnea on exertion.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Skin: no rashes or non-healing wounds.
+Eyes: no blurred vision; last dilated eye exam 2024.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Constitutional: denies fever, chills or unintended weight loss.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease, stage 3b
+- Obesity
+- Hyperlipidemia
+- GERD
+
+PAST SURGICAL HISTORY
+- Colonoscopy with polypectomy (2021)
+- Cataract extraction, left eye (2022)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- semaglutide 0.5 mg weekly
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- atorvastatin 40 mg nightly
+- omeprazole 20 mg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Penicillin (rash).
+
+FAMILY HISTORY
+Mother: hypertension.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Former smoker, quit 2014; 29 pack-years.
+Alcohol: 1 to 2 drinks per week.
+Lives with spouse. Retired bus driver.
+
+VITALS
+BP 128/84 | HR 68 | Temp 98.4 F | Wt 84.9 kg | BMI 32.0 | SpO2 96%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date  Test                        Result
+2025-12-16  eGFR                        32 mL/min/1.73m2
+2025-12-16  Creatinine                  1.93 mg/dL
+2026-06-18  eGFR                        35 mL/min/1.73m2
+2026-06-18  Creatinine                  1.76 mg/dL
+2026-06-18  Hemoglobin A1c              8.3%
+2026-06-18  Glucose, fasting            121 mg/dL
+2026-06-18  Urine albumin/creatinine    180 mg/g
+2026-06-18  Potassium                   3.9 mmol/L
+2026-06-18  Sodium                      140 mmol/L
+2026-06-18  LDL cholesterol             117 mg/dL
+2026-06-18  Hemoglobin                  11.8 g/dL
+
+INTERVAL NOTE - PREVIOUS VISIT 2025-12-17
+(For reference only; not today's assessment.)
+Type 2 diabetes mellitus: A1c 9.3% at that visit; continued medications.
+Chronic kidney disease, stage 3b: eGFR 32 at that visit; continued losartan.
+Obesity: weight 84.9 kg. Continue lifestyle changes.
+
+IMPRESSION AND PLAN
+1. Type 2 diabetes mellitus: A1c 8.3%, improved from 9.3%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Hyperlipidemia: LDL 117 mg/dL. Continue atorvastatin 40 mg.
+3. GERD: symptoms controlled on omeprazole. Continue.
+4. Obesity: weight 84.9 kg. Continue lifestyle changes.
+5. Chronic kidney disease, stage 3b: Labs reviewed with patient, eGFR 35. Continue dapagliflozin; metformin dose appropriate for current eGFR. Recheck in 3 to 4 months.
+6. Diabetic foot exam completed today. Shingles vaccine series completed.
+
+PATIENT EDUCATION
+Encouraged 150 minutes of moderate activity weekly.
+Reviewed carbohydrate counting handout.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-06-27 16:23

@@ -1,0 +1,91 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0144    Age: 64    Sex: F
+Date of service: 2026-07-02    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 10
+
+CHIEF COMPLAINT
+Chronic disease manage-
+ment visit.
+
+HISTORY OF PRESENT ILLNESS
+64-year-o1d woman seen today for routine chronic care. History of type 2 diabetes diagnosed 6 years ago. Has been trying to walk 2 times per week. Glucose readings 118-148 mg/dL fasting. No urinary symptoms. No foot ulcers or numbness reported. Denies chest pain, shortness of breath or leg swelling.
+
+REVlEW OF SYSTEMS
+Respiratory: no cough or dyspnea on exertion.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Skin: no rashes or non-healing wounds.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Neurological: no numbness or tingling in the feet; no headaches.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- loratadine 10 mg as needed
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Codeine (nausea).
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- CKD, stage 3a
+- Essential hypertension
+- Seasonal allergic rhinitis
+
+PAST SURGICAL HISTORY
+- Right knee arthroscopy (2015)
+- Cholecystectomy (2011)
+
+FAMILY HISTORY
+--- Page 2 of 3 --- FU-0144 --- printed 2026-07-05 ---
+Brother: hyperlipidemia.
+No family history of kidney disease reported.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Former smoker, quit 2015; 22 pack-years.
+Works part time as a cashier.
+Walks 3 times per week, about 20 minutes.
+
+VITALS
+BP 135/70 | HR 67 | Temp 98.7 F | Wt 76.4 kg | BMI 28.9 | SpO2 98%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date	Test         Result
+2026-03-24    eGFR       52 mL/min/1.73m2
+2026-03-24	Creatinine	1.19 mg/dL
+2026-06-27	eGFR	57 mL/min/1.73m2
+2026-06-27 Creatinine	1.08 mg/dL
+2026-06-27  Hemoglobin A1c         8.6%
+2026-06-27 Glucose, fasting       187 mg/dL
+2026-06-27	Urine albumin/creatinine       334 mg/g
+2026-06-27 Potassium        4.8 mmol/L
+2026-06-27   Sodium         136 mmol/L
+2026-06-27	LDL cholesterol       126 mg/dL
+2026-06-27	Hemog1obin	11.5 g/dL
+
+ASSESSMENT AND PLAN
+1. Type 2 diabetes mellitus: A1c 8.6% today (up from 7.8%). Continue current regimen. Foot exam done; annua1 eye exam reminder given.
+2. CKD 3a, stable on lisinop-
+ril.
+3. Essential hypertension: BP 135/70. Reinforced low-sodium diet; continue lisinopril 20 mg.
+4. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+5. Dental visit within the past year. Influenza vaccine given this season.
+
+PATlENT EDUCATI0N
+Reviewed sick-day rules for medications.
+Encouraged 150 minutes of moderate activity weekly.
+
+Retum to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-07-02 13:20

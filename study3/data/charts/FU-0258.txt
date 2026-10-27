@@ -1,0 +1,93 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0258    Age: 78    Sex: M
+Date of service: 2026-07-28    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Practitioner, FNP-C (Primary Care)
+Location: Synthetic Primary Care Clinic, Room 13
+
+CHIEF COMPLAINT
+Follow-up visit; medication refills.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 78-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 7 years ago. Notes some difficulty with diet recently; fasting sugars 115-149 mg/dL. No polyuria or polydipsia. No visual changes. No urinary symptoms. No foot ulcers or numbness reported.
+
+REVIEW OF SYSTEMS
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Skin: no rashes or non-healing wounds.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Constitutional: denies fever, chills or unintended weight loss.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease
+- Osteoarthritis, bilateral knees
+- Obesity
+- Hyperlipidemia
+- Essential hypertension
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+- Tonsillectomy (childhood)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- acetaminophen 650 mg as needed
+- atorvastatin 40 mg nightly
+- lisinopril 20 mg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+No family history of kidney disease reported.
+Brother: hyperlipidemia.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Never smoker.
+Alcohol: 1 to 2 drinks per week.
+Lives with daughter. Retired accountant.
+
+VITALS
+BP 118/82 | HR 63 | Temp 98.2 F | Wt 89.4 kg | BMI 30.7 | SpO2 95%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date  Test                        Result
+2026-02-24  eGFR                        57 mL/min/1.73m2
+2026-07-25  eGFR                        55 mL/min/1.73m2
+2026-07-25  Creatinine                  1.12 mg/dL
+2026-07-25  Hemoglobin A1c              8.1%
+2026-07-25  Glucose, fasting            165 mg/dL
+2026-07-25  Urine albumin/creatinine    263 mg/g
+2026-07-25  Potassium                   4.3 mmol/L
+2026-07-25  Sodium                      142 mmol/L
+2026-07-25  LDL cholesterol             132 mg/dL
+2026-07-25  Hemoglobin                  11.5 g/dL
+
+ASSESSMENT AND PLAN
+1. Diabetes mellitus, type 2: A1c 8.1%, up from 7.8%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. OA of knees: continue home exercises and acetaminophen PRN.
+3. HTN: at goal on current regimen. Continue lisinopril.
+4. Hyperlipidemia: LDL 132 mg/dL. Continue atorvastatin 40 mg.
+5. Obesity: weight 89.4 kg. Continue lifestyle changes.
+6. Chronic kidney disease: Renal function reviewed, stable.
+7. Influenza vaccine given this season. Colorectal cancer screening up to date.
+
+PATIENT EDUCATION
+Encouraged 150 minutes of moderate activity weekly.
+Patient verbalized understanding of the plan.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Practitioner, FNP-C 2026-07-28 17:08

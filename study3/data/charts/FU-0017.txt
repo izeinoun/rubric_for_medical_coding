@@ -1,0 +1,90 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0017    Age: 84    Sex: M
+Date of service: 2026-06-14    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 9
+
+CHIEF COMPLAINT
+Follow-up visit; medication refills.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 84-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 18 years ago. Has been trying to walk 5 times per week. Glucose readings 105-174 mg/dL fasting. Denies chest pain, shortness of breath or leg swelling. Mild bilateral knee stiffness in the mornings, unchanged.
+
+REVIEW OF SYSTEMS
+Skin: no rashes or non-healing wounds.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Constitutional: denies fever, chills or unintended weight loss.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Neurological: no numbness or tingling in the feet; no headaches.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Essential hypertension
+- Seasonal allergic rhinitis
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- lisinopril 20 mg daily
+- loratadine 10 mg as needed
+Med rec done with patient’s pill bottles.
+
+ALLERGIES
+Penicillin (rash).
+
+FAMILY HIST0RY
+Father: coronary artery disease, died age 74.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Former smoker, quit 2011; 10 pack-years.
+Alcohol: 1 to 2 drinks per week.
+Works part time as a cashier.
+
+VITALS
+BP 141/76 | HR 64 | Temp 98.2 F | Wt 71.7 kg | BMI 26.5 | SpO2 98%
+
+LABS
+Date	Test    Result
+2025-11-28	eGFR      47 mL/min/1.73m2
+2026-06-11 eGFR	58 mL/min/1.73m2
+2026-06-11 Creatinine	1.06 mg/dL
+2026-06-11	Hemoglobin A1c   7.8%
+2026-06-11	Glucose, fasting 128 mg/dL
+2026-06-11  Potassium 5.0 mmol/L
+2026-06-11    Sodium	143 mmol/L
+2026-06-11	LDL cholesterol	113 mg/dL
+2026-06-11  Hemoglobin	11.7 g/dL
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilam-
+ent sensation intact, pulses 2+.
+
+FROM LAST OFFICE VISIT (2025-11-28)
+--- Page 2 of 3 --- FU-0017 --- printed 2026-06-18 ---
+(For reference only; not today’s assessment.)
+Diabetes mellitus, type 2: A1c 6.9% at that visit; continued medications.
+HTN: at goal on current regimen. Continue lisinopril.
+
+ASSESSMENT/PLAN
+1. Diabetes mellitus, type 2: A1c 7.8% (up from 6.9%). Medications unchanged; reinforced carbohydrate counting.
+2. HTN: at goal on current regimen. Continue lisinopril.
+3. Allergic rhinitis: seasona1 symptoms; continue loratadine PRN.
+4. Dental visit within the past year. Retinal exam due; referral placed.
+
+PATIENT EDUCATI0N
+Patient verbalized understanding of the plan.
+Discussed hypoglycemia recognition and treatment.
+
+Return to clinic in 3 months or sooner as needed.
+Total time 31 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthe-
+tic Provider, MD 2026-06-14 09:34

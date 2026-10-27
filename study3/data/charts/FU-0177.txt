@@ -1,0 +1,93 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0177    Age: 61    Sex: M
+Date of service: 2026-05-24    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Physician, DO (Family Medicine)
+Location: Synthetic Primary Care Clinic, Room 9
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+61-year-old man seen today for routine chronic care. Diabetes since total pancreatectomy for chronic pancreatitis in 2018. Reports checking glucose daily; fasting readings mostly 120-162 mg/dL. Appetite stable. Denies nausea or abdominal pain. No urinary symptoms. No foot ulcers or numbness reported.
+
+REVlEW OF SYSTEMS
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Constitutional: denies fever, chills or unintended weight loss.
+Psychi-
+atric: mood stable; sleeping 6 to 7 hours a night.
+Respiratory: no cough or dyspnea on exertion.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus due to total pancreatectomy
+- CKD, stage 3b
+- Hypothyroidism
+- GERD
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+- Total pancreatectomy (see HPI)
+
+MEDICATIONS
+- insulin glargine 14 units nightly
+- insulin aspart sliding scale with meals
+- pancrelipase with meals
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- levothyroxine 75 mcg daily
+- omeprazole 20 mg daily
+- atorvastatin 40 mg nightly
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+No family history of kidney disease reported.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Former smoker, quit 2003; 30 pack-years.
+Lives with alone. Retired bus driver.
+Walks 3 times per week, about 20 minutes.
+
+VITALS
+BP 136/72 | HR 85 | Temp 97.8 F | Wt 83.8 kg | BMI 24.9 | SpO2 98%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date  Test    Result
+2025-11-14    eGFR    42 mL/min/1.73m2
+2026-05-19	eGFR     33 mL/min/1.73m2
+2026-05-19	Hemoglobin A1c	9.0%
+2026-05-19	Glucose, fasting     177 mg/dL
+2026-05-19  Urine albumin/creatinine	100 mg/g
+2026-05-19   Potassium  4.5 mmol/L
+2026-05-19  Sodium     136 mmol/L
+2026-05-19   LDL cholesterol      112 mg/dL
+2026-05-19    Hemoglobin    13.6 g/dL
+
+ASSESSMENT AND PLAN
+1. Diabetes mellitus due to total pancreatectomy: A1c 9.0% (up from 8.4%). Continue current regimen; reviewed glucose log.
+2.
+--- Page 2 of 3 --- FU-0177 --- printed 2026-06-02 ---
+Diabetic chronic kidney disease, stage 3b: eGFR 33, UACR 100 mg/g. 0n dapagliflozin and losartan; counseled on avoiding nephrotoxins. Repeat labs in 3 months.
+3. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+4. Problem list reviewed: hypothyroidism, hyperlipidemia.
+5. Colorectal cancer screening up to date. Diabetic foot exam completed today.
+
+PATIENT EDUCATI0N
+Encouraged 150 minutes of moderate activity weekly.
+Reviewed carbohydrate counting handout.
+
+Retum to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Physician, DO 2026-05-24 08:38

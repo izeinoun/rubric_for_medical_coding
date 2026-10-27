@@ -1,0 +1,84 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0081    Age: 69    Sex: M
+Date of service: 2026-06-21    Visit type: Interprofessional e-consult (chart review; patient not seen)
+Clinician: Synthetic Practitioner, FNP-C (Primary Care)
+Location: Synthetic Primary Care Clinic, Room 8
+
+REASON FOR E-CONSULT
+Chart review requested for chronic disease management; patient not present.
+
+HISTORY OF PRESENT ILLNESS
+Chart reviewed for 69-year-old man; patient not seen or examined for this consult. History of type 2 diabetes diagnosed 9 years ago. Glucose log documented at
+--- Page 2 of 3 --- FU-0081 --- printed 2026-07-10 ---
+last office visit: fasting 129-142 mg/dL.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease, stage 3b
+- Obesity
+- GERD
+- Hyperlipidemia
+- Osteo-
+arthritis, bilateral knees
+
+PAST SURGICAL HISTORY
+- Cholecystect-
+omy (2011)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- omeprazole 20 mg daily
+- atorvastatin 40 mg nightly
+- acetaminophen 650 mg as needed
+Medication list taken from the chart; not reconciled with the patient.
+
+ALLERGIES
+Penicillin (rash).
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Sister: hypothyroidism.
+No fami1y history of kidney disease reported.
+
+SOCIAL HISTORY
+Former smoker, quit 2002; 27 pack-years.
+Walks 5 times per week, about 20 minutes.
+Alcohol: 1 to 2 drinks per week.
+
+VITALS
+Last recorded in clinic: BP 122/84, weight 127.5 kg (not measured today).
+
+LABS
+Date	Test	Result
+2026-03-02    eGFR	42 mL/min/1.73m2
+2026-06-15   eGFR      38 mL/min/1.73m2
+2026-06-15	Hemoglobin A1c     8.4%
+2026-06-15    Glucose, fasting	120 mg/dL
+2026-06-15  Urine albumin/creatinine	97 mg/g
+2026-06-15    Potassium	4.3 mmol/L
+2026-06-15    Sodium         137 mmol/L
+2026-06-15	LDL cholesterol    82 mg/dL
+2026-06-15  Hemoglobin	11.7 g/dL
+
+EXAM
+Not performed; patient not seen for this e-consult.
+
+FR0M LAST OFFICE VISIT (2026-03-04)
+(For reference only; not today’s assessment.)
+Diabetes mellitus, type 2: A1c 9.8% at that visit; continued medications.
+CKD stage 3b secondary to type 2 diabetes: eGFR 42 at that visit; continued losartan.
+0besity, BMI 38.4: discussed nutrition and activity goals; referred to dietitian.
+
+E-CONSULT ASSESSMENT AND RECOMMENDATIONS
+1. Diabetes mellitus, type 2: A1c 8.4% (improved from 9.8%). Rec-
+ommend continuing the current regimen.
+2. CKD stage 3b secondary to type 2 diabetes: Latest eGFR 38 (stable from 42), UACR 97 mg/g. Recommend continuing 1osartan and dapagliflozin; repeat BMP and UACR in 3 months.
+3. Hyper1ipidemia: stable per chart review; no change recommended.
+4. Obesity: stable per chart review; no change recommended.
+5. GERD: stab1e per chart review; no change recommended.
+6. Knee osteoarthritis: stable per chart review; no change recommended.
+
+Recommendations sent to the primary care team. Total time spent on chart review: 15 minutes.
+Electronically signed: Synthetic Practitioner, FNP-C 2026-06-21 16:37

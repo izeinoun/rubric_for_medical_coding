@@ -1,0 +1,96 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0073    Age: 70    Sex: F
+Date of service: 2026-03-20    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthe-
+tic Primary Care Clinic, Room 7
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+70-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 20 years ago. Notes some difficulty with diet recently; fasting sugars 117-158 mg/dL. Outside lab result brought by patient: eGFR 45 (date
+--- Page 2 of 3 --- FU-0073 --- printed 2026-04-02 ---
+not recorded). No polyuria or polydipsia. No visual changes. Mild bilateral knee stiffness in the mornings, unchanged.
+
+REVIEW OF SYSTEMS
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Respiratory: no cough or dyspnea on exertion.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Musculos-
+keletal: chronic knee stiffness, otherwise negative.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Constitutional: denies fever, chills or unintended weight loss.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Skin: no rashes or non-healing wounds.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- CKD, stage 3a
+- Seasonal allergic rhinitis
+- Essential hypertension
+- Osteoarthritis, bilateral knees
+- Obesity
+
+PAST SURGICAL HISTORY
+- Tonsillectomy (childhood)
+- Colonoscopy with polypectomy (2021)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- loratadine 10 mg as needed
+- lisinopril 20 mg daily
+- acetaminophen 650 mg as needed
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Penicillin (rash).
+
+FAMILY HISTORY
+No family history of kidney disease reported.
+Sister: hypothyroidism.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Former smoker, quit 2008; 28 pack-years.
+Walks 4 times per week, about 20 minutes.
+Alcohol: rare.
+
+VITALS
+BP 130/86 | HR 74 | Temp 97.9 F | Wt 92.0 kg | BMI 35.2 | SpO2 98%
+
+LABS
+Date	Test	Result
+2026-03-12	eGFR  51 mL/min/1.73m2
+2026-03-12  Hemoglobin A1c	8.8%
+2026-03-12	Glucose, fasting      142 mg/dL
+2026-03-12    Urine albumin/creatinine	304 mg/g
+2026-03-12	Potassium  4.8 mmol/L
+2026-03-12   Sodium    141 mmol/L
+2026-03-12 LDL cholesterol       80 mg/dL
+2026-03-12	Hemoglobin	14.4 g/dL
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensa-
+tion intact, pulses 2+.
+
+ASSESSMENT/PLAN
+1. Type 2 diabetes mellitus: A1c 8.8%, improved from 9.2%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Obesity, BMl 35.2: discussed nutrition and activity goals; referred to dietitian.
+3. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+4. OA of knees: continue home exercises and acetaminophen PRN.
+5. Also on problem list: hypertension.
+6. Influenza vaccine given this season. Diabetic foot exam completed today.
+
+PATlENT EDUCATION
+Encouraged 150 minutes of moderate activity weekly.
+Patient verbalized understanding of the plan.
+
+Retum to clinic in 4 months or sooner as needed.
+Total time 34 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-03-20 17:33

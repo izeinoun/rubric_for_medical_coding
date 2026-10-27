@@ -1,0 +1,91 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: S3-1002    Age: 80    Sex: M
+Date of service: 2026-02-05    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Practitioner, FNP-C (Primary Care)
+Location: Synthetic Primary Care Clinic, Room 3
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+80-year-old man presents for scheduled follow-up. No history of kidney disease. History of type 2 diabetes diagnosed 20 years ago. Home glucose log reviewed, fasting values 125-153 mg/dL with occasional post-meal readings above 200. Mild bilateral knee stiffness in the mornings, unchanged. Appetite stable. Denies nausea or abdominal pain.
+
+REVIEW OF SYSTEMS
+Genitourinary: no dysuria, hematuria or change in urine output.
+Neurological: no numbness or tingling in the feet; no headaches.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Skin: no rashes or non-healing wounds.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- semaglutide 0.5 mg weekly
+- empagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- acetaminophen 650 mg as needed
+- levothyroxine 75 mcg daily
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease, stage 3a
+- Essential hypertension
+- Osteoarthritis, bilateral knees
+- Hypothyroidism
+
+PAST SURGICAL HISTORY
+- Right knee arthroscopy (2015)
+- Appendectomy (1988)
+- Colonoscopy with polypectomy (2021)
+
+FAMILY HISTORY
+No family history of kidney disease reported.
+Sister: hypothyroidism.
+Father: coronary artery disease, died age 71.
+
+SOCIAL HISTORY
+Former smoker, quit 2005; 6 pack-years.
+Lives with alone. Retired teacher.
+Works part time as a librarian.
+
+VITALS
+BP 148/84 | HR 91 | Temp 98.7 F | Wt 77.3 kg | BMI 26.5 | SpO2 96%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date  Test                        Result
+2026-01-30  eGFR                        59 mL/min/1.73m2
+2026-01-30  Creatinine                  1.05 mg/dL
+2026-01-30  Hemoglobin A1c              9.2%
+2026-01-30  Glucose, fasting            116 mg/dL
+2026-01-30  Urine albumin/creatinine    132 mg/g
+2026-01-30  Potassium                   3.9 mmol/L
+2026-01-30  Sodium                      142 mmol/L
+2026-01-30  LDL cholesterol             121 mg/dL
+2026-01-30  Hemoglobin                  14.4 g/dL
+
+IMPRESSION AND PLAN
+1. Diabetes mellitus, type 2: A1c 9.2% today (improved from 10.5%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. OA of knees: continue home exercises and acetaminophen PRN.
+3. Hypothyroid: clinically euthyroid. Continue current dose.
+4. HTN: at goal on current regimen. Continue lisinopril.
+5. Diabetic kidney disease, CKD stage 3a: Latest eGFR 59 (no prior for comparison); potassium acceptable. Continue lisinopril and empagliflozin. BMP in 3 months.
+6. Shingles vaccine series completed. Retinal exam due; referral placed.
+
+PATIENT EDUCATION
+Reviewed sick-day rules for medications.
+Encouraged 150 minutes of moderate activity weekly.
+
+Return to clinic in 3 months or sooner as needed.
+Total time 37 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Practitioner, FNP-C 2026-02-05 12:18

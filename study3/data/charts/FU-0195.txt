@@ -1,0 +1,94 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0195    Age: 51    Sex: F
+Date of service: 2026-02-14    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Physician, DO (Family Medicine)
+Location: Synthetic Primary Care Clinic, Room 8
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+51-year-old woman here for a 4-month check-in. History of type 2 diabetes diagnosed 19 years ago. Brought meter today; morning values 117-148 mg/dL, no lows. Sleeping reasonably well. Mood is good. No urinary symptoms. No foot ulcers or numbness reported.
+
+REVIEW OF SYSTEMS
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Skin: no rashes or non-healing wounds.
+Constitutional: denies fever, chills or unintended weight loss.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+
+PAST MEDICAL HIST0RY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease, stage 3b
+- Osteoarthritis, bilateral knees
+- Hype-
+rlipidemia
+- Seasonal allergic rhinitis
+- Essential hypertension
+
+PAST SURGICAL HISTORY
+- Cholecystectomy (2011)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- sem-
+aglutide 0.5 mg weekly
+- empag1iflozin 10 mg daily
+- acetaminophen 650 mg as needed
+- atorvastatin 40 mg nightly
+- loratadine 10 mg as needed
+- lisinopril 20 mg daily
+Med rec done with patient’s pill bottles.
+
+ALLERGlES
+NKDA.
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+No family history of kidney disease reported.
+--- Page 2 of 3 --- FU-0195 --- printed 2026-02-15 ---
+Father: coronary artery disease, died age 69.
+
+SOCIAL HISTORY
+Never smoker.
+Alcohol: none.
+Works part time as a librarian.
+
+VITALS
+BP 145/68 | HR 78 | Temp 98.6 F | Wt 79.1 kg | BMI 28.1 | SpO2 94%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date	Test Result
+2026-02-09	eGFR	41 mL/min/1.73m2
+2026-02-09	Hemoglobin A1c	8.8%
+2026-02-09	Glucose, fasting	105 mg/dL
+2026-02-09	Urine albumin/creatinine      315 mg/g
+2026-02-09 Potassium    4.4 mmol/L
+2026-02-09  Sodium  136 mmol/L
+2026-02-09 LDL cholesterol 129 mg/dL
+2026-02-09   Hemoglobin        13.2 g/dL
+
+ASSESSMENT AND PLAN
+1. Type 2 diabetes mellitus: A1c 8.8% today (improved from 9.8%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. HTN: at goal on current regimen. Continue lisinopril.
+3. CKD, stage 3b: Per nephrology; see their note.
+4. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+5. Hyperlipidemia: LDL 129 mg/dL. Continue atorvastatin 40 mg.
+6. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+7. Dental visit within the past year. Diabetic foot exam completed today.
+
+PATIENT EDUCATI0N
+Reviewed carbohydrate counting handout.
+Encouraged 150 minutes of moderate activity week1y.
+
+Return to clinic in 3 months or sooner as needed.
+Total time 26 minutes, more than half in counseling and care coordination.
+E1ectronically signed: Synthetic Physician, DO 2026-02-14 10:36

@@ -1,0 +1,93 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0033    Age: 81    Sex: F
+Date of service: 2026-08-18    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Practitioner, FNP-C (Primary Care)
+Location: Synthetic Primary Care Clinic, Room 6
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+81-year-old woman presents for scheduled follow-up. Type 1 diabetes since age 26. Reports checking glucose a few times a week; fasting readings mostly 105-171 mg/dL. No urinary symptoms. No foot ulcers or numbness reported. Sleeping reasonably well. Mood is good.
+
+REVIEW OF SYSTEMS
+Skin: no rashes or non-healing wounds.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Neurological: no numbness or tingling in the feet; no headaches.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Eyes: no blurred vision; last dilated eye exam 2024.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+
+MEDICATIONS
+- insulin glargine 22 units nightly and insulin lispro with meals; continuous glucose monitor
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- omeprazole 20 mg daily
+- loratadine 10 mg as needed
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Codeine (nausea).
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 1 diabetes mellitus
+- CKD, stage 3a
+- GERD
+- Seasonal allergic rhinitis
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Former smoker, quit 2011; 30 pack-years.
+Lives with daughter. Retired teacher.
+Works part time as a consultant.
+
+VITALS
+BP 127/84 | HR 84 | Temp 97.7 F | Wt 71.8 kg | BMI 27.4 | SpO2 98%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date  Test                        Result
+2026-08-09  eGFR                        50 mL/min/1.73m2
+2026-08-09  Creatinine                  1.24 mg/dL
+2026-08-09  Hemoglobin A1c              7.4%
+2026-08-09  Glucose, fasting            179 mg/dL
+2026-08-09  Urine albumin/creatinine    167 mg/g
+2026-08-09  Potassium                   4.3 mmol/L
+2026-08-09  Sodium                      140 mmol/L
+2026-08-09  LDL cholesterol             65 mg/dL
+2026-08-09  Hemoglobin                  12.4 g/dL
+
+PRIOR VISIT SUMMARY (2026-05-17)
+(For reference only; not today's assessment.)
+Type 1 diabetes mellitus: A1c 6.0% at that visit; continued medications.
+CKD, stage 3a: continued losartan.
+GERD: symptoms controlled on omeprazole. Continue.
+
+ASSESSMENT/PLAN
+1. Type 1 diabetes mellitus: A1c 7.4% on insulin pump. Adjusted overnight basal rate. Continue CGM.
+2. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+3. CKD, stage 3a: eGFR 50 today (no prior for comparison). Continue losartan. Recheck BMP and urine albumin-to-creatinine ratio in 3 months.
+4. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+5. Colorectal cancer screening up to date. Shingles vaccine series completed.
+
+PATIENT EDUCATION
+Patient verbalized understanding of the plan.
+Discussed hypoglycemia recognition and treatment.
+
+Return to clinic in 6 months or sooner as needed.
+Total time 36 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Practitioner, FNP-C 2026-08-18 09:54

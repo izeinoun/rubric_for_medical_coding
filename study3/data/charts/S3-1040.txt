@@ -1,0 +1,88 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: S3-1040    Age: 50    Sex: M
+Date of service: 2026-08-01    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Associate, PA-C (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 12
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 50-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 16 years ago. States adherence to medications is good. Denies hypoglycemic episodes. No polyuria or polydipsia. No visual changes. Sleeping reasonably well. Mood is good.
+
+REVIEW OF SYSTEMS
+Skin: no rashes or non-healing wounds.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Respiratory: no cough or dyspnea on exertion.
+Constitutional: denies fever, chills or unintended weight loss.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Neurological: no numbness or tingling in the feet; no headaches.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Obesity
+- Hypothyroidism
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Colonoscopy with polypectomy (2021)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- levothyroxine 75 mcg daily
+- atorvastatin 40 mg nightly
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+No known drug allergies.
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 63.
+Brother: hyperlipidemia.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Never smoker.
+Walks 3 times per week, about 20 minutes.
+Works part time as a consultant.
+
+VITALS
+BP 126/89 | HR 89 | Temp 97.9 F | Wt 93.0 kg | BMI 33.1 | SpO2 94%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date  Test                        Result
+2025-12-15  eGFR                        68 mL/min/1.73m2
+2026-07-28  eGFR                        54 mL/min/1.73m2
+2026-07-28  Creatinine                  1.14 mg/dL
+2026-07-28  Hemoglobin A1c              6.6%
+2026-07-28  Glucose, fasting            171 mg/dL
+2026-07-28  Potassium                   5.0 mmol/L
+2026-07-28  Sodium                      136 mmol/L
+2026-07-28  LDL cholesterol             72 mg/dL
+2026-07-28  Hemoglobin                  12.4 g/dL
+
+ASSESSMENT/PLAN
+1. Type 2 diabetes mellitus: A1c 6.6% today (up from 5.3%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+3. Hypothyroid: clinically euthyroid. Continue current dose.
+4. CKD?: Single low eGFR of 54 after prior 68. Encouraged hydration, recheck in 3 months.
+5. Obesity: weight 93.0 kg. Continue lifestyle changes.
+6. Influenza vaccine given this season. Diabetic foot exam completed today.
+
+PATIENT EDUCATION
+Reviewed carbohydrate counting handout.
+Encouraged 150 minutes of moderate activity weekly.
+
+Return to clinic in 6 months or sooner as needed.
+Total time 37 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Associate, PA-C 2026-08-01 11:50

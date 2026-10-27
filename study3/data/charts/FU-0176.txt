@@ -1,0 +1,94 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0176    Age: 48    Sex: M
+Date of service: 2026-06-13    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Associate
+Location: Synthetic Primary Care Clinic, Room 3
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+48-year-old man seen today for routine chronic care. History of type 2 diabetes diagnosed 9 years ago. Home glucose log reviewed, fasting values 112-154 mg/dL with occasional post-meal readings above 200. Mild bilateral knee stiffness in the mornings, unchanged. No urinary symptoms. No foot ulcers or numbness reported.
+
+REVIEW OF SYSTEMS
+Genitourinary: no dysuria, hema-
+turia or change in urine output.
+Neurological: no numbness or tingling in the feet; no headaches.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Respiratory: no cough or dyspnea on exertion.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Skin: no rashes or non-healing wounds.
+Constitutional: denies fever, chills or unintended weight loss.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+--- Page 2 of 3 --- FU-0176 --- printed 2026-06-15 ---
+- omeprazole 20 mg daily
+- atorvastatin 40 mg nightly
+- lisinopril 20 mg daily
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+NKDA.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease stage 3b
+- GERD
+- Hyperlipidemia
+- Essential hypertension
+
+PAST SURGICAL HISTORY
+- Tonsillectomy (chil-
+dhood)
+- Cataract extraction, left eye (2022)
+- Colonoscopy with polypectomy (2021)
+
+FAMILY HISTORY
+No family history of kidney disease reported.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Former smoker, quit 2005; 8 pack-years.
+Lives with alone. Retired machinist.
+Alcohol: rare.
+
+VITALS
+BP 125/92 | HR 68 | Temp 98.1 F | Wt 90.0 kg | BMI 25.8 | SpO2 96%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date    Test      Resu1t
+2025-12-17	eGFR 30 mL/min/1.73m2
+2025-12-17	Creatinine	2.06 mg/dL
+2026-06-10   eGFR   32 mL/min/1.73m2
+2026-06-10	Creatinine	1.93 mg/dL
+2026-06-10	Hemoglobin A1c	8.7%
+2026-06-10    Glucose, fasting	185 mg/dL
+2026-06-10    Urine albumin/creatinine 394 mg/g
+2026-06-10  Potassium    4.0 mmol/L
+2026-06-10   Sodium         141 mmol/L
+2026-06-10   LDL cholesterol        65 mg/dL
+2026-06-10   Hemoglobin	14.0 g/dL
+
+ASSESSMENT/PLAN
+1. T2DM: A1c 8.7% (improved from 9.0%). Medications unchanged; reinforced carbohydrate counting.
+2. Hypertension: BP 125/92 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+3. Chronic kidney disease stage 3b due to type 2 diabetes: eGFR 32 today (stable from 30). Continue dapagliflozin. Recheck BMP and urine albumin-to-creatinine ratio in 3 months.
+4. Also on prob1em list: hyperlipidemia, GERD.
+5. Dental visit within the past year. lnfluenza vaccine given this season.
+
+PATIENT EDUCATI0N
+Discussed hypoglycemia recognition and treatment.
+Reviewed sick-day rules for medications.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Associate 2026-06-13

@@ -1,0 +1,99 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: S3-1003    Age: 65    Sex: M
+Date of service: 2026-08-22    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Associate, PA-C (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 2
+
+CHIEF COMPLAINT
+Diabetes check and lab review.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 65-year-old man, presenting for chronic disease follow-up. No history of kidney disease. History of type 2 diabetes diagnosed 6 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Energy fair. No new complaints today. Mild bilateral knee stiffness in the
+--- Page 2 of 3 --- S3-1003 --- printed 2026-09-11 ---
+mornings, unchanged.
+
+REVIEW OF SYSTEMS
+Musculoskeletal: chronic knee stif-
+fness, otherwise negative.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Cardiova-
+scular: no chest pain, palpitations or orthopnea.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Constitutional: denies fever, chills or unintended weight loss.
+Skin: no rashes or non-healing wounds.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Neurological: no numbness or tingling in the feet; no headaches.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD stage 3b
+- Essential hypertension
+- Osteoarthritis, bilateral knees
+- GERD
+- Hypothyroidism
+
+PAST SURGICAL HISTORY
+- Colonoscopy with polypectomy (2021)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- semaglutide 0.5 mg weekly
+- empagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- acetaminophen 650 mg as needed
+- omeprazo1e 20 mg daily
+- levothyroxine 75 mcg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+No known drug allergies.
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Father: coronary artery disease, died age 77.
+
+SOCIAL HISTORY
+Never smoker.
+Alcohol: 1 to 2 drinks per week.
+Walks 5 times per week, about 20 minutes.
+
+VITALS
+BP 123/70 | HR 67 | Temp 98.0 F | Wt 68.8 kg | BMI 25.9 | SpO2 98%
+
+LABS
+Date  Test                        Result
+2026-04-18  eGFR                        43 mL/min/1.73m2
+2026-08-17  eGFR                        37 mL/min/1.73m2
+2026-08-17  Creatinine                  1.67 mg/dL
+2026-08-17  Hemoglobin A1c              8.9%
+2026-08-17  Glucose, fasting            183 mg/dL
+2026-08-17  Urine albumin/creatinine    144 mg/g
+2026-08-17  Potassium                   4.2 mmol/L
+2026-08-17  Sodium                      141 mmol/L
+2026-08-17  LDL cholesterol             78 mg/dL
+2026-08-17  Hemoglobin                  13.8 g/dL
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+ASSESSMENT/PLAN
+1. T2DM: A1c 8.9% today (up from 8.1%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. CKD stage 3b secondary to type 2 diabetes: Latest eGFR 37 (down from 43); potassium acceptable. Continue lisinopril and empagliflozin. BMP in 3 months.
+3. OA of knees: continue home exercises and acetaminophen PRN.
+4. HTN: at goa1 on current regimen. Continue lisinopril.
+5. GERD: symptoms controlled on omeprazole. Continue.
+6. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+7. Diabetic foot exam completed today. Influenza vaccine given this season.
+
+PATIENT EDUCATION
+Patient verbalized understand-
+ing of the plan.
+Discussed hypoglycemia recognition and treatment.
+
+Retum to clinic in 3 months or sooner as needed.
+Total time 30 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Associate, PA-C 2026-08-22 15:55

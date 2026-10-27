@@ -1,0 +1,92 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: S3-1029    Age: 52    Sex: M
+Date of service: 2026-05-23    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 13
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+52-year-old man seen today for routine
+--- Page 2 of 3 --- S3-1029 --- printed 2026-05-29 ---
+chronic care. History of type 2 diabetes diagnosed 17 years ago. Home glucose log reviewed, fasting values 107-161 mg/dL with occasional post-meal readings above 200. No polyuria or polydipsia. No visual changes. No urinary symptoms. No foot ulcers or numbness reported.
+
+REVIEW OF SYSTEMS
+Constitutional: denies fever, chills or unin-
+tended weight loss.
+Neurological: no numbness or tingling in the feet; no headaches.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Skin: no rashes or non-healing wounds.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+
+PAST MEDICAL HIST0RY / PROBLEM LIST
+- T2DM, on oral agents
+- CKD, stage 5 (ESRD), on hemodialysis
+- Osteoarthritis, bilateral knees
+- GERD
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Right knee arthroscopy (2015)
+- Appendectomy (1988)
+
+MEDICATIONS
+- insulin glargine 12 units nightly
+- sevelamer 800 mg with meals
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- omeprazole 20 mg daily
+- atorvastatin 40 mg nightly
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+No family history of kidney disease reported.
+Father: coronary artery disease, died age 75.
+
+SOCIAL HISTORY
+Never smoker.
+Lives with alone. Retired machinist.
+Works part time as a cashier.
+
+VITALS
+BP 145/77 | HR 80 | Temp 98.1 F | Wt 86.8 kg | BMl 27.6 | Sp02 97%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date   Test	Result
+2026-05-16	eGFR        6 mL/min/1.73m2
+2026-05-16	Creatinine	10.29 mg/dL
+2026-05-16   Hemoglobin A1c        7.0%
+2026-05-16  Glucose, fasting   148 mg/dL
+2026-05-16   Urine albumin/creatinine     41 mg/g
+2026-05-16	Potassium 4.5 mmol/L
+2026-05-16	Sodium	140 mmol/L
+2026-05-16 LDL cholesterol     66 mg/dL
+2026-05-16  Hemoglobin	14.1 g/dL
+
+ASSESSMENT/PLAN
+1. T2DM: A1c 7.0% (up from 6.4%). Medications unchanged; reinforced carbohydrate counting.
+2. OA of knees: continue home exercises and acetaminophen PRN.
+3. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+4. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+5. Diabetic kidney disease, CKD stage 5 (ESRD), on hemodialysis: End-stage renal disease on hemodialysis Monday, Wednesday and Friday via nephrology; eGFR 6, dry weight stable, potassium acceptable. Continue sevelamer; dialysis per nephrology.
+6. Dental visit within the past year. Diabetic foot exam completed today.
+
+PATlENT EDUCATI0N
+Encouraged 150 minutes of moderate activity weekly.
+Reviewed carbohydrate counting handout.
+
+Retum to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-05-23 17:01

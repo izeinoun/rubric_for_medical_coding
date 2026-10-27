@@ -1,0 +1,100 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0198    Age: 79    Sex: M
+Date of service: 2026-06-03    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthe-
+tic Primary Care Clinic, Room 8
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+79-year-old man seen today for routine chronic care. History of type 2 diabetes diagnosed 4 years ago. Reports checking glucose daily; fasting readings mostly 125-164 mg/dL. Hospitalized 2026-02-12 with dehydration from viral gastroenteritis; creatinine rose and has since returned to baseline. Appetite stable. Denies nausea or abdominal pain. Mild bilateral knee stiffness in the mornings, unchanged.
+
+REVIEW OF SYSTEMS
+Skin: no rashes or non-healing wounds.
+Neurological: no numbness or tingling in the feet; no headaches.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Eyes: no blurred vision; last dilated eye exam 2025.
+
+PAST MEDlCAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Acute kidney injury (2026-02-12), resolved
+- Essential hypertension
+- Osteoarthritis, bilateral knees
+- Hypothyroidism
+- GERD
+
+PAST SURGlCAL HISTORY
+- Appendectomy (1988)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- lisinopril 20 mg daily
+- acetaminophen 650 mg as needed
+- levothyroxine 75 mcg daily
+- omeprazole 20 mg daily
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Penicillin (rash).
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+No family history of kidney disease reported.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Never smoker.
+Walks 5 times per week, about 20 minutes.
+Works part time as a librarian.
+
+VITALS
+BP 138/73 | HR 73 | Temp 98.0 F | Wt 98.7 kg | BMI 29.2 | SpO2 96%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date  Test         Result
+2026-02-12    eGFR	29 mL/min/1.73m2
+2026-02-12  Creatinine	2.13 mg/dL
+2026-05-26    eGFR   72 mL/min/1.73m2
+2026-05-26    Creatinine         0.86 mg/dL
+2026-05-26    Hemoglobin A1c	8.8%
+2026-05-26    Glucose, fasting        173 mg/dL
+2026-05-26  Potassium	4.6 mmol/L
+2026-05-26  Sodium	143 mmol/L
+--- Page 2 of 3 --- FU-0198 --- printed 2026-06-12 ---
+2026-05-26  LDL cholesterol	99 mg/dL
+2026-05-26    Hemoglobin	13.6 g/dL
+
+lNTERVAL NOTE – PREVIOUS VISIT 2026-02-15
+(For reference only; not today’s assessment.)
+Type 2 diabetes mellitus: A1c 7.5% at that visit; continued medications.
+Hypertension: BP 138/73 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+
+ASSESSMENT/PLAN
+1. Type 2 diabetes mellitus: A1c 8.8%, up from 7.5%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Hypothyroid: clinically euthyroid. Continue current dose.
+3. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAlDs.
+4. Gastroesopha-
+geal reflux: stable; discussed trial of dose reduction at next visit.
+5. Prior AKI, recovered. eGFR 72 today. Does not meet criteria for chronic kidney disease.
+6. Essential hyperten-
+sion: BP 138/73. Reinforced low-sodium diet; continue 1isinopril 20 mg.
+7. Influenza vaccine given this season. Diabetic foot exam completed today.
+
+PATIENT EDUCATI0N
+Discussed hypoglycemia recognition and treatment.
+Reviewed carbohydrate counting handout.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-06-03 13:26

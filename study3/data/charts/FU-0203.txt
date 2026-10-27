@@ -1,0 +1,90 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0203    Age: 79    Sex: F
+Date of service: 2026-01-23    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 9
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+79-year-old woman here for a 4-month check-in. History of type 2 diabetes diagnosed 9 years ago. Reports checking glucose twice daily; fasting readings mostly 122-138 mg/dL. Appetite stable. Denies nausea or abdominal pain. Mild bilateral knee stiffness in the mornings, unchanged.
+
+REVIEW OF SYSTEMS
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Constitutional: denies fever, chills or unintended weight loss.
+Respiratory: no cough or dyspnea on exertion.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Neurological: no numbness or tingling in the feet; no headaches.
+Eyes: no blurred vision; last dilated eye exam 2024.
+Skin: no rashes or non-healing wounds.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease stage 3b
+- Hypothyroidism
+- Osteoarthritis, bilateral knees
+
+PAST SURGICAL HISTORY
+- Cholecystectomy (2011)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- semaglutide 0.5 mg weekly
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- levothyroxine 75 mcg daily
+- acetaminophen 650 mg as needed
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+NKDA.
+
+FAMILY HISTORY
+Mother: hypertension.
+Father: coronary artery disease, died age 78.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Former smoker, quit 2014; 28 pack-years.
+Walks 5 times per week, about 20 minutes.
+Lives with spouse. Retired bus driver.
+
+VITALS
+BP 126/79 | HR 85 | Temp 98.0 F | Wt 77.7 kg | BMI 26.0 | SpO2 99%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date  Test                        Result
+2025-10-22  eGFR                        32 mL/min/1.73m2
+2025-10-22  Creatinine                  1.93 mg/dL
+2026-01-19  eGFR                        41 mL/min/1.73m2
+2026-01-19  Creatinine                  1.51 mg/dL
+2026-01-19  Hemoglobin A1c              8.4%
+2026-01-19  Glucose, fasting            157 mg/dL
+2026-01-19  Urine albumin/creatinine    49 mg/g
+2026-01-19  Potassium                   4.2 mmol/L
+2026-01-19  Sodium                      142 mmol/L
+2026-01-19  LDL cholesterol             86 mg/dL
+2026-01-19  Hemoglobin                  11.9 g/dL
+
+IMPRESSION AND PLAN
+1. T2DM: A1c 8.4% today (up from 8.2%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Also on problem list: knee osteoarthritis, hypothyroidism.
+3. Shingles vaccine series completed. Influenza vaccine given this season.
+
+PATIENT EDUCATION
+Discussed hypoglycemia recognition and treatment.
+Reviewed carbohydrate counting handout.
+
+Return to clinic in 6 months or sooner as needed.
+Total time 39 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-01-23 16:19

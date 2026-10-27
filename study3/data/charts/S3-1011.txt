@@ -1,0 +1,99 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: S3-1011    Age: 75    Sex: F
+Date of service: 2026-04-25    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Physician, DO (Family Medicine)
+Location: Synthetic Primary Care Clinic, Room 12
+
+CHIEF COMPLAINT
+3-month fo1low-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 75-year-old woman returning for follow-up of chronic
+--- Page 2 of 3 --- S3-1011 --- printed 2026-05-05 ---
+conditions. History of type 2 diabetes diagnosed 7 years ago. Brought meter today; morning values 123-160 mg/dL, no lows. No polyuria or polydipsia. No visual changes. No urinary symptoms. No foot ulcers or numbness reported.
+
+REVIEW OF SYSTEMS
+Genitourinary: no dysuria, hematuria or change in urine output.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Neurological: no numbness or tingling in the feet; no headaches.
+Skin: no rashes or non-healing wounds.
+
+PAST MEDlCAL HISTORY / PROBLEM LIST
+- Chronic kidney disease stage 3a
+- T2DM, on oral agents
+- Essential hypertension
+- Osteoarthritis, bilateral knees
+- GERD
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Right knee art-
+hroscopy (2015)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- lisinopril 20 mg daily
+- acetaminophen 650 mg as needed
+- omeprazole 20 mg daily
+- atorvastatin 40 mg nightly
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+NKDA.
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Father: coronary artery disease, died age 63.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Former smoker, quit 2001; 16 pack-years.
+Lives with daughter. Retired machinist.
+Works part time as a cashier.
+
+VITALS
+BP 119/81 | HR 66 | Temp 97.8 F | Wt 63.7 kg | BMI 26.1 | SpO2 98%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date  Test                        Result
+2025-12-24  eGFR                        64 mL/min/1.73m2
+2025-12-24  Creatinine                  0.96 mg/dL
+2026-04-21  eGFR                        57 mL/min/1.73m2
+2026-04-21  Hemoglobin A1c              8.5%
+2026-04-21  Glucose, fasting            110 mg/dL
+2026-04-21  Urine albumin/creatinine    23 mg/g
+2026-04-21  Potassium                   4.0 mmol/L
+2026-04-21  Sodium                      137 mmol/L
+2026-04-21  LDL cholesterol             113 mg/dL
+2026-04-21  Hemoglobin                  12.5 g/dL
+
+INTERVAL NOTE – PREVIOUS VISIT 2025-12-26
+(For reference only; not today's assessment.)
+Type 2 diabetes mellitus: A1c 8.9% at that visit; continued medications.
+Hypertension: BP 119/81 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+
+ASSESSMENT AND PLAN
+1. Type 2 diabetes mellitus: A1c 8.5%, improved from 8.9%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Rule out chronic kidney disease: Single low eGFR of 57 after prior 64. Encouraged hydration, recheck in 3 months.
+3. Knee osteoarthritis: stab1e. Acetaminophen as needed; avoid NSAlDs.
+4. Hypertension: BP 119/81 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+5. Also on prob1em list: hyperlipidemia, GERD.
+6. Colorectal cancer screening up to date. Influenza vaccine given this season.
+
+PATIENT EDUCATI0N
+Enco-
+uraged 150 minutes of moderate activity weekly.
+Patient verbalized understanding of the plan.
+
+Retum to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Physician, DO 2026-04-25 14:19

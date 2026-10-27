@@ -1,0 +1,90 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0112    Age: 68    Sex: F
+Date of service: 2026-07-08    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Physician, DO (Family Medicine)
+Location: Synthetic Primary Care Clinic, Room 5
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+68-year-old woman
+--- Page 2 of 3 --- FU-0112 --- printed 2026-07-22 ---
+here for a 6-month check-in. Type 1 diabetes since age 20. States adherence to medications is good. Denies hypoglycemic episodes. Sleeping reasonably well. Mood is good. No urinary symptoms. No foot ulcers or numbness reported.
+
+REVIEW OF SYSTEMS
+Respiratory: no cough or dyspnea on exertion.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Constitutional: denies fever, chills or unintended weight loss.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Endocrine: no polyuria, polydipsia or heat or cold intol-
+erance.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 1 diabetes mellitus
+- Chronic kidney disease, stage 3b
+- Obesity
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Tonsillectomy (childhood)
+
+MEDICATIONS
+- insulin glargine 22 units nightly and insulin lispro with meals; continuous glucose monitor
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- atorvastatin 40 mg nightly
+Med rec done with patient’s pill bottles.
+
+ALLERGIES
+No known drug allergies.
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Former smoker, quit 2002; 9 pack-years.
+Lives with alone. Retired machinist.
+Alcohol: rare.
+
+VITALS
+BP 133/85 | HR 80 | Temp 97.8 F | Wt 86.6 kg | BMI 35.4 | SpO2 94%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date   Test   Result
+2026-01-29   eGFR	34 mL/min/1.73m2
+2026-01-29  Creatinine 1.82 mg/dL
+2026-07-06	eGFR         35 mL/min/1.73m2
+2026-07-06	Hemoglobin A1c        9.0%
+2026-07-06	Glucose, fasting 183 mg/dL
+2026-07-06    Urine albumin/creatinine  293 mg/g
+2026-07-06  Potassium        4.2 mmol/L
+2026-07-06	Sodium	140 mmol/L
+2026-07-06   LDL cholesterol      86 mg/dL
+2026-07-06 Hemoglobin     14.0 g/dL
+
+ASSESS-
+MENT/PLAN
+1. Type 1 diabetes mellitus: A1c 9.0%. Continue basal-bolus insulin; reviewed CGM download, time in range 61%. Endocrinology follow-up in 3 months.
+2. CKD stage 3b secondary to type 1 diabetes: Renal function reviewed: eGFR 35, UACR 293 mg/g. Continue losartan; avoid NSAlDs. Nephrology follow-up as scheduled.
+3. Obesity, BMI 35.4: discussed nutrition and activity goals; referred to dietitian.
+4. Hyperlipidemia: LDL 86 mg/dL. Continue atorvastatin 40 mg.
+5. lnfluenza vaccine given this season. Diabetic foot exam comp1eted today.
+
+PATIENT EDUCATION
+Discussed hypoglycemia recognition and treatment.
+Encouraged 150 minutes of moderate activity weekly.
+
+Retum to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Physician, DO 2026-07-08 14:03

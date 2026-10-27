@@ -1,0 +1,92 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: S3-1021    Age: 54    Sex: F
+Date of service: 2026-06-21    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Practitioner, FNP-C (Primary Care)
+Location: Synthetic Primary Care Clinic, Room 11
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+54-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 20 years ago. States adherence to medications is good. Denies hypoglycemic episodes. No urinary symptoms. No foot ulcers or numbness reported. Energy fair. No new complaints today.
+
+REVIEW OF SYSTEMS
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Neurological: no numbness or tingling in the feet; no headaches.
+Skin: no rashes or non-healing wounds.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Constitutional: denies fever, chills or unintended weight loss.
+Respiratory: no cough or dyspnea on exertion.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- CKD, stage 4
+- Osteoarthritis, bilateral knees
+- Hyperlipidemia
+- Seasonal allergic rhinitis
+
+PAST SURGICAL HISTORY
+- Colonoscopy with polypectomy (2021)
+- Tonsillectomy (childhood)
+
+MEDICATIONS
+- insulin glargine 18 units nightly
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- atorvastatin 40 mg nightly
+- loratadine 10 mg as needed
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+Father: coronary artery disease, died age 72.
+
+SOCIAL HISTORY
+Former smoker, quit 2004; 24 pack-years.
+Alcohol: rare.
+Works part time as a consultant.
+
+VITALS
+BP 134/82 | HR 70 | Temp 97.9 F | Wt 83.5 kg | BMI 27.4 | SpO2 94%
+
+LABS
+Date  Test                        Result
+2025-12-05  eGFR                        57 mL/min/1.73m2
+2025-12-05  Creatinine                  1.08 mg/dL
+2026-06-16  eGFR                        51 mL/min/1.73m2
+2026-06-16  Hemoglobin A1c              9.0%
+2026-06-16  Glucose, fasting            171 mg/dL
+2026-06-16  Urine albumin/creatinine    84 mg/g
+2026-06-16  Potassium                   4.0 mmol/L
+2026-06-16  Sodium                      138 mmol/L
+2026-06-16  LDL cholesterol             125 mg/dL
+2026-06-16  Hemoglobin                  11.4 g/dL
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+ASSESSMENT/PLAN
+1. Diabetes mellitus, type 2: A1c 9.0% today (improved from 9.2%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+3. CKD stage 4 secondary to type 2 diabetes: eGFR 51 (down from 57). Metformin discontinued given renal function. Continue dapagliflozin. Referred to nephrology for co-management.
+4. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+5. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+6. Shingles vaccine series completed. Influenza vaccine given this season.
+
+PATIENT EDUCATION
+Reviewed sick-day rules for medications.
+Reviewed carbohydrate counting handout.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Practitioner, FNP-C 2026-06-21 13:03

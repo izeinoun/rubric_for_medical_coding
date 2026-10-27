@@ -1,0 +1,96 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: S3-1048    Age: 54    Sex: M
+Date of service: 2026-07-06    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Practitioner, FNP-C (Primary Care)
+Location: Synthetic Primary Care Clinic, Room 12
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+54-year-old man presents for scheduled follow-up. History of type 2 diabetes diagnosed 7 years ago. Home glucose log reviewed, fasting values 106-140 mg/dL with occasional post-meal readings above 200. No urinary symptoms. No foot ulcers or numbness reported. Appetite stable. Denies nausea or abdominal pain.
+
+REVIEW OF SYSTEMS
+Psychiatric: mood stab1e; sleeping 6 to 7 hours a night.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Neurological: no numbness or tingling in the feet; no headaches.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Respiratory: no cough or dyspnea on exertion.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Car-
+diovascular: no chest pain, palpitations or orthopnea.
+Constitutional: denies fever, chills or unintended weight loss.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD stage 3a
+- Hypothyroidism
+- Seasonal allergic rhinitis
+- Osteoarthritis, bilateral knees
+- Obesity
+
+--- Page 2 of 3 --- S3-1048 --- printed 2026-07-20 ---
+PAST SURGICAL HISTORY
+- Right knee arthroscopy (2015)
+- Appendectomy (1988)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- levothyroxine 75 mcg daily
+- loratadine 10 mg as needed
+- acetaminophen 650 mg as needed
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+Mother: hypertension.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Never smoker.
+Works part time as a cashier.
+Lives with alone. Retired bus driver.
+
+VITALS
+BP 119/70 | HR 67 | Temp 98.4 F | Wt 123.5 kg | BMI 35.4 | SpO2 97%
+
+LABS
+Date  Test                        Result
+2025-11-13  eGFR                        53 mL/min/1.73m2
+2026-07-05  eGFR                        52 mL/min/1.73m2
+2026-07-05  Creatinine                  1.19 mg/dL
+2026-07-05  Hemoglo-
+bin A1c              7.7%
+2026-07-05  Glucose, fasting            132 mg/dL
+2026-07-05  Urine albumin/creatinine    83 mg/g
+2026-07-05  Potassium                   4.9 mmol/L
+2026-07-05  Sodium                      140 mmol/L
+2026-07-05  LDL cholesterol             125 mg/dL
+2026-07-05  Hemoglobin                  11.9 g/dL
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+ASSESSMENT AND PLAN
+1. Type 2 diabetes mellitus: A1c 7.7% (up from 6.5%). Medications unchanged; reinforced carbohydrate counting.
+2. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+3. OA of knees: continue home exercises and acetaminophen PRN.
+4. Obesity: weight 123.5 kg. Continue lifestyle changes.
+5. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+6. Diabetic chronic kidney disease, stage 3a: Labs reviewed with patient, eGFR 52. Continue
+7. Diabetic foot exam completed today. Dental visit within the past year.
+
+PATlENT EDUCATION
+Reviewed sick-day rules for medications.
+Reviewed carbohydrate counting handout.
+
+Retum to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Practitioner, FNP-C 2026-07-06 08:18

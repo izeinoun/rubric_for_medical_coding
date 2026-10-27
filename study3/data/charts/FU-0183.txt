@@ -1,0 +1,92 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0183    Age: 53    Sex: M
+Date of service: 2026-08-29    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Associate
+Location: Synthetic Primary Care Clinic, Room 2
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+Patient is
+--- Page 2 of 3 --- FU-0183 --- printed 2026-09-05 ---
+a 53-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 4 years ago. Notes some difficulty with diet recently; fasting sugars 108-152 mg/dL. Denies chest pain, shortness of breath or leg swelling. Energy fair. No new complaints today.
+
+REVIEW OF SYSTEMS
+Respiratory: no cough or dyspnea on exertion.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Constitutional: denies fever, chills or unintended weight loss.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Eyes: no blurred vision; last dilated eye exam 2024.
+
+PAST MEDlCAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease, stage 3b
+- Essential hypertension
+- Obesity
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Right knee arthroscopy (2015)
+- Cataract extraction, left eye (2022)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- atorvastatin 40 mg nightly
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERG-
+IES
+Sulfa drugs (hives).
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 63.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Former smoker, quit 2002; 13 pack-years.
+Walks 2 times per week, about 20 minutes.
+Alcohol: none.
+
+VITALS
+BP 141/76 | HR 88 | Temp 98.1 F | Wt 117.5 kg | BMI 36.3 | SpO2 94%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bi1ateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date	Test        Result
+2026-05-11 eGFR 36 mL/min/1.73m2
+2026-08-27	eGFR       35 mL/min/1.73m2
+2026-08-27 Creatinine   1.76 mg/dL
+2026-08-27    Hemoglobin A1c        6.5%
+2026-08-27    Glucose, fasting         168 mg/dL
+2026-08-27   Urine albumin/creatinine         158 mg/g
+2026-08-27  Potassium       4.8 mmol/L
+2026-08-27  Sodium	143 mmol/L
+2026-08-27   LDL cholesterol	119 mg/dL
+2026-08-27   Hemoglo-
+bin         12.6 g/dL
+
+ASSESSMENT/PLAN
+1. Diabetes mellitus, type 2: A1c 6.5%, up from 5.9%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Obesity: weight 117.5 kg. Continue lifestyle changes.
+3. Diabetic chronic kidney disease, stage 3b: Latest eGFR 35 (stable from 36); potassium acceptable. Continue lisinopril and dapagliflozin. BMP in 3 months.
+4. Essential hypertension: BP 141/76. Reinforced low-sodium diet; continue lisinopril 20 mg.
+5. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+6. Shingles vaccine series completed. lnfluenza vaccine given this season.
+
+PATIENT EDUCATI0N
+Reviewed carbohydrate counting handout.
+Discussed hypoglycemia recognition and treatment.
+
+Retum to clinic in 3 months or sooner as needed.
+Total time 43 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Associate 2026-08-29

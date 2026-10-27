@@ -1,0 +1,88 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0085    Age: 68    Sex: F
+Date of service: 2026-08-18    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 13
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+68-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 21 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Kidney function decline has been attributed to her diabetes; no other renal disease identified on workup. No urinary symptoms. No foot ulcers or numbness reported. Denies chest pain, shortness of breath or leg swelling.
+
+REVIEW OF SYSTEMS
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Constitutional: denies fever, chills or unintended weight loss.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Skin: no rashes or non-healing wounds.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease, stage 3b
+- Seasonal allergic rhinitis
+- Osteoarthritis, bilateral knees
+
+PAST SURGICAL HISTORY
+- Cholecystectomy (2011)
+- Colonoscopy with polypectomy (2021)
+- Right knee arthroscopy (2015)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+- acetaminophen 650 mg as needed
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+Penicillin (rash).
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 78.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Former smoker, quit 2004; 28 pack-years.
+Works part time as a consultant.
+Lives with alone. Retired machinist.
+
+VITALS
+BP 124/85 | HR 64 | Temp 98.0 F | Wt 67.2 kg | BMI 28.6 | SpO2 94%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date  Test                        Result
+2026-08-16  eGFR                        41 mL/min/1.73m2
+2026-08-16  Creatinine                  1.51 mg/dL
+2026-08-16  Hemoglobin A1c              7.2%
+2026-08-16  Glucose, fasting            114 mg/dL
+2026-08-16  Urine albumin/creatinine    346 mg/g
+2026-08-16  Potassium                   3.8 mmol/L
+2026-08-16  Sodium                      142 mmol/L
+2026-08-16  LDL cholesterol             71 mg/dL
+2026-08-16  Hemoglobin                  14.1 g/dL
+
+ASSESSMENT/PLAN
+1. T2DM: A1c 7.2%, up from 6.1%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+3. CKD, stage 3b: eGFR 41, UACR 346 mg/g. On dapagliflozin and losartan; counseled on avoiding nephrotoxins. Repeat labs in 3 months.
+4. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+5. Dental visit within the past year. Pneumococcal vaccination up to date.
+
+PATIENT EDUCATION
+Discussed hypoglycemia recognition and treatment.
+Reviewed sick-day rules for medications.
+
+Return to clinic in 3 months or sooner as needed.
+Total time 31 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-08-18 10:11
