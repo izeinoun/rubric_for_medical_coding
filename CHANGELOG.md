@@ -116,3 +116,12 @@ What changed (`rubric_e1122.json`, version 1 → 2; guidance text only, question
 - Ran `python run_pilot.py freeze` at 2026-10-27T02:16:28. `FREEZE.json` SHA-256: e8619565765170cf00776b61628a588f75dfb8214f070706aa06dee6f9cf64fd.
 - Frozen: PREREGISTRATION.md, prompts (version 1), rubric (version 2), harness code, config (gpt-5.4-2026-03-05, gemini-3.8-flash), data, and the dev-fitted weights, Platt maps and thresholds for GPT and Gemini.
 - Test split not yet opened. It will be run once per model only when the user says so.
+
+## 2026-10-27 — test split: collected and evaluated once per model (frozen pipeline)
+
+- Checked before evaluating: `FREEZE.json` committed at 02:16:36 UTC (aa1e8c8); first test call 02:17:21. All frozen hashes unchanged before and after evaluation. Every test record carries prompt version 1, rubric version 2 and the frozen model name. Test evaluation reads the dev-fitted weights, Platt maps and thresholds; nothing was refitted.
+- Collection: per model 300 extraction, 300 verbal and 60 M6 calls, 0 errors, 0 unparseable. Each model evaluated once (`TEST_DONE_gpt.json`, `TEST_DONE_gemini.json`).
+- GPT-5.4: H1 fails (Q2 macro-F1 0.759; all other questions 1.000). M5 ECE 0.009, AUROC 0.969; M2 ECE 0.107, AUROC 0.571. At the dev threshold M5 accepts 10 charts (coverage 0.17) with precision 0.90 (below the 0.95 target). H2–H4 met; H5 met for M6 and M8, not M7. No kill criterion.
+- Gemini 3.8 Flash: H1 met (all questions 1.000). M5 ECE 0.016, AUROC 0.979; M2 ECE 0.120, AUROC 0.669. At the dev threshold M5 accepts 27 charts (coverage 0.45) with precision 0.963 and recall 1.000. H2–H4 met; H5 met for M6 (AUROC higher by 0.0006 only, a tie in practice) and M8, not M7. No kill criterion.
+- The only high-scoring label-0 chart for both models, and the only wrongly accepted chart, is SYN-0182 (F1b copy-forward stale, label_needs_review). Excluding the two label_needs_review test charts, M5 AUROC is 1.000 for both models.
+- M7 equals M5 for both models: no quote failed verification on test, so the quote-verification ablation is untested in this pilot.
