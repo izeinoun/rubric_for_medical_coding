@@ -1,0 +1,23 @@
+{
+  "frozen_at": "2026-10-27T02:16:28",
+  "hashes": {
+    "PREREGISTRATION.md": "6a59eca18263aca26b7eb34d36b47c9e623710c85a062504ac338a9605787a96",
+    "harness/prompts.py": "39b48fe8e3932e11e601f2ea551dcbf18fd990c796929cafbcfdc7b7b8a85340",
+    "harness/pipeline.py": "e34c6b467d45b4001f0da7708ee27f064a28dca112664ff475f88b9480ef17b4",
+    "harness/providers.py": "d5a50019e15d2297ac93fc1a221b310d6c89e323d0f795f28687bb15f5ab9b37",
+    "harness/run_pilot.py": "9f5beaef90b45287c1fb7e86b4814e0e776b8e48b04b7fa74f71f57ece933b94",
+    "harness/config.json": "17adc797e2b18bb4e0c5be18029dc572a237be934840747456d0ff4473edeb19",
+    "harness/rubric_e1122.json": "c18f60c26694ff05cf1561e71132bb54498aba3e73cdb3b79207cf1735bacfef",
+    "data/charts.jsonl": "00070ce9cb82d077083aee56cdbb82b2f106b5fd812fae5a7a076f9874ab948c",
+    "harness/runs/gemini/weights/M2_platt.json": "fd824520ae5d62a375729a2ad607efdad2e53c2d5b265c77b91ed32093b0807d",
+    "harness/runs/gemini/weights/M5.json": "d26bcd4223e43010a776c7f79810dae5d98be51824905d624040cd40acdda316",
+    "harness/runs/gemini/weights/M7.json": "d764a4526d63af72d9e943c291cbc8f16109e91d6e42221983300a5c0256b1a9",
+    "harness/runs/gemini/weights/M8.json": "4f87e9300891c42e46cfc097d8275cc3b0229b6cfcb51b0b3d4e60a179b9e1f6",
+    "harness/runs/gemini/weights/thresholds.json": "198e0d151a8aa8cb4e573a28eeac100e34914fe890a9d16b553360092c48138e",
+    "harness/runs/gpt/weights/M2_platt.json": "4b06bf442b28ce9a750619ce960ce934369e800a0eb72f5c55c4c8b9e7b54faa",
+    "harness/runs/gpt/weights/M5.json": "1c788c8040012f4df4e8e80cac75f3b43dbd143c7db2160458d7b28a7f408dd7",
+    "harness/runs/gpt/weights/M7.json": "5b34ef58e784b22488aa324b6a9af90f0ff746ee0eac709da46ffe2dc2849bba",
+    "harness/runs/gpt/weights/M8.json": "fece49e4e484321290900ae0e4b6b058115f8c00757d4f3f7c32fdaf29058e02",
+    "harness/runs/gpt/weights/thresholds.json": "e471d1d68d89ded6d8d42f822b3bfcec9aa8aab654197110d8d8d9a7526ff862"
+  }
+}

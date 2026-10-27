@@ -109,3 +109,10 @@ What changed (`rubric_e1122.json`, version 1 → 2; guidance text only, question
 
 - Collected M6 for GPT: 140 calls, 0 errors. Re-evaluated on dev.
 - M6: ECE 0.176, AUROC 0.965, coverage 0.23. M5: ECE 0.047, AUROC 0.969, coverage 0.14. When GPT computes the score itself, ranking is about the same but calibration is much worse; H5 for M6 is met on ECE.
+
+## 2026-10-27 — pipeline frozen
+
+- User decisions: keep Q2 as in rubric v2 (GPT's Q2 failure is reported as a finding; Gemini scores 1.000 on Q2 under the same wording); no further prompt or rubric changes.
+- Ran `python run_pilot.py freeze` at 2026-10-27T02:16:28. `FREEZE.json` SHA-256: e8619565765170cf00776b61628a588f75dfb8214f070706aa06dee6f9cf64fd.
+- Frozen: PREREGISTRATION.md, prompts (version 1), rubric (version 2), harness code, config (gpt-5.4-2026-03-05, gemini-3.8-flash), data, and the dev-fitted weights, Platt maps and thresholds for GPT and Gemini.
+- Test split not yet opened. It will be run once per model only when the user says so.
