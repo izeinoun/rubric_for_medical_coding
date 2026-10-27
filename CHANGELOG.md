@@ -184,3 +184,8 @@ What changed (`rubric_e1122.json`, version 1 → 2; guidance text only, question
 - Main error sources for B: G2 "see nephrology note" read as addressed (GPT 5 charts, Gemini 2); G3 metformin reduced for eGFR not read as addressed (GPT 2, Gemini 1).
 - Stress test (family F, 15 charts): mean B 0.94 (GPT) and 0.99 (Gemini); B would auto-accept 40% (GPT) and 100% (Gemini). Mean C: GPT 0.96, Gemini 0.72.
 - Contested charts, sensitivity: B − A stays large under both labelings (GPT 0.41 and 0.43; Gemini 0.27 and 0.21).
+
+## 2026-10-27 — follow-up stopped after stage 1; study 3 planned
+
+- Study lead's decisions: stop the follow-up after stage 1 (allowed by its pre-registration; reported as directional), keeping the 200 stage-2 charts unseen; start study 3 with rubric v3 on 350 charts (300 existing plus 50 new hard cases), dev 150 / test 200, with the stage-1 charts in dev; adopt the study lead's MEAT reading of "addressed" (copy-forward "continue regimen" or "stable", and a reviewed chronic-conditions list, count).
+- Added `followup/STATUS.md` (frozen follow-up files left unchanged) and `study3/SPEC.md` (one-page plan). Nothing built or run.
