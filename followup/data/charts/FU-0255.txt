@@ -1,0 +1,93 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0255    Age: 80    Sex: F
+Date of service: 2026-04-07    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 7
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+80-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 15 years ago. Reports checking glucose twice daily; fasting readings mostly 124-143 mg/dL. Appetite stable. Denies nausea or abdominal pain. No urinary symptoms. No foot ulcers or numbness reported.
+
+REVIEW OF SYSTEMS
+Neurological: no numbness or tingling in the feet; no headaches.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Skin: no rashes or non-healing wounds.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- atorvastatin 40 mg nightly
+- lisinopril 20 mg daily
+- loratadine 10 mg as needed
+- omeprazole 20 mg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+NKDA.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- CKD stage 3a
+- Hyperlipidemia
+- Essential hypertension
+- Seasonal allergic rhinitis
+- GERD
+
+PAST SURGICAL HISTORY
+- Tonsillectomy (childhood)
+- Cataract extraction, left eye (2022)
+- Colonoscopy with polypectomy (2021)
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 73.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Former smoker, quit 2001; 26 pack-years.
+Walks 2 times per week, about 20 minutes.
+Alcohol: none.
+
+VITALS
+BP 129/75 | HR 74 | Temp 97.9 F | Wt 75.6 kg | BMI 25.9 | SpO2 99%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date  Test                        Result
+2025-11-11  eGFR                        51 mL/min/1.73m2
+2026-04-05  eGFR                        47 mL/min/1.73m2
+2026-04-05  Creatinine                  1.31 mg/dL
+2026-04-05  Hemoglobin A1c              7.9%
+2026-04-05  Glucose, fasting            146 mg/dL
+2026-04-05  Urine albumin/creatinine    65 mg/g
+2026-04-05  Potassium                   4.1 mmol/L
+2026-04-05  Sodium                      141 mmol/L
+2026-04-05  LDL cholesterol             124 mg/dL
+2026-04-05  Hemoglobin                  13.8 g/dL
+
+ASSESSMENT/PLAN
+1. Diabetes mellitus, type 2: A1c 7.9% (up from 7.3%). Medications unchanged; reinforced carbohydrate counting.
+2. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+3. Hyperlipidemia: LDL 124 mg/dL. Continue atorvastatin 40 mg.
+4. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+5. Hypertension: BP 129/75 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+6. Chronic kidney disease stage 3a, most likely due to type 2 diabetes: Latest eGFR 47 (stable from 51); potassium acceptable. Continue lisinopril and dapagliflozin. BMP in 3 months.
+7. Diabetic foot exam completed today. Influenza vaccine given this season.
+
+PATIENT EDUCATION
+Patient verbalized understanding of the plan.
+Discussed hypoglycemia recognition and treatment.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-04-07 15:23

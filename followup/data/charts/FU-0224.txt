@@ -1,0 +1,93 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0224    Age: 84    Sex: M
+Date of service: 2026-04-07    Visit type: Medical nutrition therapy visit, in person
+Clinician: Synthetic Dietitian, RD (Medical Nutrition Therapy)
+Location: Synthetic Primary Care Clinic, Room 14
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 84-year-old man, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 11 years ago. Notes some difficulty with diet recently; fasting sugars 130-164 mg/dL. Denies chest pain, shortness of breath or leg swelling. No urinary symptoms. No foot ulcers or numbness reported.
+
+REVIEW OF SYSTEMS
+Genitourinary: no dysuria, hematuria or change in urine output.
+Skin: no rashes or non-healing wounds.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Respiratory: no cough or dyspnea on exertion.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+
+MEDICATIONS
+- insulin glargine 18 units nightly
+- semaglutide 0.5 mg weekly
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+- levothyroxine 75 mcg daily
+- acetaminophen 650 mg as needed
+- omeprazole 20 mg daily
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Penicillin (rash).
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease stage 4
+- Seasonal allergic rhinitis
+- Hypothyroidism
+- Osteoarthritis, bilateral knees
+- GERD
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+- Appendectomy (1988)
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Never smoker.
+Walks 3 times per week, about 20 minutes.
+Lives with spouse. Retired teacher.
+
+VITALS
+BP 122/79 | HR 79 | Temp 97.8 F | Wt 94.1 kg | BMI 27.6 | SpO2 96%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date  Test                        Result
+2026-04-06  eGFR                        19 mL/min/1.73m2
+2026-04-06  Creatinine                  3.25 mg/dL
+2026-04-06  Hemoglobin A1c              8.6%
+2026-04-06  Glucose, fasting            177 mg/dL
+2026-04-06  Urine albumin/creatinine    299 mg/g
+2026-04-06  Potassium                   4.3 mmol/L
+2026-04-06  Sodium                      142 mmol/L
+2026-04-06  LDL cholesterol             58 mg/dL
+2026-04-06  Hemoglobin                  13.3 g/dL
+
+ASSESSMENT AND PLAN
+1. Diabetes mellitus, type 2: A1c 8.6% (improved from 9.6%). Reviewed meal plan and carbohydrate counting; medications per provider.
+2. Allergic rhinitis: managed by primary care provider.
+3. Diabetic chronic kidney disease, stage 4: Kidney labs reviewed with patient: eGFR 19, UACR 299 mg/g. Reviewed renal diet handout; continue dapagliflozin as prescribed.
+4. Knee osteoarthritis: managed by primary care provider.
+5. Hypothyroidism: managed by primary care provider.
+6. Also on problem list: GERD.
+7. Colorectal cancer screening up to date. Influenza vaccine given this season.
+
+PATIENT EDUCATION
+Reviewed carbohydrate counting handout.
+Reviewed sick-day rules for medications.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Dietitian, RD 2026-04-07 16:38

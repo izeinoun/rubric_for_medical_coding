@@ -1,0 +1,97 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0265    Age: 59    Sex: M
+Date of service: 2026-02-03    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 10
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+59-year-old man here for a 4-month check-in. History of type 2 diabetes diagnosed 18 years ago. Reports checking glucose a few times a week; fasting readings mostly 117-167 mg/dL. Sleeping reasonably well. Mood is good. Appetite stable. Denies nausea or abdominal pain.
+
+REVIEW OF SYSTEMS
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Neurological: no numbness or tingling in the feet; no headaches.
+Respiratory: no cough or dyspnea on exertion.
+Skin: no rashes or non-healing wounds.
+Genit-
+ourinary: no dysuria, hematuria or change in urine output.
+Constitutional: denies fever, chills or unintended weight loss.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Psychi-
+atric: mood stable; sleeping 6 to 7 hours a night.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- lisinopril 20 mg daily
+- acetaminophen 650 mg as needed
+- levothyroxine 75 mcg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+No known drug allergies.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease (entered 2024) – see assessment
+- Essential hypertension
+- Osteoarthritis, bilateral knees
+- Hypothyroidism
+- Obesity
+
+PAST SURGlCAL HISTORY
+- Right knee arthroscopy (2015)
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Former smoker, quit 2014; 25 pack-years.
+Lives with alone. Retired accountant.
+Walks 3 times per week, about 20 minutes.
+
+VITALS
+BP 144/84 | HR 82 | Temp 97.7 F | Wt 103.8 kg | BMI 36.0 | SpO2 96%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date   Test	Result
+2025-02-10 eGFR	52 mL/min/1.73m2
+2025-09-27   eGFR	75 mL/min/1.73m2
+2025-09-27	Creatinine	0.82 mg/dL
+2026-02-02  eGFR    80 mL/min/1.73m2
+2026-02-02    Creatinine	0.77 mg/dL
+2026-02-02 Hemoglobin A1c         7.2%
+2026-02-02	Glucose, fasting       165 mg/dL
+2026-02-02    Potassium      4.9 mmol/L
+2026-02-02	Sodium  140 mmol/L
+2026-02-02	LDL cholesterol	68 mg/dL
+2026-02-02    Hemoglobin    11.3 g/dL
+
+ASSESSMENT/PLAN
+1. T2DM: A1c 7.2% today (up from 6.6%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. 0besity: weight 103.8 kg. Continue lifestyle changes.
+3. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+4. Hypertension: BP 144/84 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+5. Chronic kidney disease on
+--- Page 2 of 3 --- FU-0265 --- printed 2026-02-05 ---
+problem list, removed today: eGFR 75 and 80 on repeat testing over 6 months, urine albumin normal; prior eGFR 52 (2025-02-10) was during an acute illness. Chronic kidney disease ruled out.
+6. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAlDs.
+7. Retinal exam due; referral placed. Influenza vaccine given this season.
+
+PATIENT EDUCA-
+TI0N
+Reviewed carbohydrate counting handout.
+Encouraged 150 minutes of moderate activity week1y.
+
+Retum to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-02-03 08:27

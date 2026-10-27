@@ -1,0 +1,94 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0166    Age: 48    Sex: F
+Date of service: 2026-07-02    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 2
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+48-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 7 years ago. Reports checking glucose daily; fasting readings mostly 118-161 mg/dL. Energy fair. No new comp-
+laints today. No polyuria or polydipsia. No visual changes.
+
+REVIEW 0F SYSTEMS
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Cardiovascular: no chest pain, palpi-
+tations or orthopnea.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Const-
+itutional: denies fever, chills or unintended weight loss.
+Respiratory: no cough or dyspnea on exertion.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Skin: no rashes or non-healing wounds.
+Neurological: no numbness or tingling in the feet; no headaches.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease, stage 3a
+- GERD
+- Obesity
+- Hypothyroidism
+
+PAST SURGICAL HISTORY
+- Colonoscopy with polypectomy (2021)
+- Appendectomy (1988)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- omeprazole 20 mg daily
+- levothyroxine 75 mcg daily
+Medications reviewed with patient and pharmacy list; list above is current.
+--- Page 2 of 3 --- FU-0166 --- printed 2026-07-06 ---
+
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+No family history of kidney disease reported.
+Mother: hypertension.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Never smoker.
+Alcohol: rare.
+Works part time as a consultant.
+
+VITALS
+BP 136/74 | HR 67 | Temp 97.7 F | Wt 87.9 kg | BMI 35.1 | SpO2 97%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date	Test       Result
+2025-08-07	eGFR    51 mL/min/1.73m2
+2025-08-07	Creatinine   1.21 mg/dL
+2026-02-02  eGFR     55 mL/min/1.73m2
+2026-07-02	Hemog1obin A1c	6.9%
+2026-07-02 Glucose, fasting      120 mg/dL
+2026-07-02 LDL cholesterol  128 mg/dL
+2026-07-02	Hemoglobin      14.1 g/dL
+
+ASSESSMENT/PLAN
+(Assessment copied from note dated 2026-02-06 and updated where noted.)
+1. Diabetes mellitus, type 2: A1c 6.9%, up from 5.6%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. CKD stage 3a secondary to type 2 diabetes: Unchanged from 02/2026; per last visit.
+3. Hypothyroidism: TSH within range. Continue 1evothyroxine 75 mcg.
+4. Obesity: weight 87.9 kg. Continue lifestyle changes.
+5. GERD: symptoms controlled on omeprazole. Continue.
+6. Retina1 exam due; referral placed. Diabetic foot exam completed today.
+
+PATlENT EDUCATI0N
+Reviewed carbohydrate counting handout.
+Patient verbalized understanding of the plan.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-07-02 14:43

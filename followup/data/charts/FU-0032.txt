@@ -1,0 +1,108 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0032    Age: 76    Sex: F
+Date of service: 2026-09-08    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 4
+
+CHlEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+76-year-old woman presents for scheduled follow-up. Steroid-induced diabetes
+--- Page 2 of 3 --- FU-0032 --- printed 2026-09-18 ---
+since starting long-term prednisone for polymyal-
+gia rheumatica in 2017. Notes some difficulty with diet recently; fasting sugars 114-175 mg/dL. Energy fair. No new complaints today. Mild bilateral knee stiffness in the mornings, unchanged.
+
+REVIEW OF SYSTEMS
+Skin: no rashes or non-healing wounds.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Respiratory: no cough or dyspnea on exertion.
+Eyes: no blurred vision; last dilated eye exam 2024.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Constitutional: denies fever, chills or unintended weight loss.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Steroid-induced diabetes mellitus
+- CKD, stage 4
+- Osteoarthritis, bilateral knees
+- GERD
+- Obesity
+- Seasonal allergic rhinitis
+- Polymyalgia rheumatica, on long-term prednisone
+
+PAST SURGICAL HISTORY
+- Colonoscopy with polypectomy (2021)
+- Right knee arthroscopy (2015)
+- Appendectomy (1988)
+
+MEDICATIONS
+- prednisone 10 mg daily (polymyalgia rheumatica)
+- glipizide 5 mg daily
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- omeprazole 20 mg daily
+- loratadine 10 mg as needed
+Med rec done with patient’s pill bottles.
+
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+Mother: hypertension.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Never smoker.
+Walks 2 times per week, about 20 minutes.
+Works part time as a librarian.
+
+VITALS
+BP 138/87 | HR 68 | Temp 98.2 F | Wt 80.3 kg | BMI 33.2 | SpO2 97%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date Test	Result
+2026-04-26	eGFR    24 mL/min/1.73m2
+2026-09-01  eGFR	20 mL/min/1.73m2
+2026-09-01   Creatinine      3.09 mg/dL
+2026-09-01    Hemoglobin A1c     6.5%
+2026-09-01 Glucose, fasting       180 mg/dL
+2026-09-01	Urine albumin/creatinine	59 mg/g
+2026-09-01  Potassium         5.0 mmol/L
+2026-09-01  Sodium	143 mmol/L
+2026-09-01	LDL cholesterol   90 mg/dL
+2026-09-01 Hemoglobin     13.1 g/dL
+
+PRIOR VISIT SUMMARY (2026-04-30)
+(For reference only; not today’s assessment.)
+Steroid-induced diabetes mellitus: A1c 5.3% at that visit; continued medications.
+Chronic kidney disease, stage 4: eGFR 24 at that visit; continued losartan.
+Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+
+ASSESSMENT/PLAN
+1. Steroid-induced diabetes mellitus: A1c 6.5% (up from 5.3%). Continue current regimen; reviewed g1ucose log.
+2. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+3. GERD: symptoms controlled on omeprazole. Continue.
+4. Chronic kidney disease, stage 4: eGFR 20 (stable from 24). Metformin discontinued given renal function. Continue dapagliflozin. Referred to nephrology for co-management.
+5. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+6. 0besity: weight 80.3 kg. Continue lifestyle changes.
+7. Diabetic foot exam completed today. Pneumococcal vacc-
+ination up to date.
+
+PATIENT EDUCATION
+Discussed hypoglycemia recognition and treatment.
+Reviewed carbohydrate counting handout.
+
+Return to clinic in 6 months or sooner as needed.
+Total time 39 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-09-08 13:06

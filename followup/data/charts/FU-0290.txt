@@ -1,0 +1,93 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0290    Age: 76    Sex: F
+Date of service: 2026-02-08    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 9
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+76-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 8 years ago. Reports checking glucose daily; fasting readings mostly 130-150 mg/dL. Mild bilateral knee stiffness in the mornings, unchanged. Denies chest pain, shortness of breath or leg swelling.
+
+REVIEW OF SYSTEMS
+Constitutional: denies fever, chills or unintended weight loss.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Respiratory: no cough or dyspnea on exertion.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Neurological: no numbness or tingling in the feet; no headaches.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease stage 3a
+- Essential hypertension
+- GERD
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- semaglutide 0.5 mg weekly
+- empagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- omeprazole 20 mg daily
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+Father: coronary artery disease, died age 74.
+
+SOCIAL HISTORY
+Never smoker.
+Lives with daughter. Retired machinist.
+Walks 3 times per week, about 20 minutes.
+
+VITALS
+BP 135/87 | HR 82 | Temp 98.5 F | Wt 57.2 kg | BMI 24.3 | SpO2 96%
+
+LABS
+Date  Test                        Result
+2025-08-26  eGFR                        47 mL/min/1.73m2
+2025-08-26  Creatinine                  1.31 mg/dL
+2026-02-04  eGFR                        51 mL/min/1.73m2
+2026-02-04  Creatinine                  1.21 mg/dL
+2026-02-04  Hemoglobin A1c              8.1%
+2026-02-04  Glucose, fasting            165 mg/dL
+2026-02-04  Urine albumin/creatinine    300 mg/g
+2026-02-04  Potassium                   4.1 mmol/L
+2026-02-04  Sodium                      143 mmol/L
+2026-02-04  LDL cholesterol             75 mg/dL
+2026-02-04  Hemoglobin                  13.4 g/dL
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+PRIOR VISIT SUMMARY (2025-08-27)
+(For reference only; not today's assessment.)
+T2DM: A1c 7.2% at that visit; continued medications.
+CKD 3a: eGFR 47 at that visit; continued lisinopril.
+HTN: at goal on current regimen. Continue lisinopril.
+
+ASSESSMENT AND PLAN
+1. T2DM: A1c 8.1% (up from 7.2%). Medications unchanged; reinforced carbohydrate counting.
+2. GERD: symptoms controlled on omeprazole. Continue.
+3. CKD 3a, stable on lisinopril; no changes.
+4. Essential hypertension: BP 135/87. Reinforced low-sodium diet; continue lisinopril 20 mg.
+5. Dental visit within the past year. Pneumococcal vaccination up to date.
+
+PATIENT EDUCATION
+Encouraged 150 minutes of moderate activity weekly.
+Patient verbalized understanding of the plan.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-02-08 16:56

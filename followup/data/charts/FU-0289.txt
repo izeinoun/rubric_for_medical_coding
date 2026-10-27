@@ -1,0 +1,92 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0289    Age: 53    Sex: F
+Date of service: 2026-05-28    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 8
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 53-year-old woman, presenting for chronic disease follow-up. History of type
+--- Page 2 of 3 --- FU-0289 --- printed 2026-06-06 ---
+2 diabetes diagnosed 20 years ago. Brought meter today; morning values 124-136 mg/dL, no lows. No urinary symptoms. No foot ulcers or numbness reported. Mild bilateral knee stiffness in the mornings, unchanged.
+
+REVIEW OF SYSTEMS
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Respiratory: no cough or dyspnea on exertion.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Skin: no rashes or non-healing wounds.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD, stage 3a
+- Osteoart-
+hritis, bilateral knees
+- Seasonal allergic rhinitis
+- Essential hypertension
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+- Tonsillectomy (childhood)
+
+MEDICAT-
+IONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- acetaminophen 650 mg as needed
+- loratadine 10 mg as needed
+- lisinopril 20 mg daily
+Medication reconciliation com-
+pleted; no changes other than those noted in the plan.
+
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 70.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Former smoker, quit 2013; 23 pack-years.
+Wa1ks 2 times per week, about 20 minutes.
+Alcohol: rare.
+
+VITALS
+BP 135/92 | HR 82 | Temp 98.0 F | Wt 56.0 kg | BMI 23.7 | SpO2 99%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date Test	Result
+2026-05-21	eGFR	47 mL/min/1.73m2
+2026-05-21    Creatinine  1.31 mg/dL
+2026-05-21	Hemoglobin A1c        8.8%
+2026-05-21	Glucose, fasting 110 mg/dL
+2026-05-21	Urine albumin/creatinine 94 mg/g
+2026-05-21   Potassium         5.0 mmol/L
+2026-05-21   Sodium        141 mmol/L
+2026-05-21 LDL cholesterol     85 mg/dL
+2026-05-21	Hemoglobin 12.3 g/dL
+
+IMPRESSI0N AND PLAN
+1. T2DM: A1c 8.8%, up from 8.1%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Essential hypertension: BP 135/92. Reinforced low-sodium diet; continue lisinopril 20 mg.
+3. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+4. Chronic kidney disease, stage 3a: See nephrology note.
+5. 0A of knees: continue home exercises and acetaminophen PRN.
+6. Pneumococcal vaccination up to date. Dental visit within the past year.
+
+PATlENT EDUCATION
+Patient verbalized understanding of the plan.
+Discussed hypoglycemia recognition and treatment.
+
+Return to clinic in 6 months or sooner as needed.
+E1ectronically signed: Synthetic Provider, MD 2026-05-28 10:02

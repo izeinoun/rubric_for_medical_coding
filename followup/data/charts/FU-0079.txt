@@ -1,0 +1,92 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0079    Age: 83    Sex: F
+Date of service: 2026-07-17    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Physician, DO (Family Medicine)
+Location: Synthetic Primary Care Clinic, Room 8
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+83-year-old woman presents for scheduled follow-up. History of type 2 diabetes diagnosed 16 years ago. Notes some difficulty with diet recently; fasting sugars 117-162 mg/dL. Mild bilateral knee stiffness in the mornings, unchanged. Denies chest pain, shortness of breath or leg swelling.
+
+REVIEW OF SYSTEMS
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Neurological: no numbness or tingling in the feet; no headaches.
+Eyes: no blurred vision; last dilated eye exam 2024.
+Respiratory: no cough or dyspnea on exertion.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Constitutional: denies fever, chills or unintended weight loss.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease
+- Obesity
+- Seasonal allergic rhinitis
+- Osteoarthritis, bilateral knees
+- Essential hypertension
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+- Colonoscopy with polypectomy (2021)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- semaglutide 0.5 mg weekly
+- dapagliflozin 10 mg daily
+- loratadine 10 mg as needed
+- acetaminophen 650 mg as needed
+- lisinopril 20 mg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+NKDA.
+
+FAMILY HISTORY
+Mother: hypertension.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Former smoker, quit 2012; 28 pack-years.
+Works part time as a cashier.
+Walks 3 times per week, about 20 minutes.
+
+VITALS
+BP 123/76 | HR 89 | Temp 98.2 F | Wt 79.7 kg | BMI 31.5 | SpO2 94%
+
+LABS
+Date  Test                        Result
+2026-01-08  eGFR                        31 mL/min/1.73m2
+2026-01-08  Creatinine                  1.99 mg/dL
+2026-07-17  eGFR                        36 mL/min/1.73m2
+2026-07-17  Creatinine                  1.72 mg/dL
+2026-07-17  Hemoglobin A1c              8.8%
+2026-07-17  Glucose, fasting            187 mg/dL
+2026-07-17  Urine albumin/creatinine    154 mg/g
+2026-07-17  Potassium                   4.3 mmol/L
+2026-07-17  Sodium                      142 mmol/L
+2026-07-17  LDL cholesterol             60 mg/dL
+2026-07-17  Hemoglobin                  13.2 g/dL
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+ASSESSMENT/PLAN
+1. Type 2 diabetes mellitus: A1c 8.8% today (improved from 9.7%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. OA of knees: continue home exercises and acetaminophen PRN.
+3. Obesity: weight 79.7 kg. Continue lifestyle changes.
+4. Diabetic chronic kidney disease: Latest eGFR 36 (stable from 31); potassium acceptable. Continue lisinopril and dapagliflozin. BMP in 3 months.
+5. Hypertension: BP 123/76 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+6. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+7. Dental visit within the past year. Retinal exam due; referral placed.
+
+PATIENT EDUCATION
+Reviewed carbohydrate counting handout.
+Discussed hypoglycemia recognition and treatment.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Physician, DO 2026-07-17 12:57

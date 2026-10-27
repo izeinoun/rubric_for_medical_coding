@@ -1,0 +1,90 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0155    Age: 77    Sex: M
+Date of service: 2026-07-08    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 7
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+77-year-old man presents for scheduled follow-up. History of type 2 diabetes diagnosed 20 years ago. Notes some difficulty with diet recently; fasting sugars 115-141 mg/dL. History of CKD, diagnosed 2016, followed in this clinic. Denies chest pain, shortness of breath or leg swelling. Sleeping reasonably well. Mood is good.
+
+REVIEW OF SYSTEMS
+Constitutional: denies fever, chills or unintended weight loss.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Skin: no rashes or non-healing wounds.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Neurological: no numbness or tingling in the feet; no headaches.
+Respiratory: no cough or dyspnea on exertion.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- semaglutide 0.5 mg weekly
+- empagliflozin 10 mg daily
+- acetaminophen 650 mg as needed
+- lisinopril 20 mg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Codeine (nausea).
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease, stage 3b
+- Osteoarthritis, bilateral knees
+- Essential hypertension
+
+PAST SURGICAL HISTORY
+- Tonsillectomy (childhood)
+
+FAMILY HISTORY
+Mother: hypertension.
+No family history of kidney disease reported.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Never smoker.
+Walks 4 times per week, about 20 minutes.
+Lives with spouse. Retired bus driver.
+
+VITALS
+BP 127/79 | HR 63 | Temp 98.1 F | Wt 95.0 kg | BMI 27.7 | SpO2 95%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date  Test                        Result
+2025-11-10  eGFR                        44 mL/min/1.73m2
+2025-11-10  Creatinine                  1.4 mg/dL
+2026-07-01  eGFR                        38 mL/min/1.73m2
+2026-07-01  Creatinine                  1.62 mg/dL
+2026-07-01  Hemoglobin A1c              9.5%
+2026-07-01  Glucose, fasting            160 mg/dL
+2026-07-01  Urine albumin/creatinine    213 mg/g
+2026-07-01  Potassium                   4.3 mmol/L
+2026-07-01  Sodium                      137 mmol/L
+2026-07-01  LDL cholesterol             98 mg/dL
+2026-07-01  Hemoglobin                  12.5 g/dL
+
+ASSESSMENT AND PLAN
+1. Type 2 diabetes mellitus: A1c 9.5% today (improved from 10.8%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+3. Hypertension: BP 127/79 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+4. Chronic kidney disease, stage 3b: Labs reviewed with patient, eGFR 38. Continue empagliflozin; metformin dose appropriate for current eGFR. Recheck in 3 to 4 months.
+5. Influenza vaccine given this season. Pneumococcal vaccination up to date.
+
+PATIENT EDUCATION
+Patient verbalized understanding of the plan.
+Encouraged 150 minutes of moderate activity weekly.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-07-08 15:40

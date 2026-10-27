@@ -1,0 +1,90 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0061    Age: 76    Sex: F
+Date of service: 2026-05-30    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Associate, PA-C (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 3
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+76-year-old woman presents for scheduled follow-up. History of type 2 diabetes diagnosed 22 years ago. Has been trying to walk 4 times per week. Glucose readings 126-150 mg/dL fasting. Recent kidney labs: eGFR was 42 on 2026-01-09 and 42 on 2026-05-21. No polyuria or polydipsia. No visual changes. No urinary symptoms. No foot ulcers or numbness reported.
+
+REVIEW OF SYSTEMS
+Genitourinary: no dysuria, hematuria or change in urine output.
+Neurological: no numbness or tingling in the feet; no headaches.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Skin: no rashes or non-healing wounds.
+Respiratory: no cough or dyspnea on exertion.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD, stage 3b
+- Essential hypertension
+- Osteoarthritis, bilateral knees
+- GERD
+
+PAST SURGICAL HISTORY
+- Colonoscopy with polypectomy (2021)
+- Appendectomy (1988)
+- Tonsillectomy (childhood)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- semaglutide 0.5 mg weekly
+- empagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- acetaminophen 650 mg as needed
+- omeprazole 20 mg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+No family history of kidney disease reported.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Never smoker.
+Lives with alone. Retired machinist.
+Alcohol: 1 to 2 drinks per week.
+
+VITALS
+BP 121/71 | HR 68 | Temp 97.8 F | Wt 80.9 kg | BMI 26.6 | SpO2 94%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date  Test                        Result
+2026-05-21  Creatinine                  1.47 mg/dL
+2026-05-21  Hemoglobin A1c              7.9%
+2026-05-21  Glucose, fasting            110 mg/dL
+2026-05-21  Urine albumin/creatinine    382 mg/g
+2026-05-21  Potassium                   4.5 mmol/L
+2026-05-21  Sodium                      137 mmol/L
+2026-05-21  LDL cholesterol             74 mg/dL
+2026-05-21  Hemoglobin                  11.5 g/dL
+
+ASSESSMENT AND PLAN
+1. Diabetes mellitus, type 2: A1c 7.9% (improved from 9.2%). Medications unchanged; reinforced carbohydrate counting.
+2. CKD stage 3b: Renal function reviewed: eGFR 42 (stable from 42). Continue lisinopril and empagliflozin. Avoid NSAIDs. Nephrology follow-up as scheduled.
+3. OA of knees: continue home exercises and acetaminophen PRN.
+4. Also on problem list: GERD, hypertension.
+5. Influenza vaccine given this season. Colorectal cancer screening up to date.
+
+PATIENT EDUCATION
+Reviewed carbohydrate counting handout.
+Encouraged 150 minutes of moderate activity weekly.
+
+Return to clinic in 6 months or sooner as needed.
+Total time 34 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Associate, PA-C 2026-05-30 15:39

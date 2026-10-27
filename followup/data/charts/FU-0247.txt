@@ -1,0 +1,100 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0247    Age: 49    Sex: F
+Date of service: 2026-02-03    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 2
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+49-year-old woman here for a 6-month check-in. History of type 2 diabetes diagnosed 17 years ago. Reports checking glucose twice daily; fasting readings mostly 115-140 mg/dL. Energy fair. No new complaints today. No polyuria or polydipsia. No visual changes.
+
+REVlEW OF SYSTEMS
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Eyes: no blurred vision; last dilated eye exam 2024.
+Neurological: no numbness or tingling in the feet; no headaches.
+Constitutional: denies fever, chills or unintended weight loss.
+Skin: no rashes or non-healing wounds.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Genitourinary: no dysuria, hematuria or change in urine output.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease stage 3b
+- Hypothyroidism
+- GERD
+- Essential hypertension
+
+PAST SURGICAL HISTORY
+- Tonsillectomy (childhood)
+- Right knee arthroscopy (2015)
+- Colonoscopy with polypectomy (2021)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- empagliflozin 10 mg daily
+- levothyroxine 75 mcg daily
+- omeprazole 20 mg daily
+- lisinopril 20 mg daily
+Med rec done with patient’s pill bottles.
+
+ALLERGIES
+No known drug allergies.
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Father: coronary artery disease, died age 74.
+
+SOCIAL HISTORY
+Never smoker.
+Works part time as a librarian.
+Lives with spouse. Retired teacher.
+
+VITALS
+BP 127/69 | HR 64 | Temp 98.7 F | Wt 84.7 kg | BMI 27.7 | SpO2 99%
+
+EXAM
+General: comfor-
+table.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date   Test	Result
+2026-02-02	eGFR	43 mL/min/1.73m2
+2026-02-02	Creatinine       1.44 mg/dL
+2026-02-02	Hemoglobin A1c   7.1%
+2026-02-02 Glucose, fasting         144 mg/dL
+2026-02-02	Urine albumin/creatinine	260 mg/g
+2026-02-02	Pota-
+ssium     5.0 mmol/L
+2026-02-02	Sodium	142 mmol/L
+2026-02-02  LDL cholesterol     93 mg/dL
+2026-02-02	Hemoglobin         13.1 g/dL
+
+FROM LAST OFFICE VISIT (2025-08-25)
+(For reference only; not today’s assessment.)
+Type 2 diabetes mellitus: A1c 8.2% at that visit; continued medications.
+Diabetic chronic kidney disease, stage 3b: continued lisinopril.
+Hypothyroid: clinically euthyroid. Continue current dose.
+
+ASSESSMENT/PLAN
+1. Type 2 diabetes mellitus: A1c 7.1% (improved from 8.2%). Medications unchanged; reinforced carbohydrate counting.
+2. Chronic kidney disease stage 3b: eGFR 43 today (no prior for comparison). Continue empag1iflozin. Recheck
+--- Page 2 of 3 --- FU-0247 --- printed 2026-02-14 ---
+BMP and urine albumin-to-creatinine ratio in 3 months.
+3. HTN: at goal on current regimen. Continue 1isinopril.
+4. Problem list reviewed: GERD, hypothyroidism.
+5. Diabetic foot exam completed today. Retinal exam due; referral placed.
+
+PATlENT EDUCATI0N
+Encouraged 150 minutes of moderate activity weekly.
+Patient verbalized understanding of the plan.
+
+Retum to clinic in 6 months or sooner as needed.
+Total time 37 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthe-
+tic Provider, MD 2026-02-03 17:05

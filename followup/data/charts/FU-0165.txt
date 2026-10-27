@@ -1,0 +1,93 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0165    Age: 63    Sex: F
+Date of service: 2026-09-29    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 13
+
+CHIEF COM-
+PLAINT
+Follow-up visit; medication refills.
+
+HISTORY OF PRESENT ILLNESS
+63-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 8 years ago. Home glucose log reviewed, fasting values 130-149 mg/dL with occasional post-meal readings above 200. No po1yuria or polydipsia. No visual changes. Mild bilateral knee stiffness in the mornings, unchanged.
+
+REVIEW 0F SYSTEMS
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Respiratory: no cough or dyspnea on exertion.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Skin: no rashes or non-healing wounds.
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- semaglutide 0.5 mg weekly
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- levothyroxine 75 mcg daily
+- atorvastatin 40 mg nightly
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+--- Page 2 of 3 --- FU-0165 --- printed 2026-10-16 ---
+ALLERGIES
+NKDA.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- CKD stage 3b
+- Hypothyroidism
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Right knee arthroscopy (2015)
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+Mother: hypertension.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Never smoker.
+Walks 5 times per week, about 20 minutes.
+Works part time as a consultant.
+
+VITALS
+BP 139/78 | HR 63 | Temp 98.5 F | Wt 62.8 kg | BMI 25.7 | SpO2 94%
+
+LABS
+Date  Test	Result
+2026-04-19   eGFR	39 mL/min/1.73m2
+2026-04-19   Creatinine	1.58 mg/dL
+2026-09-20	eGFR	41 mL/min/1.73m2
+2026-09-20 Creatinine	1.51 mg/dL
+2026-09-20   Hemog1obin A1c  7.2%
+2026-09-20  Glucose, fasting	162 mg/dL
+2026-09-20  Urine albumin/creatinine        108 mg/g
+2026-09-20	Potassium       4.9 mmol/L
+2026-09-20    Sodium        143 mmol/L
+2026-09-20    LDL cholesterol	69 mg/dL
+2026-09-20    Hemoglobin       11.6 g/dL
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+ASSESSMENT AND PLAN
+1. Type 2 diabetes mellitus: A1c 7.2% today (up from 6.4%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. HLD: tolerating statin. Continue atorvastatin; recheck 1ipids in 12 months.
+3. Chronic kidney disease, stage 3b: See nephrology note.
+4. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+5. Colorectal cancer screening up to date. Dental visit within the past year.
+
+PATlENT EDUCATION
+Encouraged 150 minutes of moderate activity weekly.
+Reviewed sick-day rules for medications.
+
+Retum to clinic in 6 months or sooner as needed.
+Total time 37 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-09-29 17:22

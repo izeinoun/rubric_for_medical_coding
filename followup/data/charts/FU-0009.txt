@@ -1,0 +1,93 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0009    Age: 63    Sex: F
+Date of service: 2026-07-13    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 12
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+63-year-old woman here for a 6-month check-in. History of type 2 diabetes diagnosed 9 years ago. Brought meter today; morning values 111-156 mg/dL, no lows. No urinary symptoms. No foot ulcers or numbness reported. Sleeping reasonably well. Mood is good.
+
+REVIEW OF SYSTEMS
+--- Page 2 of 3 --- FU-0009 --- printed 2026-07-23 ---
+Cardiovascu1ar: no chest pain, palpitations or orthopnea.
+Skin: no rashes or non-healing wounds.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Neurological: no numbness or tingling in the feet; no headaches.
+Gastrointestinal: no nausea, vomiting, diarrhea or constip-
+ation.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Eyes: no blurred vision; last dilated eye exam 2024.
+Respiratory: no cough or dyspnea on exertion.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD stage 3a
+- Hyperlipidemia
+- Seasonal allergic rhinitis
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+- Right knee arthroscopy (2015)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- semaglutide 0.5 mg weekly
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- atorvastatin 40 mg nightly
+- loratadine 10 mg as needed
+Med rec done with patient's pill bottles.
+
+ALLERGlES
+Penici1lin (rash).
+
+FAMILY HISTORY
+Mother: hypertension.
+No family history of kidney disease reported.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Former smoker, quit 2004; 11 pack-years.
+Lives with spouse. Retired accountant.
+Alcohol: 1 to 2 drinks per week.
+
+VITALS
+BP 118/84 | HR 79 | Temp 98.6 F | Wt 83.2 kg | BMI 28.4 | SpO2 99%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date Test    Result
+2025-09-15	eGFR	46 mL/min/1.73m2
+2025-09-15	Creatinine   1.34 mg/dL
+2026-03-15    eGFR      47 mL/min/1.73m2
+2026-03-15 Creatinine	1.31 mg/dL
+2026-07-09	Hemoglobin A1c      7.7%
+2026-07-09  Glucose, fasting     108 mg/dL
+2026-07-09 LDL cholesterol 60 mg/dL
+2026-07-09    Hemoglobin	11.8 g/dL
+
+ASSESSMENT AND PLAN
+(Plan unchanged from visit of 2026-03-20.)
+1. Diabetes mellitus, type 2: A1c 7.7%, up from 6.7%. Reviewed diet and activity. Continue medications. Retina1 exam due.
+2. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+3. CKD stage 3a: Last eGFR 47 on 2026-03-15. Continue current renal regimen. Labs before next visit.
+4. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+5. Pneumococcal vaccination up to date. Influenza vaccine given this season.
+
+PATIENT EDUCATION
+Discussed hypog1ycemia recognition and treatment.
+Encouraged 150 minutes of moderate activity weekly.
+
+Retum to clinic in 6 months or sooner as needed.
+Total time 36 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-07-13 15:57

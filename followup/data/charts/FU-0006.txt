@@ -1,0 +1,88 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0006    Age: 53    Sex: F
+Date of service: 2026-07-03    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 4
+
+CHIEF COMPLAINT
+Follow-up visit; medication refills.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 53-year-old woman, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 18 years ago. Home glucose log reviewed, fasting values 106-154 mg/dL with occasional post-meal readings above 200. Sleeping reasonably well. Mood is good. No urinary symptoms. No foot ulcers or numbness reported.
+
+REVIEW OF SYSTEMS
+Genitourinary: no dysuria, hematuria or change in urine output.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Neurological: no numbness or tingling in the feet; no headaches.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Respiratory: no cough or dyspnea on exertion.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Skin: no rashes or non-healing wounds.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- CKD stage 3b
+- Hyperlipidemia
+- Essential hypertension
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+- Right knee arthroscopy (2015)
+- Cholecystectomy (2011)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- atorvastatin 40 mg nightly
+- lisinopril 20 mg daily
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+FAMILY HISTORY
+No family history of kidney disease reported.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Former smoker, quit 2001; 8 pack-years.
+Walks 3 times per week, about 20 minutes.
+Works part time as a consultant.
+
+VITALS
+BP 142/91 | HR 71 | Temp 98.0 F | Wt 77.0 kg | BMI 28.9 | SpO2 99%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date  Test                        Result
+2025-11-18  eGFR                        41 mL/min/1.73m2
+2026-07-03  eGFR                        42 mL/min/1.73m2
+2026-07-03  Creatinine                  1.47 mg/dL
+2026-07-03  Hemoglobin A1c              7.9%
+2026-07-03  Glucose, fasting            173 mg/dL
+2026-07-03  Urine albumin/creatinine    70 mg/g
+2026-07-03  Potassium                   4.1 mmol/L
+2026-07-03  Sodium                      136 mmol/L
+2026-07-03  LDL cholesterol             74 mg/dL
+2026-07-03  Hemoglobin                  13.4 g/dL
+
+ASSESSMENT AND PLAN
+1. T2DM: A1c 7.9% today (up from 7.3%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Chronic conditions reviewed: hypertension, CKD 3b, hyperlipidemia.
+3. Colorectal cancer screening up to date. Shingles vaccine series completed.
+
+PATIENT EDUCATION
+Patient verbalized understanding of the plan.
+Discussed hypoglycemia recognition and treatment.
+
+Return to clinic in 6 months or sooner as needed.
+Total time 32 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-07-03 11:44

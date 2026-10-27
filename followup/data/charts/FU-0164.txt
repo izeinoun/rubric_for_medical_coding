@@ -1,0 +1,88 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0164    Age: 48    Sex: F
+Date of service: 2026-05-15    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 14
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 48-year-old woman returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 20 years ago. Brought meter today; morning values 117-144 mg/dL, no lows. Mild bilateral knee stiffness in the mornings, unchanged. No polyuria or polydipsia. No visual changes.
+
+REVIEW OF SYSTEMS
+Skin: no rashes or non-healing wounds.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Respiratory: no cough or dyspnea on exertion.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Neurological: no numbness or tingling in the feet; no headaches.
+Eyes: no blurred vision; last dilated eye exam 2023.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- CKD stage 4
+- Seasonal allergic rhinitis
+- Osteoarthritis, bilateral knees
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+- Cataract extraction, left eye (2022)
+
+MEDICATIONS
+- insulin glargine 18 units nightly
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+- acetaminophen 650 mg as needed
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 70.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Never smoker.
+Lives with spouse. Retired bus driver.
+Walks 5 times per week, about 20 minutes.
+
+VITALS
+BP 126/69 | HR 69 | Temp 97.7 F | Wt 66.7 kg | BMI 26.9 | SpO2 99%
+
+LABS
+Date  Test                        Result
+2025-11-30  eGFR                        26 mL/min/1.73m2
+2025-11-30  Creatinine                  2.38 mg/dL
+2026-05-09  eGFR                        17 mL/min/1.73m2
+2026-05-09  Hemoglobin A1c              9.2%
+2026-05-09  Glucose, fasting            131 mg/dL
+2026-05-09  Urine albumin/creatinine    277 mg/g
+2026-05-09  Potassium                   4.1 mmol/L
+2026-05-09  Sodium                      139 mmol/L
+2026-05-09  LDL cholesterol             124 mg/dL
+2026-05-09  Hemoglobin                  12.7 g/dL
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+ASSESSMENT/PLAN
+1. Diabetes mellitus, type 2: A1c 9.2% (improved from 10.5%). Medications unchanged; reinforced carbohydrate counting.
+2. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+3. CKD, stage 4: Advanced kidney disease, eGFR 17. Off metformin. Nephrology following; discussed renal diet and avoidance of contrast and NSAIDs.
+4. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+5. Shingles vaccine series completed. Diabetic foot exam completed today.
+
+PATIENT EDUCATION
+Discussed hypoglycemia recognition and treatment.
+Reviewed sick-day rules for medications.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-05-15 11:08

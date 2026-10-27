@@ -1,0 +1,92 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0134    Age: 59    Sex: F
+Date of service: 2026-02-06    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 8
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 59-year-old woman returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 16 years ago. Reports checking glucose twice daily; fasting readings mostly 117-140 mg/dL. Hospitalized 2025-09-13 with dehydration from viral gastroenteritis; creatinine rose and has since returned to baseline. Appetite stable. Denies nausea or abdominal pain. Sleeping reasonably well. Mood is good.
+
+REVIEW OF SYSTEMS
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Constitutional: denies fever, chills or unintended weight loss.
+Neurological: no numbness or tingling in the feet; no headaches.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Respiratory: no cough or dyspnea on exertion.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Acute kidney injury (2025-09-13), resolved
+- Essential hypertension
+- GERD
+- Seasonal allergic rhinitis
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- lisinopril 20 mg daily
+- omeprazole 20 mg daily
+- loratadine 10 mg as needed
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+No known drug allergies.
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Father: coronary artery disease, died age 63.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Never smoker.
+Walks 2 times per week, about 20 minutes.
+Alcohol: rare.
+
+VITALS
+BP 146/75 | HR 85 | Temp 98.1 F | Wt 69.0 kg | BMI 28.9 | SpO2 99%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date  Test                        Result
+2025-09-13  eGFR                        34 mL/min/1.73m2
+2025-09-13  Creatinine                  1.82 mg/dL
+2026-01-30  eGFR                        80 mL/min/1.73m2
+2026-01-30  Creatinine                  0.77 mg/dL
+2026-01-30  Hemoglobin A1c              6.8%
+2026-01-30  Glucose, fasting            155 mg/dL
+2026-01-30  Urine albumin/creatinine    16 mg/g
+2026-01-30  Potassium                   4.9 mmol/L
+2026-01-30  Sodium                      143 mmol/L
+2026-01-30  LDL cholesterol             123 mg/dL
+2026-01-30  Hemoglobin                  11.3 g/dL
+
+IMPRESSION AND PLAN
+1. Diabetes mellitus, type 2: A1c 6.8% (improved from 8.1%). Medications unchanged; reinforced carbohydrate counting.
+2. Essential hypertension: BP 146/75. Reinforced low-sodium diet; continue lisinopril 20 mg.
+3. Prior AKI, recovered. eGFR 80 today. Does not meet criteria for chronic kidney disease.
+4. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+5. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+6. Influenza vaccine given this season. Diabetic foot exam completed today.
+
+PATIENT EDUCATION
+Discussed hypoglycemia recognition and treatment.
+Patient verbalized understanding of the plan.
+
+Return to clinic in 3 months or sooner as needed.
+Total time 40 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-02-06 14:15

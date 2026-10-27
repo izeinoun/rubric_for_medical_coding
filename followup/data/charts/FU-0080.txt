@@ -1,0 +1,92 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0080    Age: 70    Sex: M
+Date of service: 2026-03-07    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 8
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 70-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 14 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Labs drawn 2026-03-07 were reviewed with the patient today: eGFR 48, UACR 396 mg/g. Appetite stable. Denies nausea or abdominal pain. Denies chest pain, shortness of breath or leg swelling.
+
+REVIEW OF SYSTEMS
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Neurological: no numbness or tingling in the feet; no headaches.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Respiratory: no cough or dyspnea on exertion.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- CKD, stage 3a
+- Essential hypertension
+- Hyperlipidemia
+- Osteoarthritis, bilateral knees
+- Hypothyroidism
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- semaglutide 0.5 mg weekly
+- dapagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- atorvastatin 40 mg nightly
+- acetaminophen 650 mg as needed
+- levothyroxine 75 mcg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+No family history of kidney disease reported.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Former smoker, quit 2002; 14 pack-years.
+Lives with spouse. Retired accountant.
+Walks 5 times per week, about 20 minutes.
+
+VITALS
+BP 118/76 | HR 76 | Temp 98.1 F | Wt 79.4 kg | BMI 24.0 | SpO2 94%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date  Test                        Result
+2025-08-20  eGFR                        45 mL/min/1.73m2
+2025-08-20  Creatinine                  1.37 mg/dL
+2026-03-07  eGFR                        48 mL/min/1.73m2
+2026-03-07  Hemoglobin A1c              6.4%
+2026-03-07  Glucose, fasting            134 mg/dL
+2026-03-07  Urine albumin/creatinine    396 mg/g
+2026-03-07  Potassium                   4.7 mmol/L
+2026-03-07  Sodium                      142 mmol/L
+2026-03-07  LDL cholesterol             70 mg/dL
+2026-03-07  Hemoglobin                  13.9 g/dL
+
+ASSESSMENT AND PLAN
+(A/P carried forward from 2025-09-14; reviewed and unchanged.)
+1. T2DM: A1c 6.4% (up from 5.1%). Medications unchanged; reinforced carbohydrate counting.
+2. HTN: at goal on current regimen. Continue lisinopril.
+3. Hyperlipidemia: LDL 70 mg/dL. Continue atorvastatin 40 mg.
+4. Chronic kidney disease, stage 3a: Today's results as above, at baseline; continue lisinopril and dapagliflozin.
+5. Also on problem list: hypothyroidism, knee osteoarthritis.
+6. Retinal exam due; referral placed. Colorectal cancer screening up to date.
+
+PATIENT EDUCATION
+Encouraged 150 minutes of moderate activity weekly.
+Reviewed sick-day rules for medications.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-03-07 16:40

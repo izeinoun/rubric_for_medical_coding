@@ -1,0 +1,95 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0206    Age: 84    Sex: M
+Date of service: 2026-02-03    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 14
+
+CHIEF COMPLAINT
+Follow-up visit; medication refills.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 84-year-old man, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 16 years ago. Brought meter today; morning values 128-158 mg/dL, no lows. Mild bilateral knee stiffness in the mornings, unchanged. Appetite stable. Denies nausea or abdominal pain.
+
+REVIEW OF SYSTEMS
+Constitutional: denies fever, chills or unintended weight loss.
+Respiratory: no cough or dyspnea on exertion.
+Neurological: no numbness or tingling in the feet; no headaches.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Skin: no rashes or non-healing wounds.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease
+- Hyperlipidemia
+- Seasonal allergic rhinitis
+- Osteoarthritis, bilateral knees
+- Hypothyroidism
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+- Cholecystectomy (2011)
+- Tonsillectomy (childhood)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- atorvastatin 40 mg nightly
+- loratadine 10 mg as needed
+- acetaminophen 650 mg as needed
+- levothyroxine 75 mcg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+NKDA.
+
+FAMILY HISTORY
+Mother: hypertension.
+Sister: hypothyroidism.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Former smoker, quit 1997; 23 pack-years.
+Works part time as a librarian.
+Walks 3 times per week, about 20 minutes.
+
+VITALS
+BP 129/69 | HR 90 | Temp 97.9 F | Wt 72.8 kg | BMI 25.2 | SpO2 98%
+
+LABS
+Date  Test                        Result
+2025-09-21  eGFR                        50 mL/min/1.73m2
+2026-01-27  eGFR                        51 mL/min/1.73m2
+2026-01-27  Creatinine                  1.21 mg/dL
+2026-01-27  Hemoglobin A1c              6.5%
+2026-01-27  Glucose, fasting            167 mg/dL
+2026-01-27  Urine albumin/creatinine    305 mg/g
+2026-01-27  Potassium                   4.5 mmol/L
+2026-01-27  Sodium                      142 mmol/L
+2026-01-27  LDL cholesterol             100 mg/dL
+2026-01-27  Hemoglobin                  13.7 g/dL
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+IMPRESSION AND PLAN
+1. Type 2 diabetes mellitus: A1c 6.5% today (up from 5.4%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Hypothyroid: clinically euthyroid. Continue current dose.
+3. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+4. Also on problem list: allergic rhinitis, knee osteoarthritis, chronic kidney disease.
+5. Dental visit within the past year. Shingles vaccine series completed.
+
+PATIENT EDUCATION
+Discussed hypoglycemia recognition and treatment.
+Reviewed carbohydrate counting handout.
+
+Return to clinic in 4 months or sooner as needed.
+Total time 27 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-02-03 16:40

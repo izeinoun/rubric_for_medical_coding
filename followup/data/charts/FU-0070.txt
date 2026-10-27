@@ -1,0 +1,91 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0070    Age: 81    Sex: M
+Date of service: 2026-07-13    Visit type: Nurse visit, diabetes education, in person
+Clinician: Synthetic Nurse, RN (Diabetes Education)
+Location: Synthetic Primary Care Clinic, Room 4
+
+CHIEF COMPLAINT
+Follow-up visit; medication refills.
+
+HISTORY OF PRESENT ILLNESS
+81-year-old man seen today for routine chronic care. History of type 2 diabetes diagnosed 13 years ago. Has been trying to walk 3 times per week. Glucose readings 122-146 mg/dL fasting. Denies chest pain, shortn-
+ess of breath or leg swelling. No urinary symptoms. No foot ulcers or numbness reported.
+
+REVIEW OF SYSTEMS
+Neuro1ogical: no numbness or tingling in the feet; no headaches.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Constitutional: denies fever, chills or unintended weight loss.
+Skin: no rashes or non-healing wounds.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease stage 3b
+- Seasonal allergic rhinitis
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Tonsillectomy (childhood)
+- Right knee arthroscopy (2015)
+- Appendectomy (1988)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+- atorvastatin 40 mg nightly
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Codeine (nausea).
+--- Page 2 of 3 --- FU-0070 --- printed 2026-07-24 ---
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Former smoker, quit 2006; 6 pack-years.
+Works part time as a consultant.
+Alcohol: none.
+
+VITALS
+BP 148/73 | HR 78 | Temp 98.7 F | Wt 74.5 kg | BMI 24.4 | SpO2 97%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sen-
+sation intact, pulses 2+.
+
+LABS
+Date Test     Result
+2026-07-09    eGFR       38 mL/min/1.73m2
+2026-07-09	Creatinine	1.62 mg/dL
+2026-07-09	Hemoglobin A1c	7.2%
+2026-07-09	Glucose, fasting	156 mg/dL
+2026-07-09   Urine albumin/creatinine      298 mg/g
+2026-07-09 Potassium	4.8 mmol/L
+2026-07-09	Sodium    137 mmol/L
+2026-07-09 LDL cholesterol	59 mg/dL
+2026-07-09  Hemoglobin       12.5 g/dL
+
+IMPRESSION AND PLAN
+1. T2DM: A1c 7.2% (improved from 7.9%). Reviewed meal plan and carbohydrate counting; medications per provider.
+2. Allergic rhinitis: managed by primary care provider.
+3. Hyperlipidemia: managed by primary care provider.
+4. CKD, stage 3b: eGFR 38 reviewed (no prior for comparison); reinforced low-sodium diet and medication adherence. Provider to review 1abs.
+5. Colorectal cancer screening up to date. Shingles vaccine series comp1eted.
+
+PATlENT EDUCATI0N
+Reviewed carbohydrate counting handout.
+Patient verba-
+lized understanding of the plan.
+
+Retum to clinic in 3 months or sooner as needed.
+Electronica1ly signed: Synthetic Nurse, RN 2026-07-13 09:23

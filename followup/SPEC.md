@@ -127,7 +127,7 @@ Each chart looks positive to the rubric (all of G1, G2, Q3 and Q4 would be answe
 |---|---|---|
 | F1 | 0 | Visit documented by an RN or a dietitian only (R1) |
 | F2 | 0 | Note unsigned, or signed without credentials (R2) |
-| F3 | 0 | The document is a stand-alone lab or diagnostic report, not a provider encounter note (R1) |
+| F3 | 0 | Interprofessional e-consult: chart review, patient not seen (R1). Changed from "stand-alone lab report" while building the generator: a lab report has no assessment and plan, so the rubric itself would already score it 0 and it would not test anything outside the rubric. |
 
 EWC is expected to score these as positive, because the rubric cannot see the reason. The study measures how often and how confidently.
 
@@ -135,7 +135,7 @@ EWC is expected to score these as positive, because the rubric cannot see the re
 
 About half of all charts get one or more of:
 
-- Notes 2 to 3 times longer than the pilot's (median about 2,000 characters): prior-visit sections, medication reconciliation, review of systems.
+- Longer notes: median about 3,400 characters, about 1.7 times the pilot's 2,000 (review of systems, surgical, family and social history, allergies, a fuller lab table, patient education, and a prior-visit section in about a quarter of charts).
 - Lab tables with irregular spacing and tab characters.
 - OCR-style noise: l/1 and O/0 swaps, words broken across lines with hyphens, stray page headers in the middle of a section.
 - Repeated, nearly identical lines from earlier visits, differing only by date or value.
@@ -166,7 +166,7 @@ H6 adds a paired test, so "significantly better" can be claimed directly. Result
 
 ## 7. Size and cost
 
-- 300 charts (255 main, 45 stress test), all test (trimmed from 400 at the user's request). Positive rate in the main set about 45%, close to the pilot's.
+- 300 charts (255 main, 45 stress test), all test (trimmed from 400 at the user's request). Positive rate in the main set 51% (129 of 255); the pilot's was 44%.
 - Per model and chart: 5 extraction, 5 verbal, 5 M9 and 1 M6 call = 16 calls, so 4,800 calls per model (3,300 without M9). The pilot used 11 per chart (no M9).
 - Notes 2 to 3 times longer: roughly 7–10M input tokens per model, plus Gemini's thinking tokens. `estimate` gives a firmer figure once the data exists, and it will be reported before any run, with one test call per model.
 

@@ -1,0 +1,93 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0197    Age: 63    Sex: M
+Date of service: 2026-09-17    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 3
+
+CHIEF COMPLAINT
+Follow-up visit; medication refills.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a
+--- Page 2 of 3 --- FU-0197 --- printed 2026-09-27 ---
+63-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 15 years ago. Notes some difficulty with diet recently; fasting sugars 113-160 mg/dL. Denies chest pain, shortness of breath or leg swelling. Sleeping reasonably well. Mood is good.
+
+REVIEW OF SYSTEMS
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Skin: no rashes or non-healing wounds.
+Constitutional: denies fever, chills or unintended weight loss.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Respiratory: no cough or dyspnea on exertion.
+Eyes: no blurred vision; last dilated eye exam 2025.
+
+PAST MEDICAL HIST0RY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- CKD, stage 3b
+- Seasonal allergic rhinitis
+- GERD
+
+PAST SURGICAL HISTORY
+- Cholecystectomy (2011)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- semaglutide 0.5 mg weekly
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+- omeprazole 20 mg daily
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+NKDA.
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 75.
+No family history of kidney disease reported.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Never smoker.
+A1cohol: 1 to 2 drinks per week.
+Works part time as a consultant.
+
+VITALS
+BP 126/92 | HR 90 | Temp 98.8 F | Wt 85.4 kg | BMI 25.7 | SpO2 94%
+
+EXAM
+General: well app-
+earing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date	Test       Result
+2026-09-11 eGFR    30 mL/min/1.73m2
+2026-09-11 Hemoglobin A1c       7.7%
+2026-09-11   Glucose, fasting	168 mg/dL
+2026-09-11	Urine albumin/creatinine        102 mg/g
+2026-09-11    Potassium        5.0 mmol/L
+2026-09-11	Sodium  137 mmol/L
+2026-09-11 LDL cholesterol     113 mg/dL
+2026-09-11	Hemoglobin	14.7 g/dL
+
+IMPRESSION AND PLAN
+1. Type 2 diabetes mellitus: A1c 7.7% today (up from 7.1%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+3. CKD stage 3b: eGFR 30 (no prior for comparison), a1buminuria 102 mg/g. lncreased losartan to 100 mg daily. Repeat potassium and creatinine in 2 weeks.
+4. Problem list reviewed: GERD.
+5. Diabetic foot exam completed today. Shingles vaccine series completed.
+
+PATIENT EDUCATION
+Encouraged 150 minutes of moderate activity weekly.
+Patient verbalized understanding of the plan.
+
+Retum to clinic in 6 months or sooner as needed.
+Total time 34 minutes, more than half in counseling and care coord-
+ination.
+*** NOTE NOT SIGNED - pending clinician sig-
+nature ***

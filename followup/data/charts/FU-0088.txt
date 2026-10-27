@@ -1,0 +1,88 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0088    Age: 56    Sex: M
+Date of service: 2026-02-23    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Physician, DO (Family Medicine)
+Location: Synthetic Primary Care Clinic, Room 9
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+56-year-old man here for a 3-month check-in. Type 1 diabetes since age 21. States adherence to medications is good. Denies hypoglycemic episodes. Energy fair. No new complaints today. Sleeping reasonably well. Mood is good.
+
+REVIEW OF SYSTEMS
+Genitourinary: no dysuria, hematuria or change in urine output.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Constitutional: denies fever, chills or unintended weight loss.
+Respiratory: no cough or dyspnea on exertion.
+Gastroi-
+ntestinal: no nausea, vomiting, diarrhea or constipation.
+
+PAST MEDICAL HIST0RY / PROBLEM LIST
+- Diabetes mellitus, on insulin
+- Chronic kidney disease, stage 3a
+- Hypothyroidism
+- Osteoarthritis, bilateral knees
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+
+MEDICATIONS
+- insulin glargine 22 units nightly and insulin lispro with meals; continuous glucose monitor
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- levothyroxine 75 mcg daily
+- acetaminophen 650 mg as needed
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+Mother: hypertension.
+--- Page 2 of 3 --- FU-0088 --- printed 2026-03-12 ---
+Brother: hyperlipidemia.
+Father: coronary artery disease, died age 74.
+
+SOCIAL HISTORY
+Never smoker.
+Alcohol: 1 to 2 drinks per week.
+Works part time as a consultant.
+
+VITALS
+BP 142/68 | HR 72 | Temp 98.1 F | Wt 90.2 kg | BMI 26.6 | SpO2 97%
+
+LABS
+Date    Test   Result
+2025-10-20	eGFR	55 mL/min/1.73m2
+2026-02-19   eGFR	56 mL/min/1.73m2
+2026-02-19  Creatinine  1.1 mg/dL
+2026-02-19	Hemoglobin A1c	6.9%
+2026-02-19   Glucose, fasting  132 mg/dL
+2026-02-19	Urine albumin/creatinine  196 mg/g
+2026-02-19  Pota-
+ssium         4.9 mmol/L
+2026-02-19	Sodium         140 mmol/L
+2026-02-19  LDL cholesterol	130 mg/dL
+2026-02-19  Hemoglobin   14.2 g/dL
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+ASSESSMENT AND PLAN
+1. Diabetes mellitus: A1c 6.9% on insulin pump. Adjusted ovemight basal rate. Continue CGM.
+2. Chronic kidney disease stage 3a due to diabetes: Renal function reviewed: eGFR 56, UACR 196 mg/g. Continue losartan; avoid NSAIDs. Nephrology follow-up as scheduled.
+3. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+4. Hypothyroid: clinically euthyroid. Continue current dose.
+5. Pneumococcal vaccination up to date. Influenza vaccine given this season.
+
+PATIENT EDUCATION
+Reviewed carbohydrate counting handout.
+Discussed hypoglycemia recognition and treatment.
+
+Retum to clinic in 3 months or sooner as needed.
+E1ectronically signed: Synthetic Physician, DO 2026-02-23 12:39

@@ -1,0 +1,93 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0071    Age: 79    Sex: M
+Date of service: 2026-05-23    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Associate
+Location: Synthetic Primary Care Clinic, Room 5
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+79-year-old man here for a 3-month check-in. History of type 2 diabetes diagnosed 18 years ago. Notes some difficulty with diet recently; fasting sugars 120-150 mg/dL. Denies chest pain, shortness of breath or leg swelling. No polyuria or polydipsia. No visual changes.
+
+REVIEW OF SYSTEMS
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Respiratory: no cough or dyspnea on exertion.
+Constitutional: denies fever, chills or unintended weight loss.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- semaglutide 0.5 mg weekly
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- omeprazole 20 mg daily
+- acetaminophen 650 mg as needed
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Penicillin (rash).
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- CKD stage 3b
+- GERD
+- Osteoarthritis, bilateral knees
+
+PAST SURGlCAL HISTORY
+- Colonoscopy with polypectomy (2021)
+- Right knee arthroscopy (2015)
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 64.
+Brother: hyperlipidemia.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Never smoker.
+Alcohol: 1 to 2 drinks per week.
+Lives with daughter. Retired bus driver.
+
+VITALS
+BP 147/75 | HR 88 | Temp 98.7 F | Wt 71.2 kg | BMI 24.7 | SpO2 94%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date	Test	Result
+2026-01-29 eGFR   38 mL/min/1.73m2
+2026-05-21 eGFR	41 mL/min/1.73m2
+2026-05-21    Creatinine       1.51 mg/dL
+2026-05-21	Hemoglobin A1c	7.7%
+2026-05-21  Glucose, fasting	132 mg/dL
+2026-05-21	Urine albumin/creatinine	363 mg/g
+2026-05-21	Potassium      4.4 mmol/L
+2026-05-21  Sodium	137 mmol/L
+2026-05-21  LDL choles-
+terol	129 mg/dL
+2026-05-21  Hemoglobin	14.5 g/dL
+
+IMPRESSION AND PLAN
+1. T2DM: A1c 7.7% (up from 7.3%). Medications unchanged; reinforced carbohydrate counting.
+2. Gastroesophageal reflux: stab1e; discussed trial of dose reduction at next visit.
+3.
+--- Page 2 of 3 --- FU-0071 --- printed 2026-06-09 ---
+Chronic kidney disease stage 3b due to type 2 diabetes: Labs reviewed with patient, eGFR 41. Continue empagliflozin; metformin dose appropriate for current eGFR. Recheck in 3 to 4 months.
+4. OA of knees: continue home exercises and acetaminophen PRN.
+5. Influenza vaccine given this season. Retinal exam due; referral placed.
+
+PATIENT EDUCATlON
+Encouraged 150 minutes of moderate activity weekly.
+Reviewed carbohydrate counting handout.
+
+Retum to clinic in 3 months or sooner as needed.
+Total time 27 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Associate 2026-05-23

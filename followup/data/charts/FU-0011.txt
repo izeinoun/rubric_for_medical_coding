@@ -1,0 +1,91 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0011    Age: 72    Sex: F
+Date of service: 2026-05-15    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 8
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+72-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 12 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Sleeping reasonably well. Mood is good. Mild bilateral knee stiffness in the mornings, unchanged.
+
+REVIEW OF SYSTEMS
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Neurological: no numbness or tingling in the feet; no headaches.
+Respiratory: no cough or dyspnea on exertion.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Skin: no rashes or non-healing wounds.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Constitutional: denies fever, chills or unintended weight loss.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- CKD stage 3a
+- Essential hypertension
+- Osteoarthritis, bilateral knees
+
+PAST SURGICAL HISTORY
+- Tonsillectomy (childhood)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- acetaminophen 650 mg as needed
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Penicillin (rash).
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Former smoker, quit 2014; 12 pack-years.
+Walks 2 times per week, about 20 minutes.
+Lives with spouse. Retired accountant.
+
+VITALS
+BP 118/77 | HR 80 | Temp 97.8 F | Wt 64.3 kg | BMI 23.9 | SpO2 95%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date  Test                        Result
+2026-05-15  eGFR                        56 mL/min/1.73m2
+2026-05-15  Creatinine                  1.1 mg/dL
+2026-05-15  Hemoglobin A1c              8.1%
+2026-05-15  Glucose, fasting            146 mg/dL
+2026-05-15  Urine albumin/creatinine    232 mg/g
+2026-05-15  Potassium                   4.5 mmol/L
+2026-05-15  Sodium                      138 mmol/L
+2026-05-15  LDL cholesterol             113 mg/dL
+2026-05-15  Hemoglobin                  13.9 g/dL
+
+PRIOR VISIT SUMMARY (2025-11-19)
+(For reference only; not today's assessment.)
+Type 2 diabetes mellitus: A1c 8.5% at that visit; continued medications.
+Chronic kidney disease stage 3a due to type 2 diabetes: continued lisinopril.
+Hypertension: BP 118/77 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+
+ASSESSMENT/PLAN
+1. Type 2 diabetes mellitus: A1c 8.1% (improved from 8.5%). Medications unchanged; reinforced carbohydrate counting.
+2. Chronic kidney disease stage 3a due to type 2 diabetes: Latest eGFR 56 (no prior for comparison); potassium acceptable. Continue lisinopril and dapagliflozin. BMP in 3 months.
+3. HTN: at goal on current regimen. Continue lisinopril.
+4. OA of knees: continue home exercises and acetaminophen PRN.
+5. Pneumococcal vaccination up to date. Colorectal cancer screening up to date.
+
+PATIENT EDUCATION
+Reviewed sick-day rules for medications.
+Patient verbalized understanding of the plan.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-05-15 08:59

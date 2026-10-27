@@ -1,0 +1,89 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0278    Age: 49    Sex: F
+Date of service: 2026-02-13    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 2
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 49-year-old woman returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 22 years ago. Brought meter today; morning values 122-167 mg/dL, no lows. Energy fair. No new complaints today. Denies chest pain, shortness of breath or leg swelling.
+
+REVIEW OF SYSTEMS
+Skin: no rashes or non-healing wounds.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Respiratory: no cough or dyspnea on exertion.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Neurological: no numbness or tingling in the feet; no headaches.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease, stage 3b
+- Osteoarthritis, bilateral knees
+- Hyperlipidemia
+- Obesity
+
+PAST SURGICAL HISTORY
+- Right knee arthroscopy (2015)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- atorvastatin 40 mg nightly
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+No family history of kidney disease reported.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Never smoker.
+Alcohol: rare.
+Works part time as a librarian.
+
+VITALS
+BP 122/86 | HR 65 | Temp 98.5 F | Wt 80.0 kg | BMI 32.2 | SpO2 99%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date  Test                        Result
+2025-04-18  eGFR                        34 mL/min/1.73m2
+2025-10-01  eGFR                        33 mL/min/1.73m2
+2026-02-08  Hemoglobin A1c              8.6%
+2026-02-08  Glucose, fasting            109 mg/dL
+2026-02-08  LDL cholesterol             96 mg/dL
+2026-02-08  Hemoglobin                  13.6 g/dL
+
+ASSESSMENT/PLAN
+(A/P carried forward from 2025-10-07; reviewed and unchanged.)
+1. Diabetes mellitus, type 2: A1c 8.6%, up from 8.3%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. CKD stage 3b: Per last visit, stable; unchanged from 10/2025.
+3. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+4. Obesity: weight 80.0 kg. Continue lifestyle changes.
+5. OA of knees: continue home exercises and acetaminophen PRN.
+6. Dental visit within the past year. Pneumococcal vaccination up to date.
+
+PATIENT EDUCATION
+Patient verbalized understanding of the plan.
+Reviewed carbohydrate counting handout.
+
+Return to clinic in 4 months or sooner as needed.
+Total time 30 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-02-13 12:55

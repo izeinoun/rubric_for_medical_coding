@@ -1,0 +1,91 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0123    Age: 69    Sex: M
+Date of service: 2026-06-28    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider
+Location: Synthetic Primary Care Clinic, Room 10
+
+CHIEF COMPLAINT
+Follow-up visit; medication refills.
+
+HISTORY OF PRESENT ILLNESS
+69-year-old man here for a 4-month check-in. History of type 2 diabetes diagnosed 12 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Energy fair. No
+--- Page 2 of 3 --- FU-0123 --- printed 2026-07-15 ---
+new complaints today. Denies chest pain, shortness of breath or leg swelling.
+
+REVIEW OF SYSTEMS
+Skin: no rashes or non-healing wounds.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- CKD stage 3b
+- Osteoarthritis, bilateral knees
+- Hypothyroidism
+- Obesity
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+- Cataract extraction, left eye (2022)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- levothyroxine 75 mcg daily
+Med rec done with patient’s pill bottles.
+
+ALLERGIES
+Peni-
+cillin (rash).
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 67.
+Brother: hyperlipidemia.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Former smoker, quit 2011; 10 pack-years.
+Alcohol: none.
+Lives with daughter. Retired machinist.
+
+VITALS
+BP 126/91 | HR 82 | Temp 97.6 F | Wt 97.8 kg | BMI 32.4 | SpO2 98%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date   Test  Resu1t
+2026-06-19	eGFR         43 mL/min/1.73m2
+2026-06-19	Creatinine	1.44 mg/dL
+2026-06-19   Hemoglobin A1c         9.2%
+2026-06-19	Glucose, fasting      123 mg/dL
+2026-06-19	Urine albumin/creatinine	304 mg/g
+2026-06-19  Potassium         5.1 mmol/L
+2026-06-19 Sodium    139 mmol/L
+2026-06-19    LDL cholesterol 73 mg/dL
+2026-06-19	Hemoglobin	13.6 g/dL
+
+IMPRESSION AND PLAN
+1. Diabetes mellitus, type 2: A1c 9.2% today (improved from 10.0%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Obesity: weight 97.8 kg. Continue lifestyle changes.
+3. CKD stage 3b: eGFR 43 (no prior for comparison), albuminuria 304 mg/g. Increased losartan to 100 mg daily. Repeat potassium and creatinine in 2 weeks.
+4. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+5. OA of knees: continue home exercises and acetaminophen PRN.
+6. Shingles vaccine series completed. Dental visit within the past year.
+
+PATlENT EDUCATION
+Reviewed sick-day rules for medications.
+Patient verbalized understanding of the plan.
+
+Retum to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider 2026-06-28

@@ -1,0 +1,87 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0209    Age: 82    Sex: M
+Date of service: 2026-02-03    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 9
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+82-year-old man presents for scheduled follow-up. History
+--- Page 2 of 3 --- FU-0209 --- printed 2026-02-23 ---
+of type 2 diabetes diagnosed 18 years ago. Has been trying to walk 5 times per week. Glucose readings 106-174 mg/dL fasting. Appetite stable. Denies nausea or abdominal pain. Energy fair. No new complaints today.
+
+REVIEW OF SYSTEMS
+Gastrointestinal: no nausea, vomiting, diarrhea or constipat-
+ion.
+Neurological: no numbness or tingling in the feet; no headaches.
+Respiratory: no cough or dyspnea on exertion.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Skin: no rashes or non-healing wounds.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Constitutional: denies fever, chills or unintended weight loss.
+
+PAST MEDlCAL HISTORY / PROBLEM LIST
+- Diabetes me1litus type 2
+- Chronic kidney disease stage 3a
+- Essential hypertension
+- Hypothyroidism
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+- Appendectomy (1988)
+
+MEDICATIONS
+- metformin 1000 mg twice daily (dose being reduced today)
+- dapagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- levothyroxine 75 mcg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Penicillin (rash).
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Never smoker.
+Lives with daughter. Retired machinist.
+Wa1ks 4 times per week, about 20 minutes.
+
+VITALS
+BP 145/89 | HR 65 | Temp 98.3 F | Wt 82.6 kg | BMI 26.7 | SpO2 98%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date   Test	Result
+2026-01-31	eGFR	46 mL/min/1.73m2
+2026-01-31  Creatinine 1.34 mg/dL
+2026-01-31	Hemoglobin A1c	7.1%
+2026-01-31  Glucose, fasting  115 mg/dL
+2026-01-31	Urine albumin/creatinine	54 mg/g
+2026-01-31	Potassium	4.1 mmol/L
+2026-01-31 Sodium	137 mmol/L
+2026-01-31	LDL cholesterol	111 mg/dL
+2026-01-31 Hemoglobin      13.7 g/dL
+
+ASSESSMENT AND PLAN
+1. Diabetes mellitus, type 2: A1c 7.1% (improved from 8.1%). Metformin dose lowered to 500 mg daily given eGFR 46; recheck BMP in 6 weeks.
+2. Hypothyroid: c1inically euthyroid. Continue current dose.
+3. Essential hypertension: BP 145/89. Reinforced low-sodium diet; continue lisinopril 20 mg.
+4. Pneumococcal vaccination up to date. Dental visit within the past year.
+
+PATlENT EDUCATI0N
+Encouraged 150 minutes of moderate activity weekly.
+Discussed hypoglycemia recognition and treatment.
+
+Return to clinic in 6 months or sooner as needed.
+Total time 43 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-02-03 15:55

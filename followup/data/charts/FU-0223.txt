@@ -1,0 +1,98 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0223    Age: 81    Sex: F
+Date of service: 2026-06-08    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 13
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+81-year-old woman presents for scheduled follow-up. History of
+--- Page 2 of 3 --- FU-0223 --- printed 2026-06-20 ---
+type 2 diabetes diagnosed 18 years ago. Has been trying to walk 4 times per week. Glucose readings 120-153 mg/dL fasting. Sleeping reasonably well. Mood is good. No polyuria or polydipsia. No visual changes.
+
+REVIEW OF SYSTEMS
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Neurological: no numbness or tingling in the feet; no headaches.
+Respiratory: no cough or dyspnea on exertion.
+Skin: no rashes or non-healing wounds.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- CKD stage 3a
+- Seasonal allergic rhinitis
+- Obesity
+- GERD
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+- Right knee arthroscopy (2015)
+
+MEDlCATIONS
+- metformin 1000 mg twice daily
+- semaglutide 0.5 mg weekly
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+- omeprazole 20 mg daily
+- atorvastatin 40 mg nightly
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+No known drug allergies.
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 73.
+Brother: hyper1ipidemia.
+
+SOCIAL HISTORY
+Never smoker.
+Works part time as a cashier.
+Alcohol: 1 to 2 drinks per week.
+
+VITALS
+BP 118/91 | HR 76 | Temp 98.5 F | Wt 92.0 kg | BMI 30.9 | SpO2 94%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sens-
+ation intact, pulses 2+.
+
+LABS
+Date  Test         Result
+2026-01-04    eGFR         48 mL/min/1.73m2
+2026-06-01    eGFR	46 mL/min/1.73m2
+2026-06-01   Hemo-
+globin A1c	8.0%
+2026-06-01	Glucose, fasting	132 mg/dL
+2026-06-01  Urine albumin/creatinine       142 mg/g
+2026-06-01  Potassium       4.1 mmol/L
+2026-06-01	Sodium	142 mmol/L
+2026-06-01 LDL cholesterol	64 mg/dL
+2026-06-01   Hem-
+oglobin	12.5 g/dL
+
+ASSESSMENT AND PLAN
+1. Type 2 diabetes mellitus: A1c 8.0%, up from 7.7%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. 0besity, BMI 30.9: discussed nutrition and activity goals; referred to dietitian.
+3. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+4. GERD: symptoms contro1led on omeprazo1e. Continue.
+5. Chronic kidney disease, stage 3a: See nephrology note.
+6. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+7. Retinal exam due; referral placed. Pneumococcal vaccination up to date.
+
+PATIENT EDUCATION
+Reviewed carbohydrate counting handout.
+Encouraged 150 minutes of moderate activity weekly.
+
+Retum to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-06-08 17:25

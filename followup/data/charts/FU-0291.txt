@@ -1,0 +1,97 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0291    Age: 74    Sex: F
+Date of service: 2026-01-29    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 13
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+74-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 6 years ago. States adherence to medications is good. Denies
+--- Page 2 of 3 --- FU-0291 --- printed 2026-02-16 ---
+hypoglycemic episodes. Denies chest pain, shortness of breath or leg swelling. Appetite stable. Denies nausea or abdominal pain.
+
+REVIEW OF SYSTEMS
+Respiratory: no cough or dyspnea on exertion.
+Neurological: no numbness or tingling in the feet; no headaches.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Skin: no rashes or non-healing wounds.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Constitutiona1: denies fever, chills or unintended weight loss.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease
+- Essential hypertension
+- GERD
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Right knee arthroscopy (2015)
+- Cataract extraction, left eye (2022)
+- Colonoscopy with polypectomy (2021)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- omeprazole 20 mg daily
+- atorvastatin 40 mg nightly
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+FAMILY HISTORY
+No family history of kidney disease reported.
+Father: coronary artery disease, died age 79.
+Sister: hypo-
+thyroidism.
+
+SOCIAL HISTORY
+Former smoker, quit 1998; 7 pack-years.
+Works part time as a librarian.
+Lives with daughter. Retired teacher.
+
+VITALS
+BP 132/81 | HR 70 | Temp 98.7 F | Wt 83.5 kg | BMI 28.0 | SpO2 97%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date    Test	Result
+2025-10-21  eGFR        38 mL/min/1.73m2
+2025-10-21  Creatinine	1.62 mg/dL
+2026-01-26    eGFR	42 mL/min/1.73m2
+2026-01-26	Hemoglobin A1c	9.1%
+2026-01-26 Glucose, fasting       188 mg/dL
+2026-01-26	Urine albumin/creatinine	359 mg/g
+2026-01-26   Potassium         4.7 mmol/L
+2026-01-26 Sodium 136 mmol/L
+2026-01-26  LDL cholesterol	101 mg/dL
+2026-01-26	Hemoglobin	11.2 g/dL
+
+IMPRESSION AND PLAN
+1. Diabetes mellitus, type 2: A1c 9.1% (improved from 10.1%). Medications unchanged; reinforced carbohydrate counting.
+2. Gastroesophageal reflux: stable; disc-
+ussed trial of dose reduction at next visit.
+3. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+4. Essential hypertension: BP 132/81. Reinforced low-sodium diet; continue lisinopril 20 mg.
+5. Diabetic kidney disease: eGFR 42 (stable from 38), albuminuria 359 mg/g. lncreased lisinopril to 40 mg daily. Repeat potassium and creatinine in 2 weeks.
+6. Diabetic foot exam completed today. Colorectal cancer screening up to date.
+
+PATIENT EDUCATI0N
+Discussed hypoglycemia recognition and treatment.
+Patient verbalized understanding of the plan.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-01-29 11:11

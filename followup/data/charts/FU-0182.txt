@@ -1,0 +1,99 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0182    Age: 56    Sex: F
+Date of service: 2026-04-17    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Associate
+Location: Synthetic Primary Care Clinic, Room 13
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+56-year-old woman here for a 6-month check-in. History of type 2 diabetes diagnosed 5 years ago. Reports checking glucose daily; fasting readings mostly 109-136 mg/dL. Denies chest pain, shortness of breath or leg swelling. Energy fair. No new complaints today.
+
+REVIEW OF SYSTEMS
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Respiratory: no cough or dyspnea on exertion.
+Cardiovascular: no chest pain, palpitations or ortho-
+pnea.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Skin: no rashes or non-healing wounds.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Constitutional: denies fever, chills or unintended weight loss.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- CKD, stage 3b
+- Hyperlipidemia
+- Hypothyroidism
+- Obesity
+
+PAST SURGICAL HISTORY
+- Tonsillectomy (childhood)
+- Right knee arthroscopy (2015)
+
+MEDlCATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- atorvastatin 40 mg nightly
+- levothyroxine 75 mcg daily
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Penicillin (rash).
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Never smoker.
+Walks 5 times per week, about 20 minutes.
+Alcohol: none.
+
+--- Page 2 of 3 --- FU-0182 --- printed 2026-04-30 ---
+VITALS
+BP 125/81 | HR 62 | Temp 98.0 F | Wt 90.2 kg | BMI 33.3 | SpO2 94%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date   Test	Result
+2026-04-13	eGFR     43 mL/min/1.73m2
+2026-04-13	Hemoglobin A1c	9.4%
+2026-04-13   Glucose, fasting 184 mg/dL
+2026-04-13   Urine albumin/cre-
+atinine	249 mg/g
+2026-04-13	Potassium	4.9 mmol/L
+2026-04-13 Sodium	137 mmol/L
+2026-04-13    LDL cholesterol 114 mg/dL
+2026-04-13    Hemoglobin	13.0 g/dL
+
+PRIOR VISIT SUMMARY (2025-11-13)
+(For reference only; not today’s assessment.)
+Diabetes mellitus, type 2: A1c 9.8% at that visit; continued medications.
+Chronic kidney disease stage 3b: continued losartan.
+HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+
+lMPRESSION AND PLAN
+1. Diabetes mellitus, type 2: A1c 9.4%, improved from 9.8%. Reviewed diet and activity. Continue medications. Retina1 exam due.
+2. Hyperlipidemia: LDL 114 mg/dL. Continue atorvastatin 40 mg.
+3. Chronic kidney disease stage 3b: eGFR 43, UACR 249 mg/g. On dapagliflozin and losartan; counseled on avoiding nephrotoxins. Repeat 1abs in 3 months.
+4. Obesity, BMl 33.3: discussed nutrition and activity goals; referred to dietit-
+ian.
+5. Hypothyroid: clinically euthyroid. Continue current dose.
+6. Shingles vaccine series completed. Influenza vaccine given this season.
+
+PATIENT EDUCATION
+Reviewed carbohydrate counting handout.
+Discussed hypoglycemia recognition and treatment.
+
+Retum to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Associate 2026-04-17

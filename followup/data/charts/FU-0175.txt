@@ -1,0 +1,93 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0175    Age: 57    Sex: M
+Date of service: 2026-09-08    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 2
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 57-year-old man, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 12 years ago. Home glucose log reviewed, fasting values 111-175 mg/dL with occasional post-meal readings above 200. Sleeping reasonably well. Mood is good. Appetite stable. Denies nausea or abdominal pain.
+
+REVIEW OF SYSTEMS
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Neurological: no numbness or tingling in the feet; no headaches.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Respiratory: no cough or dyspnea on exertion.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Eyes: no blurred vision; last dilated eye exam 2024.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- semaglutide 0.5 mg weekly
+- dapagliflozin 10 mg daily
+- acetaminophen 650 mg as needed
+Medication reconciliation completed; no changes other than those noted in the plan.
+--- Page 2 of 3 --- FU-0175 --- printed 2026-09-27 ---
+
+ALLERGIES
+Penicillin (rash).
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease (entered 2024) - see assessment
+- Osteoarthritis, bi1ateral knees
+- Obesity
+
+PAST SURGICAL HISTORY
+- Tonsillectomy (childhood)
+- Cholecystectomy (2011)
+- Cataract extraction, left eye (2022)
+
+FAMILY HIST0RY
+Sister: hypothyroidism.
+Mother: hypertension.
+Father: coronary artery disease, died age 77.
+
+S0CIAL HISTORY
+Former smoker, quit 1999; 16 pack-years.
+Lives with daughter. Retired machinist.
+Walks 2 times per week, about 20 minutes.
+
+VITALS
+BP 122/81 | HR 80 | Temp 98.5 F | Wt 110.6 kg | BMI 33.4 | SpO2 95%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date Test   Result
+2025-08-22   eGFR	53 mL/min/1.73m2
+2025-08-22   Creatinine	1.17 mg/dL
+2026-04-28	eGFR 77 mL/min/1.73m2
+2026-09-05    eGFR   75 mL/min/1.73m2
+2026-09-05 Creatin-
+ine    0.82 mg/dL
+2026-09-05 Hemoglobin A1c	9.5%
+2026-09-05    Glucose, fasting  182 mg/dL
+2026-09-05	Potassium	4.6 mmol/L
+2026-09-05    Sodium	143 mmol/L
+2026-09-05   LDL cholesterol	123 mg/dL
+2026-09-05 Hemoglobin      14.4 g/dL
+
+ASSESSMENT/PLAN
+1. T2DM: A1c 9.5% (improved from 10.2%). Medications unchanged; reinforced carbohydrate counting.
+2. Obesity: weight 110.6 kg. Continue lifestyle changes.
+3. Chronic kidney disease on problem list, removed today: eGFR 77 and 75 on repeat testing over 6 months, urine albumin normal; prior eGFR 53 (2025-08-22) was during an acute i1lness. Chronic kidney disease ruled out.
+4. OA of knees: continue home exercises and acetaminophen PRN.
+5. Pneumococcal vaccination up to date. Inf1uenza vaccine given this season.
+
+PATIENT EDUCATION
+Reviewed carbohydrate counting handout.
+Reviewed sick-day rules for medications.
+
+Return to clinic in 6 months or sooner as needed.
+Tota1 time 34 minutes, more than half in counseling and care coordination.
+Electronic-
+ally signed: Synthetic Provider, MD 2026-09-08 14:16

@@ -1,0 +1,87 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0270    Age: 84    Sex: M
+Date of service: 2026-02-13    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Practitioner, FNP-C (Primary Care)
+Location: Synthetic Primary Care Clinic, Room 4
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 84-year-old man, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 7 years ago. Reports checking glucose daily; fasting readings mostly 111-139 mg/dL. Recent kidney labs: eGFR was 55 on 2025-07-06 and 56 on 2026-02-13. No polyuria or polydipsia. No visual changes. Mild bilateral knee stiffness in the mornings, unchanged.
+
+REVIEW OF SYSTEMS
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Constitutional: denies fever, chills or unintended weight loss.
+Neurological: no numbness or tingling in the feet; no headaches.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Skin: no rashes or non-healing wounds.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease stage 3a
+- Obesity
+- GERD
+- Hypothyroidism
+
+PAST SURGICAL HISTORY
+- Cholecystectomy (2011)
+- Cataract extraction, left eye (2022)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- omeprazole 20 mg daily
+- levothyroxine 75 mcg daily
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+No known drug allergies.
+
+FAMILY HISTORY
+No family history of kidney disease reported.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Former smoker, quit 1996; 11 pack-years.
+Lives with alone. Retired bus driver.
+Alcohol: 1 to 2 drinks per week.
+
+VITALS
+BP 124/79 | HR 87 | Temp 98.3 F | Wt 101.8 kg | BMI 34.5 | SpO2 94%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date  Test                        Result
+2025-07-06  Creatinine                  1.12 mg/dL
+2026-02-13  Hemoglobin A1c              7.9%
+2026-02-13  Glucose, fasting            187 mg/dL
+2026-02-13  Urine albumin/creatinine    299 mg/g
+2026-02-13  Potassium                   4.9 mmol/L
+2026-02-13  Sodium                      141 mmol/L
+2026-02-13  LDL cholesterol             101 mg/dL
+2026-02-13  Hemoglobin                  14.3 g/dL
+
+IMPRESSION AND PLAN
+1. Diabetes mellitus, type 2: A1c 7.9% today (improved from 8.6%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. GERD: symptoms controlled on omeprazole. Continue.
+3. Hypothyroid: clinically euthyroid. Continue current dose.
+4. Obesity: weight 101.8 kg. Continue lifestyle changes.
+5. CKD stage 3a: Labs reviewed with patient, eGFR 56. Continue dapagliflozin; metformin dose appropriate for current eGFR. Recheck in 3 to 4 months.
+6. Diabetic foot exam completed today. Dental visit within the past year.
+
+PATIENT EDUCATION
+Patient verbalized understanding of the plan.
+Reviewed carbohydrate counting handout.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Practitioner, FNP-C 2026-02-13 09:37

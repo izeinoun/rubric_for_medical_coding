@@ -1,0 +1,93 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0027    Age: 50    Sex: F
+Date of service: 2026-04-09    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Practitioner, FNP-C (Primary Care)
+Location: Synthetic Primary Care Clinic, Room 13
+
+CHIEF COMPLAINT
+Follow-up visit; medication refills.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 50-year-old woman, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 8 years ago. Notes some difficulty with diet recently; fasting sugars 108-149 mg/dL. Hospitalized 2026-01-10 with dehydration from viral gastroenteritis; creatinine rose and has since returned to baseline. Mild bilateral knee stiffness in the mornings, unchanged. Energy fair. No new complaints today.
+
+REVIEW OF SYSTEMS
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Constitutional: denies fever, chills or unintended weight loss.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Skin: no rashes or non-healing wounds.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Neurological: no numbness or tingling in the feet; no headaches.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- acetaminophen 650 mg as needed
+- levothyro-
+xine 75 mcg daily
+Med rec done with patient’s pill bottles.
+
+ALLERGIES
+NKDA.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Acute kidney injury (2026-01-10), resolved
+- Osteoarthritis, bilateral knees
+- Hypothyroidism
+
+PAST SURGICAL HISTORY
+- Right knee arthroscopy (2015)
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Sister: hypothyroidism.
+Father: coronary artery disease, died age 63.
+
+S0CIAL HISTORY
+Former smoker, quit 2008; 5 pack-years.
+Walks 5 times per week, about 20 minutes.
+Lives with spouse. Retired machinist.
+
+VITALS
+BP 136/75 | HR 70 | Temp 97.7 F | Wt 77.7 kg | BMI 26.8 | SpO2 98%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date Test	Result
+2026-01-10 eGFR  28 mL/min/1.73m2
+2026-04-07	eGFR        88 mL/min/1.73m2
+2026-04-07   Creatinine	0.7 mg/dL
+2026-04-07 Hemoglobin A1c   6.5%
+2026-04-07    Glucose, fasting  102 mg/dL
+2026-04-07    Potassium 4.5 mmol/L
+2026-04-07	Sodium 137 mmol/L
+2026-04-07   LDL cholesterol      124 mg/dL
+2026-04-07	Hemoglobin    13.6 g/dL
+--- Page 2 of 3 --- FU-0027 --- printed 2026-04-20 ---
+
+FROM LAST OFFICE VISIT (2026-01-15)
+(For reference only; not today’s assessment.)
+Diabetes mellitus, type 2: A1c 5.6% at that visit; continued med-
+ications.
+OA of knees: continue home exercises and acetaminophen PRN.
+
+IMPRESSION AND PLAN
+1. Diabetes mellitus, type 2: A1c 6.5% (up from 5.6%). Medications unchanged; reinforced carbohydrate counting.
+2. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAlDs.
+3. Hypothyroid: clinically euthyroid. Continue current dose.
+4. History of acute kidney injury, reso1ved: eGFR 88 today, back to base1ine. No evidence of chronic kidney disease.
+5. Pneumococca1 vaccination up to date. Dental visit within the past year.
+
+PATIENT EDUCATION
+Reviewed carbohydrate counting handout.
+Encouraged 150 minutes of moderate activity weekly.
+
+Retum to clinic in 6 months or sooner as needed.
+Tota1 time 36 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Practitioner, FNP-C 2026-04-09 13:22

@@ -1,0 +1,98 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0019    Age: 54    Sex: M
+Date of service: 2026-02-07    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 7
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 54-year-old man, presenting for chronic disease follow-up. Type 1 diabetes since age 12. Reports checking glucose
+--- Page 2 of 3 --- FU-0019 --- printed 2026-02-18 ---
+daily; fasting readings mostly 117-173 mg/dL. Denies chest pain, shortness of breath or leg swelling. Mild bilateral knee stiffness in the momings, unchanged.
+
+REVIEW OF SYSTEMS
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Skin: no rashes or non-healing wounds.
+Respiratory: no cough or dyspnea on exertion.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Constitutional: denies fever, chills or unintended weight loss.
+Eyes: no blurred vision; last dilated eye exam 2024.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus, on insulin
+- CKD stage 3a
+- Obesity
+- Osteoarthritis, bilateral knees
+- Hyperlipidemia
+- GERD
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+- Right knee arthroscopy (2015)
+- Tonsillectomy (childhood)
+
+MEDICATIONS
+- insulin pump (lispro) with continuous glucose monitor
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- atorvastatin 40 mg nightly
+- omeprazole 20 mg daily
+Medicat-
+ions reviewed with patient and pharmacy list; list above is current.
+
+ALLE-
+RGIES
+Penicillin (rash).
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Former smoker, quit 2002; 15 pack-years.
+Walks 5 times per week, about 20 minutes.
+Lives with spouse. Retired teacher.
+
+VITALS
+BP 141/84 | HR 73 | Temp 98.3 F | Wt 124.6 kg | BMI 36.2 | SpO2 98%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date    Test      Result
+2026-01-28 eGFR     56 mL/min/1.73m2
+2026-01-28    Hemoglobin A1c	8.7%
+2026-01-28 Glucose, fasting	120 mg/dL
+2026-01-28	Urine albumin/creatinine   126 mg/g
+2026-01-28   Potassium 4.6 mmol/L
+2026-01-28   Sodium	138 mmol/L
+2026-01-28   LDL cholesterol 62 mg/dL
+2026-01-28	Hemoglobin	13.2 g/dL
+
+ASSESSMENT AND PLAN
+1. Diabetes mellitus: A1c 8.7%. Continue basal-bolus insulin; reviewed CGM download, time in range 61%. Endocrinology follow-up in 3 months.
+2. Chronic kidney disease stage 3a due to diabetes: eGFR 56 today (no prior for comparison). Continue losartan. Recheck BMP and urine albumin-to-creatinine ratio in 3 months.
+3. 0besity: weight 124.6 kg. Continue lifestyle changes.
+4. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+5. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+6. OA of knees: continue home exercises and acetaminophen PRN.
+7. Diabetic foot exam completed today. Shingles vaccine series completed.
+
+PATIENT EDUCATION
+Reviewed sick-day rules for medications.
+Patient verbalized understanding of the plan.
+
+Retum to clinic in 3 months or sooner as needed.
+Total time 43 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-02-07 14:03

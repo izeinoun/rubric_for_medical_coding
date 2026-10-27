@@ -1,0 +1,91 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0127    Age: 66    Sex: M
+Date of service: 2026-09-03    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 9
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+66-year-old man here for a 6-month check-in. History of type 2 diabetes diagnosed 15 years ago. Notes some difficulty with diet recently; fasting sugars 120-171 mg/dL. Energy fair. No new complaints today. Mild bilateral
+--- Page 2 of 3 --- FU-0127 --- printed 2026-09-19 ---
+knee stiff-
+ness in the mornings, unchanged.
+
+REVIEW OF SYSTEMS
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Respiratory: no cough or dyspnea on exertion.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Skin: no rashes or non-healing wounds.
+Constitutional: denies fever, chills or unintended weight loss.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease, stage 4
+- Essential hypertension
+- Hypothyroidism
+
+PAST SURGlCAL HISTORY
+- Cataract extraction, left eye (2022)
+- Appendectomy (1988)
+- Colonoscopy with polypectomy (2021)
+
+MEDICATIONS
+- insulin glargine 18 units nightly
+- empaglif-
+lozin 10 mg daily
+- lisinopril 20 mg daily
+- levothyroxine 75 mcg daily
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+No known drug allergies.
+
+FAMILY HIST0RY
+Father: coronary artery disease, died age 80.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Former smoker, quit 1997; 10 pack-years.
+Works part time as a consultant.
+Lives with daughter. Retired machinist.
+
+VITALS
+BP 144/92 | HR 81 | Temp 98.2 F | Wt 87.8 kg | BMI 25.7 | SpO2 97%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date   Test	Result
+2026-04-17	eGFR  28 mL/min/1.73m2
+2026-09-03	eGFR        25 mL/min/1.73m2
+2026-09-03    Creatinine       2.47 mg/dL
+2026-09-03   Hemoglobin A1c	9.1%
+2026-09-03	Glucose, fasting	162 mg/dL
+2026-09-03	Urine albumin/creatinine       357 mg/g
+2026-09-03	Potassium	4.8 mmol/L
+2026-09-03	Sodium	136 mmol/L
+2026-09-03 LDL cholesterol 58 mg/dL
+2026-09-03   Hemoglobin         14.3 g/dL
+
+IMPRESSION AND PLAN
+(A/P carried forward from 2026-06-03; reviewed and unchanged.)
+1. T2DM: A1c 9.1% (improved from 10.0%). Medications unchanged; reinforced carbohydrate counting.
+2. HTN: at goal on current regimen. Continue lisinopril.
+3. Chronic kidney disease, stage 4: Today’s eGFR 25 (2026-09-03), stable from 28. Continue lisinopril and empagliflozin. Labs again in 3 months.
+4. Hypothyroid: clinically euthyroid. Continue current dose.
+5. Pneumococca1 vaccination up to date. Shingles vaccine series completed.
+
+PATlENT EDUCATI0N
+Encouraged 150 minutes of moderate activity weekly.
+Reviewed sick-day rules for medications.
+
+Retum to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-09-03 10:38

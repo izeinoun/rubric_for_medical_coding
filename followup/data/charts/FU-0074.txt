@@ -1,0 +1,96 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0074    Age: 67    Sex: F
+Date of service: 2026-03-31    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 8
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+67-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 16 years ago. Reports checking glucose daily; fasting readings mostly 127-168 mg/dL. Sleeping reasonably well. Mood is good. Appetite stable. Denies nausea or abdominal pain.
+
+REVIEW OF SYSTEMS
+Respiratory: no cough or dyspnea on exertion.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Constitutional: denies fever, chills or unintended weight loss.
+Neurological: no numbness or tingling in the feet; no headaches.
+Eyes: no blurred vision; last dilated eye exam 2024.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- CKD stage 3a
+- Seasonal allergic rhinitis
+- Hyperlipidemia
+- GERD
+
+PAST SURGICAL HISTORY
+- Tonsillectomy (childhood)
+- Cataract extraction, left eye (2022)
+- Cholecystectomy (2011)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+- atorvastatin 40 mg nightly
+- omeprazole 20 mg daily
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Penicillin (rash).
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Former smoker, quit 2015; 18 pack-years.
+Lives with alone. Retired bus driver.
+Walks 4 times per week, about 20 minutes.
+
+VITALS
+BP 120/91 | HR 69 | Temp 98.5 F | Wt 63.0 kg | BMI 26.9 | SpO2 96%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date  Test                        Result
+2026-03-30  eGFR                        51 mL/min/1.73m2
+2026-03-30  Creatinine                  1.21 mg/dL
+2026-03-30  Hemoglobin A1c              9.6%
+2026-03-30  Glucose, fasting            187 mg/dL
+2026-03-30  Urine albumin/creatinine    53 mg/g
+2026-03-30  Potassium                   4.4 mmol/L
+2026-03-30  Sodium                      139 mmol/L
+2026-03-30  LDL cholesterol             116 mg/dL
+2026-03-30  Hemoglobin                  13.0 g/dL
+
+PRIOR VISIT SUMMARY (2025-11-20)
+(For reference only; not today's assessment.)
+T2DM: A1c 10.8% at that visit; continued medications.
+Diabetic kidney disease, CKD stage 3a: continued losartan.
+Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+
+IMPRESSION AND PLAN
+1. T2DM: A1c 9.6% (improved from 10.8%). Medications unchanged; reinforced carbohydrate counting.
+2. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+3. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+4. Chronic kidney disease stage 3a: Labs reviewed with patient, eGFR 51. Continue dapagliflozin; metformin dose appropriate for current eGFR. Recheck in 3 to 4 months.
+5. GERD: symptoms controlled on omeprazole. Continue.
+6. Influenza vaccine given this season. Shingles vaccine series completed.
+
+PATIENT EDUCATION
+Patient verbalized understanding of the plan.
+Discussed hypoglycemia recognition and treatment.
+
+Return to clinic in 3 months or sooner as needed.
+Total time 42 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-03-31 14:18

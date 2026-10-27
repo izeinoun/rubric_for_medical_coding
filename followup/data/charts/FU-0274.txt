@@ -1,0 +1,89 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0274    Age: 82    Sex: M
+Date of service: 2026-01-28    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Practitioner, FNP-C (Primary Care)
+Location: Synthetic Primary Care Clinic, Room 12
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+82-year-old man here for a 6-month check-in. History of type 2 diabetes diagnosed 17 years ago. Notes some difficulty with diet recently; fasting sugars 118-151 mg/dL. Mild bilateral knee stiffness in the mornings, unchanged. No polyuria or polydipsia. No visual changes.
+
+REVIEW OF SYSTEMS
+Eyes: no blurred vision; last dilated eye exam 2023.
+Constitutional: denies fever, chills or unintended weight loss.
+Neurological: no numbness or tingling in the feet; no headaches.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Respiratory: no cough or dyspnea on exertion.
+Skin: no rashes or non-healing wounds.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD stage 3a
+- Osteoarthritis, bilateral knees
+- Essential hypertension
+
+PAST SURGICAL HISTORY
+- Cholecystectomy (2011)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- acetaminophen 650 mg as needed
+- lisinopril 20 mg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Never smoker.
+Walks 3 times per week, about 20 minutes.
+Lives with alone. Retired accountant.
+
+VITALS
+BP 119/82 | HR 81 | Temp 98.7 F | Wt 77.1 kg | BMI 27.3 | SpO2 97%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date  Test                        Result
+2025-09-29  eGFR                        49 mL/min/1.73m2
+2025-09-29  Creatinine                  1.26 mg/dL
+2026-01-18  eGFR                        48 mL/min/1.73m2
+2026-01-18  Creatinine                  1.29 mg/dL
+2026-01-18  Hemoglobin A1c              8.9%
+2026-01-18  Glucose, fasting            104 mg/dL
+2026-01-18  Urine albumin/creatinine    366 mg/g
+2026-01-18  Potassium                   4.4 mmol/L
+2026-01-18  Sodium                      143 mmol/L
+2026-01-18  LDL cholesterol             127 mg/dL
+2026-01-18  Hemoglobin                  11.6 g/dL
+
+IMPRESSION AND PLAN
+1. Type 2 diabetes mellitus: A1c 8.9%, improved from 9.2%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Hypertension: BP 119/82 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+3. Chronic kidney disease stage 3a: See nephrology note.
+4. Problem list reviewed: knee osteoarthritis.
+5. Dental visit within the past year. Diabetic foot exam completed today.
+
+PATIENT EDUCATION
+Encouraged 150 minutes of moderate activity weekly.
+Reviewed sick-day rules for medications.
+
+Return to clinic in 6 months or sooner as needed.
+Total time 43 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Practitioner, FNP-C 2026-01-28 10:35

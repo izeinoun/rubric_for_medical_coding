@@ -1,0 +1,92 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0018    Age: 52    Sex: F
+Date of service: 2026-01-23    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Practitioner, FNP-C (Primary Care)
+Location: Synthetic Primary Care Clinic, Room 7
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+52-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 7 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Recent kidney labs: eGFR was 33 on 2025-07-16 and 36 on 2026-01-19. No polyuria or polydipsia. No visual changes. Mild bilateral
+--- Page 2 of 3 --- FU-0018 --- printed 2026-01-28 ---
+knee stiffness in the mornings, unchanged.
+
+REVIEW OF SYSTEMS
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Eyes: no blurred vision; last dilated eye exam 2024.
+Constitutional: denies fever, chills or unintended weight loss.
+Skin: no rashes or non-healing wounds.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Genitourinary: no dysuria, hematuria or change in urine output.
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- semaglutide 0.5 mg weekly
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+- acetaminophen 650 mg as needed
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+NKDA.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease, stage 3b
+- Seasonal allergic rhinitis
+- Osteoarthritis, bilateral knees
+
+PAST SURGICAL HIST0RY
+- Right knee arthroscopy (2015)
+- Cholecystectomy (2011)
+- Appendectomy (1988)
+
+FAMILY HISTORY
+No family history of kidney disease reported.
+Mother: hypertension.
+Father: coronary artery disease, died age 74.
+
+SOCIAL HISTORY
+Former smoker, quit 2009; 6 pack-years.
+Walks 4 times per week, about 20 minutes.
+Alcohol: rare.
+
+VITALS
+BP 143/70 | HR 62 | Temp 98.3 F | Wt 80.4 kg | BMI 27.0 | SpO2 95%
+
+LABS
+Date    Test	Result
+2025-07-16 Creatinine	1.87 mg/dL
+2026-01-19    Creatinine	1.72 mg/dL
+2026-01-19    Hemoglobin A1c	8.7%
+2026-01-19 Glucose, fasting   184 mg/dL
+2026-01-19   Urine albumin/creatinine 397 mg/g
+2026-01-19	Potassium     4.2 mmol/L
+2026-01-19	Sodium     139 mmol/L
+2026-01-19 LDL cholesterol	127 mg/dL
+2026-01-19  Hemoglobin      12.5 g/dL
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nonte-
+nder.
+Ext: no edema; feet without lesions.
+
+ASS-
+ESSMENT/PLAN
+1. Diabetes mellitus, type 2: A1c 8.7%, improved from 9.5%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+3. 0A of knees: continue home exercises and acetaminophen PRN.
+4. Diabetic foot exam completed today. Dental visit within the past year.
+
+PATlENT EDUCATION
+Reviewed carbohydrate counting handout.
+Discussed hypoglycemia recognition and treatment.
+
+Retum to clinic in 6 months or sooner as needed.
+Total time 43 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Practitioner, FNP-C 2026-01-23 09:46

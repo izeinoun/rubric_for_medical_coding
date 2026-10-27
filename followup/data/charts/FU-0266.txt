@@ -1,0 +1,100 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0266    Age: 58    Sex: M
+Date of service: 2026-03-24    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 4
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 58-year-old man, presenting for chronic disease follow-up. History of diabetes diagnosed 21 years ago, managed with metformin. Reports checking glucose daily; fasting readings mostly 116-169 mg/dL. Denies chest pain, shortness of breath or leg swelling. Energy fair. No
+--- Page 2 of 3 --- FU-0266 --- printed 2026-03-26 ---
+new complaints today.
+
+REVIEW OF SYSTEMS
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Skin: no rashes or non-healing wounds.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Constitutional: denies fever, chills or unintended weight loss.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Respiratory: no cough or dyspnea on exertion.
+Neurological: no numbness or tingling in the feet; no headaches.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- DM, on metformin
+- Chronic kidney disease stage 3a
+- GERD
+- Hypothyroidism
+- Hyperlipidemia
+- 0steoarthritis, bilateral knees
+
+PAST SURGICAL HISTORY
+- Colonoscopy with polypectomy (2021)
+- Right knee arthroscopy (2015)
+- Cholecystectomy (2011)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- semaglutide 0.5 mg weekly
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- omeprazole 20 mg daily
+- levothyroxine 75 mcg daily
+- atorvastatin 40 mg nightly
+- acetaminophen 650 mg as needed
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Penicillin (rash).
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 63.
+Mother: hypertension.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Former smoker, quit 2011; 22 pack-years.
+Works part time as a 1ibrarian.
+Lives with spouse. Retired machinist.
+
+VITALS
+BP 125/91 | HR 91 | Temp 98.3 F | Wt 83.9 kg | BMI 29.4 | SpO2 98%
+
+LABS
+Date	Test	Result
+2025-10-16  eGFR     47 mL/min/1.73m2
+2025-10-16	Creatinine     1.31 mg/dL
+2026-03-23    eGFR        46 mL/min/1.73m2
+2026-03-23 Hemoglobin A1c	8.1%
+2026-03-23 Glucose, fasting         186 mg/dL
+2026-03-23	Urine albumin/creatinine	367 mg/g
+2026-03-23	Potassium	4.4 mmol/L
+2026-03-23	Sodium  136 mmol/L
+2026-03-23	LDL cholesterol        101 mg/dL
+2026-03-23  Hemoglobin	13.9 g/dL
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+IMPRESSI0N AND PLAN
+1. DM: A1c 8.1%, improved from 9.3%. Reviewed diet and activity. Continue medications. Retina1 exam due.
+2. Diabetic chronic kidney disease, stage 3a: eGFR 46, UACR 367 mg/g. On empagliflozin and losartan; counseled on avoiding nephrotoxins. Repeat labs in 3 months.
+3. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+4. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+5. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+6. GERD: symptoms controlled on omeprazole. Continue.
+7. Diabetic foot exam comple-
+ted today. Retinal exam due; referral placed.
+
+PATIENT EDUCATION
+Patient verba1ized understanding of the plan.
+Reviewed sick-day rules for medications.
+
+Retum to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-03-24 12:42

@@ -1,0 +1,94 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0067    Age: 48    Sex: F
+Date of service: 2026-06-25    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 14
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+48-year-old woman here for a 4-month check-in. History of type 2 diabetes diagnosed 17 years ago. Notes some difficulty with diet recently; fasting sugars 106-135 mg/dL. No urinary symptoms. No foot ulcers or numbness reported. Mild bilateral knee stiffness in the mornings, unchanged.
+
+REVIEW OF SYSTEMS
+Eyes: no blurred vision; last dilated eye exam 2023.
+Endocrine: no po1yuria, polydipsia or heat or cold intolerance.
+Constitutional: denies fever, chills or unintended weight loss.
+Skin: no rashes or non-healing wounds.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD stage 3b
+- Hypothyroidism
+- Seasonal allergic rhinitis
+- GERD
+- Essential hypertension
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+- Right knee arthroscopy (2015)
+- Appendectomy (1988)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- levothyroxine 75 mcg daily
+- loratadine 10 mg as needed
+- omeprazole 20 mg daily
+- lisinopril 20 mg daily
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGlES
+Sulfa drugs (hives).
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Sister: hypothyroidism.
+Father: coronary artery disease, died age 78.
+
+SOCIAL HISTORY
+Never smoker.
+Lives with spouse. Retired bus driver.
+Alcohol: 1 to 2 drinks per week.
+
+VITALS
+BP 130/92 | HR 71 | Temp 97.8 F | Wt 60.5 kg | BMI 24.8 | SpO2 96%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+--- Page 2 of 3 --- FU-0067 --- printed 2026-07-05 ---
+Ext: no edema.
+
+LABS
+Date Test	Result
+2026-03-23  eGFR       36 mL/min/1.73m2
+2026-06-20    eGFR        35 mL/min/1.73m2
+2026-06-20	Creatinine  1.76 mg/dL
+2026-06-20   Hemoglobin A1c      9.4%
+2026-06-20	Glucose, fasting       154 mg/dL
+2026-06-20	Urine albumin/creatinine  304 mg/g
+2026-06-20	Potassium	4.3 mmol/L
+2026-06-20   Sodium	139 mmol/L
+2026-06-20    LDL cholesterol    77 mg/dL
+2026-06-20	Hemoglobin	12.9 g/dL
+
+ASSE-
+SSMENT/PLAN
+1. Type 2 diabetes mellitus: A1c 9.4%, up from 8.2%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+3. Hypertension: BP 130/92 today. Continue lisinopril 20 mg daily. Home BP log reviewed.
+4. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+5. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+6. Retinal exam due; referral placed. Colorectal cancer screening up to date.
+
+PATlENT EDUCATI0N
+Patient verbalized understanding of the plan.
+Reviewed carbohydrate counting handout.
+
+Retum to clinic in 6 months or sooner as needed.
+Total time 39 minutes, more than half in counseling and care coordination.
+Electronical1y signed: Synthetic Provider, MD 2026-06-25 09:51

@@ -1,0 +1,90 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0246    Age: 57    Sex: M
+Date of service: 2026-04-03    Visit type: Medical nutrition therapy visit, in person
+Clinician: Synthetic Dietitian, RD (Medical Nutrition Therapy)
+Location: Synthetic Primary Care Clinic, Room 8
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+57-year-old man presents for scheduled follow-up. History of type 2 diabetes diagnosed 13 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Energy fair. No new complaints today. Denies chest pain, shortness of breath or leg swelling.
+
+REVIEW OF SYSTEMS
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Genitou-
+rinary: no dysuria, hematuria or change in urine output.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Respiratory: no cough or dyspnea on exertion.
+Constitutional: denies fever, chills or unintended weight loss.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+
+PAST MEDlCAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+--- Page 2 of 3 --- FU-0246 --- printed 2026-04-04 ---
+- CKD, stage 3b
+- Obesity
+- Seasonal allergic rhinitis
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Right knee arthroscopy (2015)
+- Cataract extraction, left eye (2022)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+- atorvastatin 40 mg nightly
+Med rec done with patient’s pill bottles.
+
+ALLERGIES
+No known drug allergies.
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+Mother: hypertension.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Former smoker, quit 2004; 8 pack-years.
+Lives with spouse. Retired machinist.
+Walks 5 times per week, about 20 minutes.
+
+VITALS
+BP 147/82 | HR 82 | Temp 98.1 F | Wt 110.3 kg | BMI 37.0 | SpO2 97%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date  Test   Result
+2026-03-31	eGFR         31 mL/min/1.73m2
+2026-03-31	Creatinine    1.99 mg/dL
+2026-03-31	Hemoglobin A1c	6.6%
+2026-03-31 Glucose, fasting  118 mg/dL
+2026-03-31    Urine albumin/creatinine	177 mg/g
+2026-03-31	Potassium     5.1 mmol/L
+2026-03-31   Sodium         139 mmol/L
+2026-03-31	LDL cholesterol  73 mg/dL
+2026-03-31	Hemoglobin	11.6 g/dL
+
+ASSESSMENT/PLAN
+1. T2DM: A1c 6.6% (improved from 7.9%). Reviewed meal plan and carbohydrate counting; medications per provider.
+2. Chronic kidney disease stage 3b: Kidney labs reviewed with patient: eGFR 31, UACR 177 mg/g. Reviewed renal diet handout; continue empagliflozin as prescribed.
+3. Hyperlipidemia: managed by primary care provider.
+4. 0besity: managed by primary care provider.
+5. Allergic rhinitis: managed by primary care provider.
+6. Pneumococca1 vaccination up to date. Diabetic foot exam completed today.
+
+PATIENT EDUCATION
+Patient verbalized understanding of the plan.
+Discussed hypoglycemia recognition and treatment.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Dietitian, RD 2026-04-03 13:16

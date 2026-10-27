@@ -1,0 +1,95 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0287    Age: 56    Sex: M
+Date of service: 2026-03-07    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Physician
+Location: Synthetic Primary Care Clinic, Room 3
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 56-year-old man, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 6 years ago. Home glucose log reviewed, fasting values 118-172 mg/dL with occasional post-meal readings above 200. Mild bilateral knee stiffness in the mornings, unchanged. No polyuria or polydipsia. No visual changes.
+
+REVIEW OF SYSTEMS
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Respiratory: no cough or dyspnea on exertion.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Neurological: no numbness or tingling in the feet; no headaches.
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- semaglutide 0.5 mg weekly
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- levothyroxine 75 mcg daily
+- acetaminophen 650 mg as needed
+- loratadine 10 mg as needed
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+Codeine (nausea).
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease, stage 3b
+- Hypothyroidism
+- Obesity
+- Osteoarthritis, bilateral knees
+- Seasonal allergic rhinitis
+
+PAST SURGICAL HISTORY
+- Right knee arthroscopy (2015)
+- Cataract extraction, left eye (2022)
+- Cholecystectomy (2011)
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Former smoker, quit 2005; 7 pack-years.
+Lives with alone. Retired machinist.
+Works part time as a cashier.
+
+VITALS
+BP 134/70 | HR 77 | Temp 98.6 F | Wt 86.2 kg | BMI 32.4 | SpO2 95%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date  Test                        Result
+2025-07-26  eGFR                        32 mL/min/1.73m2
+2025-07-26  Creatinine                  1.93 mg/dL
+2026-03-06  eGFR                        41 mL/min/1.73m2
+2026-03-06  Creatinine                  1.51 mg/dL
+2026-03-06  Hemoglobin A1c              6.9%
+2026-03-06  Glucose, fasting            185 mg/dL
+2026-03-06  Urine albumin/creatinine    43 mg/g
+2026-03-06  Potassium                   4.5 mmol/L
+2026-03-06  Sodium                      136 mmol/L
+2026-03-06  LDL cholesterol             104 mg/dL
+2026-03-06  Hemoglobin                  13.4 g/dL
+
+ASSESSMENT AND PLAN
+1. T2DM: A1c 6.9% (up from 5.9%). Medications unchanged; reinforced carbohydrate counting.
+2. Chronic kidney disease, stage 3b: eGFR 41, UACR 43 mg/g. On dapagliflozin and losartan; counseled on avoiding nephrotoxins. Repeat labs in 3 months.
+3. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+4. Hypothyroid: clinically euthyroid. Continue current dose.
+5. Obesity: weight 86.2 kg. Continue lifestyle changes.
+6. Also on problem list: allergic rhinitis.
+7. Shingles vaccine series completed. Colorectal cancer screening up to date.
+
+PATIENT EDUCATION
+Encouraged 150 minutes of moderate activity weekly.
+Reviewed carbohydrate counting handout.
+
+Return to clinic in 4 months or sooner as needed.
+Total time 39 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Physician 2026-03-07

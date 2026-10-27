@@ -1,0 +1,90 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0178    Age: 50    Sex: M
+Date of service: 2026-02-12    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 14
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 50-year-old man, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 13 years ago. Brought meter today; morning values 106-152 mg/dL, no lows. Sleeping reasonably well. Mood is good. No urinary symptoms. No foot ulcers or numbness reported.
+
+REVIEW OF SYSTEMS
+Eyes: no blurred vision; last dilated eye exam 2025.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Constitutional: denies fever, chills or unintended weight loss.
+Respiratory: no cough or dyspnea on exertion.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Skin: no rashes or non-healing wounds.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- CKD stage 3b
+- Hypothyroidism
+- Hyperlipidemia
+- Seasonal allergic rhinitis
+
+PAST SURGICAL HISTORY
+- Tonsillectomy (childhood)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- levothyroxine 75 mcg daily
+- atorvastatin 40 mg nightly
+- loratadine 10 mg as needed
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+NKDA.
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Father: coronary artery disease, died age 74.
+
+SOCIAL HISTORY
+Never smoker.
+Lives with spouse. Retired machinist.
+Alcohol: 1 to 2 drinks per week.
+
+VITALS
+BP 141/71 | HR 77 | Temp 98.7 F | Wt 79.9 kg | BMI 27.4 | SpO2 98%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date  Test                        Result
+2025-04-04  eGFR                        35 mL/min/1.73m2
+2025-04-04  Creatinine                  1.76 mg/dL
+2025-10-14  eGFR                        34 mL/min/1.73m2
+2026-02-10  Hemoglobin A1c              9.5%
+2026-02-10  Glucose, fasting            182 mg/dL
+2026-02-10  LDL cholesterol             92 mg/dL
+2026-02-10  Hemoglobin                  13.3 g/dL
+
+ASSESSMENT AND PLAN
+(A/P carried forward from 2025-10-19; reviewed and unchanged.)
+1. Type 2 diabetes mellitus: A1c 9.5%, up from 8.1%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. CKD, stage 3b: Last eGFR 34 on 2025-10-14. Continue current renal regimen. Labs before next visit.
+3. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+4. Hyperlipidemia: LDL 92 mg/dL. Continue atorvastatin 40 mg.
+5. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+6. Dental visit within the past year. Colorectal cancer screening up to date.
+
+PATIENT EDUCATION
+Reviewed carbohydrate counting handout.
+Reviewed sick-day rules for medications.
+
+Return to clinic in 4 months or sooner as needed.
+Total time 38 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-02-12 08:15

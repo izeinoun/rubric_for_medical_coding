@@ -1,0 +1,91 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0267    Age: 49    Sex: F
+Date of service: 2026-03-10    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 8
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 49-year-old woman, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 17 years ago. Reports checking glucose a few times a week; fasting readings mostly 110-146 mg/dL. Mild bilateral knee stiffness in the mornings, unchanged. Appetite stable. Denies nausea or abdominal pain.
+
+REVIEW OF SYSTEMS
+Constitutional: denies fever, chills or unintended weight loss.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Neurological: no numbness or tingling in the feet; no headaches.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Skin: no rashes or non-healing wounds.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- levothyroxine 75 mcg daily
+- atorvastatin 40 mg nightly
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Penicillin (rash).
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease stage 3a
+- Osteoarthritis, bilateral knees
+- Hypothyroidism
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Colonoscopy with polypectomy (2021)
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 76.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Never smoker.
+Alcohol: rare.
+Lives with alone. Retired teacher.
+
+VITALS
+BP 133/85 | HR 74 | Temp 98.0 F | Wt 72.3 kg | BMI 27.9 | SpO2 96%
+
+LABS
+Date  Test                        Result
+2026-03-10  eGFR                        49 mL/min/1.73m2
+2026-03-10  Hemoglobin A1c              6.4%
+2026-03-10  Glucose, fasting            125 mg/dL
+2026-03-10  Urine albumin/creatinine    81 mg/g
+2026-03-10  Potassium                   4.6 mmol/L
+2026-03-10  Sodium                      137 mmol/L
+2026-03-10  LDL cholesterol             109 mg/dL
+2026-03-10  Hemoglobin                  13.7 g/dL
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+ASSESSMENT AND PLAN
+(Plan unchanged from visit of 2025-11-21.)
+1. T2DM: A1c 6.4% today (improved from 7.6%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+3. OA of knees: continue home exercises and acetaminophen PRN.
+4. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+5. CKD stage 3a: eGFR 49 today (2026-03-10), no prior for comparison. Continue dapagliflozin; recheck BMP in 3 months.
+6. Dental visit within the past year. Shingles vaccine series completed.
+
+PATIENT EDUCATION
+Discussed hypoglycemia recognition and treatment.
+Reviewed sick-day rules for medications.
+
+Return to clinic in 3 months or sooner as needed.
+Total time 39 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-03-10 13:16

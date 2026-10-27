@@ -1,0 +1,101 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0114    Age: 69    Sex: F
+Date of service: 2026-03-28    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 9
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 69-year-old woman, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 11 years ago. States adherence to medications is good. Denies hypoglycemic episodes. No urinary symptoms. No foot ulcers or numbness reported. Sleeping reasonably well. Mood is good.
+
+REVIEW OF SYSTEMS
+Respiratory: no cough or dyspnea on exertion.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Skin: no rashes or non-healing wounds.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on ora1 agents
+- Chronic kidney disease, stage 3a
+- Seasonal allergic rhinitis
+- Essential hypertension
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Tonsillectomy (childhood)
+- Appendectomy (1988)
+- Colonoscopy with polypectomy (2021)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- semaglutide 0.5 mg weekly
+- empagliflozin 10 mg daily
+- loratadine 10 mg as needed
+- lisinopril 20 mg daily
+- atorvast-
+atin 40 mg nightly
+Med rec done with patient’s pill bottles.
+
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+Mother: hypertension.
+Father: coronary artery disease, died age 77.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Never smoker.
+Lives with alone. Retired teacher.
+Alcohol: none.
+
+VITALS
+BP 128/76 | HR 75 | Temp 98.1 F | Wt 84.4 kg | BMI 28.2 | SpO2 99%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date	Test	Result
+2025-08-19	eGFR         49 mL/min/1.73m2
+--- Page 2 of 3 --- FU-0114 --- printed 2026-04-13 ---
+2026-03-27	eGFR	48 mL/min/1.73m2
+2026-03-27    Creatinine   1.29 mg/dL
+2026-03-27	Hemoglobin A1c   8.3%
+2026-03-27	Glucose, fasting      148 mg/dL
+2026-03-27	Urine albumin/creatinine	85 mg/g
+2026-03-27    Potassium     4.8 mmol/L
+2026-03-27   Sodium 138 mmol/L
+2026-03-27    LDL cholesterol 128 mg/dL
+2026-03-27	Hemoglobin     13.5 g/dL
+
+FROM LAST OFFICE VISIT (2025-08-20)
+(For reference only; not today’s assessment.)
+T2DM: A1c 8.9% at that visit; continued medica-
+tions.
+Chronic kidney disease stage 3a: eGFR 49 at that visit; continued 1isino-
+pril.
+Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+
+IMPRESSION AND PLAN
+1. T2DM: A1c 8.3% today (improved from 8.9%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Allergic rhinitis: seasona1 symptoms; continue loratadine PRN.
+3. Chronic kidney disease stage 3a: Per nephrology; see their note.
+4. A1so on problem list: hypertension, hyperlipidemia.
+5. Pneumococcal vaccination up to date. Shingles vaccine series completed.
+
+PATlENT EDUCATION
+Reviewed carbohydrate counting handout.
+Reviewed sick-day rules for medications.
+
+Retum to clinic in 4 months or sooner as needed.
+Total time 41 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-03-28 15:18

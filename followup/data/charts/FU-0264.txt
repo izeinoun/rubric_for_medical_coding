@@ -1,0 +1,98 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0264    Age: 71    Sex: M
+Date of service: 2026-07-21    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Associate, PA-C (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 4
+
+CHIEF COMPL-
+AINT
+Fo1low-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 71-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 19 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Sleeping reasonably well. Mood is good. Energy fair. No new complaints today.
+
+REVIEW OF SYSTEMS
+Constitutional: denies fever, chills or unintended weight loss.
+Eyes: no blurred vision; last dilated eye exam 2024.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Respiratory: no cough or dyspnea on exertion.
+Neurological: no numbness or tingling in the feet; no headaches.
+Skin: no rashes or non-healing wounds.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD, stage 3b
+- GERD
+- Hypothyroidism
+- Hyperlipidemia
+- Osteoarthritis, bilateral knees
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+
+--- Page 2 of 3 --- FU-0264 --- printed 2026-07-26 ---
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- semaglutide 0.5 mg weekly
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- omeprazole 20 mg daily
+- levothyroxine 75 mcg daily
+- atorvastatin 40 mg nightly
+- acetaminophen 650 mg as needed
+Med rec done with patient’s pill bottles.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+Father: coronary artery disease, died age 76.
+
+SOCIAL HISTORY
+Former smoker, quit 2004; 12 pack-years.
+Works part time as a librarian.
+Alcohol: none.
+
+VITALS
+BP 118/74 | HR 67 | Temp 98.7 F | Wt 101.4 kg | BMI 29.3 | SpO2 97%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Ext-
+remities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date	Test     Result
+2026-04-16	eGFR   30 mL/min/1.73m2
+2026-04-16	Creatinine   2.06 mg/dL
+2026-07-16  eGFR         40 mL/min/1.73m2
+2026-07-16 Creatinine	1.54 mg/dL
+2026-07-16 Hemoglobin A1c	6.6%
+2026-07-16	Glucose, fasting         134 mg/dL
+2026-07-16  Urine albumin/creatinine         225 mg/g
+2026-07-16 Potassium     4.9 mmol/L
+2026-07-16    Sodium         138 mmol/L
+2026-07-16 LDL cholesterol       131 mg/dL
+2026-07-16    Hemoglobin   11.9 g/dL
+
+IMPRESSION AND PLAN
+1. Type 2 diabetes mellitus: A1c 6.6% today (improved from 7.5%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+3. Hyperlipidemia: LDL 131 mg/dL. Continue atorvastatin 40 mg.
+4. GERD: symptoms controlled on omeprazole. Continue.
+5. OA of knees: continue home exercises and acetaminophen PRN.
+6. Influenza vaccine given this season. Shingles vaccine series completed.
+
+PATIENT EDUCATI0N
+Patient verbalized understanding of the plan.
+Reviewed sick-day rules for medications.
+
+Retum to clinic in 4 months or sooner as needed.
+Total time 45 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Associate, PA-C 2026-07-21 16:28

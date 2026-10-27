@@ -1,0 +1,87 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0184    Age: 84    Sex: F
+Date of service: 2026-05-18    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 6
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+84-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 21 years ago. Reports checking glucose daily; fasting readings mostly 121-162 mg/dL. Denies chest pain, shortness of breath or leg swelling. Energy fair. No new complaints today.
+
+REVIEW OF SYSTEMS
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Neurological: no numbness or tingling in the feet; no headaches.
+Skin: no rashes or non-hea1ing wounds.
+Respiratory: no cough or dyspnea on exertion.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Penicillin (rash).
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease stage 3b
+- Obesity
+- Seasonal allergic rhinitis
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 71.
+Brother: hyperlipidemia.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Never smoker.
+Works part time as a cashier.
+Alcohol: none.
+
+VITALS
+BP 123/92 | HR 91 | Temp 98.5 F | Wt 98.6 kg | BMI 36.5 | SpO2 96%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date	Test        Result
+2025-10-27	eGFR	41 mL/min/1.73m2
+2026-05-13   eGFR         36 mL/min/1.73m2
+2026-05-13    Creatinine        1.72 mg/dL
+2026-05-13   Hemoglobin A1c	9.1%
+2026-05-13	Glucose, fasting	159 mg/dL
+2026-05-13  Urine albumin/creatinine 161 mg/g
+--- Page 2 of 3 --- FU-0184 --- printed 2026-05-19 ---
+2026-05-13	Potassium        4.8 mmol/L
+2026-05-13  Sodium  140 mmol/L
+2026-05-13    LDL choles-
+terol	96 mg/dL
+2026-05-13 Hemoglobin	14.6 g/dL
+
+ASSESSMENT AND PLAN
+1. T2DM: A1c 9.1% (up from 7.9%). Medications unchanged; reinforced carbohydrate counting.
+2. 0besity, BMI 36.5: discussed nutrition and activity goals; referred to dietitian.
+3. CKD stage 3b, likely diabetic nephropathy: eGFR 36 today (stable from 41). Continue empagliflozin. Recheck BMP and urine albumin-to-creatinine ratio in 3 months.
+4. Problem list reviewed: allergic rhinitis.
+5. Dental visit within the past year. Shingles vaccine series completed.
+
+PATlENT EDUCATI0N
+Discussed hypoglycemia recognition and treatment.
+Reviewed sick-day ru1es for medications.
+
+Retum to clinic in 4 months or sooner as needed.
+Electro-
+nically signed: Synthetic Provider, MD 2026-05-18 14:45

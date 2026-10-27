@@ -1,0 +1,90 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0047    Age: 82    Sex: F
+Date of service: 2026-06-16    Visit type: Nurse visit, diabetes education, in person
+Clinician: Synthetic Nurse, RN (Diabetes Education)
+Location: Synthetic Primary Care Clinic, Room 7
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 82-year-old woman returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 15 years ago. Brought meter today; morning values 117-167 mg/dL, no lows. Denies chest pain, shortness of breath or leg swelling. Sleeping reasonably well. Mood is good.
+
+REVIEW OF SYSTEMS
+Constitutional: denies fever, chills or unintended weight loss.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Respiratory: no cough or dyspnea on exertion.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease, stage 3a
+- Essential hypertension
+- Seasonal allergic rhinitis
+- Osteoarthritis, bilateral knees
+- GERD
+
+PAST SURGICAL HISTORY
+- Colonoscopy with polypectomy (2021)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- loratadine 10 mg as needed
+- acetaminophen 650 mg as needed
+- omeprazole 20 mg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+NKDA.
+
+FAMILY HISTORY
+Mother: hypertension.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Never smoker.
+Alcohol: none.
+Lives with alone. Retired teacher.
+
+VITALS
+BP 127/68 | HR 72 | Temp 98.1 F | Wt 77.3 kg | BMI 28.7 | SpO2 95%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date  Test                        Result
+2025-12-22  eGFR                        59 mL/min/1.73m2
+2026-06-15  eGFR                        47 mL/min/1.73m2
+2026-06-15  Hemoglobin A1c              7.8%
+2026-06-15  Glucose, fasting            137 mg/dL
+2026-06-15  Urine albumin/creatinine    268 mg/g
+2026-06-15  Potassium                   4.7 mmol/L
+2026-06-15  Sodium                      142 mmol/L
+2026-06-15  LDL cholesterol             120 mg/dL
+2026-06-15  Hemoglobin                  12.4 g/dL
+
+ASSESSMENT/PLAN
+1. T2DM: A1c 7.8% (up from 7.4%). Reviewed meal plan and carbohydrate counting; medications per provider.
+2. GERD: managed by primary care provider.
+3. Hypertension: managed by primary care provider.
+4. Diabetic kidney disease, CKD stage 3a: Kidney labs reviewed with patient: eGFR 47, UACR 268 mg/g. Reviewed renal diet handout; continue dapagliflozin as prescribed.
+5. Knee osteoarthritis: managed by primary care provider.
+6. Allergic rhinitis: managed by primary care provider.
+7. Influenza vaccine given this season. Pneumococcal vaccination up to date.
+
+PATIENT EDUCATION
+Reviewed carbohydrate counting handout.
+Reviewed sick-day rules for medications.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Nurse, RN 2026-06-16 09:59

@@ -1,0 +1,92 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0145    Age: 51    Sex: F
+Date of service: 2026-01-31    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Associate, PA-C (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 10
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 51-year-old woman, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 10 years ago. Brought meter today; morning values 126-136 mg/dL, no lows. Mild bilateral knee stiffness in the mornings, unchanged. No polyuria or polydipsia. No visual changes.
+
+REVIEW 0F SYSTEMS
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Respiratory: no cough or dyspnea on exertion.
+Neurological: no numbness or tingling in the feet; no headaches.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Eyes: no blurred vision; last dilated eye exam 2024.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD, stage 3b
+- Obesity
+- Hypothyroidism
+- Seasonal allergic rhinitis
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+- Right knee arthroscopy (2015)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- levothyroxine 75 mcg daily
+- loratadine 10 mg as needed
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+Mother: hypertension.
+No family history of kidney disease reported.
+Brother: hyperlipidemia.
+
+SOClAL HISTORY
+Never smoker.
+Lives with a1one. Retired accountant.
+Walks 3 times per week, about 20 minutes.
+
+VITALS
+BP 138/91 | HR 84 | Temp 98.7 F | Wt 88.3 kg | BMI 33.8 | SpO2 94%
+--- Page 2 of 3 --- FU-0145 --- printed 2026-02-14 ---
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date Test	Result
+2025-07-05  eGFR	30 mL/min/1.73m2
+2026-01-27	eGFR     41 mL/min/1.73m2
+2026-01-27   Hemoglobin A1c	7.3%
+2026-01-27	Glucose, fasting     154 mg/dL
+2026-01-27   Urine albumin/creatinine 133 mg/g
+2026-01-27	Potassium  3.9 mmol/L
+2026-01-27	Sodium     138 mmol/L
+2026-01-27 LDL cholesterol	90 mg/dL
+2026-01-27	Hemoglobin	11.5 g/dL
+
+IMPRESSION AND PLAN
+1. Diabetes mellitus, type 2: A1c 7.3%, up from 6.2%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Hyp-
+othyroidism: TSH within range. Continue levothyroxine 75 mcg.
+3. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+4. 0ther chronic problems reviewed: obesity, CKD 3b.
+5. Influenza vaccine given this season. Dental visit within the past year.
+
+PATIENT EDUCATI0N
+Reviewed sick-day rules for medications.
+Patient verbalized understanding of the plan.
+
+Retum to clinic in 6 months or sooner as needed.
+Total time 43 minutes, more than half in counseling and care coordination.
+Electro-
+nically signed: Synthetic Associate, PA-C 2026-01-31 08:35

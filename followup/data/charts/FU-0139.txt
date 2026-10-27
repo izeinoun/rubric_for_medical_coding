@@ -1,0 +1,73 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0139    Age: 65    Sex: F
+Date of service: 2026-04-22    Visit type: Interprofessional e-consult (chart review; patient not seen)
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 11
+
+REASON FOR E-CONSULT
+Question from primary care team about diabetes and kidney function management.
+
+HISTORY OF PRESENT ILLNESS
+Chart reviewed for 65-year-old woman; patient not seen or examined for this consult. History of type 2 diabetes diagnosed 15 years ago. Glucose log documented at last office visit: fasting 106-153 mg/dL.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- CKD stage 3a
+- GERD
+- Essential hypertension
+- Seasonal allergic rhinitis
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+- Cholecystectomy (2011)
+- Colonoscopy with polypectomy (2021)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- omeprazole 20 mg daily
+- lisinopril 20 mg daily
+- loratadine 10 mg as needed
+Medication list taken from the chart; not reconciled with the patient.
+
+ALLERGIES
+Penicillin (rash).
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 71.
+No family history of kidney disease reported.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Former smoker, quit 2009; 20 pack-years.
+Works part time as a cashier.
+Walks 2 times per week, about 20 minutes.
+
+VITALS
+Last recorded in clinic: BP 139/90, weight 66.9 kg (not measured today).
+
+EXAM
+Not performed; patient not seen for this e-consult.
+
+LABS
+Date  Test                        Result
+2026-01-09  eGFR                        59 mL/min/1.73m2
+2026-01-09  Creatinine                  1.05 mg/dL
+2026-04-20  eGFR                        50 mL/min/1.73m2
+2026-04-20  Hemoglobin A1c              8.3%
+2026-04-20  Glucose, fasting            135 mg/dL
+2026-04-20  Urine albumin/creatinine    125 mg/g
+2026-04-20  Potassium                   4.6 mmol/L
+2026-04-20  Sodium                      141 mmol/L
+2026-04-20  LDL cholesterol             115 mg/dL
+2026-04-20  Hemoglobin                  13.8 g/dL
+
+E-CONSULT ASSESSMENT AND RECOMMENDATIONS
+1. Type 2 diabetes mellitus: A1c 8.3% (up from 7.5%). Recommend continuing the current regimen.
+2. Allergic rhinitis: stable per chart review; no change recommended.
+3. CKD stage 3a: Latest eGFR 50 (down from 59), UACR 125 mg/g. Recommend continuing lisinopril and empagliflozin; repeat BMP and UACR in 3 months.
+4. Hypertension: stable per chart review; no change recommended.
+5. GERD: stable per chart review; no change recommended.
+
+Recommendations sent to the primary care team. Total time spent on chart review: 15 minutes.
+Electronically signed: Synthetic Provider, MD 2026-04-22 11:14

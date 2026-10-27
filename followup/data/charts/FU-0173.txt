@@ -1,0 +1,92 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0173    Age: 58    Sex: F
+Date of service: 2026-05-31    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Practitioner, FNP-C (Primary Care)
+Location: Synthetic Primary Care Clinic, Room 3
+
+CHIEF COMPLAINT
+3-month fo1low-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 58-year-old woman, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 17 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Appetite stable. Denies nausea or abdominal pain. Energy fair. No new complaints today.
+
+REVIEW OF SYSTEMS
+Skin: no rashes or non-healing wounds.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Genitourinary: no dysuria, hematuria or change in urine output.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease, stage 3a
+- Obesity
+- Hyperlipidemia
+- Essential hypertension
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- semaglutide 0.5 mg weekly
+- dapagliflozin 10 mg daily
+- atorvastatin 40 mg nightly
+- lisinopril 20 mg daily
+Med rec done with patient’s pill bottles.
+
+ALLERGIES
+Penicillin (rash).
+
+FAMILY HISTORY
+Mother: hypertension.
+--- Page 2 of 3 --- FU-0173 --- printed 2026-06-13 ---
+No family history of kidney disease reported.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Never smoker.
+Alcohol: 1 to 2 drinks per week.
+Walks 5 times per week, about 20 minutes.
+
+VITALS
+BP 135/82 | HR 90 | Temp 98.6 F | Wt 97.9 kg | BMI 37.4 | Sp02 98%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date  Test	Result
+2026-02-06	eGFR        52 mL/min/1.73m2
+2026-02-06	Creatinine	1.19 mg/dL
+2026-05-27  eGFR  49 mL/min/1.73m2
+2026-05-27   Creatinine	1.26 mg/dL
+2026-05-27	Hemoglobin A1c    7.6%
+2026-05-27 Glucose, fasting	106 mg/dL
+2026-05-27  Urine albumin/creatinine        154 mg/g
+2026-05-27	Potassium      4.3 mmol/L
+2026-05-27	Sodium	139 mmol/L
+2026-05-27	LDL cholesterol     69 mg/dL
+2026-05-27  Hemoglobin   12.4 g/dL
+
+IMPRESSION AND PLAN
+1. T2DM: A1c 7.6%, up from 6.2%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Essential hypertension: BP 135/82. Reinforced low-sodium diet; continue lisinopril 20 mg.
+3. Hyperlipidemia: LDL 69 mg/dL. Continue atorvastatin 40 mg.
+4. CKD stage 3a secondary to type 2 diabetes: Renal function reviewed: eGFR 49 (stable from 52). Continue lisinopril and dapagliflozin. Avoid NSAlDs. Nephro1ogy follow-up as scheduled.
+5. Also on problem list: obesity.
+6. Colorectal cancer screening up to date. Shingles vaccine series completed.
+
+PATIENT EDUCATI0N
+Discussed hypoglycemia recognition and treatment.
+Encouraged 150 minutes of moderate activity weekly.
+
+Retum to clinic in 4 months or sooner as needed.
+Total time 35 minutes, more than half in couns-
+eling and care coordination.
+Electronically signed: Synthetic Practitioner, FNP-C 2026-05-31 13:07

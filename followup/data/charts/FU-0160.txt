@@ -1,0 +1,94 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0160    Age: 83    Sex: M
+Date of service: 2026-05-08    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 5
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 83-year-old man, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 20 years ago. Reports checking glucose a few times a week; fasting readings
+--- Page 2 of 3 --- FU-0160 --- printed 2026-05-14 ---
+mostly 127-139 mg/dL. Mild bilateral knee sti-
+ffness in the mornings, unchanged. Energy fair. No new complaints today.
+
+REVIEW OF SYSTEMS
+Constitutional: denies fever, chills or unintended weight loss.
+Respiratory: no cough or dyspnea on exertion.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+
+MEDlCATIONS
+- metformin 1000 mg twice daily (dose being reduced today)
+- dapagliflozin 10 mg daily
+- acetaminophen 650 mg as needed
+- lisinopril 20 mg daily
+- omeprazole 20 mg daily
+- levothyroxine 75 mcg daily
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGlES
+NKDA.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease, stage 3b
+- Osteoarthritis, bilateral knees
+- Essential hypertension
+- GERD
+- Hypothyroidism
+
+PAST SURGICAL HISTORY
+- Right knee arthroscopy (2015)
+
+FAMILY HISTORY
+Mother: hypertension.
+Father: coronary artery disease, died age 71.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Never smoker.
+Works part time as a consultant.
+Alcohol: none.
+
+VITALS
+BP 120/90 | HR 79 | Temp 98.0 F | Wt 72.9 kg | BMI 24.1 | SpO2 99%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date Test       Result
+2026-05-07    eGFR   40 mL/min/1.73m2
+2026-05-07	Hemogl-
+obin A1c         7.4%
+2026-05-07  Glucose, fasting    176 mg/dL
+2026-05-07 Urine albumin/creatinine	401 mg/g
+2026-05-07    Potassium       4.6 mmol/L
+2026-05-07	Sodium	142 mmol/L
+2026-05-07	LDL cholesterol   60 mg/dL
+2026-05-07 Hemoglobin	12.0 g/dL
+
+IMPRESSI0N AND PLAN
+1. Diabetes mellitus, type 2: A1c 7.4% (up from 6.9%). Metformin reduced to 500 mg twice daily because eGFR is now 40 (no prior for comparison).
+2. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+3. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+4. Ess-
+ential hypertension: BP 120/90. Reinforced low-sodium diet; continue 1isinopril 20 mg.
+5. GERD: symptoms controlled on omeprazole. Continue.
+6. Pneumococcal vaccination up to date. Diabetic foot exam completed today.
+
+PATIENT EDUCATION
+Encouraged 150 minutes of moderate activity weekly.
+Discussed hypoglycemia recognition and treatment.
+
+Retum to c1inic in 6 months or sooner as needed.
+Total time 45 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-05-08 08:36

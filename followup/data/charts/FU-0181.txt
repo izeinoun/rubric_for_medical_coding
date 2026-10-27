@@ -1,0 +1,91 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0181    Age: 72    Sex: M
+Date of service: 2026-03-30    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 3
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+72-year-old man presents for scheduled follow-up. History of type 2 diabetes diagnosed 13 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Appetite stable. Denies nausea or abdominal pain. Energy fair. No new comp1aints today.
+
+REVIEW OF SYSTEMS
+Skin: no rashes or non-healing wounds.
+Constituti-
+onal: denies fever, chills or unintended weight loss.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Neurological: no numbness or tingling in the feet; no headaches.
+
+PAST MEDICAL HISTORY / PR0BLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease
+- Hyperlipidemia
+- GERD
+- Osteoarthritis, bilateral knees
+- Hypothyroidism
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- atorvastatin 40 mg nightly
+- omeprazole 20 mg daily
+- acetaminophen 650 mg as needed
+- levothyroxine 75 mcg daily
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+NKDA.
+
+FAMILY HISTORY
+Mother: hypertension.
+Father: coronary artery disease, died age 68.
+
+SOCIAL HISTORY
+Never smoker.
+Walks 3 times per week, about 20 minutes.
+Works part time as a consultant.
+
+VITALS
+BP 147/79 | HR 91 | Temp 97.7 F | Wt 88.0 kg | BMl 25.7 | SpO2 97%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date   Test        Result
+2026-03-26   eGFR     31 mL/min/1.73m2
+2026-03-26  Hemoglobin A1c         7.5%
+2026-03-26	Glucose, fasting       126 mg/dL
+2026-03-26    Urine albumin/creatinine   117 mg/g
+2026-03-26 Potassium	4.5 mmol/L
+2026-03-26   Sodium	139 mmol/L
+2026-03-26	LDL cholesterol     113 mg/dL
+2026-03-26 Hemoglobin    14.2 g/dL
+
+ASSESSMENT AND PLAN
+1. T2DM: A1c 7.5% today (improved from 8.4%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+3. GERD: symptoms controlled on omeprazole. Continue.
+4. Hypothyroid: clinically euthyroid. Continue current dose.
+5. OA of knees: continue home exercises and acetaminophen PRN.
+6. Retinal exam due; referral placed. Diabetic foot exam completed today.
+
+PATlENT EDUCATI0N
+Patient verbalized understanding of the plan.
+Encouraged 150 minutes of moderate activity weekly.
+
+Retum to clinic in 3 months or sooner as needed.
+--- Page 2 of 3 --- FU-0181 --- printed 2026-04-14 ---
+Total time 34 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-03-30 14:20

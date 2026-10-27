@@ -1,0 +1,94 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0072    Age: 67    Sex: M
+Date of service: 2026-09-11    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider
+Location: Synthetic Primary Care Clinic, Room 8
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+67-year-old man seen today for routine chronic care. History of type 2 diabetes diagnosed 11 years ago. Home glucose log reviewed, fasting values 117-150 mg/dL with occasional post-meal readings above 200. Sleeping reasonably well. Mood is good. Appetite stable. Denies nausea or abdominal pain.
+
+REVIEW OF SYSTEMS
+Skin: no rashes or non-healing wounds.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Eyes: no blurred vision; last dilated eye exam 2024.
+Respiratory: no cough or dyspnea on exertion.
+Neurological: no numbness or tingling in the feet; no headaches.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD stage 3b
+- GERD
+- Osteoarthritis, bilateral knees
+- Obesity
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+- Cholecystectomy (2011)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- omeprazole 20 mg daily
+- acetaminophen 650 mg as needed
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Mother: hypertension.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Former smoker, quit 2004; 13 pack-years.
+Alcohol: rare.
+Works part time as a librarian.
+
+VITALS
+BP 125/89 | HR 90 | Temp 97.7 F | Wt 94.8 kg | BMI 35.0 | SpO2 97%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date  Test                        Result
+2026-04-30  eGFR                        35 mL/min/1.73m2
+2026-04-30  Creatinine                  1.76 mg/dL
+2026-09-08  eGFR                        36 mL/min/1.73m2
+2026-09-08  Creatinine                  1.72 mg/dL
+2026-09-08  Hemoglobin A1c              8.9%
+2026-09-08  Glucose, fasting            140 mg/dL
+2026-09-08  Urine albumin/creatinine    211 mg/g
+2026-09-08  Potassium                   5.1 mmol/L
+2026-09-08  Sodium                      138 mmol/L
+2026-09-08  LDL cholesterol             74 mg/dL
+2026-09-08  Hemoglobin                  13.5 g/dL
+
+ASSESSMENT/PLAN
+1. T2DM: A1c 8.9% (up from 8.6%). Medications unchanged; reinforced carbohydrate counting.
+2. Obesity: weight 94.8 kg. Continue lifestyle changes.
+3. OA of knees: continue home exercises and acetaminophen PRN.
+4. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+5. Chronic kidney disease stage 3b due to type 2 diabetes: Latest eGFR 36 (stable from 35); potassium acceptable. Continue losartan and empagliflozin. BMP in 3 months.
+6. Influenza vaccine given this season. Colorectal cancer screening up to date.
+
+PATIENT EDUCATION
+Reviewed carbohydrate counting handout.
+Encouraged 150 minutes of moderate activity weekly.
+
+Return to clinic in 3 months or sooner as needed.
+Total time 42 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider 2026-09-11

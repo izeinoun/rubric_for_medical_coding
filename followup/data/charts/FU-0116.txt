@@ -1,0 +1,95 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0116    Age: 73    Sex: F
+Date of service: 2026-07-07    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Associate, PA-C (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 3
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+73-year-old woman here for a 6-month check-in. History of type 2 diabetes diagnosed 20 years ago. Reports checking glucose daily; fasting readings mostly 123-167 mg/dL. Sleeping reasonably well. Mood is good. No urinary symptoms. No foot ulcers or numbness reported.
+
+REVIEW OF SYSTEMS
+Neurological: no numbness or tingling in the feet; no headaches.
+Respiratory: no cough or dyspnea on exertion.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Skin: no rashes or non-healing wounds.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Constitutional: denies fever, chills or unintended weight loss.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- levothyroxine 75 mcg daily
+- omeprazole 20 mg daily
+- lisinopril 20 mg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Codeine (nausea).
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease, stage 3a
+- Obesity
+- Hypothyroidism
+- GERD
+- Essential hypertension
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+- Tonsillectomy (childhood)
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Sister: hypothyroidism.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Never smoker.
+Works part time as a librarian.
+Walks 4 times per week, about 20 minutes.
+
+VITALS
+BP 129/90 | HR 71 | Temp 98.0 F | Wt 89.0 kg | BMI 38.3 | SpO2 94%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date  Test                        Result
+2026-03-05  eGFR                        49 mL/min/1.73m2
+2026-07-07  eGFR                        50 mL/min/1.73m2
+2026-07-07  Creatinine                  1.24 mg/dL
+2026-07-07  Hemoglobin A1c              6.6%
+2026-07-07  Glucose, fasting            120 mg/dL
+2026-07-07  Urine albumin/creatinine    311 mg/g
+2026-07-07  Potassium                   4.4 mmol/L
+2026-07-07  Sodium                      140 mmol/L
+2026-07-07  LDL cholesterol             61 mg/dL
+2026-07-07  Hemoglobin                  12.9 g/dL
+
+ASSESSMENT/PLAN
+(A/P carried forward from 2026-01-29; reviewed and unchanged.)
+1. T2DM: A1c 6.6% today (improved from 7.3%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Essential hypertension: BP 129/90. Reinforced low-sodium diet; continue lisinopril 20 mg.
+3. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+4. Diabetic chronic kidney disease, stage 3a: eGFR 49 (2026-03-05), stable at that time. Continue regimen as previously outlined. Update today: eGFR 50 (2026-07-07), stable from 49; continue dapagliflozin.
+5. Obesity: weight 89.0 kg. Continue lifestyle changes.
+6. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+7. Colorectal cancer screening up to date. Shingles vaccine series completed.
+
+PATIENT EDUCATION
+Encouraged 150 minutes of moderate activity weekly.
+Reviewed carbohydrate counting handout.
+
+Return to clinic in 3 months or sooner as needed.
+Total time 29 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Associate, PA-C 2026-07-07 16:18

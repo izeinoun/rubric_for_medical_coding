@@ -1,0 +1,93 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0257    Age: 52    Sex: F
+Date of service: 2026-06-19    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Physician, DO (Family Medicine)
+Location: Synthetic Primary Care Clinic, Room 8
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 52-year-old woman returning for follow-up of chronic conditions. History
+--- Page 2 of 3 --- FU-0257 --- printed 2026-06-23 ---
+of type 2 diabetes diagnosed 12 years ago. Brought meter today; morning values 107-144 mg/dL, no lows. Recent kidney labs: eGFR was 37 on 2025-12-20 and 32 on 2026-06-16. No polyuria or polydipsia. No visual changes. Appetite stable. Denies nausea or abdominal pain.
+
+REVIEW OF SYSTEMS
+Endoc-
+rine: no polyuria, polydipsia or heat or cold intolerance.
+Constitutional: denies fever, chills or unintended weight loss.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Skin: no rashes or non-healing wounds.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- semaglutide 0.5 mg weekly
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- atorvastatin 40 mg nightly
+- levothyroxine 75 mcg daily
+- acetaminophen 650 mg as needed
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Codeine (nausea).
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD stage 3b
+- Hyperlipidemia
+- Hypothyroidism
+- Osteoarthritis, bilateral knees
+- Obesity
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+- Right knee arthroscopy (2015)
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Former smoker, quit 2005; 21 pack-years.
+Alcohol: 1 to 2 drinks per week.
+Works part time as a librarian.
+
+VlTALS
+BP 119/88 | HR 83 | Temp 97.8 F | Wt 101.4 kg | BMI 35.9 | SpO2 99%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date Test        Result
+2026-06-16    Creatinine	1.93 mg/dL
+2026-06-16    Hemoglobin A1c	7.1%
+2026-06-16 Glucose, fasting	105 mg/dL
+2026-06-16	Urine albumin/creatinine	44 mg/g
+2026-06-16  Potassium 4.4 mmol/L
+2026-06-16    Sodium      136 mmol/L
+2026-06-16	LDL cholesterol 130 mg/dL
+2026-06-16	Hemoglobin 13.2 g/dL
+
+ASSESSMENT AND PLAN
+1. Diabetes mellitus, type 2: A1c 7.1% (up from 6.2%). Medications unchanged; reinforced carbohydrate counting.
+2. 0A of knees: continue home exercises and acetaminophen PRN.
+3. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+4. Obesity: weight 101.4 kg. Continue lifestyle changes.
+5. Hyperlipidemia: LDL 130 mg/dL. Continue atorvastatin 40 mg.
+6. Influenza vaccine given this season. Diabetic foot exam completed today.
+
+PATIENT EDUCATI0N
+Reviewed carbohydrate counting handout.
+Reviewed sick-day rules for medications.
+
+Retum to clinic in 3 months or sooner as needed.
+E1ectronically signed: Synthetic Physician, D0 2026-06-19 09:51

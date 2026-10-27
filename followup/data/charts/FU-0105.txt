@@ -1,0 +1,95 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0105    Age: 84    Sex: M
+Date of service: 2026-09-10    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Practitioner, FNP-C (Primary Care)
+Location: Synthetic Primary Care Clinic, Room 2
+
+CHIEF COMPLAINT
+Diabetes check and lab review.
+
+HISTORY OF PRESENT ILLNESS
+84-year-old man presents for scheduled follow-up. Steroid-induced diabetes since starting long-term prednisone for polymyalgia rheumatica in 2020. Has been trying to walk 2 times per week. Glucose readings 106-165 mg/dL fasting. No urinary symptoms. No foot ulcers or numbness reported. Denies chest pain, shortness of breath or leg swelling.
+
+REVIEW OF SYSTEMS
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Neurological: no numbness or tingling in the feet; no headaches.
+Eyes: no blurred vision; last dilated eye exam 2024.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Skin: no rashes or non-healing wounds.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Constitutional: denies fever, chills or unintended weight loss.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Steroid-induced diabetes mellitus
+- Chronic kidney disease, stage 4
+- Osteoarthritis, bilateral knees
+- Hyperlipidemia
+- Polymyalgia rheumatica, on long-term prednisone
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+- Colonoscopy with polypectomy (2021)
+
+MEDICATIONS
+- prednisone 10 mg daily (polymyalgia rheumatica)
+- glipizide 5 mg daily
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- atorvastatin 40 mg nightly
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Sister: hypothyroidism.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Never smoker.
+Alcohol: rare.
+Lives with alone. Retired accountant.
+
+VITALS
+BP 136/86 | HR 64 | Temp 98.2 F | Wt 82.5 kg | BMI 24.0 | SpO2 95%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date  Test                        Result
+2026-09-06  eGFR                        22 mL/min/1.73m2
+2026-09-06  Creatinine                  2.81 mg/dL
+2026-09-06  Hemoglobin A1c              8.5%
+2026-09-06  Glucose, fasting            135 mg/dL
+2026-09-06  Urine albumin/creatinine    99 mg/g
+2026-09-06  Potassium                   4.7 mmol/L
+2026-09-06  Sodium                      138 mmol/L
+2026-09-06  LDL cholesterol             88 mg/dL
+2026-09-06  Hemoglobin                  12.7 g/dL
+
+PRIOR VISIT SUMMARY (2026-05-23)
+(For reference only; not today's assessment.)
+Steroid-induced diabetes mellitus: A1c 7.4% at that visit; continued medications.
+Chronic kidney disease stage 4: continued losartan.
+Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+
+ASSESSMENT/PLAN
+1. Steroid-induced diabetes mellitus: A1c 8.5% (up from 7.4%). Continue current regimen; reviewed glucose log.
+2. Chronic kidney disease stage 4: eGFR 22 (no prior for comparison). Metformin discontinued given renal function. Continue empagliflozin. Referred to nephrology for co-management.
+3. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+4. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+5. Influenza vaccine given this season. Shingles vaccine series completed.
+
+PATIENT EDUCATION
+Encouraged 150 minutes of moderate activity weekly.
+Patient verbalized understanding of the plan.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Practitioner, FNP-C 2026-09-10 14:40

@@ -1,0 +1,101 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0097    Age: 79    Sex: M
+Date of service: 2026-05-03    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 8
+
+CHIEF COMPLAINT
+Diabetes check and lab review.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 79-year-old
+--- Page 2 of 3 --- FU-0097 --- printed 2026-05-06 ---
+man, presenting for chronic disease follow-up. Type 1 diabetes since age 11. Brought meter today; morning values 113-146 mg/dL, no lows. No polyuria or polydipsia. No visual changes. Appetite stable. Denies nausea or abdominal pain.
+
+REVIEW OF SYSTEMS
+Constitutional: denies fever, chills or unintended weight loss.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Respiratory: no cough or dyspnea on exertion.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+
+PAST MEDlCAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 1, on insulin
+- CKD stage 3a
+- Obesity
+- Hypothyroidism
+- GERD
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Tonsillectomy (childhood)
+
+MEDICATIONS
+- insulin glargine 22 units nightly and insulin lispro with meals; continuous glucose monitor
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- levothyroxine 75 mcg daily
+- omeprazole 20 mg daily
+- atorvastatin 40 mg nightly
+Med rec done with patient’s pill bottles.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+No family history of kidney disease reported.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Former smoker, quit 1995; 24 pack-years.
+Lives with alone. Retired accountant.
+Walks 4 times per week, about 20 minutes.
+
+VITALS
+BP 144/81 | HR 89 | Temp 98.5 F | Wt 94.8 kg | BMI 34.9 | SpO2 98%
+
+LABS
+Date Test    Result
+2026-04-28  eGFR  49 mL/min/1.73m2
+2026-04-28	Creatinine	1.26 mg/dL
+2026-04-28	Hemoglobin A1c       9.2%
+2026-04-28    Glucose, fasting       126 mg/dL
+2026-04-28 Urine albumin/creatinine	295 mg/g
+2026-04-28	Potassium	4.2 mmol/L
+2026-04-28	Sodium	137 mmol/L
+2026-04-28 LDL cholesterol      100 mg/dL
+2026-04-28	Hemoglobin   13.2 g/dL
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+PRIOR VISIT SUMMARY (2026-01-28)
+(For reference only; not today's assessment.)
+Type 1 diabetes mellitus: A1c 8.4% at that visit; continued medications.
+Chronic kidney disease stage 3a: continued losartan.
+Obesity, BMI 34.9: discussed nutrition and activity goals; referred to dietitian.
+
+IMPRESSION AND PLAN
+1. Type 1 diabetes mellitus: A1c 9.2% on insulin pump. Adjusted ovemight basal rate. Continue CGM.
+2. Hypothyroid: clinically euthyroid. Continue current dose.
+3. Chronic kidney disease stage 3a: Renal function reviewed: eGFR 49, UACR 295 mg/g. Continue losartan; avoid NSAIDs. Nephrology follow-up as scheduled.
+4. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+5. Obesity, BMl 34.9: discussed nutrition and activity goals; referred to dietitian.
+6. Gastro-
+esophageal reflux: stable; discussed trial of dose reduction at next visit.
+7. Diabetic foot exam completed today. Shingles vaccine series completed.
+
+PATlENT EDUCATION
+Reviewed carbohydrate counting handout.
+Patient verbalized understanding of the plan.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-05-03 15:32

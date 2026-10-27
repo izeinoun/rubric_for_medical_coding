@@ -1,0 +1,75 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0273    Age: 51    Sex: F
+Date of service: 2026-04-13    Visit type: Interprofessional e-consult (chart review; patient not seen)
+Clinician: Synthetic Physician, DO (Family Medicine)
+Location: Synthetic Primary Care Clinic, Room 5
+
+REAS0N FOR E-CONSULT
+Chart review requested for chronic disease management; patient not present.
+
+HISTORY OF PRESENT ILLNESS
+Chart reviewed for 51-year-old woman; patient not seen or examined for this consult. History of type 2 diabetes diagnosed 15 years ago. Glucose log documented at last office visit: fasting 125-168 mg/dL.
+
+MEDICATIONS
+- insulin glargine 18 units nightly
+- dapagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- acetaminophen 650 mg as needed
+- atorvastatin 40 mg nightly
+Medication list taken from the chart; not reconciled with the patient.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- CKD, stage 4
+- Essen-
+tial hypertension
+- Osteoarthritis, bilateral knees
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Colonoscopy with polypectomy (2021)
+- Right knee arthroscopy (2015)
+
+FAMILY HISTORY
+No family history of kidney disease reported.
+Sister: hypothyroidism.
+Father: coronary artery disease, died age 74.
+
+SOCIAL HISTORY
+Former smoker, quit 2000; 12 pack-years.
+Alcohol: rare.
+Walks 2 times per week, about 20 minutes.
+
+VITALS
+Last recorded in clinic: BP 127/70, weight 65.0 kg (not measured today).
+
+EXAM
+Not performed; patient not seen for this e-consult.
+
+LABS
+Date    Test   Result
+2025-12-16   eGFR	21 mL/min/1.73m2
+2025-12-16  Creatinine  2.94 mg/dL
+2026-04-03  eGFR   20 mL/min/1.73m2
+2026-04-03	Creatinine	3.09 mg/dL
+2026-04-03	Hemoglobin A1c	6.9%
+2026-04-03    Glucose, fasting   135 mg/dL
+2026-04-03	Urine albumin/creatinine	336 mg/g
+2026-04-03	Potassium 4.1 mmol/L
+2026-04-03   Sodium	143 mmol/L
+2026-04-03	LDL cholesterol        63 mg/dL
+2026-04-03	Hemoglobin   13.7 g/dL
+
+E-CONSULT ASSESSMENT AND RECOMMENDATlONS
+1. T2DM: A1c 6.9% (improved from 8.3%). Recommend continuing the current regimen.
+2. Hypertension: stab1e per chart review; no change recommended.
+3. Diabetic kidney disease, CKD stage 4: Latest eGFR 20 (stab1e from 21), UACR 336 mg/g. Recommend continuing lisinopril and dapagliflozin; repeat BMP and UACR in 3 months.
+4. Knee osteoarthritis: stable per chart review; no change recommended.
+5. Hyper1ipidemia: stable per chart review; no change recommended.
+
+Recommendations sent to the primary care team. Total time spent on chart review: 15 minutes.
+--- Page 2 of 3 --- FU-0273 --- printed 2026-04-15 ---
+E1ectronically signed: Synthetic Physician, D0 2026-04-13 14:06

@@ -1,0 +1,93 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0109    Age: 66    Sex: M
+Date of service: 2026-08-30    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 14
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+66-year-old man seen today for routine chronic care. History of type 2 diabetes diagnosed 10 years ago. Notes some difficulty with diet recently; fasting sugars 127-152 mg/dL. Denies chest pain, shortness of breath or leg swelling. Appetite stable. Denies nausea or abdominal pain.
+
+REVIEW OF SYSTEMS
+Respiratory: no cough or dyspnea on exertion.
+Constitutional: denies fever, chills or unintended weight loss.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Neurological: no numbness or tingling in the feet; no headaches.
+Skin: no rashes or non-healing wounds.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease
+- Hyperlipidemia
+- Seasonal allergic rhinitis
+- GERD
+- Obesity
+
+PAST SURGICAL HISTORY
+- Tonsillectomy (childhood)
+- Cholecystectomy (2011)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- atorvastatin 40 mg nightly
+- loratadine 10 mg as needed
+- omeprazole 20 mg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Penicillin (rash).
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+No family history of kidney disease reported.
+Father: coronary artery disease, died age 65.
+
+SOCIAL HISTORY
+Former smoker, quit 1997; 19 pack-years.
+Works part time as a librarian.
+Walks 3 times per week, about 20 minutes.
+
+VITALS
+BP 128/86 | HR 91 | Temp 98.0 F | Wt 117.1 kg | BMI 37.0 | SpO2 97%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date  Test                        Result
+2026-03-02  eGFR                        37 mL/min/1.73m2
+2026-08-25  eGFR                        39 mL/min/1.73m2
+2026-08-25  Creatinine                  1.58 mg/dL
+2026-08-25  Hemoglobin A1c              8.4%
+2026-08-25  Glucose, fasting            114 mg/dL
+2026-08-25  Urine albumin/creatinine    405 mg/g
+2026-08-25  Potassium                   5.0 mmol/L
+2026-08-25  Sodium                      139 mmol/L
+2026-08-25  LDL cholesterol             64 mg/dL
+2026-08-25  Hemoglobin                  12.9 g/dL
+
+IMPRESSION AND PLAN
+1. T2DM: A1c 8.4%, improved from 9.3%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Chronic kidney disease: Renal function reviewed, stable.
+3. Obesity, BMI 37.0: discussed nutrition and activity goals; referred to dietitian.
+4. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+5. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+6. GERD: symptoms controlled on omeprazole. Continue.
+7. Influenza vaccine given this season. Retinal exam due; referral placed.
+
+PATIENT EDUCATION
+Reviewed carbohydrate counting handout.
+Patient verbalized understanding of the plan.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-08-30 08:55

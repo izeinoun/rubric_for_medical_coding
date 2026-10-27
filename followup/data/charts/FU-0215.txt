@@ -1,0 +1,98 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0215    Age: 68    Sex: F
+Date of service: 2026-09-14    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 8
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+68-year-old woman presents for scheduled follow-up. History of type 2 diabetes diagno-
+sed 18 years ago. Has been trying to walk 5 times per week. Glucose readings 126-155 mg/dL fasting. Outside lab result brought by patient: eGFR 46 (date not recorded). Denies chest pain, shortness of breath or leg swelling. Mild bilateral knee
+--- Page 2 of 3 --- FU-0215 --- printed 2026-09-19 ---
+stif-
+fness in the mornings, unchanged.
+
+REVIEW OF SYSTEMS
+Genitourinary: no dysuria, hematuria or change in urine output.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Eyes: no blurred vision; last dilated eye exam 2024.
+Constitutional: denies fever, chills or unintended weight loss.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Neurological: no numbness or tingling in the feet; no headaches.
+Skin: no rashes or non-healing wounds.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease, stage 3a
+- Hyperlipidemia
+- Seasonal allergic rhinitis
+- Obesity
+- GERD
+
+PAST SURGICAL HISTORY
+- Cholecystectomy (2011)
+- Right knee arthroscopy (2015)
+- Cataract extraction, left eye (2022)
+
+MEDICATI0NS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- atorvastatin 40 mg nightly
+- loratadine 10 mg as needed
+- omeprazole 20 mg daily
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 76.
+Sister: hypothyroidism.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Never smoker.
+Alcohol: 1 to 2 drinks per week.
+Lives with spouse. Retired bus driver.
+
+VITALS
+BP 125/84 | HR 89 | Temp 97.6 F | Wt 93.9 kg | BMI 37.5 | SpO2 99%
+
+LABS
+Date    Test        Result
+2026-09-10    eGFR      54 mL/min/1.73m2
+2026-09-10	Hem-
+og1obin A1c	7.9%
+2026-09-10  Glucose, fasting	121 mg/dL
+2026-09-10	Urine albumin/creatinine	356 mg/g
+2026-09-10	Potassium      3.9 mmol/L
+2026-09-10 Sodium        136 mmol/L
+2026-09-10    LDL cholesterol	85 mg/dL
+2026-09-10	Hemoglobin	12.3 g/dL
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+lMPRESSION AND PLAN
+1. Type 2 diabetes mellitus: A1c 7.9%, improved from 9.0%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Obesity, BMI 37.5: discussed nutrition and activity goals; referred to dietitian.
+3. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+4. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+5. Hyperlipidemia: LDL 85 mg/dL. Continue atorvastatin 40 mg.
+6. Colorectal cancer screening up to date. Dental visit within the past year.
+
+PATlENT EDUCATI0N
+Discussed hypoglycemia recognition and treatment.
+Reviewed carbohydrate counting handout.
+
+Retum to clinic in 3 months or sooner as needed.
+Electronica1ly signed: Synthetic Provider, MD 2026-09-14 13:22

@@ -1,0 +1,96 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0108    Age: 73    Sex: F
+Date of service: 2026-04-17    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 5
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 73-year-old woman returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 18 years ago. Brought meter today; morning values 128-140 mg/dL, no lows. Sleeping reasonably well. Mood is good. No polyuria or polydipsia. No visual changes.
+
+REVIEW OF SYSTEMS
+Genitourinary: no dysuria, hematuria or change in urine output.
+Neuro1ogical: no numbness or tingling in the feet; no headaches.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Skin: no rashes or non-healing wounds.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+
+PAST MEDICAL HIST0RY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease, stage 3a
+- Obesity
+- Seasonal allergic rhinitis
+- GERD
+- Osteoarthritis, bilateral knees
+
+PAST SURGICAL HISTORY
+- Colonoscopy with polypectomy (2021)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+- omeprazole 20 mg daily
+- acetaminophen 650 mg as needed
+Med rec done with patient’s pill bottles.
+
+ALLERGIES
+Penicillin (rash).
+
+FAMILY HISTORY
+Mother: hypertension.
+Father: coronary artery disease, died age 73.
+
+SOCIAL HISTORY
+Never smoker.
+Lives with spouse. Retired machinist.
+Works part time as a cashier.
+
+VITALS
+BP 130/72 | HR 90 | Temp 98.5 F | Wt 90.0 kg | BMI 37.8 | SpO2 99%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date	Test	Result
+2026-04-17	eGFR	46 mL/min/1.73m2
+2026-04-17 Creatinine       1.34 mg/dL
+2026-04-17   Hemoglobin A1c        8.6%
+2026-04-17    Glucose, fasting	106 mg/dL
+2026-04-17    Urine albumin/creatinine 62 mg/g
+2026-04-17	Potassium  4.8 mmol/L
+--- Page 2 of 3 --- FU-0108 --- printed 2026-05-01 ---
+2026-04-17	Sodium	139 mmol/L
+2026-04-17  LDL cholesterol	79 mg/dL
+2026-04-17	Hemoglobin  13.2 g/dL
+
+PRIOR VISIT SUMMARY (2025-10-26)
+(For reference only; not today’s assessment.)
+Type 2 diabetes mellitus: A1c 8.2% at that visit; continued medications.
+Diabetic chronic kidney disease, stage 3a: continued losartan.
+Obesity: weight 90.0 kg. Continue lifestyle changes.
+
+IMPRESSION AND PLAN
+1. Type 2 diabetes mellitus: A1c 8.6%, up from 8.2%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+3. 0besity: weight 90.0 kg. Continue lifestyle changes.
+4. Chronic kidney disease stage 3a: Labs reviewed with patient, eGFR 46. Continue empag1iflozin; metformin dose appropriate for current eGFR. Recheck in 3 to 4 months.
+5. OA of knees: continue home exercises and acetaminophen PRN.
+6. A1lergic rhinitis: seasonal symptoms; continue loratadine PRN.
+7. Pneumococcal vaccination up to date. Shingles vaccine series completed.
+
+PATlENT EDUCATION
+Encouraged 150 minutes of moderate activity week1y.
+Patient verbalized understan-
+ding of the plan.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-04-17 11:28

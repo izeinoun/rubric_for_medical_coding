@@ -1,0 +1,94 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0049    Age: 50    Sex: F
+Date of service: 2026-02-28    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 9
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+50-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 16 years ago. Brought meter today; morning values 111-138 mg/dL, no lows. No urinary symptoms. No foot ulcers or numbness reported. Energy fair. No new complaints today.
+
+REVIEW OF SYSTEMS
+Skin: no rashes or non-healing wounds.
+Respiratory: no cough or dyspnea on exertion.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Eyes: no blurred vision; last dilated eye exam 2024.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease, stage 3b
+- Osteoarthritis, bilateral knees
+- Hypothyroidism
+- Obesity
+- Seasonal allergic rhinitis
+- Essential hypertension
+
+PAST SURGICAL HISTORY
+- Colonoscopy with polypectomy (2021)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- semaglutide 0.5 mg weekly
+- dapagliflozin 10 mg daily
+- acetaminophen 650 mg as needed
+- levothyroxine 75 mcg daily
+- loratadine 10 mg as needed
+- lisinopril 20 mg daily
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+No known drug allergies.
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 67.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Never smoker.
+Alcohol: none.
+Walks 5 times per week, about 20 minutes.
+
+VITALS
+BP 145/75 | HR 75 | Temp 98.6 F | Wt 97.0 kg | BMI 33.0 | SpO2 97%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date  Test                        Result
+2025-11-15  eGFR                        31 mL/min/1.73m2
+2026-02-24  eGFR                        35 mL/min/1.73m2
+2026-02-24  Hemoglobin A1c              9.1%
+2026-02-24  Glucose, fasting            178 mg/dL
+2026-02-24  Urine albumin/creatinine    88 mg/g
+2026-02-24  Potassium                   4.8 mmol/L
+2026-02-24  Sodium                      140 mmol/L
+2026-02-24  LDL cholesterol             129 mg/dL
+2026-02-24  Hemoglobin                  11.8 g/dL
+
+ASSESSMENT AND PLAN
+1. T2DM: A1c 9.1%, up from 8.0%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Obesity, BMI 33.0: discussed nutrition and activity goals; referred to dietitian.
+3. Hypothyroid: clinically euthyroid. Continue current dose.
+4. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+5. Essential hypertension: BP 145/75. Reinforced low-sodium diet; continue lisinopril 20 mg.
+6. CKD stage 3b due to type 2 diabetes and hypertension: Renal function reviewed: eGFR 35 (stable from 31). Continue lisinopril and dapagliflozin. Avoid NSAIDs. Nephrology follow-up as scheduled.
+7. OA of knees: continue home exercises and acetaminophen PRN.
+8. Retinal exam due; referral placed. Influenza vaccine given this season.
+
+PATIENT EDUCATION
+Discussed hypoglycemia recognition and treatment.
+Encouraged 150 minutes of moderate activity weekly.
+
+Return to clinic in 6 months or sooner as needed.
+Total time 32 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-02-28 12:14

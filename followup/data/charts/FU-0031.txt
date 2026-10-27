@@ -1,0 +1,83 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0031    Age: 80    Sex: F
+Date of service: 2026-09-27    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 7
+
+CHIEF COMPLAINT
+Diabetes check and lab review.
+
+HISTORY OF PRESENT ILLNESS
+80-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 18 years ago. Home glucose log reviewed, fasting values 113-136 mg/dL with occasional post-meal readings above 200. No polyuria or polydipsia. No visual changes. Denies chest pain, shortness of breath or leg swelling.
+
+REVIEW OF SYSTEMS
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Constitutional: denies fever, chills or unintended weight loss.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Skin: no rashes or non-healing wounds.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- CKD, stage 3a
+- Osteoarthritis, bilateral knees
+- GERD
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+- Appendectomy (1988)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- semaglutide 0.5 mg weekly
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- omeprazole 20 mg daily
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+No known drug allergies.
+
+FAMILY HISTORY
+No family history of kidney disease reported.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Former smoker, quit 2011; 29 pack-years.
+Lives with spouse. Retired machinist.
+Alcohol: 1 to 2 drinks per week.
+
+VITALS
+BP 127/80 | HR 85 | Temp 97.9 F | Wt 66.1 kg | BMI 28.5 | SpO2 96%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date  Test                        Result
+2026-02-21  eGFR                        48 mL/min/1.73m2
+2026-06-07  eGFR                        51 mL/min/1.73m2
+2026-09-23  Hemoglobin A1c              6.7%
+2026-09-23  Glucose, fasting            138 mg/dL
+2026-09-23  LDL cholesterol             70 mg/dL
+2026-09-23  Hemoglobin                  14.3 g/dL
+
+IMPRESSION AND PLAN
+(Plan unchanged from visit of 2026-06-09.)
+1. Diabetes mellitus, type 2: A1c 6.7% today (improved from 7.4%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Chronic kidney disease stage 3a due to type 2 diabetes: eGFR 51 (2026-06-07), stable at that time. Continue regimen as previously outlined.
+3. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+4. OA of knees: continue home exercises and acetaminophen PRN.
+5. Retinal exam due; referral placed. Diabetic foot exam completed today.
+
+PATIENT EDUCATION
+Reviewed sick-day rules for medications.
+Reviewed carbohydrate counting handout.
+
+Return to clinic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-09-27 14:25

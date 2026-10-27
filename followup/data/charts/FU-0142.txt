@@ -1,0 +1,100 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0142    Age: 67    Sex: F
+Date of service: 2026-01-21    Visit type: Medical nutrition therapy visit, in person
+Clinician: Synthetic Dietitian, RD (Medical Nutrition Therapy)
+Location: Synthetic Primary Care Clinic, Room 2
+
+CHIEF COMPLAINT
+Diabetes check and lab review.
+
+HISTORY OF PRESENT ILLNESS
+67-year-old woman presents for scheduled follow-up. History of type 2 diabetes diagnosed 12 years ago. Has been trying to walk 4 times per week. Glucose readings 128-160 mg/dL fasting. Denies chest pain, short-
+ness of breath or leg swelling. No urinary symptoms. No foot ulcers or numbness reported.
+
+REVIEW OF SYSTEMS
+Skin: no rashes or non-healing wounds.
+Constitutional: denies fever, chills or unintended weight loss.
+Respiratory: no cough or dyspnea on exertion.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease stage 4
+- Hypothyroidism
+- GERD
+- Osteoarthritis, bilateral knees
+
+PAST SURGICAL HISTORY
+- Colonoscopy with polypectomy (2021)
+- Right knee arthroscopy (2015)
+- Cataract extraction, left eye (2022)
+
+MEDICATI0NS
+- insulin glargine 18 units nightly
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- levothyroxine 75 mcg daily
+- omeprazole 20 mg daily
+- acetaminophen 650 mg as needed
+Med rec done with patient’s pill bottles.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+FAMILY HISTORY
+No family history of kidney disease reported.
+Sister: hypothyroidism.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Former smoker, quit 1998; 13 pack-years.
+Alcohol: 1 to 2 drinks per week.
+Walks 4 times per week, about 20 minutes.
+
+VITALS
+BP 137/85 | HR 76 | Temp 98.4 F | Wt 72.9 kg | BMI 26.7 | SpO2 95%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regu1ar rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date	Test         Result
+2025-08-26   eGFR        28 mL/min/1.73m2
+2026-01-18  eGFR	25 mL/min/1.73m2
+2026-01-18    Creatinine	2.47 mg/dL
+2026-01-18	Hemoglobin A1c	6.8%
+2026-01-18  Glucose, fasting	109 mg/dL
+2026-01-18	Urine albumin/creatinine      265 mg/g
+2026-01-18   Potassium	4.9 mmol/L
+2026-01-18    Sodium        139 mmol/L
+2026-01-18	LDL cholesterol         84 mg/dL
+2026-01-18    Hemoglobin       12.0 g/dL
+
+FROM LAST OFFICE VISIT (2025-08-27)
+(For reference only; not today’s assessment.)
+T2DM: A1c 7.1% at that visit; con-
+tinued medications.
+Chronic kidney disease stage 4: eGFR 28 at that visit; continued losartan.
+Hypothyroidism: TSH within range. Continue levothy-
+roxine 75 mcg.
+
+--- Page 2 of 3 --- FU-0142 --- printed 2026-01-22 ---
+ASSESSMENT AND PLAN
+1. T2DM: A1c 6.8% (improved from 7.1%). Reviewed meal plan and carbohydrate counting; medications per provider.
+2. Hypothyroidism: managed by primary care provider.
+3. Chronic kidney disease stage 4: eGFR 25 reviewed (stable from 28); reinforced low-sodium diet and medication adherence. Provider to review labs.
+4. GERD: managed by primary care provider.
+5. Knee osteoarthritis: managed by primary care provider.
+6. Retinal exam due; referral placed. Dental visit within the past year.
+
+PATlENT EDUCATI0N
+Reviewed sick-day rules for medications.
+Discussed hypoglycemia recognition and treatment.
+
+Retum to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Dietitian, RD 2026-01-21 12:54

@@ -1,0 +1,88 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0221    Age: 72    Sex: F
+Date of service: 2026-09-15    Visit type: Medical nutrition therapy visit, in person
+Clinician: Synthetic Dietitian, RD (Medical Nutrition Therapy)
+Location: Synthetic Primary Care Clinic, Room 14
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+72-year-old woman presents for scheduled follow-up. History of type 2 diabetes diagnosed 9 years ago. Notes some difficulty with diet recently; fasting sugars 122-172 mg/dL. Mild bilateral knee stiffness in the mornings, unchanged. Energy fair. No new complaints today.
+
+REVIEW OF SYSTEMS
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Respiratory: no cough or dyspnea on exertion.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Skin: no rashes or non-healing wounds.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease stage 3a
+- Obesity
+- Osteoarthritis, bilateral knees
+- Hypothyroidism
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+- Tonsillectomy (childhood)
+- Appendectomy (1988)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- levothyroxine 75 mcg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Father: coronary artery disease, died age 68.
+
+SOCIAL HISTORY
+Former smoker, quit 2008; 20 pack-years.
+Lives with daughter. Retired bus driver.
+Alcohol: none.
+
+VITALS
+BP 118/75 | HR 74 | Temp 98.7 F | Wt 103.0 kg | BMI 37.3 | SpO2 99%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date  Test                        Result
+2026-09-12  eGFR                        59 mL/min/1.73m2
+2026-09-12  Creatinine                  1.05 mg/dL
+2026-09-12  Hemoglobin A1c              9.1%
+2026-09-12  Glucose, fasting            133 mg/dL
+2026-09-12  Urine albumin/creatinine    39 mg/g
+2026-09-12  Potassium                   5.0 mmol/L
+2026-09-12  Sodium                      137 mmol/L
+2026-09-12  LDL cholesterol             112 mg/dL
+2026-09-12  Hemoglobin                  13.9 g/dL
+
+ASSESSMENT/PLAN
+1. Type 2 diabetes mellitus: A1c 9.1% (up from 8.3%). Reviewed meal plan and carbohydrate counting; medications per provider.
+2. CKD, stage 3a: eGFR 59 reviewed (no prior for comparison); reinforced low-sodium diet and medication adherence. Provider to review labs.
+3. Knee osteoarthritis: managed by primary care provider.
+4. Obesity: managed by primary care provider.
+5. Hypothyroidism: managed by primary care provider.
+6. Influenza vaccine given this season. Colorectal cancer screening up to date.
+
+PATIENT EDUCATION
+Encouraged 150 minutes of moderate activity weekly.
+Patient verbalized understanding of the plan.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Dietitian, RD 2026-09-15 11:57

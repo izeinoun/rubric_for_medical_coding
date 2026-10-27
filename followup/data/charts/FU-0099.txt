@@ -1,0 +1,100 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0099    Age: 58    Sex: M
+Date of service: 2026-03-18    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Physician, DO (Family Medicine)
+Location: Synthetic Primary Care Clinic, Room 14
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+58-year-old man seen today for routine chronic care. History of type 2 diabetes diagnosed 10 years ago. Home glucose log reviewed, fasting values 105-152 mg/dL with occasional post-meal readings above 200. No polyuria or polydipsia. No visual changes. Sleeping reasonably well. Mood is good.
+
+REVIEW OF SYSTEMS
+Constitutional: denies fever, chills or unintended weight loss.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Neurological: no numbness or tingling in the feet; no headaches.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Respiratory: no cough or dyspnea on exertion.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+
+MEDICATIONS
+- insulin glargine 18 units nightly
+- dapagliflozin 10 mg daily
+- omeprazole 20 mg daily
+- acetaminophen 650 mg as needed
+- lisinopril 20 mg daily
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Penicillin (rash).
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD, stage 4
+- GERD
+- Obesity
+- Osteoarthritis, bilateral knees
+- Essential hypertension
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+- Right knee arthroscopy (2015)
+- Appendectomy (1988)
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Sister: hypothyroidism.
+Father: coronary artery disease, died age 68.
+
+SOCIAL HISTORY
+Never smoker.
+Works part time as a consultant.
+Lives with daughter. Retired accountant.
+
+VITALS
+BP 134/90 | HR 89 | Temp 97.8 F | Wt 96.1 kg | BMI 32.1 | SpO2 97%
+
+LABS
+Date  Test                        Result
+2025-11-06  eGFR                        29 mL/min/1.73m2
+2025-11-06  Creatinine                  2.13 mg/dL
+2026-03-10  eGFR                        26 mL/min/1.73m2
+2026-03-10  Hemoglobin A1c              8.6%
+2026-03-10  Glucose, fasting            102 mg/dL
+2026-03-10  Urine albumin/creatinine    237 mg/g
+2026-03-10  Potassium                   4.2 mmol/L
+2026-03-10  Sodium                      137 mmol/L
+2026-03-10  LDL cholesterol             107 mg/dL
+2026-03-10  Hemoglobin                  11.6 g/dL
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+PRIOR VISIT SUMMARY (2025-11-07)
+(For reference only; not today's assessment.)
+Type 2 diabetes mellitus: A1c 8.1% at that visit; continued medications.
+Chronic kidney disease stage 4, attributed to both type 2 diabetes and hypertension: eGFR 29 at that visit; continued lisinopril.
+GERD: symptoms controlled on omeprazole. Continue.
+
+ASSESSMENT AND PLAN
+1. Type 2 diabetes mellitus: A1c 8.6% (up from 8.1%). Medications unchanged; reinforced carbohydrate counting.
+2. Obesity: weight 96.1 kg. Continue lifestyle changes.
+3. HTN: at goal on current regimen. Continue lisinopril.
+4. Chronic kidney disease stage 4, attributed to both type 2 diabetes and hypertension: Advanced kidney disease, eGFR 26. Off metformin. Nephrology following; discussed renal diet and avoidance of contrast and NSAIDs.
+5. GERD: symptoms controlled on omeprazole. Continue.
+6. OA of knees: continue home exercises and acetaminophen PRN.
+7. Colorectal cancer screening up to date. Dental visit within the past year.
+
+PATIENT EDUCATION
+Patient verbalized understanding of the plan.
+Encouraged 150 minutes of moderate activity weekly.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Physician, DO 2026-03-18 13:35

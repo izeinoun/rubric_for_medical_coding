@@ -1,0 +1,93 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0100    Age: 69    Sex: M
+Date of service: 2026-08-24    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 9
+
+CHIEF COMPLAINT
+Diabetes check and lab review.
+
+HISTORY OF PRESENT ILLNESS
+69-year-old man presents for scheduled follow-up. History of type 2 diabetes diagno-
+sed 18 years ago. Reports checking glucose twice daily; fasting readings mostly 113-142 mg/dL. Appetite stable. Denies nausea or abdominal pain. No polyuria
+--- Page 2 of 3 --- FU-0100 --- printed 2026-08-27 ---
+or polydipsia. No visual changes.
+
+REVIEW OF SYSTEMS
+Constitutional: denies fever, chills or unintended weight loss.
+Neurological: no numbness or tingling in the feet; no headaches.
+Respiratory: no cough or dyspnea on exertion.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Skin: no rashes or non-healing wounds.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- CKD stage 3b
+- Hypothyroidism
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Tonsillectomy (childhood)
+- Cholecystectomy (2011)
+- Appendectomy (1988)
+
+MEDICATIONS
+- metfo-
+rmin 500 mg twice daily (renally dosed)
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- levothyroxine 75 mcg daily
+- atorvastatin 40 mg nightly
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Penicillin (rash).
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Former smoker, quit 2003; 18 pack-years.
+Lives with spouse. Retired teacher.
+Walks 5 times per week, about 20 minutes.
+
+VITALS
+BP 119/82 | HR 67 | Temp 98.2 F | Wt 86.6 kg | BMI 27.4 | SpO2 95%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date  Test   Result
+2026-05-10	eGFR	36 mL/min/1.73m2
+2026-05-10    Creatinine 1.72 mg/dL
+2026-08-23   eGFR	37 mL/min/1.73m2
+2026-08-23 Hemoglobin A1c	9.3%
+2026-08-23    Glucose, fasting 126 mg/dL
+2026-08-23    Urine albumin/creatinine	409 mg/g
+2026-08-23   Potassium       4.6 mmol/L
+2026-08-23	Sodium	136 mmol/L
+2026-08-23	LDL cholesterol        104 mg/dL
+2026-08-23	Hemoglobin 14.3 g/dL
+
+lMPRESSION AND PLAN
+1. Type 2 diabetes mellitus: A1c 9.3% (improved from 9.6%). Medications unchanged; reinforced carbohydrate counting.
+2. Chronic conditions reviewed: CKD 3b, hyperlipidemia, hypothyroidism.
+3. Colorectal cancer screening up to date. Pneumococcal vaccination up to date.
+
+PATIENT EDUCATI0N
+Discus-
+sed hypoglycemia recognition and treatment.
+Reviewed carbohydrate counting handout.
+
+Return to c1inic in 3 months or sooner as needed.
+Total time 40 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-08-24 08:52

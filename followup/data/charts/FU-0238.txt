@@ -1,0 +1,90 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0238    Age: 79    Sex: F
+Date of service: 2026-04-17    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 3
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+79-year-old woman seen today for routine chronic care. Type 2 diabetes for 7 years; started basal insulin 5 years ago when oral agents were no 1onger enough. Reports checking glucose daily; fasting readings
+--- Page 2 of 3 --- FU-0238 --- printed 2026-04-28 ---
+mostly 106-162 mg/dL. Denies chest pain, shortness of breath or leg swelling. Mild bilateral knee stiffness in the momings, unchanged.
+
+REVIEW OF SYSTEMS
+Eyes: no blurred vision; last dilated eye exam 2023.
+Respiratory: no cough or dyspnea on exertion.
+Skin: no rashes or non-healing wounds.
+Constitutional: denies fever, chills or unintended weight loss.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes on insulin
+- CKD stage 3a
+- Obesity
+- Essential hypertension
+- Hypothyroidism
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+
+MEDICATIONS
+- insulin glargine 24 units nightly
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- lisinopril 20 mg daily
+- levothyroxine 75 mcg daily
+Med rec done with patient’s pill bottles.
+
+ALLERGIES
+No known drug allergies.
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Former smoker, quit 2006; 30 pack-years.
+Lives with daughter. Retired bus driver.
+Works part time as a librarian.
+
+VITALS
+BP 142/89 | HR 84 | Temp 98.1 F | Wt 93.6 kg | BMI 36.2 | SpO2 96%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date	Test	Result
+2026-04-09	eGFR      48 mL/min/1.73m2
+2026-04-09  Creatinine	1.29 mg/dL
+2026-04-09 Hemoglobin A1c    7.2%
+2026-04-09  Glucose, fasting	123 mg/dL
+2026-04-09	Urine albumin/creatinine         106 mg/g
+2026-04-09	Potassium      4.3 mmol/L
+2026-04-09    Sodium        136 mmol/L
+2026-04-09 LDL cholesterol	78 mg/dL
+2026-04-09	Hemog-
+lobin       12.7 g/dL
+
+ASSESSMENT/PLAN
+1. Type 2 diabetes mellitus on insulin: A1c 7.2% today (improved from 8.6%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+3. 0besity, BMl 36.2: discussed nutrition and activity goals; referred to dietitian.
+4. HTN: at goal on current regimen. Continue lisinopril.
+5. Chronic kidney disease stage 3a: Latest eGFR 48 (no prior for comparison); potassium acceptab1e. Continue lisinopril and dapagliflozin. BMP in 3 months.
+6. Retinal exam due; referral placed. Dental visit within the past year.
+
+PATlENT EDUCATION
+Reviewed carbohydrate counting handout.
+Discussed hypoglycemia recognition and treatment.
+
+Retum to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-04-17 11:52

@@ -1,0 +1,99 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0013    Age: 61    Sex: M
+Date of service: 2026-03-16    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Physician, DO (Family Medicine)
+Location: Synthetic Primary Care Clinic, Room 2
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+61-year-old man here for a
+--- Page 2 of 3 --- FU-0013 --- printed 2026-03-24 ---
+4-month check-in. History of type 2 diabetes diagnosed 14 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Appetite stable. Denies nausea or abdominal pain. No polyuria or polydipsia. No visual changes.
+
+REVIEW OF SYSTEMS
+Constitutional: denies fever, chills or unintended weight loss.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Skin: no rashes or non-healing wounds.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Respiratory: no cough or dyspnea on exertion.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease, stage 3a
+- Hyperlipidemia
+- Obesity
+- Seasonal allergic rhinitis
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+- Appendectomy (1988)
+- Right knee arthroscopy (2015)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- atorvastatin 40 mg nightly
+- loratadine 10 mg as needed
+Med rec done with patient’s pill bottles.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Former smoker, quit 2010; 18 pack-years.
+Works part time as a consultant.
+Lives with alone. Retired teacher.
+
+VITALS
+BP 141/92 | HR 75 | Temp 98.6 F | Wt 110.0 kg | BMI 37.0 | SpO2 97%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date	Test	Result
+2025-08-19   eGFR	58 mL/min/1.73m2
+2025-08-19    Creatinine      1.06 mg/dL
+2026-03-14	eGFR    45 mL/min/1.73m2
+2026-03-14 Creatinine	1.37 mg/dL
+2026-03-14    Hemoglobin A1c	9.3%
+2026-03-14	Glucose, fasting  140 mg/dL
+2026-03-14    Urine albumin/creatinine 69 mg/g
+2026-03-14	Potassium 4.9 mmol/L
+2026-03-14  Sodium	138 mmo1/L
+2026-03-14	LDL cholesterol 103 mg/dL
+2026-03-14  Hemoglobin         13.7 g/dL
+
+PRIOR VISIT SUMMARY (2025-08-22)
+(For reference only; not today’s assessment.)
+T2DM: A1c 10.1% at that visit; continued medications.
+CKD 3a: eGFR 58 at that visit; continued losartan.
+Hyperlipidemia: LDL 103 mg/dL. Continue atorvastatin 40 mg.
+
+ASSESSMENT/PLAN
+1. T2DM: A1c 9.3% (improved from 10.1%). Medications unchanged; reinforced carbohydrate counting.
+2. CKD 3a, stab1e on losartan.
+3. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+4. Obesity, BMl 37.0: discussed nutrition and activity goals; referred to dietitian.
+5. Hyperlipidemia: LDL 103 mg/dL. Continue atorvastatin 40 mg.
+6. Diabetic foot exam completed today. lnf1uenza vaccine given this season.
+
+PATIENT EDUCATION
+Reviewed carbohydrate counting handout.
+Patient verbalized understanding of the plan.
+
+Return to clinic in 3 months or sooner as needed.
+Total time 31 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Phy-
+sician, DO 2026-03-16 09:21

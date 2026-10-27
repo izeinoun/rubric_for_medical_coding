@@ -1,0 +1,97 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0039    Age: 78    Sex: M
+Date of service: 2026-04-15    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 6
+
+CHIEF COMPLAINT
+Diabetes check and lab review.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 78-year-old man, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 10 years ago. Reports checking glucose daily; fasting readings mostly 111-172 mg/dL. Labs drawn 2026-04-15 were reviewed with the patient today: eGFR 59, UACR 228 mg/g. Appetite stable. Denies nausea or abdominal pain. Sleeping reasonably well. Mood is good.
+
+REVlEW OF SYSTEMS
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Skin: no rashes or non-healing wounds.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Constitutional: denies fever, chills or unintended weight loss.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+--- Page 2 of 3 --- FU-0039 --- printed 2026-04-30 ---
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease stage 3a
+- Osteoarthritis, bilateral knees
+- Obesity
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Tonsillectomy (childhood)
+- Cholecystectomy (2011)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- atorvastatin 40 mg nightly
+Med rec done with patient's pill bottles.
+
+ALL-
+ERGIES
+No known drug allergies.
+
+FAMILY HISTORY
+Mother: hypertension.
+No family history of kidney disease reported.
+Sister: hypothyroidism.
+
+S0CIAL HISTORY
+Never smoker.
+Works part time as a consultant.
+Alcohol: rare.
+
+VITALS
+BP 137/82 | HR 88 | Temp 98.1 F | Wt 134.1 kg | BMI 38.3 | SpO2 98%
+
+LABS
+Date   Test  Result
+2025-11-23  eGFR	54 mL/min/1.73m2
+2025-11-23	Creatinine       1.14 mg/dL
+2026-04-15	eGFR	59 mL/min/1.73m2
+2026-04-15	Creatinine 1.05 mg/dL
+2026-04-15   Hemoglobin A1c      9.5%
+2026-04-15	Glucose, fasting	169 mg/dL
+2026-04-15	Urine albumin/creatinine     228 mg/g
+2026-04-15	Potassium         4.2 mmol/L
+2026-04-15  Sodium	140 mmol/L
+2026-04-15	LDL cholesterol     124 mg/dL
+2026-04-15	Hemoglobin      13.8 g/dL
+
+EXAM
+General: comfor-
+table.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+IMPRESSI0N AND PLAN
+(Assessment copied from note dated 2026-01-11 and updated where noted.)
+1. T2DM: A1c 9.5% (up from 8.3%). Medications unchanged; reinforced carbohydrate counting.
+2. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+3. OA of knees: continue home exercises and acetaminophen PRN.
+4. CKD stage 3a secondary to type 2 diabetes: Today's results as above, at baseline; continue losartan and empag-
+liflozin.
+5. Obesity: weight 134.1 kg. Continue lifestyle changes.
+6. Diabetic foot exam completed today. Pneumococcal vaccination up to date.
+
+PATIENT EDUCATI0N
+Reviewed carbohydrate counting handout.
+Patient verbalized understanding of the p1an.
+
+Retum to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-04-15 11:32

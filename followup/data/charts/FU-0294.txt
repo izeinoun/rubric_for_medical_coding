@@ -1,0 +1,84 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0294    Age: 76    Sex: F
+Date of service: 2026-08-13    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 5
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 76-year-old woman returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 6 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Denies chest pain, shortness of breath or leg swelling. No urinary symptoms. No foot ulcers or numbness reported.
+
+REVIEW OF SYSTEMS
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Respiratory: no cough or dyspnea on exertion.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Eyes: no blurred vision; last dilated eye exam 2024.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Seasonal allergic rhinitis
+- Hypothyroidism
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+- Tonsillectomy (childhood)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- loratadine 10 mg as needed
+- levothyroxine 75 mcg daily
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+No known drug allergies.
+
+FAMILY HISTORY
+Mother: hypertension.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Former smoker, quit 1996; 29 pack-years.
+Works part time as a librarian.
+Alcohol: 1 to 2 drinks per week.
+
+VITALS
+BP 132/84 | HR 80 | Temp 98.4 F | Wt 67.5 kg | BMI 25.8 | SpO2 99%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date  Test                        Result
+2026-02-27  eGFR                        68 mL/min/1.73m2
+2026-02-27  Creatinine                  0.91 mg/dL
+2026-08-08  eGFR                        55 mL/min/1.73m2
+2026-08-08  Creatinine                  1.12 mg/dL
+2026-08-08  Hemoglobin A1c              8.4%
+2026-08-08  Glucose, fasting            172 mg/dL
+2026-08-08  Potassium                   4.3 mmol/L
+2026-08-08  Sodium                      136 mmol/L
+2026-08-08  LDL cholesterol             108 mg/dL
+2026-08-08  Hemoglobin                  12.8 g/dL
+
+ASSESSMENT/PLAN
+1. Type 2 diabetes mellitus: A1c 8.4% (improved from 9.8%). Medications unchanged; reinforced carbohydrate counting.
+2. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+3. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+4. Decreased eGFR, possible early CKD versus lab variation: eGFR 55 today, previously 68. Repeat BMP and urine albumin in 3 months to confirm chronicity.
+5. Diabetic foot exam completed today. Dental visit within the past year.
+
+PATIENT EDUCATION
+Reviewed carbohydrate counting handout.
+Patient verbalized understanding of the plan.
+
+Return to clinic in 6 months or sooner as needed.
+Total time 34 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-08-13 09:21

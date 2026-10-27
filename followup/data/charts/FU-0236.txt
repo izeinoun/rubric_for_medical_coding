@@ -1,0 +1,87 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0236    Age: 50    Sex: M
+Date of service: 2026-06-29    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Practitioner, FNP-C (Primary Care)
+Location: Synthetic Primary Care Clinic, Room 12
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+50-year-old man seen today for routine chronic care. History of type 2 diabetes diagnosed 13 years ago. Home glucose log reviewed, fasting values 116-139 mg/dL with occasional post-meal readings above 200. Mild bilateral knee stiffness in the mornings, unchanged. Appetite stable. Denies nausea or abdominal pain.
+
+REVIEW OF SYSTEMS
+Eyes: no blurred vision; last dilated eye exam 2023.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Skin: no rashes or non-healing wounds.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD stage 3b
+- GERD
+- Obesity
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Tonsillectomy (childhood)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- omeprazole 20 mg daily
+- atorvastatin 40 mg nightly
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+Mother: hypertension.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Never smoker.
+Works part time as a cashier.
+Alcohol: rare.
+
+VITALS
+BP 142/72 | HR 68 | Temp 98.5 F | Wt 115.0 kg | BMI 36.2 | SpO2 99%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date  Test                        Result
+2025-12-15  eGFR                        38 mL/min/1.73m2
+2026-04-06  eGFR                        35 mL/min/1.73m2
+2026-06-25  Hemoglobin A1c              9.5%
+2026-06-25  Glucose, fasting            158 mg/dL
+2026-06-25  LDL cholesterol             132 mg/dL
+2026-06-25  Hemoglobin                  13.6 g/dL
+
+ASSESSMENT AND PLAN
+(A/P carried forward from 2026-04-08; reviewed and unchanged.)
+1. T2DM: A1c 9.5% today (improved from 10.5%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Diabetic kidney disease, CKD stage 3b: Last eGFR 35 on 2026-04-06. Continue current renal regimen. Labs before next visit.
+3. Obesity: weight 115.0 kg. Continue lifestyle changes.
+4. Hyperlipidemia: LDL 132 mg/dL. Continue atorvastatin 40 mg.
+5. GERD: symptoms controlled on omeprazole. Continue.
+6. Diabetic foot exam completed today. Dental visit within the past year.
+
+PATIENT EDUCATION
+Reviewed carbohydrate counting handout.
+Discussed hypoglycemia recognition and treatment.
+
+Return to clinic in 3 months or sooner as needed.
+Total time 25 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Practitioner, FNP-C 2026-06-29 10:52

@@ -1,0 +1,86 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0251    Age: 72    Sex: F
+Date of service: 2026-07-31    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Physician, DO (Family Medicine)
+Location: Synthetic Primary Care Clinic, Room 6
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+72-year-old woman here for a 3-month check-in. History of type 2 diabetes diagnosed 21 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Labs drawn 2026-07-31 were reviewed with the patient today: eGFR 21, UACR 277 mg/g. No urinary symptoms. No foot ulcers or numbness reported. No polyuria or polydipsia. No visual changes.
+
+REVIEW OF SYSTEMS
+Eyes: no blurred vision; last dilated eye exam 2025.
+Constitutional: denies fever, chills or unintended weight loss.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Respiratory: no cough or dyspnea on exertion.
+
+MEDICATIONS
+- insulin glargine 18 units nightly
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+No known drug allergies.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease stage 4
+- Seasonal allergic rhinitis
+- Obesity
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 70.
+Sister: hypothyroidism.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Never smoker.
+Lives with spouse. Retired machinist.
+Walks 5 times per week, about 20 minutes.
+
+VITALS
+BP 125/82 | HR 75 | Temp 97.9 F | Wt 80.3 kg | BMI 32.3 | SpO2 98%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date  Test                        Result
+2026-03-10  eGFR                        22 mL/min/1.73m2
+2026-03-10  Creatinine                  2.81 mg/dL
+2026-07-31  eGFR                        21 mL/min/1.73m2
+2026-07-31  Hemoglobin A1c              6.7%
+2026-07-31  Glucose, fasting            149 mg/dL
+2026-07-31  Urine albumin/creatinine    277 mg/g
+2026-07-31  Potassium                   4.5 mmol/L
+2026-07-31  Sodium                      137 mmol/L
+2026-07-31  LDL cholesterol             98 mg/dL
+2026-07-31  Hemoglobin                  14.7 g/dL
+
+ASSESSMENT AND PLAN
+(Plan unchanged from visit of 2026-03-31.)
+1. Diabetes mellitus, type 2: A1c 6.7% (improved from 7.8%). Medications unchanged; reinforced carbohydrate counting.
+2. CKD stage 4: Today's results as above, at baseline; continue losartan and empagliflozin.
+3. Obesity, BMI 32.3: discussed nutrition and activity goals; referred to dietitian.
+4. Also on problem list: allergic rhinitis.
+5. Shingles vaccine series completed. Influenza vaccine given this season.
+
+PATIENT EDUCATION
+Reviewed carbohydrate counting handout.
+Reviewed sick-day rules for medications.
+
+Return to clinic in 4 months or sooner as needed.
+Total time 44 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Physician, DO 2026-07-31 10:34

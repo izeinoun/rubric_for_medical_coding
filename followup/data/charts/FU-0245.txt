@@ -1,0 +1,100 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0245    Age: 50    Sex: M
+Date of service: 2026-04-10    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 8
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+Patient is
+--- Page 2 of 3 --- FU-0245 --- printed 2026-04-20 ---
+a 50-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 6 years ago. Notes some difficulty with diet recently; fasting sugars 121-166 mg/dL. No polyuria or polydipsia. No visual changes. Appetite stable. Denies nausea or abdominal pain.
+
+REVIEW 0F SYSTEMS
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Neurological: no numbness or tingling in the feet; no heada-
+ches.
+Respiratory: no cough or dyspnea on exertion.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Skin: no rashes or non-healing wounds.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Constitutional: denies fever, chills or unintended weight loss.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD, stage 3b
+- Osteoarthritis, bilateral knees
+- Hyperlipidemia
+- Hypothyroidism
+
+PAST SURGICAL HISTORY
+- Colonoscopy with polypectomy (2021)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- atorvastatin 40 mg nightly
+- levothyroxine 75 mcg daily
+Medic-
+ation reco-
+nciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+NKDA.
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 63.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Never smoker.
+Alcohol: 1 to 2 drinks per week.
+Works part time as a cashier.
+
+VITALS
+BP 145/72 | HR 70 | Temp 98.4 F | Wt 66.1 kg | BMI 23.8 | SpO2 97%
+
+EXAM
+General: comfortable.
+Cardiac: regular, no gallop.
+Pulmonary: no wheezes or crackles.
+Skin: warm and dry.
+Ext: no pedal edema.
+
+LABS
+Date Test         Result
+2025-10-19   eGFR      39 mL/min/1.73m2
+2026-04-09	eGFR	30 mL/min/1.73m2
+2026-04-09 Creatinine   2.06 mg/dL
+2026-04-09	Hemoglobin A1c   8.4%
+2026-04-09	Glucose, fasting	132 mg/dL
+2026-04-09 Urine albumin/creatinine	378 mg/g
+2026-04-09 Potassium	4.4 mmol/L
+2026-04-09 Sodium	139 mmol/L
+2026-04-09	LDL cholesterol     63 mg/dL
+2026-04-09 Hemoglobin	13.3 g/dL
+
+FROM LAST OFFICE VISIT (2025-10-20)
+(For reference only; not today’s assessment.)
+Diabetes mellitus, type 2: A1c 8.6% at that visit; continued medications.
+CKD 3b: eGFR 39 at that visit; continued losartan.
+OA of knees: continue home exercises and acetaminophen PRN.
+
+ASSESSMENT AND PLAN
+1. Diabetes mellitus, type 2: A1c 8.4%, improved from 8.6%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. CKD 3b, stable on losartan; no changes.
+3. OA of knees: continue home exercises and acetaminophen PRN.
+4. Prob1em list reviewed: hyperlipidemia, hypothyroidism.
+5. Shingles vaccine series completed. Diabetic foot exam completed today.
+
+PATlENT EDUCATI0N
+Encouraged 150 minutes of moderate activity weekly.
+Reviewed carbohydrate counting handout.
+
+Retum to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-04-10 12:33

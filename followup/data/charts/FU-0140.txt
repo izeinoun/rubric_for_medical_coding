@@ -1,0 +1,94 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0140    Age: 57    Sex: F
+Date of service: 2026-06-14    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Associate, PA-C (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 8
+
+CHIEF COMPLAINT
+Here to go over recent blood work.
+
+HISTORY OF PRESENT ILLNESS
+57-year-old woman presents for scheduled follow-up. History of type 2 diabetes diagnosed 14 years ago. States adherence to medications is good. Denies hypoglycemic episodes. Sleeping reasonably well. Mood is good. No polyuria or polydipsia. No visual changes.
+
+REVIEW OF SYSTEMS
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Eyes: no blurred vision; last dilated eye exam 2024.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Constitutional: denies fever, chills or unintended weight loss.
+Skin: no rashes or non-healing wounds.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Respiratory: no cough or dyspnea on exertion.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on ora1 agents
+- CKD, stage 3a
+- Osteoarthritis, bilateral knees
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+- Colonoscopy with polypectomy (2021)
+- Tonsillectomy (childhood)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- semaglutide 0.5 mg weekly
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- atorvastatin 40 mg nightly
+Med rec done with patient’s pill bottles.
+
+ALLERGIES
+Penicillin (rash).
+
+FAMILY HISTORY
+Mother: hypertension.
+No family history of kidney disease reported.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Never smoker.
+Alcohol: none.
+Walks 5 times per week, about 20 minutes.
+
+VITALS
+BP 132/74 | HR 68 | Temp 98.3 F | Wt 73.9 kg | BMI 26.6 | SpO2 99%
+
+LABS
+Date   Test    Result
+2025-10-31	eGFR  58 mL/min/1.73m2
+2025-10-31   Creatinine	1.06 mg/dL
+2026-06-14 eGFR	50 mL/min/1.73m2
+2026-06-14 Hemoglobin A1c 9.0%
+2026-06-14	Glucose, fasting         139 mg/dL
+2026-06-14    Urine albumin/creatinine        311 mg/g
+2026-06-14  Potassium   3.8 mmol/L
+2026-06-14  Sodium	143 mmol/L
+2026-06-14    LDL cholesterol      111 mg/dL
+2026-06-14	Hemoglobin	14.1 g/dL
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+IMPRESSION AND PLAN
+(Plan unchanged from visit of 2026-01-07.)
+1. Diabetes mellitus, type 2: A1c 9.0% (improved from 10.4%). Medications unchanged; reinforced carbohydrate counting.
+2. Knee osteoarthritis: stab1e. Acetaminophen as needed; avoid NSAIDs.
+3. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+4. CKD, stage 3a: Today’s eGFR 50 (2026-06-14), down from 58. Continue losartan and dapagliflozin. Labs again in 3 months.
+5. Pneumococcal vaccination up to date. Dental visit within the past year.
+
+PATIENT EDUCATION
+Patient verbalized understanding of the plan.
+Discussed hypoglycemia recognit-
+ion and treatment.
+
+--- Page 2 of 3 --- FU-0140 --- printed 2026-06-24 ---
+Retum to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Associate, PA-C 2026-06-14 11:56

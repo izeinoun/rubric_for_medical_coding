@@ -1,0 +1,92 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0003    Age: 78    Sex: M
+Date of service: 2026-09-19    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 12
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+78-year-old man presents for scheduled follow-up. History of type 2 diabetes diagnosed 11 years ago. Reports checking glucose daily; fasting readings mostly 127-140 mg/dL. No urinary symptoms. No foot ulcers
+--- Page 2 of 3 --- FU-0003 --- printed 2026-09-26 ---
+or numbness reported. Sleeping reasonably well. Mood is good.
+
+REVIEW 0F SYSTEMS
+Skin: no rashes or non-healing wounds.
+Neurological: no numbness or tingling in the feet; no headaches.
+Constitutional: denies fever, chills or unintended weight loss.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+
+PAST MEDICAL HIST0RY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease, stage 3a
+- Hyperlipidemia
+- GERD
+
+PAST SURGICAL HISTORY
+- Cataract extr-
+action, left eye (2022)
+- Appendectomy (1988)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- atorvastatin 40 mg nightly
+- omeprazole 20 mg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Penicillin (rash).
+
+FAMILY HISTORY
+Mother: hypertension.
+Sister: hypothyroidism.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Former smoker, quit 2002; 20 pack-years.
+Lives with alone. Retired machinist.
+Walks 5 times per week, about 20 minutes.
+
+VITALS
+BP 124/68 | HR 80 | Temp 98.7 F | Wt 85.5 kg | BMI 24.7 | SpO2 98%
+
+LABS
+Date   Test	Result
+2026-05-27    eGFR   46 mL/min/1.73m2
+2026-09-19	eGFR	51 mL/min/1.73m2
+2026-09-19	Creatinine	1.21 mg/dL
+2026-09-19 Hemoglobin A1c	8.2%
+2026-09-19	Glucose, fasting     178 mg/dL
+2026-09-19	Urine albumin/creatinine 214 mg/g
+2026-09-19   Potassium	4.2 mmol/L
+2026-09-19  Sodium        141 mmol/L
+2026-09-19   LDL cholesterol        74 mg/dL
+2026-09-19 Hemoglobin   13.7 g/dL
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+ASSESSMENT/PLAN
+(Assessment copied from note dated 2026-06-25 and updated where noted.)
+1. Diabetes mellitus, type 2: A1c 8.2% (improved from 8.7%). Medications unchanged; reinforced carbohydrate counting.
+2. CKD, stage 3a: Today’s eGFR 51 (2026-09-19), stable from 46. Continue losartan and dapagliflozin. Labs again in 3 months.
+3. Problem list reviewed: GERD, hyperlipidemia.
+4. Retinal exam due; referral placed. lnfluenza vaccine given this season.
+
+PATlENT EDUCATION
+Encouraged 150 minutes of moderate activity weekly.
+Reviewed carbohydrate counting handout.
+
+Retum to clinic in 4 months or sooner as needed.
+Total time 38 minutes, more than half in counseling and care coordination.
+E1ectronically signed: Synthetic Provider, MD 2026-09-19 10:40

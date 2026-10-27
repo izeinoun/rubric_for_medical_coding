@@ -1,0 +1,98 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0286    Age: 77    Sex: M
+Date of service: 2026-02-15    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 14
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+77-year-old man here for a 4-month check-in. History of type 2 diabetes diagnosed 19 years ago. Home glucose log reviewed, fasting values 123-171 mg/dL with occasional post-meal readings above 200. Appetite stable. Denies nausea or abdominal pain. Sleeping reasonably well. Mood is good.
+
+REVIEW OF SYSTEMS
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Respiratory: no cough or dyspnea on exertion.
+Neurological: no numbness or tingling in the feet; no headaches.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Constitutional: denies fever, chills or unintended weight loss.
+Genitourinary: no dysuria, hematuria or change in urine output.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- CKD, stage 4
+- Osteoarthritis, bilateral knees
+- Seasonal allergic rhinitis
+- Hypothyroidism
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Colonoscopy with polypectomy (2021)
+- Tonsillectomy (childhood)
+- Appendectomy (1988)
+
+MEDICATIONS
+- insulin glargine 18 units nightly
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- loratadine 10 mg as needed
+- levothyroxine 75 mcg daily
+- atorvastatin 40 mg nightly
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Penicillin (rash).
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Father: coronary artery disease, died age 66.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Never smoker.
+Walks 4 times per week, about 20 minutes.
+Lives with spouse. Retired bus driver.
+
+VITALS
+BP 128/86 | HR 78 | Temp 98.1 F | Wt 66.9 kg | BMI 25.0 | SpO2 97%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+--- Page 2 of 3 --- FU-0286 --- printed 2026-03-01 ---
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date	Test         Result
+2026-02-15	eGFR	28 mL/min/1.73m2
+2026-02-15	Hemoglobin A1c   7.2%
+2026-02-15  Glucose, fasting  167 mg/dL
+2026-02-15	Urine albumin/creatinine        376 mg/g
+2026-02-15	Potassium	3.9 mmol/L
+2026-02-15	Sodium     138 mmol/L
+2026-02-15  LDL cholesterol        128 mg/dL
+2026-02-15  Hemoglobin	14.1 g/dL
+
+IMPRESSI0N AND PLAN
+(A/P carried forward from 2025-09-15; reviewed and unchanged.)
+1. Diabetes mellitus, type 2: A1c 7.2% today (up from 6.9%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. Hypothyroid: clinically euthyroid. Continue current dose.
+3. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+4. Diabetic kidney disease, CKD stage 4: Today’s eGFR 28 (2026-02-15), no prior for comparison. Continue losartan and empagliflozin. Labs again in 3 months.
+5. 0A of knees: continue home exercises and acetam-
+inophen PRN.
+6. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+7. Diabetic foot exam comp1eted today. Pneumococcal vacci-
+nation up to date.
+
+PATlENT EDUCATI0N
+Reviewed carbohydrate counting handout.
+Discussed hypoglycemia recognition and treatment.
+
+Retum to c1inic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-02-15 12:42

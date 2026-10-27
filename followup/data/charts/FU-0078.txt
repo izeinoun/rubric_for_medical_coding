@@ -1,0 +1,96 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0078    Age: 49    Sex: M
+Date of service: 2026-02-10    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Associate, PA-C (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 3
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+49-year-old man seen today for routine chronic care. Type 1 diabetes since age 17. Brought meter today; morning values 120-145 mg/dL, no lows. No urinary symptoms. No foot ulcers or numbness reported. Appetite stable. Denies nausea or abdominal pain.
+
+REVIEW OF SYSTEMS
+Skin: no rashes or non-healing wounds.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Respiratory: no cough or dyspnea on exertion.
+Neurological: no numbness or tingling in the feet; no headaches.
+Eyes: no blurred vision; last dilated eye exam 2024.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 1 DM
+- Chronic kidney disease, stage 4
+- Seasonal allergic rhinitis
+- Hypothyroidism
+- GERD
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Tonsillectomy (childhood)
+- Colonoscopy with polypectomy (2021)
+
+MEDICATIONS
+- insulin pump (lispro) with continuous glucose monitor
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+- levothyroxine 75 mcg daily
+- omeprazole 20 mg daily
+- atorvastatin 40 mg nightly
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+NKDA.
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+Brother: hyperlipidemia.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Former smoker, quit 2008; 25 pack-years.
+Works part time as a librarian.
+Walks 3 times per week, about 20 minutes.
+
+VITALS
+BP 142/69 | HR 79 | Temp 98.6 F | Wt 70.3 kg | BMI 25.5 | SpO2 95%
+
+LABS
+Date  Test                        Result
+2025-07-02  eGFR                        17 mL/min/1.73m2
+2026-02-01  eGFR                        18 mL/min/1.73m2
+2026-02-01  Creatinine                  3.43 mg/dL
+2026-02-01  Hemoglobin A1c              9.0%
+2026-02-01  Glucose, fasting            166 mg/dL
+2026-02-01  Urine albumin/creatinine    148 mg/g
+2026-02-01  Potassium                   4.5 mmol/L
+2026-02-01  Sodium                      139 mmol/L
+2026-02-01  LDL cholesterol             76 mg/dL
+2026-02-01  Hemoglobin                  14.0 g/dL
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+IMPRESSION AND PLAN
+1. Type 1 diabetes mellitus: A1c 9.0% on insulin pump. Adjusted overnight basal rate. Continue CGM.
+2. Hyperlipidemia: LDL 76 mg/dL. Continue atorvastatin 40 mg.
+3. Diabetic kidney disease, CKD stage 4: eGFR 18 today (stable from 17). Continue losartan. Recheck BMP and urine albumin-to-creatinine ratio in 3 months.
+4. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+5. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+6. Problem list reviewed: allergic rhinitis.
+7. Pneumococcal vaccination up to date. Colorectal cancer screening up to date.
+
+PATIENT EDUCATION
+Reviewed carbohydrate counting handout.
+Encouraged 150 minutes of moderate activity weekly.
+
+Return to clinic in 3 months or sooner as needed.
+Total time 40 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Associate, PA-C 2026-02-10 17:24

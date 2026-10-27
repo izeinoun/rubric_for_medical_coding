@@ -1,0 +1,89 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0159    Age: 50    Sex: M
+Date of service: 2026-04-25    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 10
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+50-year-old man here for a 3-month check-in. History of type 2 diabetes diagnosed 11 years ago. Notes some difficulty with diet recently; fasting sugars 105-142 mg/dL. No urinary symptoms. No foot ulcers or numbness reported. Sleeping reasonably well. Mood is good.
+
+REVIEW OF SYSTEMS
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Respiratory: no cough or dyspnea on exertion.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Skin: no rashes or non-healing wounds.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease stage 3b
+- Hyperlipidemia
+- GERD
+
+PAST SURGICAL HISTORY
+- Right knee arthroscopy (2015)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- atorvastatin 40 mg nightly
+- omeprazole 20 mg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+No known drug allergies.
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+No family history of kidney disease reported.
+Father: coronary artery disease, died age 64.
+
+SOCIAL HISTORY
+Never smoker.
+Alcohol: none.
+Walks 2 times per week, about 20 minutes.
+
+VITALS
+BP 119/86 | HR 69 | Temp 98.1 F | Wt 67.6 kg | BMI 24.2 | SpO2 99%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date  Test                        Result
+2026-04-19  eGFR                        34 mL/min/1.73m2
+2026-04-19  Hemoglobin A1c              9.1%
+2026-04-19  Glucose, fasting            113 mg/dL
+2026-04-19  Urine albumin/creatinine    93 mg/g
+2026-04-19  Potassium                   5.0 mmol/L
+2026-04-19  Sodium                      142 mmol/L
+2026-04-19  LDL cholesterol             99 mg/dL
+2026-04-19  Hemoglobin                  13.8 g/dL
+
+INTERVAL NOTE - PREVIOUS VISIT 2025-10-18
+(For reference only; not today's assessment.)
+Diabetes mellitus, type 2: A1c 8.9% at that visit; continued medications.
+Chronic kidney disease stage 3b: continued losartan.
+Hyperlipidemia: LDL 99 mg/dL. Continue atorvastatin 40 mg.
+
+ASSESSMENT/PLAN
+1. Diabetes mellitus, type 2: A1c 9.1%, up from 8.9%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Other chronic problems reviewed: hyperlipidemia, CKD 3b, GERD.
+3. Pneumococcal vaccination up to date. Dental visit within the past year.
+
+PATIENT EDUCATION
+Patient verbalized understanding of the plan.
+Discussed hypoglycemia recognition and treatment.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-04-25 13:36

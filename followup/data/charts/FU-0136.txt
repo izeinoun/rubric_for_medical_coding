@@ -1,0 +1,104 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0136    Age: 61    Sex: M
+Date of service: 2026-07-18    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 4
+
+CHIEF COMPLAINT
+Chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS
+61-year-old man presents for scheduled follow-up. History of
+--- Page 2 of 3 --- FU-0136 --- printed 2026-08-01 ---
+diabetes diagnosed 8 years ago, managed with metformin. Has been trying to walk 2 times per week. Glucose readings 105-151 mg/dL fasting. Energy fair. No new complaints today. No urinary symptoms. No foot ulcers or numbness reported.
+
+REVIEW OF SYSTEMS
+Eyes: no blurred vision; last dilated eye exam 2023.
+Constitutional: denies fever, chills or unintended weight loss.
+Respiratory: no cough or dyspnea on exertion.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Skin: no rashes or non-healing wounds.
+Neurological: no numbness or tingling in the feet; no headaches.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- DM, on metformin
+- CKD stage 3a
+- Hypothyroidism
+- Osteoarthritis, bilateral knees
+- Seasonal allergic rhinitis
+
+PAST SURGlCAL HISTORY
+- Appendectomy (1988)
+- Colonoscopy with polypectomy (2021)
+- Right knee arthroscopy (2015)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- levothy-
+roxine 75 mcg daily
+- acetaminophen 650 mg as needed
+- loratadine 10 mg as needed
+Medicati-
+ons reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+No known drug allergies.
+
+FAMILY HISTORY
+No family history of kidney disease reported.
+Father: coronary artery disease, died age 68.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Never smoker.
+Works part time as a librarian.
+Lives with spouse. Retired accountant.
+
+VITALS
+BP 121/87 | HR 76 | Temp 98.5 F | Wt 76.7 kg | BMI 26.1 | SpO2 98%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date	Test	Result
+2026-07-16   eGFR    49 mL/min/1.73m2
+2026-07-16	Creatinine        1.26 mg/dL
+2026-07-16	Hemoglobin A1c       7.7%
+2026-07-16	Glucose, fasting    167 mg/dL
+2026-07-16	Urine albumin/creatinine	380 mg/g
+2026-07-16	Potassium     4.4 mmol/L
+2026-07-16  Sodium	136 mmol/L
+2026-07-16   LDL cholesterol   81 mg/dL
+2026-07-16   Hemoglobin	12.1 g/dL
+
+FROM LAST OFFICE VISIT (2026-01-19)
+(For refere-
+nce only; not today's assessment.)
+Diabetes mellitus: A1c 6.7% at that visit; continued medications.
+Chronic kidney disease stage 3a: continued losartan.
+Hypothyroid: clinically euthyroid. Continue current dose.
+
+IMPRESSION AND PLAN
+1. Diabetes me1litus: A1c 7.7% (up from 6.7%). Medications unchanged; reinforced carbohydrate counting.
+2. OA of knees: continue home exercises and acetaminophen PRN.
+3. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+4. Allergic rhinitis: seasona1 symptoms; continue loratadine PRN.
+5. Chronic kidney disease stage 3a: Labs reviewed with patient, eGFR 49. Continue dapagliflozin; metformin dose appropriate for current eGFR. Recheck in 3 to 4 months.
+6. lnfluenza vaccine given this season. Retinal exam due; referral placed.
+
+PATIENT EDUCATI0N
+Patient verba1ized understanding of the plan.
+Discussed hypoglycemia recognition and treatment.
+
+Retum to clinic in 4 months or sooner as needed.
+Total time 38 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-07-18 15:37

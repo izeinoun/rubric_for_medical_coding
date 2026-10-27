@@ -1,0 +1,92 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0244    Age: 68    Sex: F
+Date of service: 2026-04-17    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Associate, PA-C (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 13
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 68-year-old woman, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 9 years ago. Brought meter today; morning values 112-135 mg/dL, no lows. Energy fair. No new complaints today. No urinary symptoms. No foot ulcers or numbness reported.
+
+REVIEW OF SYSTEMS
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Eyes: no blurred vision; last dilated eye exam 2024.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Skin: no rashes or non-healing wounds.
+Constitutional: denies fever, chills or unintended weight loss.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Respiratory: no cough or dyspnea on exertion.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD, stage 3b
+- Osteoarthritis, bilateral knees
+- Hyperlipidemia
+- Obesity
+- Seasonal allergic rhinitis
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+- Appendectomy (1988)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- atorvastatin 40 mg nightly
+- loratadine 10 mg as needed
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+NKDA.
+
+FAMILY HISTORY
+Mother: hypertension.
+Father: coronary artery disease, died age 67.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Never smoker.
+Works part time as a consultant.
+Lives with spouse. Retired bus driver.
+
+VITALS
+BP 141/76 | HR 62 | Temp 97.7 F | Wt 94.6 kg | BMI 35.4 | SpO2 94%
+
+LABS
+Date  Test                        Result
+2025-11-05  Creatinine                  1.99 mg/dL
+2026-04-09  Creatinine                  2.06 mg/dL
+2026-04-09  Hemoglobin A1c              6.5%
+2026-04-09  Glucose, fasting            163 mg/dL
+2026-04-09  Urine albumin/creatinine    154 mg/g
+2026-04-09  Potassium                   4.9 mmol/L
+2026-04-09  Sodium                      143 mmol/L
+2026-04-09  LDL cholesterol             124 mg/dL
+2026-04-09  Hemoglobin                  13.2 g/dL
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+IMPRESSION AND PLAN
+1. Diabetes mellitus, type 2: A1c 6.5% (up from 6.3%). Medications unchanged; reinforced carbohydrate counting.
+2. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+3. Obesity, BMI 35.4: discussed nutrition and activity goals; referred to dietitian.
+4. Hyperlipidemia: LDL 124 mg/dL. Continue atorvastatin 40 mg.
+5. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+6. Diabetic foot exam completed today. Colorectal cancer screening up to date.
+
+PATIENT EDUCATION
+Reviewed carbohydrate counting handout.
+Reviewed sick-day rules for medications.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Associate, PA-C 2026-04-17 10:54

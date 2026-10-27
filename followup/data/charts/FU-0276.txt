@@ -1,0 +1,88 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0276    Age: 74    Sex: M
+Date of service: 2026-05-19    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 12
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+74-year-old man seen today for routine chronic care. History of type 2 diabetes diagnosed 15 years ago. Reports checking glucose twice daily; fasting readings mostly 122-136 mg/dL. Denies chest pain, shortness of breath or leg swelling. Energy fair. No new complaints today.
+
+REVIEW OF SYSTEMS
+Eyes: no blurred vision; last dilated eye exam 2024.
+Neurological: no numbness or tingling in the feet; no headaches.
+Constitutional: denies fever, chills or unintended weight loss.
+Respiratory: no cough or dyspnea on exertion.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Genitourinary: no dysuria, hematuria or change in urine output.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- CKD stage 3b
+- Seasonal allergic rhinitis
+- Hypothyroidism
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Tonsillectomy (childhood)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- semaglutide 0.5 mg weekly
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+- levothyroxine 75 mcg daily
+- atorvastatin 40 mg nightly
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+NKDA.
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Never smoker.
+Lives with spouse. Retired teacher.
+Works part time as a librarian.
+
+VITALS
+BP 138/83 | HR 90 | Temp 98.2 F | Wt 71.0 kg | BMI 26.3 | SpO2 99%
+
+LABS
+Date  Test                        Result
+2026-05-18  eGFR                        31 mL/min/1.73m2
+2026-05-18  Creatinine                  1.99 mg/dL
+2026-05-18  Hemoglobin A1c              7.7%
+2026-05-18  Glucose, fasting            131 mg/dL
+2026-05-18  Urine albumin/creatinine    403 mg/g
+2026-05-18  Potassium                   4.6 mmol/L
+2026-05-18  Sodium                      140 mmol/L
+2026-05-18  LDL cholesterol             125 mg/dL
+2026-05-18  Hemoglobin                  11.9 g/dL
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+ASSESSMENT/PLAN
+1. T2DM: A1c 7.7% today (improved from 8.3%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. CKD 3b, stable on losartan.
+3. Hyperlipidemia: LDL 125 mg/dL. Continue atorvastatin 40 mg.
+4. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+5. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+6. Colorectal cancer screening up to date. Shingles vaccine series completed.
+
+PATIENT EDUCATION
+Patient verbalized understanding of the plan.
+Encouraged 150 minutes of moderate activity weekly.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-05-19 09:15

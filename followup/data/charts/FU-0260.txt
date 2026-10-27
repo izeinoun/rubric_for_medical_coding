@@ -1,0 +1,98 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0260    Age: 67    Sex: F
+Date of service: 2026-03-19    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 4
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HlSTORY OF PRESENT ILLNESS
+67-year-old woman here for a 6-month check-in. History of type 2 diabetes diagnosed 11 years ago. Reports checking
+--- Page 2 of 3 --- FU-0260 --- printed 2026-03-28 ---
+glucose a few times a week; fasting readings mostly 117-152 mg/dL. Energy fair. No new complaints today. Appetite stable. Denies nausea or abdominal pain.
+
+REVIEW OF SYSTEMS
+Eyes: no blurred vision; last dilated eye exam 2024.
+Skin: no rashes or non-healing wounds.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Neurological: no numbness or tingling in the feet; no headaches.
+Constitutional: denies fever, chills or unintended weight loss.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Respiratory: no cough or dyspnea on exertion.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflo-
+zin 10 mg daily
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- loratadine 10 mg as needed
+- atorvastatin 40 mg nightly
+Med rec done with patient’s pill bottles.
+
+ALLERGIES
+NKDA.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease stage 3a
+- Osteoarthritis, bilateral knees
+- Obesity
+- Seasonal allergic rhinitis
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Colonoscopy with polypectomy (2021)
+- Tonsillectomy (childhood)
+- Appendectomy (1988)
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Never smoker.
+Walks 3 times per week, about 20 minutes.
+Alcohol: 1 to 2 drinks per week.
+
+VITALS
+BP 138/81 | HR 67 | Temp 98.7 F | Wt 114.5 kg | BMI 37.9 | SpO2 96%
+
+LABS
+Date	Test	Result
+2025-12-14 eGFR   54 mL/min/1.73m2
+2025-12-14  Cre-
+atinine	1.14 mg/dL
+2026-03-15 eGFR       51 mL/min/1.73m2
+2026-03-15  Hemoglobin A1c   6.6%
+2026-03-15	Glucose, fasting   131 mg/dL
+2026-03-15    Urine albumin/creatinine  191 mg/g
+2026-03-15  Potassium	4.6 mmol/L
+2026-03-15    Sodium 141 mmol/L
+2026-03-15	LDL cholesterol       115 mg/dL
+2026-03-15 Hemoglobin     13.3 g/dL
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+ASSESSMENT AND PLAN
+1. Type 2 diabetes mellitus: A1c 6.6% (up from 6.0%). Medications unchanged; reinforced carbohydrate counting.
+2. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+3. Allergic rhinitis: seasonal symptoms; continue 1oratadine PRN.
+4. 0besity, BMI 37.9: discussed nutrition and activity goa1s; referred to dietitian.
+5. Knee osteoarthritis: stable. Acetaminophen as needed; avoid NSAIDs.
+6. Retinal exam due; referral placed. Influenza vaccine given this season.
+
+PATIENT EDUCATION
+Reviewed sick-day ru1es for medications.
+Reviewed carbohydrate counting handout.
+
+Retum to c1inic in 3 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-03-19 08:11

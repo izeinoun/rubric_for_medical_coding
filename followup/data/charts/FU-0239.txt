@@ -1,0 +1,88 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0239    Age: 59    Sex: M
+Date of service: 2026-07-02    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 14
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HIST0RY OF PRESENT ILLNESS
+59-year-old man seen today for routine chronic care. History of type 2 diabetes diagnosed 17 years ago. Home glucose log reviewed, fasting values 122-171 mg/dL with occasional post-meal readings above 200. Mild bilateral
+--- Page 2 of 3 --- FU-0239 --- printed 2026-07-05 ---
+knee stiffn-
+ess in the mornings, unchanged. No polyuria or polydipsia. No visual changes.
+
+REVIEW OF SYSTEMS
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Neurological: no numbness or tingling in the feet; no headaches.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Skin: no rashes or non-healing wounds.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- omeprazole 20 mg daily
+- atorvastatin 40 mg nightly
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Codeine (nausea).
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD stage 3a
+- GERD
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+- Appendectomy (1988)
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+Mother: hypertension.
+Father: coronary artery disease, died age 73.
+
+SOCIAL HISTORY
+Never smoker.
+Alcohol: none.
+Walks 4 times per week, about 20 minutes.
+
+VITALS
+BP 123/85 | HR 87 | Temp 98.4 F | Wt 76.3 kg | BMI 23.7 | SpO2 94%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date   Test Result
+2025-10-11    eGFR 51 mL/min/1.73m2
+2025-10-11    Creatinine    1.21 mg/dL
+2026-02-13	eGFR         53 mL/min/1.73m2
+2026-06-30    Hemog1obin A1c	8.0%
+2026-06-30   Glucose, fasting	187 mg/dL
+2026-06-30   LDL cholesterol	103 mg/dL
+2026-06-30 Hemoglobin	12.8 g/dL
+
+ASSESSMENT AND PLAN
+(A/P carried forward from 2026-02-16; reviewed and unchanged.)
+1. Diabetes mellitus, type 2: A1c 8.0%, up from 7.5%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Chronic kidney disease stage 3a: Unchanged from 02/2026; per last visit.
+3. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+4. HLD: to1erating statin. Continue atorvastatin; recheck lipids in 12 months.
+5. Dental visit within the past year. Colorectal cancer screening up to date.
+
+PATIENT EDUCATION
+Patient verbalized understanding of the plan.
+Discussed hypoglycemia recognition and treatment.
+
+Retum to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-07-02 09:20

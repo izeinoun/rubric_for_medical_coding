@@ -1,0 +1,83 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0230    Age: 56    Sex: F
+Date of service: 2026-08-11    Visit type: Medical nutrition therapy visit, in person
+Clinician: Synthetic Dietitian, RD (Medical Nutrition Therapy)
+Location: Synthetic Primary Care Clinic, Room 9
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+56-year-old woman seen today for routine chronic care. History of type 2 diabetes diagnosed 22 years ago. Has been trying to walk 5 times per week. Glucose readings 120-158 mg/dL fasting. Denies chest pain, shortness of breath or leg swelling. Sleeping reasonably well. Mood is good.
+
+REVIEW OF SYSTEMS
+Eyes: no blurred vision; last dilated eye exam 2024.
+Neurological: no numbness or tingling in the feet; no headaches.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Constitutional: denies fever, chills or unintended weight loss.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Respiratory: no cough or dyspnea on exertion.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- empagliflozin 10 mg daily
+- lisinopril 20 mg daily
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+NKDA.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease, stage 3a
+- Obesity
+- Essential hypertension
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 63.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Never smoker.
+Alcohol: 1 to 2 drinks per week.
+Lives with daughter. Retired accountant.
+
+VITALS
+BP 141/80 | HR 89 | Temp 97.7 F | Wt 96.2 kg | BMI 37.6 | SpO2 96%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date  Test                        Result
+2026-08-09  eGFR                        50 mL/min/1.73m2
+2026-08-09  Creatinine                  1.24 mg/dL
+2026-08-09  Hemoglobin A1c              6.4%
+2026-08-09  Glucose, fasting            178 mg/dL
+2026-08-09  Urine albumin/creatinine    404 mg/g
+2026-08-09  Potassium                   4.0 mmol/L
+2026-08-09  Sodium                      142 mmol/L
+2026-08-09  LDL cholesterol             91 mg/dL
+2026-08-09  Hemoglobin                  13.5 g/dL
+
+ASSESSMENT AND PLAN
+1. T2DM: A1c 6.4% (improved from 6.7%). Reviewed meal plan and carbohydrate counting; medications per provider.
+2. CKD stage 3a secondary to type 2 diabetes: Kidney labs reviewed with patient: eGFR 50, UACR 404 mg/g. Reviewed renal diet handout; continue empagliflozin as prescribed.
+3. Obesity: managed by primary care provider.
+4. Problem list reviewed: hypertension.
+5. Retinal exam due; referral placed. Dental visit within the past year.
+
+PATIENT EDUCATION
+Reviewed carbohydrate counting handout.
+Patient verbalized understanding of the plan.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Dietitian, RD 2026-08-11 14:39

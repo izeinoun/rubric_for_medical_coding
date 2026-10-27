@@ -1,0 +1,89 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0254    Age: 58    Sex: F
+Date of service: 2026-06-08    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Practitioner, FNP-C (Primary Care)
+Location: Synthetic Primary Care Clinic, Room 11
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 58-year-old woman returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 16 years ago. Reports checking glucose daily; fasting readings mostly 120-154 mg/dL. Mild bilateral knee stiffness in the mornings, unchanged. No polyuria or polydipsia.
+--- Page 2 of 3 --- FU-0254 --- printed 2026-06-24 ---
+No visual changes.
+
+REVlEW OF SYSTEMS
+Skin: no rashes or non-healing wounds.
+Respiratory: no cough or dyspnea on exertion.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease, stage 3b
+- Osteoarthritis, bilate-
+ral knees
+- Essential hypertension
+
+PAST SURGICAL HISTORY
+- Cholecystectomy (2011)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- semaglutide 0.5 mg weekly
+- empagliflozin 10 mg daily
+- acetaminophen 650 mg as needed
+- lisinopril 20 mg daily
+Medication reconci-
+liation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+Sister: hypothyroidism.
+Mother: hypertension.
+Brother: hyperlipidemia.
+
+SOCIAL HISTORY
+Never smoker.
+Lives with daughter. Retired bus driver.
+Alcohol: rare.
+
+VITALS
+BP 142/83 | HR 63 | Temp 98.3 F | Wt 64.6 kg | BMI 26.5 | SpO2 98%
+
+LABS
+Date    Test	Result
+2026-03-01    eGFR      44 mL/min/1.73m2
+2026-05-29  eGFR	36 mL/min/1.73m2
+2026-05-29  Hemoglobin A1c	8.8%
+2026-05-29	Glucose, fasting  160 mg/dL
+2026-05-29	Urine albumin/creatinine       138 mg/g
+2026-05-29	Potassium	4.3 mmol/L
+2026-05-29  Sodium	141 mmol/L
+2026-05-29   LDL cholesterol       67 mg/dL
+2026-05-29  Hemoglobin        14.0 g/dL
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+lMPRESSION AND PLAN
+1. Diabetes mellitus, type 2: A1c 8.8% today (improved from 9.6%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. OA of knees: continue home exercises and acetaminophen PRN.
+3. Essential hypertension: BP 142/83. Reinforced low-sodium diet; continue lisinopril 20 mg.
+4. Shingles vaccine series completed. Dental visit within the past year.
+
+PATlENT EDUCATI0N
+Encouraged 150 minutes of moderate activity weekly.
+Discussed hypoglycemia recognition and treatment.
+
+Retum to clinic in 4 months or sooner as needed.
+Total time 33 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Practitioner, FNP-C 2026-06-08 08:08

@@ -1,0 +1,91 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0007    Age: 81    Sex: F
+Date of service: 2026-04-19    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 14
+
+CHIEF COMPLAINT
+3-month follow-up, review of labs.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 81-year-old woman returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 21 years ago. Home glucose log reviewed, fasting values 124-137 mg/dL with occasional post-meal readings above 200. Appetite stable. Denies nausea or abdominal pain. Mild bilateral knee stiffness in the mornings, unchanged.
+
+REVIEW OF SYSTEMS
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Skin: no rashes or non-healing wounds.
+Respiratory: no cough or dyspnea on exertion.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Eyes: no blurred vision; last dilated eye exam 2024.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Neurological: no numbness or tingling in the feet; no headaches.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD stage 3b
+- Hyperlipidemia
+- Hypothyroidism
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+- Right knee arthroscopy (2015)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- semaglutide 0.5 mg weekly
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- atorvastatin 40 mg nightly
+- levothyroxine 75 mcg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+No known drug allergies.
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Former smoker, quit 2015; 10 pack-years.
+Walks 4 times per week, about 20 minutes.
+Alcohol: none.
+
+VITALS
+BP 131/79 | HR 74 | Temp 97.7 F | Wt 79.2 kg | BMI 26.7 | SpO2 95%
+
+LABS
+Date  Test                        Result
+2025-10-08  eGFR                        37 mL/min/1.73m2
+2026-04-12  eGFR                        32 mL/min/1.73m2
+2026-04-12  Creatinine                  1.93 mg/dL
+2026-04-12  Hemoglobin A1c              6.4%
+2026-04-12  Glucose, fasting            130 mg/dL
+2026-04-12  Urine albumin/creatinine    37 mg/g
+2026-04-12  Potassium                   4.7 mmol/L
+2026-04-12  Sodium                      138 mmol/L
+2026-04-12  LDL cholesterol             116 mg/dL
+2026-04-12  Hemoglobin                  13.7 g/dL
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+ASSESSMENT/PLAN
+1. Diabetes mellitus, type 2: A1c 6.4% today (improved from 6.6%). Continue current regimen. Foot exam done; annual eye exam reminder given.
+2. CKD stage 3b secondary to type 2 diabetes: eGFR 32 today (stable from 37). Continue dapagliflozin. Recheck BMP and urine albumin-to-creatinine ratio in 3 months.
+3. Hyperlipidemia: LDL 116 mg/dL. Continue atorvastatin 40 mg.
+4. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+5. Retinal exam due; referral placed. Influenza vaccine given this season.
+
+PATIENT EDUCATION
+Discussed hypoglycemia recognition and treatment.
+Patient verbalized understanding of the plan.
+
+Return to clinic in 3 months or sooner as needed.
+Total time 32 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Provider, MD 2026-04-19 10:32

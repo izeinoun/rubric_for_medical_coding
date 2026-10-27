@@ -1,0 +1,100 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0051    Age: 54    Sex: M
+Date of service: 2026-01-25    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Associate, PA-C (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 4
+
+CHIEF COMPLAINT
+Follow-up visit; medication refills.
+
+HISTORY OF PRESENT ILLNESS
+54-year-old man presents for scheduled follow-up. History of type 2 diabetes diagnosed 19 years ago. States adherence to medications is good. Denies hypoglycemic episodes. No polyuria or polydipsia. No visual changes.
+--- Page 2 of 3 --- FU-0051 --- printed 2026-01-30 ---
+Mild bilateral knee stiffness in the mornings, unchanged.
+
+REVIEW OF SYSTEMS
+Neurological: no numbness or tingling in the feet; no headaches.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Respiratory: no cough or dyspnea on exertion.
+Endocrine: no polyuria, polydipsia or heat or cold intoler-
+ance.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Constitutional: denies fever, chills or unintended weight loss.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease stage 3b
+- Seasonal allergic rhinitis
+- GERD
+
+PAST SURGICAL HISTORY
+- Appendectomy (1988)
+- Tonsillectomy (childhood)
+- Cataract extraction, left eye (2022)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- semaglutide 0.5 mg weekly
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+- omeprazole 20 mg daily
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+No known drug allergies.
+
+FAMILY HISTORY
+Mother: hypertension.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Never smoker.
+Lives with daughter. Retired machinist.
+Works part time as a librarian.
+
+VITALS
+BP 137/69 | HR 80 | Temp 98.2 F | Wt 68.2 kg | BMI 23.9 | SpO2 99%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bi1ateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date   Test  Result
+2025-08-09	eGFR       44 mL/min/1.73m2
+2025-08-09    Creatinine       1.4 mg/dL
+2026-01-25	eGFR         43 mL/min/1.73m2
+2026-01-25	Hemoglobin A1c 7.1%
+2026-01-25  Glucose, fasting         103 mg/dL
+2026-01-25  Urine albumin/creatinine   409 mg/g
+2026-01-25  Potassium	4.4 mmol/L
+2026-01-25 Sodium	143 mmol/L
+2026-01-25	LDL cholesterol	103 mg/dL
+2026-01-25	Hemoglobin        12.9 g/dL
+
+INTERVAL N0TE - PREVIOUS VISIT 2025-08-15
+(For reference only; not today’s assessment.)
+Type 2 diabetes mellitus: A1c 5.9% at that visit; continued medications.
+CKD, stage 3b: eGFR 44 at that visit; continued losartan.
+Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+
+ASSESSMENT AND PLAN
+1. Type 2 diabetes mellitus: A1c 7.1% (up from 5.9%). Medications unchanged; reinforced carbohydrate counting.
+2. GERD: symptoms controlled on omeprazole. Continue.
+3. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+4. CKD, stage 3b: Per nephrology; see their note.
+5. Retinal exam due; referral placed. Shingles vaccine series completed.
+
+PATlENT EDUCATI0N
+Discussed hypoglycemia recognition and treatment.
+Reviewed carbohydrate counting handout.
+
+Return to clinic in 3 months or sooner as needed.
+Total time 44 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Associate, PA-C 2026-01-25 11:55

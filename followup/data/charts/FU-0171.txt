@@ -1,0 +1,104 @@
+SYNTHETIC RECORD – FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0171    Age: 66    Sex: F
+Date of service: 2026-06-28    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 9
+
+CHIEF COMPLAINT
+Follow-up visit; medication refills.
+
+HISTORY OF PRESENT ILLNESS
+Estab1ished patient, 66-year-old woman, presenting for chronic disease fo1low-up. History of type 2 diabetes diagnosed 10 years ago. Has been trying to walk 4 times per week. Glucose readings 126-149 mg/dL fasting. Mild bilateral knee stiffness
+--- Page 2 of 3 --- FU-0171 --- printed 2026-07-08 ---
+in the mornings, unchanged. No polyuria or polydipsia. No visual changes.
+
+REVIEW OF SYSTEMS
+Eyes: no blurred vision; last dilated eye exam 2024.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Neurological: no numbness or tingling in the feet; no headaches.
+Constitutional: denies fever, chills or unintended weight loss.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Skin: no rashes or non-healing wounds.
+Respiratory: no cough or dyspnea on exertion.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- CKD, stage 3b
+- Osteoarthritis, bilateral knees
+- Hypothyroidism
+- Seasonal allergic rhinitis
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY
+- Colonoscopy with polypectomy (2021)
+- Cholecystectomy (2011)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- acetaminophen 650 mg as needed
+- levothyroxine 75 mcg daily
+- loratadine 10 mg as needed
+- atorvastatin 40 mg nightly
+Medication reconciliation completed; no changes other than those noted in the plan.
+
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Father: coronary artery disease, died age 68.
+
+SOCIAL HISTORY
+Former smoker, quit 2008; 21 pack-years.
+Alcohol: 1 to 2 drinks per week.
+Works part time as a cashier.
+
+VITALS
+BP 122/87 | HR 88 | Temp 98.3 F | Wt 72.3 kg | BMI 26.4 | SpO2 98%
+
+EXAM
+Gen: NAD.
+CV: RRR, norma1 S1/S2.
+Resp: clear to auscultation.
+Abd: soft, non-
+tender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date  Test	Result
+2026-06-22   eGFR	44 mL/min/1.73m2
+2026-06-22	Hemoglobin A1c	6.9%
+2026-06-22   Glucose, fasting 152 mg/dL
+2026-06-22	Urine albumin/creatinine   121 mg/g
+2026-06-22	Potassium	4.2 mmol/L
+2026-06-22  Sodium 143 mmol/L
+2026-06-22	LDL cholesterol    71 mg/dL
+2026-06-22   Hemoglobin	12.3 g/dL
+
+INTERVAL NOTE – PREVIOUS VISIT 2026-02-10
+(For reference only; not today’s assessment.)
+Type 2 diabetes mellitus: A1c 7.5% at that visit; continued medications.
+CKD 3b: cont-
+inued losartan.
+OA of knees: continue home exercises and acetaminophen PRN.
+
+ASSESSMENT/PLAN
+1. Type 2 diabetes mellitus: A1c 6.9%, improved from 7.5%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+3. CKD 3b, stable on losartan; no changes.
+4. Hyperlipidemia: LDL 71 mg/dL. Continue atorvastatin 40 mg.
+5. OA of knees: continue home exercises and acetaminophen PRN.
+6. Also on problem list: allergic rhinitis.
+7. Retinal exam due; referral placed. Influenza vaccine given this season.
+
+PATIENT EDUCATI0N
+Discussed hypog1ycemia rec-
+ognition and treatment.
+Reviewed carbohydrate counting handout.
+
+Retum to clinic in 6 months or sooner as needed.
+Electronica1ly signed: Synthetic Provider, MD 2026-06-28 14:34

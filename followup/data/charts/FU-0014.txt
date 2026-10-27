@@ -1,0 +1,94 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0014    Age: 83    Sex: M
+Date of service: 2026-02-18    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Provider, MD (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 7
+
+CHIEF COMPLAINT
+Diabetes check and lab review.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 83-year-old man returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 15 years ago. States adherence to medications is good. Denies hypoglycemic episodes. No polyuria or polydipsia. No visual changes. Appetite stable. Denies nausea or abdominal pain.
+
+REVIEW OF SYSTEMS
+Genitourinary: no dysuria, hematuria or change in urine output.
+Respiratory: no cough or dyspnea on exertion.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Constitutional: denies fever, chills or unintended weight loss.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Skin: no rashes or non-healing wounds.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- Chronic kidney disease stage 3b, IgA nephropathy
+- Hypothyroidism
+- Osteoarthritis, bilateral knees
+- GERD
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+- Right knee arthroscopy (2015)
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- semaglutide 0.5 mg weekly
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- levothyroxine 75 mcg daily
+- acetaminophen 650 mg as needed
+- omeprazole 20 mg daily
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Codeine (nausea).
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+Sister: hypothyroidism.
+Father: coronary artery disease, died age 74.
+
+SOCIAL HISTORY
+Never smoker.
+Walks 3 times per week, about 20 minutes.
+Lives with daughter. Retired accountant.
+
+VITALS
+BP 126/76 | HR 62 | Temp 98.1 F | Wt 72.2 kg | BMI 24.2 | SpO2 94%
+
+EXAM
+Gen: NAD.
+CV: RRR, normal S1/S2.
+Resp: clear to auscultation.
+Abd: soft, nontender.
+Ext: no edema; feet without lesions.
+
+LABS
+Date  Test                        Result
+2025-08-01  eGFR                        39 mL/min/1.73m2
+2025-08-01  Creatinine                  1.58 mg/dL
+2026-02-17  eGFR                        44 mL/min/1.73m2
+2026-02-17  Creatinine                  1.4 mg/dL
+2026-02-17  Hemoglobin A1c              8.4%
+2026-02-17  Glucose, fasting            116 mg/dL
+2026-02-17  Urine albumin/creatinine    99 mg/g
+2026-02-17  Potassium                   4.5 mmol/L
+2026-02-17  Sodium                      140 mmol/L
+2026-02-17  LDL cholesterol             68 mg/dL
+2026-02-17  Hemoglobin                  13.2 g/dL
+
+ASSESSMENT AND PLAN
+1. Type 2 diabetes mellitus: A1c 8.4% (improved from 9.8%). Medications unchanged; reinforced carbohydrate counting.
+2. Hypothyroidism: TSH within range. Continue levothyroxine 75 mcg.
+3. Chronic kidney disease stage 3b, IgA nephropathy: Labs reviewed with patient, eGFR 44. Continue empagliflozin; metformin dose appropriate for current eGFR. Recheck in 3 to 4 months.
+4. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+5. OA of knees: continue home exercises and acetaminophen PRN.
+6. Retinal exam due; referral placed. Diabetic foot exam completed today.
+
+PATIENT EDUCATION
+Patient verbalized understanding of the plan.
+Discussed hypoglycemia recognition and treatment.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Provider, MD 2026-02-18 12:47

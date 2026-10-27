@@ -1,0 +1,91 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0101    Age: 72    Sex: F
+Date of service: 2026-05-14    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Associate, PA-C (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 8
+
+CHIEF COMPLAINT
+Routine diabetes follow-up.
+
+HISTORY OF PRESENT ILLNESS
+Patient is a 72-year-old woman returning for follow-up of chronic conditions. History of type 2 diabetes diagnosed 14 years ago. Reports checking glucose daily; fasting readings mostly 113-171 mg/dL. Sleeping reasonably well. Mood is good. Appetite stable. Denies nausea or abdominal pain.
+
+REVIEW OF SYSTEMS
+Constitutional: denies fever, chills or unintended weight loss.
+Eyes: no blurred vision; last dilated eye exam 2025.
+Neurological: no numbness or tingling in the feet; no headaches.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Respiratory: no cough or dyspnea on exertion.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Skin: no rashes or non-healing wounds.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- T2DM, on oral agents
+- Chronic kidney disease, stage 3a
+- Hyperlipidemia
+- Hypothyroidism
+
+PAST SURGICAL HISTORY
+- Tonsillectomy (childhood)
+- Right knee arthroscopy (2015)
+- Colonoscopy with polypectomy (2021)
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- semaglutide 0.5 mg weekly
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- atorvastatin 40 mg nightly
+- levothyroxine 75 mcg daily
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+NKDA.
+
+FAMILY HISTORY
+Father: coronary artery disease, died age 73.
+No family history of kidney disease reported.
+Mother: hypertension.
+
+SOCIAL HISTORY
+Former smoker, quit 1996; 14 pack-years.
+Alcohol: 1 to 2 drinks per week.
+Walks 2 times per week, about 20 minutes.
+
+VITALS
+BP 143/75 | HR 86 | Temp 97.6 F | Wt 79.6 kg | BMI 28.8 | SpO2 94%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date  Test                        Result
+2026-05-14  eGFR                        59 mL/min/1.73m2
+2026-05-14  Hemoglobin A1c              8.1%
+2026-05-14  Glucose, fasting            115 mg/dL
+2026-05-14  Urine albumin/creatinine    196 mg/g
+2026-05-14  Potassium                   5.0 mmol/L
+2026-05-14  Sodium                      137 mmol/L
+2026-05-14  LDL cholesterol             74 mg/dL
+2026-05-14  Hemoglobin                  13.8 g/dL
+
+ASSESSMENT AND PLAN
+(Assessment copied from note dated 2025-12-12 and updated where noted.)
+1. Diabetes mellitus, type 2: A1c 8.1% (improved from 8.8%). Medications unchanged; reinforced carbohydrate counting.
+2. HLD: tolerating statin. Continue atorvastatin; recheck lipids in 12 months.
+3. Hypothyroid: clinically euthyroid. Continue current dose.
+4. CKD stage 3a: Today's eGFR 59 (2026-05-14), no prior for comparison. Continue losartan and empagliflozin. Labs again in 3 months.
+5. Colorectal cancer screening up to date. Dental visit within the past year.
+
+PATIENT EDUCATION
+Patient verbalized understanding of the plan.
+Encouraged 150 minutes of moderate activity weekly.
+
+Return to clinic in 4 months or sooner as needed.
+Electronically signed: Synthetic Associate, PA-C 2026-05-14 15:46

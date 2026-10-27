@@ -1,0 +1,98 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0046    Age: 57    Sex: M
+Date of service: 2026-01-29    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Associate, PA-C (Internal Medicine)
+Location: Synthetic Primary Care Clinic, Room 13
+
+CHIEF COMPLAINT
+Follow-up visit; medication refills.
+
+HISTORY OF PRESENT ILLNESS
+Established patient, 57-year-old man, presenting for chronic disease follow-up. History of type 2 diabetes diagnosed 20 years ago. Home glucose log reviewed, fasting values 114-140 mg/dL with occasional post-meal readings above 200. Mild bilateral knee stiffness in the mornings, unchanged. Appetite stable. Denies nausea or abdominal pain.
+
+REVIEW OF SYSTEMS
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Respiratory: no cough or dyspnea on exertion.
+Constitutional: denies fever, chills or unintended weight loss.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Genitourinary: no dysuria, hematuria or change in urine output.
+Skin: no rashes or non-healing wounds.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Psychiatric: mood stable; sleeping 6 to 7 hours a night.
+
+MEDICATIONS
+- metformin 1000 mg twice daily
+- semaglutide 0.5 mg weekly
+- empagliflozin 10 mg daily
+- losartan 50 mg daily
+- loratadine 10 mg as needed
+- acetaminophen 650 mg as needed
+Med rec done with patient's pill bottles.
+
+ALLERGIES
+Penicillin (rash).
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Type 2 diabetes mellitus
+- Chronic kidney disease, stage 3a
+- Seasonal allergic rhinitis
+- Osteoarthritis, bilateral knees
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+- Cholecystectomy (2011)
+- Appendectomy (1988)
+
+FAMILY HISTORY
+Brother: hyperlipidemia.
+No family history of kidney disease reported.
+
+SOCIAL HISTORY
+Former smoker, quit 2006; 5 pack-years.
+Works part time as a consultant.
+Walks 2 times per week, about 20 minutes.
+
+VITALS
+BP 139/88 | HR 71 | Temp 98.4 F | Wt 90.7 kg | BMI 27.5 | SpO2 95%
+
+EXAM
+General: alert, oriented, NAD.
+Heart: RRR.
+Lungs: CTAB.
+Extremities: trace bilateral ankle edema.
+Feet: monofilament sensation intact, pulses 2+.
+
+LABS
+Date  Test                        Result
+2025-10-11  eGFR                        51 mL/min/1.73m2
+2025-10-11  Creatinine                  1.21 mg/dL
+2026-01-21  eGFR                        55 mL/min/1.73m2
+2026-01-21  Creatinine                  1.12 mg/dL
+2026-01-21  Hemoglobin A1c              7.1%
+2026-01-21  Glucose, fasting            124 mg/dL
+2026-01-21  Urine albumin/creatinine    362 mg/g
+2026-01-21  Potassium                   4.4 mmol/L
+2026-01-21  Sodium                      143 mmol/L
+2026-01-21  LDL cholesterol             103 mg/dL
+2026-01-21  Hemoglobin                  11.9 g/dL
+
+INTERVAL NOTE - PREVIOUS VISIT 2025-10-17
+(For reference only; not today's assessment.)
+T2DM: A1c 6.3% at that visit; continued medications.
+Chronic kidney disease stage 3a, most likely due to type 2 diabetes: eGFR 51 at that visit; continued losartan.
+Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+
+ASSESSMENT/PLAN
+1. T2DM: A1c 7.1%, up from 6.3%. Reviewed diet and activity. Continue medications. Retinal exam due.
+2. Chronic kidney disease stage 3a, most likely due to type 2 diabetes: eGFR 55, UACR 362 mg/g. On empagliflozin and losartan; counseled on avoiding nephrotoxins. Repeat labs in 3 months.
+3. Allergic rhinitis: seasonal symptoms; continue loratadine PRN.
+4. OA of knees: continue home exercises and acetaminophen PRN.
+5. Influenza vaccine given this season. Retinal exam due; referral placed.
+
+PATIENT EDUCATION
+Reviewed sick-day rules for medications.
+Patient verbalized understanding of the plan.
+
+Return to clinic in 6 months or sooner as needed.
+Total time 26 minutes, more than half in counseling and care coordination.
+Electronically signed: Synthetic Associate, PA-C 2026-01-29 12:44

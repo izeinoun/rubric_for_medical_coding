@@ -1,0 +1,96 @@
+SYNTHETIC RECORD - FICTIONAL PATIENT, FOR RESEARCH TESTING ONLY
+Patient ID: FU-0217    Age: 48    Sex: M
+Date of service: 2026-03-24    Visit type: Office visit, established patient, face-to-face
+Clinician: Synthetic Practitioner, FNP-C (Primary Care)
+Location: Synthetic Primary Care Clinic, Room 2
+
+CHIEF COMPLAINT
+Follow-up of diabetes and chronic conditions.
+
+HISTORY OF PRESENT ILLNESS
+48-year-old man here for a 6-month check-in. History of type 2 diabetes diagnosed 20 years ago. Reports checking glucose daily; fasting readings mostly 126-137 mg/dL. Appetite stable. Denies nausea or abdominal pain. Energy fair. No new complaints today.
+
+REVIEW OF SYSTEMS
+Skin: no rashes or non-healing wounds.
+Eyes: no blurred vision; last dilated eye exam 2023.
+Gastrointestinal: no nausea, vomiting, diarrhea or constipation.
+Endocrine: no polyuria, polydipsia or heat or cold intolerance.
+Cardiovascular: no chest pain, palpitations or orthopnea.
+Musculoskeletal: chronic knee stiffness, otherwise negative.
+Genitourinary: no dysuria, hematuria or change in urine output.
+
+MEDICATIONS
+- metformin 500 mg twice daily (renally dosed)
+- semaglutide 0.5 mg weekly
+- dapagliflozin 10 mg daily
+- losartan 50 mg daily
+- omeprazole 20 mg daily
+- acetaminophen 650 mg as needed
+Medications reviewed with patient and pharmacy list; list above is current.
+
+ALLERGIES
+Sulfa drugs (hives).
+
+PAST MEDICAL HISTORY / PROBLEM LIST
+- Diabetes mellitus type 2
+- CKD, stage 3b
+- GERD
+- Obesity
+- Osteoarthritis, bilateral knees
+
+PAST SURGICAL HISTORY
+- Cataract extraction, left eye (2022)
+- Colonoscopy with polypectomy (2021)
+- Tonsillectomy (childhood)
+
+FAMILY HISTORY
+Mother: hypertension.
+Sister: hypothyroidism.
+
+SOCIAL HISTORY
+Never smoker.
+Alcohol: none.
+Works part time as a cashier.
+
+VITALS
+BP 128/69 | HR 86 | Temp 98.8 F | Wt 95.2 kg | BMI 31.2 | SpO2 95%
+
+EXAM
+General: well appearing, no acute distress.
+CV: regular rate and rhythm, no murmur.
+Lungs: clear bilaterally.
+Ext: no edema.
+
+LABS
+Date  Test                        Result
+2025-09-17  eGFR                        43 mL/min/1.73m2
+2025-09-17  Creatinine                  1.44 mg/dL
+2026-03-16  eGFR                        31 mL/min/1.73m2
+2026-03-16  Creatinine                  1.99 mg/dL
+2026-03-16  Hemoglobin A1c              8.5%
+2026-03-16  Glucose, fasting            170 mg/dL
+2026-03-16  Urine albumin/creatinine    150 mg/g
+2026-03-16  Potassium                   4.1 mmol/L
+2026-03-16  Sodium                      143 mmol/L
+2026-03-16  LDL cholesterol             60 mg/dL
+2026-03-16  Hemoglobin                  14.7 g/dL
+
+INTERVAL NOTE - PREVIOUS VISIT 2025-09-17
+(For reference only; not today's assessment.)
+T2DM: A1c 7.7% at that visit; continued medications.
+CKD, stage 3b: eGFR 43 at that visit; continued losartan.
+GERD: symptoms controlled on omeprazole. Continue.
+
+ASSESSMENT/PLAN
+1. T2DM: A1c 8.5% (up from 7.7%). Medications unchanged; reinforced carbohydrate counting.
+2. Gastroesophageal reflux: stable; discussed trial of dose reduction at next visit.
+3. OA of knees: continue home exercises and acetaminophen PRN.
+4. Chronic conditions reviewed: obesity, CKD 3b.
+5. Dental visit within the past year. Pneumococcal vaccination up to date.
+
+PATIENT EDUCATION
+Discussed hypoglycemia recognition and treatment.
+Reviewed sick-day rules for medications.
+
+Return to clinic in 6 months or sooner as needed.
+Electronically signed: Synthetic Practitioner, FNP-C 2026-03-24 16:42
