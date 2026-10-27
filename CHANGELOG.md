@@ -129,3 +129,9 @@ What changed (`rubric_e1122.json`, version 1 → 2; guidance text only, question
 ## 2026-10-27 — follow-up study: draft spec
 
 - Added `followup/SPEC.md`: a draft design for a harder follow-up study (new scenario families, outside-rubric charts, quote-stress formatting, a criteria-informed confidence baseline M9, 400 charts, draft hypotheses H6–H10). Nothing generated or run; the pilot's data and frozen pipeline are unchanged.
+
+## 2026-10-27 — follow-up spec revised: transfer test
+
+- User decisions: transfer test only (frozen pilot pipeline applied unchanged to new, harder charts, all test, no dev or refitting); GPT-5.4 and Gemini 3.8 Flash; family F reported separately as a stress test; new label rules limited to those GPT-5.4 and Gemini both rated high-confidence and agreed on; larger cost acceptable.
+- Asked GPT-5.4 and Gemini (one call each, 2026-10-27) for risk-adjustment rules the rubric does not capture; responses saved in `followup/rule_suggestions/`. Agreed high-confidence rules adopted for labels only: acceptable face-to-face encounter and provider (R1), valid signature with credentials (R2), secondary diabetes is not type 2 (R3). The rubric is not changed.
+- `followup/SPEC.md` rewritten for the transfer design: 340 main charts plus 60 stress-test charts, M9 reported raw (no dev to fit Platt), hypotheses H6–H10 adjusted. Nothing generated or run.

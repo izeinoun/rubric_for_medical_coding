@@ -1,0 +1,198 @@
+{
+  "model": "gpt",
+  "prompt": "You are an experienced certified risk-adjustment coder and auditor (Medicare Advantage, CMS-HCC, RADV).\n\nWe score whether one outpatient note supports submitting ICD-10-CM E11.22 (type 2 diabetes with diabetic CKD) for risk adjustment. Our current rubric:\nG1. Is type 2 diabetes mellitus documented as a current diagnosis? Guidance: Answer no if the note documents type 1 diabetes. If diabetes is documented without a type, answer yes (ICD-10-CM defaults to type 2).\nG2. Is chronic kidney disease documented by the provider as an established diagnosis? Guidance: Answer no if CKD is described as possible, suspected, rule out, not yet established, or explicitly absent. Abnormal kidney lab values without a provider's CKD diagnosis are not_documented.\nQ1. Is the CKD stage documented? Guidance: Answer yes if a stage such as 3a, 3b, 4 or 5 is stated anywhere in the note. If no stage is stated, answer not_documented, not no.\nQ2. Do the labs show eGFR below 60 on two results at least 90 days apart? Guidance: Answer yes if at least two eGFR results below 60 are dated at least 90 days apart. Answer no only if the most recent eGFR is 60 or above. Otherwise (for example, the most recent eGFR is below 60 but there are not two results below 60 at least 90 days apart) answer not_documented. Quote the lab lines used.\nQ3. Does the provider attribute the CKD to diabetes? Guidance: Answer yes if the note states the CKD is due to, secondary to or caused by diabetes, or calls it diabetic kidney disease. Answer no if the note attributes the CKD to a different cause. Answer not_documented if no cause is stated.\nQ4. Was the CKD addressed at this encounter (monitored, evaluated, assessed or treated)? Guidance: Answer yes only if the assessment and plan gives the CKD a current status, evaluation or action at this visit. These do not count: a bare listing of CKD in a problem list or a list of diagnoses (including a line saying the problem list was reviewed), and text carried forward from an earlier visit that refers only to old results. If CKD is not addressed at this visit in that sense, answer not_documented, not no.\nCurrent label rule: supported if G1=yes, G2=yes, Q3 is not \"no\", and Q4=yes. ICD-10-CM's \"with\" convention presumes the diabetes-CKD link unless another cause is stated.\n\nList the documentation and coding rules an auditor would also apply to accept or reject E11.22 from a single note that this rubric does NOT capture. For each rule give:\n- id, rule (one sentence), effect (rejects / supports / changes the code), why it matters,\n- source: the official guideline or CMS document it comes from (ICD-10-CM Official Guidelines section, CMS RADV guidance, Coding Clinic, etc.), and\n- confidence: high if you are sure it is an official rule, medium if it is common auditor practice, low if uncertain.\nDo not invent citations; say \"not sure\" when you do not know the source. Also list any rules in our current rubric you think are wrong, with reasons.\nReturn JSON only: {\"missing_rules\": [...], \"rubric_concerns\": [...]}",
+  "usage": {
+    "in": 732,
+    "out": 2665
+  },
+  "response": {
+    "missing_rules": [
+      {
+        "id": "M1",
+        "rule": "The note must be from an acceptable risk-adjustment data source and encounter type for the payment year (generally a face-to-face visit from an allowed provider type, or another CMS-allowed source).",
+        "effect": "rejects",
+        "why_it_matters": "A diagnosis can be clinically valid yet still be unusable for Medicare Advantage risk adjustment if it comes from a non-allowable source or encounter type.",
+        "source": "CMS Medicare Advantage risk adjustment data submission requirements and RADV medical record review guidance; exact citation not sure",
+        "confidence": "high"
+      },
+      {
+        "id": "M2",
+        "rule": "The diagnosis must be documented by a provider type CMS allows to establish HCC diagnoses for risk adjustment.",
+        "effect": "rejects",
+        "why_it_matters": "Even clear documentation may not be acceptable for RAF/RADV if authored only by a non-acceptable clinician.",
+        "source": "CMS risk adjustment submission/RADV guidance on acceptable providers; exact citation not sure",
+        "confidence": "high"
+      },
+      {
+        "id": "M3",
+        "rule": "The diagnosis must be based on acceptable medical record documentation with a legible provider identity and authenticated signature/credentials/date.",
+        "effect": "rejects",
+        "why_it_matters": "Unauthenticated, illegible, or undated records are commonly invalid for RADV and cannot support submitted diagnosis codes.",
+        "source": "CMS RADV medical record standards; exact citation not sure",
+        "confidence": "high"
+      },
+      {
+        "id": "M4",
+        "rule": "The condition must be documented as monitored, evaluated, assessed/addressed, or treated at the encounter, and a diagnosis appearing only in history/problem list/intake/imported text without visit-level assessment does not support reporting.",
+        "effect": "rejects",
+        "why_it_matters": "RADV and coding auditors distinguish active encounter documentation from mere historical carryforward; this is broader than CKD-specific addressing because diabetes also must be an encounter diagnosis.",
+        "source": "CMS RADV guidance on encounter-valid diagnoses; common MEAT-based auditing practice; exact citation not sure",
+        "confidence": "medium"
+      },
+      {
+        "id": "M5",
+        "rule": "Diabetes itself must be addressed as a current condition at the visit and not documented only as past medical history or on a medication list.",
+        "effect": "rejects",
+        "why_it_matters": "Your rubric requires diabetes to be documented, but not necessarily addressed; many auditors require the submitted diagnosis to be supported as an active encounter diagnosis.",
+        "source": "CMS RADV guidance/common risk-adjustment audit practice; exact citation not sure",
+        "confidence": "medium"
+      },
+      {
+        "id": "M6",
+        "rule": "If the provider documents the patient as having type 1 diabetes, E11.22 cannot be assigned; if the provider documents drug- or chemical-induced diabetes, due to underlying condition, postprocedural diabetes, or gestational diabetes, a different diabetes category is required.",
+        "effect": "changes the code",
+        "why_it_matters": "The combination code category depends on the diabetes type/cause, so a note may support a diabetic-CKD code but not E11.22 specifically.",
+        "source": "ICD-10-CM Official Guidelines for Coding and Reporting, Chapter 4 endocrine disorders; exact subsection not sure",
+        "confidence": "high"
+      },
+      {
+        "id": "M7",
+        "rule": "When both type 2 diabetes with CKD and CKD stage are documented, an additional N18.- code should also be assigned to identify the stage of CKD.",
+        "effect": "changes the code",
+        "why_it_matters": "E11.22 alone is incomplete coding when stage is known; auditors often review whether the submitted code set is complete, not just whether E11.22 is supportable.",
+        "source": "ICD-10-CM Official Guidelines for Coding and Reporting, Chapter 4 diabetes and Chapter 14 CKD instructions; exact subsection not sure",
+        "confidence": "high"
+      },
+      {
+        "id": "M8",
+        "rule": "If end stage renal disease or dialysis status is documented instead of non-ESRD CKD, coding may require N18.6 and/or Z99.2 in addition to or instead of a stage code, depending on the documentation.",
+        "effect": "changes the code",
+        "why_it_matters": "Single-note coding may be incomplete or inaccurate if severe renal status documented in the note is not reflected in the code set.",
+        "source": "ICD-10-CM Official Guidelines for CKD/dialysis coding; exact subsection not sure",
+        "confidence": "high"
+      },
+      {
+        "id": "M9",
+        "rule": "Do not code diabetic CKD when the provider documents another specific kidney diagnosis without CKD, such as acute kidney injury alone; AKI does not establish CKD.",
+        "effect": "rejects",
+        "why_it_matters": "Renal abnormalities and acute conditions can be miscoded as CKD; E11.22 requires chronic kidney disease, not just kidney dysfunction.",
+        "source": "ICD-10-CM code definition and Official Guidelines general code assignment principles; exact citation not sure",
+        "confidence": "high"
+      },
+      {
+        "id": "M10",
+        "rule": "If the provider clearly documents that the CKD is due to a cause other than diabetes, the presumed linkage between diabetes and CKD should not be used for E11.22.",
+        "effect": "rejects",
+        "why_it_matters": "The ICD-10-CM 'with' presumption is overridden when the provider states another cause.",
+        "source": "ICD-10-CM Official Guidelines for Coding and Reporting, Chapter 4 Diabetes Mellitus 'with' guideline; exact subsection not sure",
+        "confidence": "high"
+      },
+      {
+        "id": "M11",
+        "rule": "Abnormal labs, medication use, or problem-list carryforward alone cannot establish a diagnosis that the provider did not document.",
+        "effect": "rejects",
+        "why_it_matters": "Risk-adjustment coding must be based on provider-documented diagnoses, not coder inference from clinical indicators.",
+        "source": "ICD-10-CM Official Guidelines general assignment principles and CMS RADV medical record review principles; exact citation not sure",
+        "confidence": "high"
+      },
+      {
+        "id": "M12",
+        "rule": "If the note documents only 'diabetic nephropathy,' 'diabetic kidney disease,' or another diabetic renal manifestation without CKD, E11.22 may not be the correct code; another diabetes-with-kidney-complication code may be required.",
+        "effect": "changes the code",
+        "why_it_matters": "Not every diabetic renal complication is diabetic CKD, so E11.22 is note-specific and should not be substituted for other documented renal manifestations.",
+        "source": "ICD-10-CM Tabular List entries under E11.2- and Official Guidelines; exact citation not sure",
+        "confidence": "high"
+      },
+      {
+        "id": "M13",
+        "rule": "If the provider documents CKD as resolved, history of CKD, or previously present but no longer current, E11.22 should not be reported as an active diagnosis.",
+        "effect": "rejects",
+        "why_it_matters": "Risk adjustment uses current conditions affecting care; historical or resolved conditions do not support active disease coding.",
+        "source": "Common coding principle and CMS RADV audit practice; exact citation not sure",
+        "confidence": "medium"
+      },
+      {
+        "id": "M14",
+        "rule": "Conflicting documentation within the same note about whether CKD is present or about diabetes type may require provider clarification rather than accepting E11.22 at face value.",
+        "effect": "rejects",
+        "why_it_matters": "Internal contradictions weaken support for a submitted diagnosis during audit.",
+        "source": "ICD-10-CM Official Guidelines general documentation/consistency principles; exact citation not sure",
+        "confidence": "medium"
+      },
+      {
+        "id": "M15",
+        "rule": "A code cannot be accepted from a cloned/imported statement if the record as a whole shows it was not updated for this encounter or is contradicted by the current assessment.",
+        "effect": "rejects",
+        "why_it_matters": "RADV auditors scrutinize copy-forward text; unsupported carryforward language may not validate the submitted diagnosis.",
+        "source": "CMS RADV medical record review practice; exact citation not sure",
+        "confidence": "medium"
+      },
+      {
+        "id": "M16",
+        "rule": "For a single note, external laboratory trends are not required to code documented CKD if the provider has already established and addressed CKD; coding should generally not override clear provider documentation because eGFR evidence is absent in that note.",
+        "effect": "supports",
+        "why_it_matters": "Your rubric leans on lab chronicity, but coding/risk-adjustment validation is primarily based on provider-documented diagnoses in the encounter record.",
+        "source": "ICD-10-CM Official Guidelines general diagnosis coding principles and CMS RADV record review approach; exact citation not sure",
+        "confidence": "medium"
+      }
+    ],
+    "rubric_concerns": [
+      {
+        "id": "C1",
+        "rule_in_rubric": "Q2 asks whether labs show eGFR below 60 on two results at least 90 days apart.",
+        "concern": "This is not generally required to code or validate E11.22 from a single outpatient note when the provider documents established CKD; auditors usually need provider-documented CKD, not independent lab-based KDIGO confirmation in the same note.",
+        "reason": "Coding is based on provider documentation. Lab trends may support clinical plausibility, but absence of two qualifying eGFR values does not by itself defeat a documented, assessed CKD diagnosis.",
+        "source": "ICD-10-CM Official Guidelines general diagnosis coding principles; CMS RADV documentation principles; exact citation not sure",
+        "confidence": "medium"
+      },
+      {
+        "id": "C2",
+        "rule_in_rubric": "Q3 asks whether the provider attributes the CKD to diabetes, while the label rule allows support if Q3 is anything except 'no' because of the ICD-10-CM 'with' convention.",
+        "concern": "The question is not wrong, but it is not necessary for support and may create confusion because explicit linkage is not required for diabetes with CKD unless another cause is documented.",
+        "reason": "Under ICD-10-CM, CKD is one of the conditions presumed linked to diabetes when both are documented together, absent documentation indicating a different cause.",
+        "source": "ICD-10-CM Official Guidelines for Coding and Reporting, Chapter 4 Diabetes Mellitus 'with' convention; exact subsection not sure",
+        "confidence": "high"
+      },
+      {
+        "id": "C3",
+        "rule_in_rubric": "Q4 requires CKD to be addressed at the encounter but G1 only requires diabetes to be documented as a current diagnosis.",
+        "concern": "This is asymmetrical and may overcall E11.22 when diabetes itself is not actually assessed/addressed at the visit.",
+        "reason": "For risk adjustment, submitted diagnoses generally should reflect conditions addressed/managed at the encounter, not merely listed. If only CKD is actively addressed but diabetes is just historical or copied forward, E11.22 may be challenged.",
+        "source": "CMS RADV/common risk-adjustment audit practice; exact citation not sure",
+        "confidence": "medium"
+      },
+      {
+        "id": "C4",
+        "rule_in_rubric": "G1 says if diabetes is documented without a type, answer yes because ICD-10-CM defaults to type 2.",
+        "concern": "This is correct for coding in many settings, but for risk-adjustment audit from a single note it can be risky if the chart elsewhere or the same note suggests another diabetes type/cause or if 'DM' is ambiguous in context.",
+        "reason": "Defaulting unspecified diabetes to type 2 is an ICD-10-CM rule, but RADV auditors may reject when documentation is internally conflicting or clearly points to another category.",
+        "source": "ICD-10-CM Official Guidelines Chapter 4 diabetes default rule; exact subsection not sure",
+        "confidence": "medium"
+      },
+      {
+        "id": "C5",
+        "rule_in_rubric": "Current label rule: supported if G1=yes, G2=yes, Q3 is not 'no', and Q4=yes.",
+        "concern": "This omits encounter/data-source validity requirements such as acceptable provider type, authenticated signature, and allowable face-to-face/allowed record source, all of which can independently cause rejection in RADV.",
+        "reason": "Clinical support alone is insufficient for Medicare Advantage risk-adjustment acceptance.",
+        "source": "CMS RADV and risk-adjustment data submission guidance; exact citation not sure",
+        "confidence": "high"
+      },
+      {
+        "id": "C6",
+        "rule_in_rubric": "Q4 says a bare listing of CKD in a problem list or diagnosis list does not count as addressed.",
+        "concern": "Reasonable as an audit rule, but not an ICD-10-CM coding rule; depending on the specific CMS validation context, some organizations may operationalize this differently, especially when the assessment clearly incorporates the diagnosis list into decision-making.",
+        "reason": "MEAT-style requirements are widely used in risk-adjustment auditing, but the exact threshold is more CMS audit practice than explicit ICD-10-CM language.",
+        "source": "CMS RADV/common audit practice; exact citation not sure",
+        "confidence": "medium"
+      },
+      {
+        "id": "C7",
+        "rule_in_rubric": "The rubric focuses only on whether E11.22 is supported, without checking whether additional required/expected codes are also supported.",
+        "concern": "If CKD stage is documented, the coding is incomplete without N18.-, and if ESRD/dialysis is documented additional codes may be needed.",
+        "reason": "An auditor may view code-set completeness as part of correct coding even if E11.22 itself is supportable.",
+        "source": "ICD-10-CM Official Guidelines diabetes/CKD coding instructions; exact subsection not sure",
+        "confidence": "high"
+      }
+    ]
+  }
+}
