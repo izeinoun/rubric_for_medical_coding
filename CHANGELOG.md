@@ -162,3 +162,4 @@ What changed (`rubric_e1122.json`, version 1 → 2; guidance text only, question
 - C's prompt (formerly "consider the criteria") now explicitly tells the model to use the criteria for its confidence.
 - Pre-registration hypotheses rewritten around the comparison: H1 B vs A ranking (≥ 0.10 AUROC, paired interval above 0), H2 B vs C ranking (paired interval above 0), H3 B vs recalibrated A calibration, H4 frozen threshold precision, H5 family-F stress test.
 - Per chart and model: 11 calls (5 extraction, 5 verbal, 1 for C). `estimate`: stage 1 about 1,100 calls and 1.4M input tokens per model; stage 2 about 2,200 calls and 2.8M. Mock test end to end (results not kept). No model calls.
+- Same day: added an interactive review page (`followup/review/label_review.html`, built by `followup/make_review_page.py`, published as a private claude.ai artifact) because the Markdown sheet did not open in the app. Verdicts save to the artifact's database for Claude to read.
