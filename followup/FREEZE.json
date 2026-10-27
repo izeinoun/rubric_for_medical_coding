@@ -1,0 +1,12 @@
+{
+  "frozen_at": "2026-10-27T21:42:28",
+  "pilot_freeze_sha256": "e8619565765170cf00776b61628a588f75dfb8214f070706aa06dee6f9cf64fd",
+  "hashes": {
+    "followup/data/charts.jsonl": "689770cb9b688a8f7c8cffc6e36a35b2245d0068fa1c7555f9c7b37bc0e0105b",
+    "followup/stage1_ids.txt": "e9dadd703168c297ccac4aaa50812e681a5d72f278a1cb7daa5c049aa9e37e83",
+    "followup/run_transfer.py": "1cb445069d1490f95d9c49b1992b30272e59635d4da082715ef955ff2add1a67",
+    "followup/generate_charts_v3.py": "3457ee14f05d3b66d26f2440ebd5bd6c2aacf5aeef00f3be5fd6ff96ffd4b7c3",
+    "followup/check_charts_v3.py": "96e25d116a44dbf606228b65b7d51812109135dd0189c7946c332897d3186a1c",
+    "followup/PREREGISTRATION.md": "7c61561437f92b2c8fe0bf1e80419094dbd429daa24ff3ca92bbd84c3857b82f"
+  }
+}
