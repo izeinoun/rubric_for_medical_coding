@@ -23,7 +23,7 @@ The pilot showed that evidence-weighted confidence (EWC, M5) ranks and calibrate
 | Gates trivially easy | G1 and G2 macro-F1 1.000 everywhere | Family C: unclear diabetes type, secondary diabetes, CKD resolved |
 | Copy-forward drives every error | SYN-0182 (F1b) was the only wrongly accepted test chart for both models | Family B: copy-forward variants with clear labels |
 | Few charts in the middle of the probability range | Most M5 scores are near 0 or 1 | Family G: borderline charts |
-| Small test set | 60 charts; AUROC intervals about 0.1 wide | 340 main charts |
+| Small test set | 60 charts; AUROC intervals about 0.1 wide | 255 main charts |
 | Weak confidence baseline | The verbal prompt gives no criteria | M9: confidence with the rubric's criteria in the prompt |
 
 ## 2. What stays frozen
@@ -66,13 +66,13 @@ A chart is labeled 1 (supports E11.22 for risk-adjustment submission) only if al
 
 ## 4. Scenario families
 
-Counts are for a 400-chart set: 340 main charts (families A–E and G) and 60 stress-test charts (family F). Format stress (family H) is applied across families.
+Counts are for a 300-chart set: 255 main charts (families A–E and G) and 45 stress-test charts (family F). Format stress (family H) is applied across families.
 
-### A. Carried over from the pilot (80 charts)
+### A. Carried over from the pilot (60 charts)
 
 The 13 pilot scenarios at reduced counts, written with the new note template and format stress, so that results on familiar scenarios can be compared with the pilot. F1b (copy-forward stale) is replaced by family B.
 
-### B. Copy-forward (60 charts)
+### B. Copy-forward (45 charts, 9 per scenario)
 
 | ID | Label | What the note shows |
 |---|---|---|
@@ -84,7 +84,7 @@ The 13 pilot scenarios at reduced counts, written with the new note template and
 
 Rule for writing these: the label must be decidable from the text, with no review flag. If a draft chart needs one, rewrite it or drop it.
 
-### C. Gates made harder (50 charts)
+### C. Gates made harder (36 charts, 6 per scenario)
 
 | ID | Label | What the note shows |
 |---|---|---|
@@ -95,11 +95,11 @@ Rule for writing these: the label must be decidable from the text, with no revie
 | C5 | 1 | "History of CKD" in the HPI, and the plan gives a current CKD status and action |
 | C6 | 0 | Kidney transplant recipient; the note says CKD is resolved after transplant (CKD explicitly absent) |
 
-### D. Lab and date edge cases for Q2 (35 charts)
+### D. Lab and date edge cases for Q2 (26 charts)
 
 eGFR exactly 60; result gaps of 89, 90 and 91 days; a missing date; creatinine without eGFR; eGFR given as "> 60"; results written in a sentence instead of a lab table. Q2 does not decide the label, so these test extraction only.
 
-### E. Cause attribution for Q3 (30 charts)
+### E. Cause attribution for Q3 (24 charts, 8 per scenario)
 
 | ID | Label | What the note shows |
 |---|---|---|
@@ -107,7 +107,7 @@ eGFR exactly 60; result gaps of 89, 90 and 91 days; a missing date; creatinine w
 | E2 | 1 | "Likely diabetic nephropathy" with CKD stage stated (hedged, but attributed) |
 | E3 | 1 | Diabetic cause stated only in a dated prior-visit section; no other cause stated ("with" convention) |
 
-### G. Borderline (85 charts)
+### G. Borderline (64 charts, about 13 per scenario)
 
 | ID | Label | What the note shows |
 |---|---|---|
@@ -119,7 +119,7 @@ eGFR exactly 60; result gaps of 89, 90 and 91 days; a missing date; creatinine w
 
 G3 generalizes pilot chart SYN-0055, the borderline case Gemini missed on dev. G4 and G5 bracket where "a current status" starts.
 
-### F. Stress test: outside the rubric (60 charts, reported separately)
+### F. Stress test: outside the rubric (45 charts, 15 per scenario, reported separately)
 
 Each chart looks positive to the rubric (all of G1, G2, Q3 and Q4 would be answered as for a positive chart), but the label is 0 under rules R1–R3.
 
@@ -151,7 +151,7 @@ M1–M8 exactly as frozen in the pilot. One new baseline:
 
 ## 6. Draft hypotheses (to be finalized in the follow-up pre-registration)
 
-All on the 340 main charts unless stated, per model, with 95% bootstrap intervals (2,000 resamples).
+All on the 255 main charts unless stated, per model, with 95% bootstrap intervals (2,000 resamples).
 
 | ID | Claim | Pass mark (draft) |
 |---|---|---|
@@ -166,9 +166,9 @@ H6 adds a paired test, so "significantly better" can be claimed directly. Result
 
 ## 7. Size and cost
 
-- 400 charts (340 main, 60 stress test), all test. Positive rate in the main set about 45%, close to the pilot's.
-- Per model: 5 extraction, 5 verbal, 5 M9 and 1 M6 call per chart, about 6,400 calls.
-- Notes 2 to 3 times longer: roughly 10–14M input tokens per model, plus Gemini's thinking tokens. `estimate` gives a firmer figure once the data exists, and it will be reported before any run, with one test call per model.
+- 300 charts (255 main, 45 stress test), all test (trimmed from 400 at the user's request). Positive rate in the main set about 45%, close to the pilot's.
+- Per model and chart: 5 extraction, 5 verbal, 5 M9 and 1 M6 call = 16 calls, so 4,800 calls per model (3,300 without M9). The pilot used 11 per chart (no M9).
+- Notes 2 to 3 times longer: roughly 7–10M input tokens per model, plus Gemini's thinking tokens. `estimate` gives a firmer figure once the data exists, and it will be reported before any run, with one test call per model.
 
 ## 8. Order of work
 
@@ -181,5 +181,5 @@ H6 adds a paired test, so "significantly better" can be claimed directly. Result
 ## 9. Open questions for the user
 
 1. **Label check.** With no dev split, label errors go straight into the results. Can you, or a coder, read a sample (about 40 charts, stratified by scenario) and mark each label right or wrong before the freeze?
-2. **Size.** 400 charts and about 6,400 calls per model; confirm, or reduce to around 300 charts.
-3. **M9.** Keep it in? It roughly doubles the confidence-baseline calls.
+2. **Size.** Decided: 300 charts.
+3. **M9.** Keep it in? It adds 1,500 calls per model (5 per chart).
