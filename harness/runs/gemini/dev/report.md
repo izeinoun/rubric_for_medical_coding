@@ -1,6 +1,6 @@
 # EWC pilot report — gemini-3.8-flash (gemini), dev split
 
-Generated 2026-10-27T01:24:36. Charts: 140.
+Generated 2026-10-27T01:48:47. Charts: 140.
 
 **Development split.** Fitted methods (M2, M5, M7, M8) are scored out-of-fold with C chosen on all of dev, so these numbers are mildly optimistic. They are for iteration, not for the paper.
 
@@ -13,6 +13,7 @@ Generated 2026-10-27T01:24:36. Charts: 140.
 | M3 Self-consistency (5 samples) | 140 | 0.089 (0.046–0.136) | 0.083 | 0.936 (0.898–0.971) | 0.00 |
 | M4 EWC, expert weights | 140 | 0.152 (0.118–0.189) | 0.070 | 0.983 (0.963–0.997) | 0.38 |
 | M5 EWC, fitted weights | 140 | 0.008 (0.005–0.025) | 0.007 | 0.999 (0.995–1.000) | 0.45 |
+| M6 Ablation: LLM computes score | 140 | 0.008 (0.008–0.023) | 0.006 | 0.999 (0.998–1.000) | 0.44 |
 | M7 Ablation: no quote verification | 140 | 0.008 (0.005–0.025) | 0.007 | 0.999 (0.995–1.000) | 0.45 |
 | M8 Ablation: two-way answers | 140 | 0.031 (0.015–0.077) | 0.071 | 0.959 (0.928–0.982) | 0.28 |
 
@@ -25,6 +26,7 @@ Generated 2026-10-27T01:24:36. Charts: 140.
 | M3 Self-consistency (5 samples) | 136 | 0.062 (0.025–0.106) | 0.056 | 0.959 (0.922–0.988) | 0.00 |
 | M4 EWC, expert weights | 136 | 0.160 (0.125–0.194) | 0.066 | 0.987 (0.969–0.998) | 0.46 |
 | M5 EWC, fitted weights | 136 | 0.007 (0.005–0.023) | 0.007 | 0.999 (0.996–1.000) | 0.47 |
+| M6 Ablation: LLM computes score | 136 | 0.011 (0.008–0.024) | 0.006 | 1.000 (0.999–1.000) | 0.48 |
 | M7 Ablation: no quote verification | 136 | 0.007 (0.005–0.023) | 0.007 | 0.999 (0.996–1.000) | 0.47 |
 | M8 Ablation: two-way answers | 136 | 0.031 (0.015–0.079) | 0.073 | 0.957 (0.922–0.982) | 0.29 |
 
@@ -39,6 +41,7 @@ Auto-accept threshold: the lowest score giving precision ≥ 0.95 on dev, applie
 | M3 | n/a | n/a | 0.000 | n/a | 0.00 | 0.827 | 1.000 | 0.856 |
 | M4 | 0.550 | 1.000 | 0.855 | 0.967 | 0.38 | 0.923 | 0.968 | 0.932 |
 | M5 | 0.183 | 0.968 | 0.984 | 0.971 | 0.45 | 1.000 | 0.984 | 0.997 |
+| M6 | 0.982 | 1.000 | 0.984 | 0.997 | 0.44 | 1.000 | 0.984 | 0.997 |
 | M7 | 0.183 | 0.968 | 0.984 | 0.971 | 0.45 | 1.000 | 0.984 | 0.997 |
 | M8 | 0.978 | 1.000 | 0.629 | 0.894 | 0.28 | 0.813 | 0.984 | 0.843 |
 
@@ -147,7 +150,7 @@ C = 31.622776601683793; grid extended: False; still at grid edge: False; trainin
 | H2 quote failures <= 5% | True |
 | H3 M5 median SD <= 0.05 and below M1 | True |
 | H4 M5 AUROC >= M2 AUROC - 0.02 and M5 ECE <= M2 ECE | True |
-| H5 M5 beats each of M6, M7, M8 on ECE or AUROC | {'M6': False, 'M7': False, 'M8': True} |
+| H5 M5 beats each of M6, M7, M8 on ECE or AUROC | {'M6': True, 'M7': False, 'M8': True} |
 | Kill criterion: M5 worse than M2 on both AUROC and ECE | not triggered |
 | Kill criterion: a gate question below 0.90 macro-F1 or 'no' recall | not triggered |
 

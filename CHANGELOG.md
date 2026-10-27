@@ -91,3 +91,8 @@ What changed (`rubric_e1122.json`, version 1 → 2; guidance text only, question
 - Extraction: H1 met. Macro-F1 1.000 on G1, G2, Q1, Q2, Q3; Q4 0.987 (one miss: SYN-0055, P4, plan line about eGFR and losartan without the word CKD; Q4 "yes" on 1 of 5 runs). Ambiguous Q4 fields: agreement 0.621.
 - M5: ECE 0.008, AUROC 0.999, coverage at precision 0.95 = 0.45 (threshold 0.183). M2: ECE 0.082, AUROC 0.698. M3: ECE 0.089, AUROC 0.936. M4 (expert weights): ECE 0.152, AUROC 0.983. C = 31.6, inside the grid. Quote failures 0; per-chart score SD 0.
 - M7 identical to M5 (no quote failures). M6 not yet collected. Kill criteria not triggered.
+
+## 2026-10-27 — Gemini M6 (dev)
+
+- Collected M6 (model computes the score from the dev-fitted M5 weights): 140 calls, 0 errors. Re-evaluated on dev.
+- M6: ECE 0.0084, AUROC 0.9995, coverage 0.44. M5: ECE 0.0080, AUROC 0.9987, coverage 0.45. H5 for M6 reads True only because M5's ECE is lower by 0.0004, far inside the bootstrap intervals; M5 and M6 are practically indistinguishable on these charts.
