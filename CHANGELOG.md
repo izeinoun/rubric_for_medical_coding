@@ -125,3 +125,7 @@ What changed (`rubric_e1122.json`, version 1 → 2; guidance text only, question
 - Gemini 3.8 Flash: H1 met (all questions 1.000). M5 ECE 0.016, AUROC 0.979; M2 ECE 0.120, AUROC 0.669. At the dev threshold M5 accepts 27 charts (coverage 0.45) with precision 0.963 and recall 1.000. H2–H4 met; H5 met for M6 (AUROC higher by 0.0006 only, a tie in practice) and M8, not M7. No kill criterion.
 - The only high-scoring label-0 chart for both models, and the only wrongly accepted chart, is SYN-0182 (F1b copy-forward stale, label_needs_review). Excluding the two label_needs_review test charts, M5 AUROC is 1.000 for both models.
 - M7 equals M5 for both models: no quote failed verification on test, so the quote-verification ablation is untested in this pilot.
+
+## 2026-10-27 — follow-up study: draft spec
+
+- Added `followup/SPEC.md`: a draft design for a harder follow-up study (new scenario families, outside-rubric charts, quote-stress formatting, a criteria-informed confidence baseline M9, 400 charts, draft hypotheses H6–H10). Nothing generated or run; the pilot's data and frozen pipeline are unchanged.
