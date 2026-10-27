@@ -84,3 +84,10 @@ What changed (`rubric_e1122.json`, version 1 → 2; guidance text only, question
 
 - The re-collection stopped when the OpenAI account ran out of credits: 556 of 700 extraction responses saved (113 charts with at least one run), 139 errors (HTTP 429 insufficient_quota), 0 verbal runs. Rerunning `collect` retries only the failed calls. No evaluation yet.
 - Preview on the 556 chart-runs collected under both versions (not a report; the 5 remaining dev scenarios are not all covered): Q1 errors 14 → 0, Q3 5 → 0, Q4 (unambiguous fields) 94 → 1, N1b laundry-list Q4 "yes" 15 → 0. Q2 unchanged: 37 "no" where the key says not_documented (all N5, latest eGFR below 60 with only one low result; the model's rationale states the not_documented case but it still answers "no"), plus 6 new "not_documented" where the key says yes (N3; for example 2026-01-17 to 2026-04-28, 101 days, judged under 90 days — a date-arithmetic error).
+
+## 2026-10-27 — Gemini 3.8 Flash dev run (prompt version 1, rubric version 2)
+
+- Collected 5 extraction and 5 verbal runs on all 140 dev charts: 1,400 calls, 0 errors, 0 unparseable; 1.48M input and 1.34M output tokens (output includes thinking; largest single call about 10,100 tokens). Evaluated on dev.
+- Extraction: H1 met. Macro-F1 1.000 on G1, G2, Q1, Q2, Q3; Q4 0.987 (one miss: SYN-0055, P4, plan line about eGFR and losartan without the word CKD; Q4 "yes" on 1 of 5 runs). Ambiguous Q4 fields: agreement 0.621.
+- M5: ECE 0.008, AUROC 0.999, coverage at precision 0.95 = 0.45 (threshold 0.183). M2: ECE 0.082, AUROC 0.698. M3: ECE 0.089, AUROC 0.936. M4 (expert weights): ECE 0.152, AUROC 0.983. C = 31.6, inside the grid. Quote failures 0; per-chart score SD 0.
+- M7 identical to M5 (no quote failures). M6 not yet collected. Kill criteria not triggered.
