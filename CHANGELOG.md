@@ -215,3 +215,9 @@ What changed (`rubric_e1122.json`, version 1 → 2; guidance text only, question
 - Study lead's decisions: freeze rubric v3 without another dev round; add the extra views that need no extra calls. The study-3 report now also gives self-consistency (M3), expert weights (M4), no quote verification (M7), two-way answers (M8) as secondary exploratory views, and an auto-accept view for every method at a dev-chosen 95%-precision threshold. Method C's threshold is now chosen on dev the same way and stored with the frozen weights (`C_threshold.json`; GPT: none reaches 95% precision; Gemini: 0.85). M6 not added (extra calls; stage 1 already answered it).
 - Added `study3/PREREGISTRATION.md`: H1 B vs A ranking (≥ 0.10, paired interval above 0), H2 B vs C ranking (paired interval above 0), H3 B calibration ≤ recalibrated A and ≤ C, H4 B precision ≥ 0.95 at its frozen threshold. Expectation stated in advance: H2 likely fails for Gemini (tie on dev).
 - Ran `python study3/run_study3.py freeze` at 2026-10-28T02:59:32; `study3/FREEZE.json` SHA-256 4b8092db4ba6cbf7bcba56e46e90d80e881b7cead10be2ebc3f6a9e2cfc672f6.
+
+## 2026-10-28 — study 3 test run started; Claude Sonnet 5.5 addendum planned
+
+- Study lead said "run the test". Freeze check passed; test collection started for GPT-5.4 and Gemini 3.8 Flash (200 charts each).
+- Added `study3/ADDENDUM_CLAUDE_SONNET.md` before any Claude call: Claude Sonnet 5.5 (study lead's choice over Opus 5.5) as a third model, with its own dev fit, addendum freeze and single test run; same-model risk stated; needs an Anthropic API key.
+- Planned after the test, as exploratory analyses that read results only: a chart-by-chart side-by-side page of the methods' scores, and DeLong z-tests for paired AUROC differences.
