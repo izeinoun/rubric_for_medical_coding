@@ -46,6 +46,10 @@
 \lstset{basicstyle=\ttfamily\footnotesize,columns=fullflexible,frame=none,breaklines=true,
   backgroundcolor=\color{black!4},xleftmargin=4pt,xrightmargin=4pt}
 
+
+% Transparency notes: numbered, listed on a Notes page, referenced with \tnote{key}
+\newcommand{\tnote}[1]{\textsuperscript{\hyperref[note:#1]{\ref*{note:#1}}}}
+
 \begin{document}
 
 \thispagestyle{empty}
@@ -92,7 +96,7 @@ The method targets the two main failures of current LLM validation: opacity, mea
 \begin{enumerate}
   \item \textbf{Calibrated confidence instead of a verbalized guess.} Verbalized confidence clusters between 80\% and 100\% and is poorly calibrated against observed accuracy~\cite{xiong}. Here the score is a sum of log likelihood ratios with weights fitted by logistic regression, so it is a probability that can be tested against outcomes (Sections~\ref{sec:bayes} and~\ref{sec:protocol}).
   \item \textbf{An auditable trail instead of a black box.} Every score comes with the structured rubric answers and the source quotes behind them, and code checks each quote against the document. A reviewer can see exactly which evidence raised or lowered the score (Section~\ref{sec:method}).
-  \item \textbf{Silence and contradiction kept apart.} Binary checklist judges and yes/no checks merge ``the source does not say'' with ``the source says the opposite.'' The three-way answer (yes, no, \nd) gives each its own weight. The distinction matters in clinical, legal and financial review, where a missing statement and a contrary statement lead to different decisions (Section~\ref{sec:example}, question Q3). The experiments had too few documented contradictions to test this benefit (Section~\ref{sec:limits}).
+  \item \textbf{Silence and contradiction kept apart.} Binary checklist judges and yes/no checks merge ``the source does not say'' with ``the source says the opposite.'' The three-way answer (yes, no, \nd) gives each its own weight. The distinction matters in clinical, legal and financial review, where a missing statement and a contrary statement lead to different decisions (Section~\ref{sec:example}, question Q3).\tnote{contra}
   \item \textbf{Threshold routing on a real probability.} Because the score is calibrated, an organization can route on it, accepting high-scoring outputs automatically and sending the rest to human review. Where to set the thresholds is an operational choice made from calibration data, which balances throughput against compliance risk.
 \end{enumerate}
 
@@ -372,7 +376,7 @@ F, failures the pilot rubric could not see (a visit with a nurse or dietitian on
 G, borderline wording for ``addressed'' (``renal function reviewed, stable'', ``see nephrology note'', a medication change for kidney function without the word CKD, CKD in a reviewed list of chronic conditions).
 Fifty new hard cases form family H: conflicting statements within a note, a stated stage that the labs contradict, end-stage renal disease and dialysis, and unclear or partial statements. Three of them deliberately keep a doubled phrase (``not on dialysis not on dialysis'') to see whether it confuses the models.
 
-\paragraph{Labels.} A chart is supported (label 1) only if type 2 diabetes is documented (untyped defaults to type 2; secondary diabetes is not type 2); CKD is an established diagnosis; CKD is addressed at this visit; CKD is not attributed to another cause \emph{instead of} diabetes; the patient was seen face to face by an MD, DO, NP or PA; and the note is signed with a credential. ``Addressed'' follows the MEAT reading set by the study lead: a copied plan line with a status (``stable'', ``continue regimen'') and CKD in a reviewed list of chronic conditions count; ``see nephrology note'' alone does not; a medication change because of kidney function does. A contradiction about whether CKD exists, or about the diabetes type, that the note does not resolve makes the chart unsupported, because it calls for a provider query; a contradiction only about the stage does not. The rules were set by the study lead with AI assistance. A built-in checker that reads only the note text found 0 of 350 charts with problems and caught 6 of 6 planted errors, and the study lead reviewed 74 charts in two rounds, using Gemini 3.1 Pro as a reading aid. The development split has 150 charts (81 supported) and the test split 200 (117 supported); the test split holds 175 charts no model had seen and 25 unseen hard cases.
+\paragraph{Labels.} A chart is supported (label 1) only if type 2 diabetes is documented (untyped defaults to type 2; secondary diabetes is not type 2); CKD is an established diagnosis; CKD is addressed at this visit; CKD is not attributed to another cause \emph{instead of} diabetes; the patient was seen face to face by an MD, DO, NP or PA; and the note is signed with a credential. ``Addressed'' follows the MEAT reading set by the study lead: a copied plan line with a status (``stable'', ``continue regimen'') and CKD in a reviewed list of chronic conditions count; ``see nephrology note'' alone does not; a medication change because of kidney function does. A contradiction about whether CKD exists, or about the diabetes type, that the note does not resolve makes the chart unsupported, because it calls for a provider query; a contradiction only about the stage does not. The rules were set by the study lead with AI assistance.\tnote{coder} A built-in checker that reads only the note text found 0 of 350 charts with problems and caught 6 of 6 planted errors, and the study lead reviewed 74 charts in two rounds, using Gemini 3.1 Pro as a reading aid. The development split has 150 charts (81 supported) and the test split 200 (117 supported); the test split holds 175 charts no model had seen and 25 unseen hard cases.
 
 \paragraph{Methods compared.}
 \begin{itemize}
@@ -597,7 +601,7 @@ B with two-way answers & 0.921 / 0.033 & 0.983 / 0.027 & 0.989 / 0.014 & 0.988 /
 
 \begin{itemize}
   \item \textbf{Expert weights already rank well; fitting calibrates.} The unfitted illustrative weights reached AUROC 0.879--0.990, close to the fitted weights, but ECE 0.093--0.149. The two-stage use in Section~\ref{sec:bayes} (expert weights on day one, fitted weights once labels exist) is supported.
-  \item \textbf{Three-way answers help ranking slightly.} Collapsing \textit{no} and \nd{} lowered AUROC on all five models, by 0.003 to 0.012; calibration was mixed. In study 1, the same ablation cut Gemini 3.8 Flash's auto-accept coverage from 45\% to 0\%. The effect is small partly because the charts contain few contradictions (Section~\ref{sec:limits}).
+  \item \textbf{Three-way answers help ranking slightly.} Collapsing \textit{no} and \nd{} lowered AUROC on all five models, by 0.003 to 0.012; calibration was mixed. In study 1, the same ablation cut Gemini 3.8 Flash's auto-accept coverage from 45\% to 0\%.\tnote{contra}
   \item \textbf{Quote verification changed little.} With so few failed quotes, removing verification left B unchanged on three models; on Flash-Lite it raised AUROC from 0.897 to 0.919, because some answers downgraded by failed quotes had in fact been correct. Verification is a safeguard against invented evidence; these studies did not produce enough invented evidence to measure its value.
   \item \textbf{Letting the LLM compute the score} was tested in study 1 only: given the fitted weights, GPT-5.4's own arithmetic ranked as well as the code (AUROC 0.974 against 0.969) but was far worse calibrated (ECE 0.197 against 0.009); Gemini 3.8 Flash matched the code.
 \end{itemize}
@@ -692,11 +696,9 @@ The method is a way to measure confidence; the extensions below aim to make what
 \begin{itemize}
   \item \textbf{Synthetic charts.} All notes were generated from phrase banks and edited templates. Real notes are longer, messier and more varied, and real documentation errors are not drawn from a fixed list of scenarios.
   \item \textbf{Labels favor the method by construction.} The labels follow mostly from facts the rubric asks about, so a model that answers the questions correctly will score well. Method C received the same questions to keep the comparison fair, and the method's value on real charts depends on how well a rubric captures the real labeling rules.
-  \item \textbf{No certified coder.} The label rules were set by the study lead with AI assistance, and one reviewer checked 74 charts with an AI reading aid. A Gemini model (3.1 Pro) assisted the review and Gemini models were tested.
   \item \textbf{Same-family generation.} The charts were generated with Claude, and two Claude models were tested; their results may be favored.
   \item \textbf{Prevalence.} About 58\% of test charts are supported, far above a real population. The intercept can be shifted for deployment (Appendix~\ref{app:algo}), but calibration must be rechecked on real data.
   \item \textbf{Small, easy-to-separate data.} About 100 gate-passing development charts per model fitted the weights, and the strongest extractors nearly separated the classes. Bootstrap intervals are reported, but 200 test charts cannot resolve small differences, and one candidate code was tested.
-  \item \textbf{Contradictions under-sampled.} The charts were balanced by label and scenario family, not by answer type. A documented other cause for CKD (Q3 ``no'') appears in only 5 of 350 charts (2 development, 3 test), so its weight is set mostly by regularization, and the value of separating silence from contradiction is not tested here. Gate contradictions are better covered (15--30 charts each). A follow-up should oversample contradictions for every question.
   \item \textbf{Verification barely exercised.} Models almost never quoted text that was not in the note, so the quote check's value against invented evidence is not measured here.
   \item \textbf{Added models.} Three of the five models were added after the pre-registration, each under its own addendum filed before its first call; their results are confirmatory only in that narrower sense.
 \end{itemize}
@@ -722,6 +724,15 @@ On synthetic E11.22 charts and five models, the pattern did what it was designed
 The next step is real charts labeled by certified coders, more codes, and a semantic check of the quotes, which is where the remaining errors lie.
 
 % ---------------------------------------------------------------------------
+\clearpage
+\section*{Notes}\addcontentsline{toc}{section}{Notes}
+\noindent These notes are given for transparency only. None of them affects the conclusions of this paper.
+\begin{enumerate}[label=\arabic*.,ref=\arabic*]
+\item\label{note:contra} \textbf{Few documented contradictions.} The charts were balanced by label (supported or not) and by scenario family, not by answer type. A documented other cause for CKD (Q3 ``no'') appears in 5 of 350 charts (2 development, 3 test); contradictions of the gate questions and of Q2 appear in 15--30 charts each. The benefit of keeping silence and contradiction apart is therefore not measured by these studies, and the fitted weight for Q3 ``no'' is set mostly by regularization. This does not affect the conclusions, which are measured on the final supported-or-not decision across all test charts. A follow-up could oversample contradictions for every question.
+\item\label{note:coder} \textbf{No certified coder.} The label rules were set by the study lead with AI assistance, and one reviewer checked 74 charts using Gemini 3.1 Pro as a reading aid (a Gemini model was also among those tested); no certified coder reviewed the labels. Because every method is scored against the same labels, this does not affect the comparison between methods or the conclusions. Whether the rules match certified coders' practice, for example on copied-forward plan lines, is a question for a study on real charts.
+\end{enumerate}
+
+\clearpage
 \begin{thebibliography}{99}\small
 \bibitem{xiong} Miao Xiong, Zhiyuan Hu, Xinyang Lu, Yifei Li, Jie Fu, Junxian He, and Bryan Hooi. Can LLMs express their uncertainty? An empirical evaluation of confidence elicitation in LLMs. In \emph{International Conference on Learning Representations (ICLR)}, 2024. \url{https://arxiv.org/abs/2306.13063}.
 \bibitem{leng} Jixuan Leng, Chengsong Huang, Banghua Zhu, and Jiaxin Huang. Taming overconfidence in LLMs: Reward calibration in RLHF. In \emph{International Conference on Learning Representations (ICLR)}, 2025. \url{https://arxiv.org/abs/2410.09724}.

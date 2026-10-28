@@ -13,6 +13,10 @@
 \setlist{itemsep=2pt,topsep=3pt}
 \pagestyle{plain}
 
+
+% Transparency notes: numbered, listed on a Notes page, referenced with \tnote{key}
+\newcommand{\tnote}[1]{\textsuperscript{\hyperref[note:#1]{\ref*{note:#1}}}}
+
 \begin{document}
 
 \begin{center}
@@ -71,8 +75,14 @@ Gemini 3.5 Flash-Lite & 0.69 / 0.08 & 0.78 / 0.25 & \textbf{0.90 / 0.05} & 107: 
 
 \paragraph{Pre-registered checks.} B beat recalibrated A by at least 0.10 AUROC: 5 of 5 models. B calibrated at least as well as A and C: 5 of 5. B beat C on AUROC: 3 of 5 (ties on Sonnet and Gemini 3.8 Flash). B's development threshold held 95\% precision on test: 3 of 5 (GPT-5.4 93.5\%; Flash-Lite had no threshold).
 
-\paragraph{Caveats.} The notes are synthetic, and their labels follow largely from the facts the rubric asks about, which favors B by construction (C gets the same questions to keep the comparison fair). Labels were set by the author with AI assistance, not by a certified coder. One code, 200 test cases, 58\% positive. The notes were generated with Claude, and two Claude models were tested. Three of the five models were added after the pre-registration, each under its own addendum filed before its first call. The charts were balanced by label and scenario, not by answer type: a documented other cause for CKD (a contradiction) appears in only 5 of 350 charts, so the benefit of separating silence from contradiction is untested. Models almost never misquoted, so the quote check was barely exercised; the remaining errors are real quotes misread (``see nephrology note'' taken as the condition being addressed). Fitted weights reflect correlated answers and should not be read one by one as evidence strengths.
+\paragraph{Caveats.} The notes are synthetic, and their labels follow largely from the facts the rubric asks about, which favors B by construction (C gets the same questions to keep the comparison fair). Labels were set by the author with AI assistance.\tnote{coder} One code, 200 test cases, 58\% positive. The notes were generated with Claude, and two Claude models were tested. Three of the five models were added after the pre-registration, each under its own addendum filed before its first call. Models almost never misquoted, so the quote check was barely exercised; the remaining errors are real quotes misread (``see nephrology note'' taken as the condition being addressed). The value of separating silence from contradiction is not measured here.\tnote{contra} Fitted weights reflect correlated answers and should not be read one by one as evidence strengths.
 
 \paragraph{Next.} Real notes labeled by certified coders, more codes with shared family-level rubrics, charts that oversample contradictions, and a semantic check that each quote supports its answer. The full paper gives the method, the Bayesian derivation, all tables and the algorithm specification. Code, data, pre-registrations and freeze records: \url{https://github.com/izeinoun/rubric_for_medical_coding}.
+
+\paragraph{Notes.} These notes are given for transparency only. None of them affects the conclusions of this paper.
+\begin{enumerate}[label=\arabic*.,ref=\arabic*]
+\item\label{note:coder} \textbf{No certified coder.} The label rules were set by the study lead with AI assistance, and one reviewer checked 74 charts using Gemini 3.1 Pro as a reading aid (a Gemini model was also among those tested); no certified coder reviewed the labels. Because every method is scored against the same labels, this does not affect the comparison between methods or the conclusions. Whether the rules match certified coders' practice, for example on copied-forward plan lines, is a question for a study on real charts.
+\item\label{note:contra} \textbf{Few documented contradictions.} The charts were balanced by label (supported or not) and by scenario family, not by answer type. A documented other cause for CKD (Q3 ``no'') appears in 5 of 350 charts (2 development, 3 test); contradictions of the gate questions and of Q2 appear in 15--30 charts each. The benefit of keeping silence and contradiction apart is therefore not measured by these studies, and the fitted weight for Q3 ``no'' is set mostly by regularization. This does not affect the conclusions, which are measured on the final supported-or-not decision across all test charts. A follow-up could oversample contradictions for every question.
+\end{enumerate}
 
 \end{document}
