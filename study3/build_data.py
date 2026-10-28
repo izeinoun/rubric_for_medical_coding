@@ -8,7 +8,9 @@ Study-3 label rules (agreed with the study lead, 2026-10-27):
     CKD named in a reviewed list of chronic conditions or problems (B2, B4, G4, A_N1b become label 1);
   - "see nephrology note" alone is not addressed; a medication change made because of kidney function is;
   - diabetes plus another cause counts as a diabetic cause;
-  - new cases: the current assessment and plan governs when sections conflict; a documented stage counts even when
+  - new cases: a contradiction about whether CKD exists, or about the diabetes type, that the note does not resolve
+    means not supported (it needs a provider query); a contradiction only about the stage does not matter; when the
+    current plan defers or questions CKD, it is not established; a documented stage counts even when
     the labs disagree; ESRD on dialysis supports E11.22; "CKD?" is not established; "DM with renal involvement"
     without CKD is not CKD.
 
@@ -42,9 +44,9 @@ RELABEL_ADDRESSED = {"B2_copy_stale", "B4_per_last_visit", "G4_list_entry", "A_N
 
 # hard scenario -> (description, count, label, base scenario, dev count)
 HARD = {
-    "H1a_conflict_hpi_no_kidney":   ("HPI says no kidney disease; the plan addresses established CKD", 4, 1, "A_P1_stage_and_link", 2),
+    "H1a_conflict_hpi_no_kidney":   ("HPI says no kidney disease; the plan addresses CKD; contradiction not resolved", 4, 0, "A_P1_stage_and_link", 2),
     "H1b_conflict_stage":           ("Problem list says stage 4; the plan says stage 3a", 3, 1, "A_P2_with_convention", 2),
-    "H1c_conflict_dm_type":         ("Outside records say type 1; problem list and plan say type 2", 3, 1, "A_P2_with_convention", 1),
+    "H1c_conflict_dm_type":         ("Outside records say type 1; problem list and plan say type 2; not resolved", 3, 0, "A_P2_with_convention", 1),
     "H1d_conflict_plan_possible":   ("Problem list says CKD stage 3a; the plan says possible CKD, recheck", 3, 0, "A_N5_uncertain_dx", 2),
     "H2a_stage_3a_labs_stage4":     ("CKD stage 3a documented; eGFR in the stage-4 range", 6, 1, "A_P2_with_convention", 3),
     "H2b_stage_4_labs_stage3":      ("CKD stage 4 documented; eGFR in the stage-3 range", 6, 1, "A_P1_stage_and_link", 3),
@@ -169,6 +171,7 @@ def build_hard(rng, idx, s):
     if s == "H1a_conflict_hpi_no_kidney":
         c = build_clean(rng, idx, base)
         hpi_insert(c, "No history of kidney disease.")
+        a_over = {"G2": NO}   # unresolved contradiction about whether CKD exists: needs a provider query
         amb = ["G2"]
     elif s == "H1b_conflict_stage":
         c = build_clean(rng, idx, base, patch={"stage": "3a", "prior_section": False})
@@ -180,6 +183,7 @@ def build_hard(rng, idx, s):
     elif s == "H1c_conflict_dm_type":
         c = build_clean(rng, idx, base)
         hpi_insert(c, "Outside records from 2015 list type 1 diabetes.")
+        a_over = {"G1": NO}   # type 1 and type 2 both documented, not resolved: needs a provider query
         amb = ["G1"]
     elif s == "H1d_conflict_plan_possible":
         c = build_clean(rng, idx, base)
@@ -248,7 +252,7 @@ def build_hard(rng, idx, s):
     a = dict(c["intended_answers"])
     a.update(rules_answers(c))
     a.update(a_over)
-    if s in {"H1a_conflict_hpi_no_kidney", "H1b_conflict_stage", "H1c_conflict_dm_type", "H2a_stage_3a_labs_stage4",
+    if s in {"H1b_conflict_stage", "H2a_stage_3a_labs_stage4",
              "H2b_stage_4_labs_stage3", "H3a_esrd_dialysis_addressed", "H3c_ckd5_not_on_dialysis", "H4d_truncated_plan"}:
         assert a["Q4"] == YES and a["G2"] == YES
     c["intended_answers"] = {q: a[q] for q in QIDS}

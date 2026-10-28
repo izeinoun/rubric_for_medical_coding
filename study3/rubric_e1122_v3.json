@@ -1,0 +1,55 @@
+{
+  "rubric_id": "E11.22",
+  "version": "3",
+  "candidate_code": "E11.22",
+  "code_description": "Type 2 diabetes mellitus with diabetic chronic kidney disease",
+  "answer_values": {
+    "yes": "The note affirmatively documents the fact.",
+    "no": "The note explicitly documents the opposite, or explicitly says the fact is not established.",
+    "not_documented": "The note is silent on the fact."
+  },
+  "gates": ["G1", "G2", "R1", "R2"],
+  "weighted": ["Q1", "Q2", "Q3", "Q4"],
+  "questions": {
+    "G1": {
+      "text": "Is type 2 diabetes mellitus documented as a current diagnosis?",
+      "guidance": "Answer yes if type 2 diabetes is documented, or if diabetes is documented without a type (ICD-10-CM defaults to type 2); insulin use does not change the type. Answer no if the note documents type 1 diabetes, or secondary diabetes (caused by a drug or chemical such as steroids, by another condition, or by a procedure such as pancreatectomy). Answer no if the note documents both type 1 and type 2 diabetes without saying which is correct."
+    },
+    "G2": {
+      "text": "Is chronic kidney disease documented by the provider as an established diagnosis?",
+      "guidance": "Answer yes if chronic kidney disease (CKD) is diagnosed anywhere in the note, including end-stage renal disease or stage 5, or a history of CKD that is managed at this visit. Answer no if CKD is described as possible, suspected, rule out, 'CKD?', not yet established or deferred; if the current assessment and plan questions or defers CKD even though the problem list includes it; or if the note says elsewhere that there is no kidney disease and does not resolve the contradiction. Answer not_documented if there are only abnormal kidney labs, statements such as 'kidneys OK', or 'renal involvement' without the words CKD or chronic kidney disease."
+    },
+    "R1": {
+      "text": "Was the patient seen face-to-face, in person, by a physician (MD or DO), nurse practitioner or physician assistant?",
+      "guidance": "Answer no if the visit was with a nurse, dietitian or other staff only, or if the patient was not seen (for example a chart review or e-consult). Quote the lines that show the visit type and the clinician."
+    },
+    "R2": {
+      "text": "Is the note signed by the clinician with a professional credential?",
+      "guidance": "Answer yes only if a signature line names the clinician with a credential such as MD, DO, NP, FNP-C or PA-C. Answer no if the note is unsigned or pending signature, or the signature has no credential. Quote the signature line or the unsigned notice."
+    },
+    "Q1": {
+      "text": "Is the CKD stage documented?",
+      "guidance": "Answer yes if a stage such as 3a, 3b, 4 or 5 (or ESRD) is stated anywhere in the note, even if different sections give different stages or the labs suggest another stage. If no stage is stated, answer not_documented, not no."
+    },
+    "Q2": {
+      "text": "Do the labs show eGFR below 60 on two results at least 90 days apart?",
+      "guidance": "Answer yes if at least two eGFR results below 60 are dated at least 90 days apart. Answer no only if the most recent eGFR is 60 or above. Otherwise (for example, the most recent eGFR is below 60 but there are not two results below 60 at least 90 days apart) answer not_documented. Quote the lab lines used."
+    },
+    "Q3": {
+      "text": "Does the provider attribute the CKD to diabetes?",
+      "guidance": "Answer yes if the note states the CKD is due to, secondary to or caused by diabetes, or calls it diabetic kidney disease, including when diabetes is named together with another cause (for example 'due to diabetes and hypertension') or as the likely cause. Answer no if the note attributes the CKD to a different cause instead of diabetes. Answer not_documented if no cause is stated."
+    },
+    "Q4": {
+      "text": "Was the CKD addressed at this encounter (monitored, evaluated, assessed or treated)?",
+      "guidance": "Answer yes if CKD appears in the assessment and plan with any status, evaluation, plan or treatment, including a line copied or carried forward from an earlier visit (for example 'stable' or 'continue regimen') and CKD named in a list of chronic conditions or problems reviewed in the assessment and plan. A medication change made because of kidney function counts even if CKD is not named in that line. Answer not_documented if CKD appears only in the problem list or history, or if the assessment and plan only refers to another clinician's note (for example 'see nephrology note'). Do not answer no."
+    }
+  },
+  "expert_weights": {
+    "_note": "Section 5 of the paper (silence is the zero point). Unchanged from rubric v2; not part of study 3's comparison.",
+    "intercept": -4.30,
+    "Q1_yes": 2.19, "Q1_no": 0.0,
+    "Q2_yes": 1.40, "Q2_no": -1.20,
+    "Q3_yes": 0.90, "Q3_no": -2.00,
+    "Q4_yes": 2.20, "Q4_no": 0.0
+  }
+}
