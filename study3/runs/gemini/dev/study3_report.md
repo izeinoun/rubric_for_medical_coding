@@ -1,6 +1,6 @@
 # Study 3 — gemini-3.8-flash (gemini), dev split
 
-Generated 2026-10-28T01:16:02. Charts: 150. Dev numbers: B and recalibrated A are out-of-fold (fitted on dev), so mildly optimistic. The harness report for the same charts is report.md.
+Generated 2026-10-28T02:58:35. Charts: 150. Dev numbers: B and recalibrated A are out-of-fold (fitted on dev), so mildly optimistic. The harness report for the same charts is report.md.
 
 | Method | n | AUROC (95% CI) | ECE (95% CI) |
 |---|---|---|---|
@@ -26,3 +26,25 @@ C is not recalibrated; compare it on AUROC.
 | F | 19 | 0 | n/a | n/a | n/a | 0 | 0 |
 | G | 25 | 19 | 0.456 | 1.000 | 1.000 | 0 | 1 |
 | H | 25 | 14 | 0.886 | 1.000 | 1.000 | 0 | 0 |
+
+## Auto-accept view (thresholds chosen on dev for 95% precision; on dev they meet the target by construction)
+
+| Method | Threshold | Accepted | Coverage | Precision | Recall |
+|---|---|---|---|---|---|
+| A stated confidence (raw) | 1.000 | 1 | 0.01 | 1.000 | 0.012 |
+| A stated confidence (recalibrated) | 0.736 | 1 | 0.01 | 1.000 | 0.012 |
+| M3 Self-consistency | n/a | 0 | 0.00 | n/a | 0.000 |
+| M4 B with hand-set expert weights instead of fitted weights | 0.332 | 78 | 0.52 | 0.962 | 0.926 |
+| B EWC (rubric v3) | 0.009 | 85 | 0.57 | 0.953 | 1.000 |
+| M7 B without quote verification | 0.009 | 85 | 0.57 | 0.953 | 1.000 |
+| M8 B with two-way answers (yes / not yes) | 0.013 | 84 | 0.56 | 0.964 | 1.000 |
+| C criteria-guided confidence | 0.850 | 85 | 0.57 | 0.953 | 1.000 |
+
+## Secondary views (exploratory, same calls, no pass marks)
+
+| View | What it is | AUROC | ECE | Brier |
+|---|---|---|---|---|
+| M3 | Self-consistency: share of the 5 stated-confidence runs answering 'supported' | 0.896 | 0.101 | 0.100 |
+| M4 | B with hand-set expert weights instead of fitted weights | 0.993 | 0.106 | 0.061 |
+| M7 | B without quote verification | 0.987 | 0.013 | 0.013 |
+| M8 | B with two-way answers (yes / not yes) | 0.979 | 0.002 | 0.014 |

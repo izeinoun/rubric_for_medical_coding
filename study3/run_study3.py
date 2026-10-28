@@ -6,6 +6,9 @@ Uses the pilot harness (harness/*.py) unchanged, pointed at study3/data/charts.j
 and study3/runs/. Method C reuses the follow-up's prompt code (followup/run_transfer.py), so its criteria are the
 same rubric-v3 questions and guidance that method B uses.
 
+Also reported, as secondary exploratory views from the same calls: self-consistency (M3), expert weights (M4),
+no quote verification (M7), two-way answers (M8), and an auto-accept view at the dev-chosen thresholds.
+
 Commands (from the repository root):
   python study3/run_study3.py estimate --split dev
   python study3/run_study3.py collect  --model gpt --split dev      extraction, verbal and C calls (resumable)
@@ -43,6 +46,12 @@ FROZEN_FILES = ["study3/data/charts.jsonl", "study3/rubric_e1122_v3.json", "stud
 NAMES = {"M1": "A stated confidence (raw)", "M2": "A stated confidence (recalibrated)", "M5": "B EWC (rubric v3)",
          "M9": "C criteria-guided confidence"}
 HEADLINE = ["M1", "M2", "M5", "M9"]
+# secondary, exploratory views computed from the same calls (no extra calls; no pass marks)
+SECONDARY = {"M3": "Self-consistency: share of the 5 stated-confidence runs answering 'supported'",
+             "M4": "B with hand-set expert weights instead of fitted weights",
+             "M7": "B without quote verification",
+             "M8": "B with two-way answers (yes / not yes)"}
+ALL_NAMES = {**{m: NAMES[m] for m in HEADLINE}, **{m: f"{m} {d.split(':')[0]}" for m, d in SECONDARY.items()}}
 
 
 def sha256(path):
@@ -96,7 +105,7 @@ def report(cfg, rubric, charts, model, split):
     import csv
     rows = list(csv.DictReader(open(os.path.join(out, "predictions.csv"))))
     m9 = fu.m9_view(cfg, model, split)
-    probs = {m: {r["chart_id"]: float(r[m]) for r in rows if r.get(m)} for m in ("M1", "M2", "M5")}
+    probs = {m: {r["chart_id"]: float(r[m]) for r in rows if r.get(m)} for m in ("M1", "M2", "M3", "M4", "M5", "M7", "M8")}
     probs["M9"] = m9
     ids = [r["chart_id"] for r in rows]
     y = {c: charts[c]["label"] for c in ids}
@@ -119,6 +128,34 @@ def report(cfg, rubric, charts, model, split):
         res["families"][fam] = {"n": len(c), "positives": sum(yy),
                                 **{f"AUROC_{m}": (P.auroc([probs[m].get(x, 0.5) for x in c], yy) if both else None) for m in ("M2", "M5", "M9")},
                                 **{f"wrong_{m}": sum((probs[m].get(x, 0.5) >= 0.5) != (y[x] == 1) for x in c) for m in ("M5", "M9")}}
+    # secondary views and the auto-accept view (frozen dev thresholds; charts flagged for review never accepted)
+    review = {r["chart_id"]: r.get("needs_review") == "1" for r in rows}
+    with open(os.path.join(rp.weights_dir(cfg, model), "thresholds.json")) as f:
+        thr = json.load(f)["thresholds"]
+    c_path = os.path.join(rp.weights_dir(cfg, model), "C_threshold.json")   # method C: chosen on dev like the others
+    if split == "dev":
+        c = [x for x in ids if x in probs["M9"]]
+        t9 = P.threshold_for_precision([probs["M9"][x] for x in c], [y[x] for x in c], cfg["auto_accept_precision"], [False] * len(c))
+        with open(c_path, "w") as f:
+            json.dump({"target_precision": cfg["auto_accept_precision"], "M9": t9}, f, indent=2)
+    with open(c_path) as f:
+        thr["M9"] = json.load(f)["M9"]
+    res["secondary"], res["auto_accept"] = {}, {}
+    ewc = {"M4", "M5", "M7", "M8"}
+    for m in ["M1", "M2", "M3", "M4", "M5", "M7", "M8", "M9"]:
+        c = [x for x in ids if x in probs[m]]
+        if len(c) < 10:
+            continue
+        p, yy = [probs[m][x] for x in c], [y[x] for x in c]
+        blk = [review[x] if m in ewc else False for x in c]
+        if m in SECONDARY:
+            res["secondary"][m] = {"n": len(c), "AUROC": P.auroc(p, yy), "ECE": P.ece(p, yy), "Brier": P.brier(p, yy)}
+        t = thr.get(m)
+        acc = [x for x, b in zip(c, blk) if t is not None and probs[m][x] >= t and not b]
+        res["auto_accept"][m] = {"threshold": t, "accepted": len(acc), "coverage": len(acc) / len(c),
+                                 "precision": (sum(y[x] for x in acc) / len(acc)) if acc else None,
+                                 "recall": (sum(y[x] for x in acc) / max(1, sum(yy))),
+                                 "coverage_at_P95_best": P.coverage_at_precision(p, yy, cfg["auto_accept_precision"], blk)}
     with open(os.path.join(out, "study3_results.json"), "w") as f:
         json.dump(res, f, indent=2, default=str)
     fmt = fu.fmt
@@ -137,6 +174,16 @@ def report(cfg, rubric, charts, model, split):
     for fam, r in res["families"].items():
         L.append(f"| {fam} | {r['n']} | {r['positives']} | {fmt(r['AUROC_M2'])} | {fmt(r['AUROC_M5'])} | {fmt(r['AUROC_M9'])} | "
                  f"{r['wrong_M5']} | {r['wrong_M9']} |")
+    L += ["", "## Auto-accept view (thresholds chosen on dev for 95% precision" +
+          (", here applied unchanged)" if split == "test" else "; on dev they meet the target by construction)"), "",
+          "| Method | Threshold | Accepted | Coverage | Precision | Recall |", "|---|---|---|---|---|---|"]
+    for m, r in res["auto_accept"].items():
+        L.append(f"| {ALL_NAMES.get(m, m)} | {fmt(r['threshold'])} | {r['accepted']} | {fmt(r['coverage'], 2)} | "
+                 f"{fmt(r['precision'])} | {fmt(r['recall'])} |")
+    L += ["", "## Secondary views (exploratory, same calls, no pass marks)", "",
+          "| View | What it is | AUROC | ECE | Brier |", "|---|---|---|---|---|"]
+    for m, r in res["secondary"].items():
+        L.append(f"| {m} | {SECONDARY[m]} | {fmt(r['AUROC'])} | {fmt(r['ECE'])} | {fmt(r['Brier'])} |")
     with open(os.path.join(out, "study3_report.md"), "w") as f:
         f.write("\n".join(L) + "\n")
     print(f"Study 3 report: {os.path.relpath(os.path.join(out, 'study3_report.md'), ROOT)}")

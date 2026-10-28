@@ -2,7 +2,7 @@
   "model": "gpt",
   "model_name": "gpt-5.4-2026-03-05",
   "split": "dev",
-  "ts": "2026-10-28T00:42:43",
+  "ts": "2026-10-28T02:58:05",
   "n": 150,
   "methods": {
     "M1": {
@@ -148,6 +148,98 @@
       "AUROC_M9": 0.6071428571428572,
       "wrong_M5": 4,
       "wrong_M9": 11
+    }
+  },
+  "secondary": {
+    "M3": {
+      "n": 150,
+      "AUROC": 0.6280193236714975,
+      "ECE": 0.39200000000000007,
+      "Brier": 0.39093333333333335
+    },
+    "M4": {
+      "n": 150,
+      "AUROC": 0.9144748613347649,
+      "ECE": 0.07714199999999996,
+      "Brier": 0.11469206926666667
+    },
+    "M7": {
+      "n": 150,
+      "AUROC": 0.919126856324924,
+      "ECE": 0.050944,
+      "Brier": 0.09626144946666668
+    },
+    "M8": {
+      "n": 150,
+      "AUROC": 0.9098228663446055,
+      "ECE": 0.056130666666666655,
+      "Brier": 0.100316588
+    }
+  },
+  "auto_accept": {
+    "M1": {
+      "threshold": null,
+      "accepted": 0,
+      "coverage": 0.0,
+      "precision": null,
+      "recall": 0.0,
+      "coverage_at_P95_best": 0.0
+    },
+    "M2": {
+      "threshold": null,
+      "accepted": 0,
+      "coverage": 0.0,
+      "precision": null,
+      "recall": 0.0,
+      "coverage_at_P95_best": 0.0
+    },
+    "M3": {
+      "threshold": null,
+      "accepted": 0,
+      "coverage": 0.0,
+      "precision": null,
+      "recall": 0.0,
+      "coverage_at_P95_best": 0.0
+    },
+    "M4": {
+      "threshold": 0.9160615681024419,
+      "accepted": 24,
+      "coverage": 0.16,
+      "precision": 0.9583333333333334,
+      "recall": 0.2839506172839506,
+      "coverage_at_P95_best": 0.16
+    },
+    "M5": {
+      "threshold": 0.9065567143266887,
+      "accepted": 31,
+      "coverage": 0.20666666666666667,
+      "precision": 0.967741935483871,
+      "recall": 0.37037037037037035,
+      "coverage_at_P95_best": 0.20666666666666667
+    },
+    "M7": {
+      "threshold": 0.9065567143266887,
+      "accepted": 31,
+      "coverage": 0.20666666666666667,
+      "precision": 0.967741935483871,
+      "recall": 0.37037037037037035,
+      "coverage_at_P95_best": 0.20666666666666667
+    },
+    "M8": {
+      "threshold": 0.8936772085135255,
+      "accepted": 31,
+      "coverage": 0.20666666666666667,
+      "precision": 0.967741935483871,
+      "recall": 0.37037037037037035,
+      "coverage_at_P95_best": 0.20666666666666667
+    },
+    "M9": {
+      "threshold": null,
+      "accepted": 0,
+      "coverage": 0.0,
+      "precision": null,
+      "recall": 0.0,
+      "coverage_at_P95_best": 0.0
     }
   }
 }

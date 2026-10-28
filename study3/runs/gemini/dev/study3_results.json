@@ -2,7 +2,7 @@
   "model": "gemini",
   "model_name": "gemini-3.8-flash",
   "split": "dev",
-  "ts": "2026-10-28T01:16:02",
+  "ts": "2026-10-28T02:58:35",
   "n": 150,
   "methods": {
     "M1": {
@@ -148,6 +148,98 @@
       "AUROC_M9": 1.0,
       "wrong_M5": 0,
       "wrong_M9": 0
+    }
+  },
+  "secondary": {
+    "M3": {
+      "n": 150,
+      "AUROC": 0.8959563428162463,
+      "ECE": 0.10133333333333333,
+      "Brier": 0.10026666666666666
+    },
+    "M4": {
+      "n": 150,
+      "AUROC": 0.993379853283235,
+      "ECE": 0.10552400000000003,
+      "Brier": 0.06080515733333333
+    },
+    "M7": {
+      "n": 150,
+      "AUROC": 0.9867597065664699,
+      "ECE": 0.013153333333333348,
+      "Brier": 0.013312110399999999
+    },
+    "M8": {
+      "n": 150,
+      "AUROC": 0.9785292538915727,
+      "ECE": 0.0018713333333333772,
+      "Brier": 0.014387839399999998
+    }
+  },
+  "auto_accept": {
+    "M1": {
+      "threshold": 1.0,
+      "accepted": 1,
+      "coverage": 0.006666666666666667,
+      "precision": 1.0,
+      "recall": 0.012345679012345678,
+      "coverage_at_P95_best": 0.006666666666666667
+    },
+    "M2": {
+      "threshold": 0.7364483403584616,
+      "accepted": 1,
+      "coverage": 0.006666666666666667,
+      "precision": 1.0,
+      "recall": 0.012345679012345678,
+      "coverage_at_P95_best": 0.013333333333333334
+    },
+    "M3": {
+      "threshold": null,
+      "accepted": 0,
+      "coverage": 0.0,
+      "precision": null,
+      "recall": 0.0,
+      "coverage_at_P95_best": 0.0
+    },
+    "M4": {
+      "threshold": 0.33181222783183395,
+      "accepted": 78,
+      "coverage": 0.52,
+      "precision": 0.9615384615384616,
+      "recall": 0.9259259259259259,
+      "coverage_at_P95_best": 0.5533333333333333
+    },
+    "M5": {
+      "threshold": 0.009399781178108956,
+      "accepted": 85,
+      "coverage": 0.5666666666666667,
+      "precision": 0.9529411764705882,
+      "recall": 1.0,
+      "coverage_at_P95_best": 0.5666666666666667
+    },
+    "M7": {
+      "threshold": 0.009399781178108956,
+      "accepted": 85,
+      "coverage": 0.5666666666666667,
+      "precision": 0.9529411764705882,
+      "recall": 1.0,
+      "coverage_at_P95_best": 0.5666666666666667
+    },
+    "M8": {
+      "threshold": 0.013442600586904324,
+      "accepted": 84,
+      "coverage": 0.56,
+      "precision": 0.9642857142857143,
+      "recall": 1.0,
+      "coverage_at_P95_best": 0.5666666666666667
+    },
+    "M9": {
+      "threshold": 0.85,
+      "accepted": 85,
+      "coverage": 0.5666666666666667,
+      "precision": 0.9529411764705882,
+      "recall": 1.0,
+      "coverage_at_P95_best": 0.5666666666666667
     }
   }
 }

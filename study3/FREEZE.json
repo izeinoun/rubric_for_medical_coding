@@ -1,0 +1,29 @@
+{
+  "frozen_at": "2026-10-28T02:59:32",
+  "hashes": {
+    "study3/data/charts.jsonl": "1e36b6256b2650f6c9f3c2b5dbafbf4570cb0abdae47b47ac1612d04bf701966",
+    "study3/rubric_e1122_v3.json": "8ed391f7204f01d6a94cc7529694730f631a9c4b02956c7a83c0c641e6bf6e20",
+    "study3/run_study3.py": "0d083515d8c4edb8566bb3b04ce8b68c3ce8fc557a89f9dff3c80310a8cf1a0f",
+    "study3/build_data.py": "07c4af20cd8891e2a3fa64daa6a750b8b8f2ae5c6d69ae2e70e8bef7e94798b6",
+    "study3/check_data.py": "7a2fef4f7c54de9f81461dd99662dc123f6e78234b6df57fb4674ef52bdabb47",
+    "study3/PREREGISTRATION.md": "2d499afad3ea1406f7e78dcc8618673a9ab85d5090c574557f58e6bb6c67ef73",
+    "harness/pipeline.py": "e34c6b467d45b4001f0da7708ee27f064a28dca112664ff475f88b9480ef17b4",
+    "harness/prompts.py": "39b48fe8e3932e11e601f2ea551dcbf18fd990c796929cafbcfdc7b7b8a85340",
+    "harness/providers.py": "d5a50019e15d2297ac93fc1a221b310d6c89e323d0f795f28687bb15f5ab9b37",
+    "harness/run_pilot.py": "9f5beaef90b45287c1fb7e86b4814e0e776b8e48b04b7fa74f71f57ece933b94",
+    "harness/config.json": "17adc797e2b18bb4e0c5be18029dc572a237be934840747456d0ff4473edeb19",
+    "followup/run_transfer.py": "1cb445069d1490f95d9c49b1992b30272e59635d4da082715ef955ff2add1a67",
+    "study3/runs/gpt/weights/C_threshold.json": "b6dfcbb6de1fcff6d10861c9f884b51f332a23b9de9f08c07c1cb71a14d738cf",
+    "study3/runs/gpt/weights/M2_platt.json": "24ad7ed9ea06267aadf7f5ec1ea64672ce44009d2256dcd445274738ff2ce46a",
+    "study3/runs/gpt/weights/M5.json": "99fb42521ecddd0fae194327485d4d7f378b0294174094feedcc4023725fa8ca",
+    "study3/runs/gpt/weights/M7.json": "84f56fdd4a2ffcff4a66079b5eaf331b17733546c5430a366ff287ae26b954e9",
+    "study3/runs/gpt/weights/M8.json": "a11a3ad963fd024c8ee0c06d12e8513a4baca266e4e6c8dc2861c37857eacd4b",
+    "study3/runs/gpt/weights/thresholds.json": "0d6e78f0fece37c1f6a21e3a97b11ab260ccc95eb68813d1ce65fba35f2be21c",
+    "study3/runs/gemini/weights/C_threshold.json": "d1444f5deabb586e439576b1ca37eebe1e61f224a4053640cbd585a31545a908",
+    "study3/runs/gemini/weights/M2_platt.json": "7d92c21e1bb299b0a12b43bd0592ec367517fa5fbe91446d289456691a7dd249",
+    "study3/runs/gemini/weights/M5.json": "434d1198a81bf727c0604abceab7af929d3bb33f92ab6628ad7432ca5609d47e",
+    "study3/runs/gemini/weights/M7.json": "8ca699dc7e193cdddaeb7d01fa959ddc0d2a1306ac3f43bd14a5b7519a68d0c8",
+    "study3/runs/gemini/weights/M8.json": "827350b89f6c88ef4ac694cb925468779ce48874c52378c182aa7aaed14830fc",
+    "study3/runs/gemini/weights/thresholds.json": "fccb976b47af106967f985444b118f432a9e21623b054f8bf64f63d38ab7e341"
+  }
+}
