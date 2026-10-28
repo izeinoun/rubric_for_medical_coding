@@ -1,0 +1,15 @@
+{
+  "frozen_at": "2026-10-28T18:17:00",
+  "model": "gemini-3.5-flash-lite",
+  "hashes": {
+    "study3/ADDENDUM_GEMINI_FLASH_LITE.md": "1f163c8c03665ce12d5508627686b509b5759910424ef0e1fec05cc15a7848f5",
+    "study3/run_addendum_gemini_lite.py": "995e7673fe040f63cec5c126eb73a93b22983a889c9624a8c85a385ee9cf2d05",
+    "study3/FREEZE.json": "4b8092db4ba6cbf7bcba56e46e90d80e881b7cead10be2ebc3f6a9e2cfc672f6",
+    "study3/runs/gemini_lite/weights/C_threshold.json": "b6dfcbb6de1fcff6d10861c9f884b51f332a23b9de9f08c07c1cb71a14d738cf",
+    "study3/runs/gemini_lite/weights/M2_platt.json": "e1f81977de4882fbc59ce4a0359a1f52ff76ef51bf50129743ed5b53dae558c8",
+    "study3/runs/gemini_lite/weights/M5.json": "67eaf888ff6168a556a21835383508c1085ac7ca7cf9981a36768259f824eac8",
+    "study3/runs/gemini_lite/weights/M7.json": "85314186d4f41a406f6360ca487da12909ee840192754fd11e335ca3d233e7e6",
+    "study3/runs/gemini_lite/weights/M8.json": "5a5d0d4b97e2f1594c1dc645fa3ea133f2f74836de6a69768d67e532fd69ea21",
+    "study3/runs/gemini_lite/weights/thresholds.json": "fe6f38957185707e55955e6c2b8355c6d9b3a002c89f1a21af7c51ca251a6d6b"
+  }
+}
