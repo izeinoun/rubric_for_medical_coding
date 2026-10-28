@@ -1,0 +1,1489 @@
+{
+  "model": "gemini",
+  "model_name": "gemini-3.8-flash",
+  "split": "dev",
+  "ts": "2026-10-28T01:16:01",
+  "n_charts": 150,
+  "metrics_all": {
+    "M1": {
+      "n": 150,
+      "ECE": 0.41020000000000023,
+      "Brier": 0.40399799999999997,
+      "AUROC": 0.6946680980497405,
+      "Coverage@P95": 0.006666666666666667,
+      "ECE_CI": [
+        0.33198666666666665,
+        0.4874683333333335
+      ],
+      "AUROC_CI": [
+        0.6137558621933623,
+        0.7714772591409069
+      ],
+      "at_auto_threshold": {
+        "threshold": 1.0,
+        "precision": 1.0,
+        "recall": 0.012345679012345678,
+        "f_beta": 0.058823529411764705,
+        "accepted": 0.006666666666666667
+      },
+      "at_0.5": {
+        "threshold": 0.5,
+        "precision": 0.5436241610738255,
+        "recall": 1.0,
+        "f_beta": 0.5982274741506647,
+        "accepted": 0.9933333333333333
+      }
+    },
+    "M2": {
+      "n": 150,
+      "ECE": 0.04728131627120835,
+      "Brier": 0.21647340159670223,
+      "AUROC": 0.6759706566469851,
+      "Coverage@P95": 0.013333333333333334,
+      "ECE_CI": [
+        0.03865402239233672,
+        0.1336667880329289
+      ],
+      "AUROC_CI": [
+        0.5884112280927697,
+        0.7610256711209524
+      ],
+      "at_auto_threshold": {
+        "threshold": 0.7364483403584616,
+        "precision": 1.0,
+        "recall": 0.024691358024691357,
+        "f_beta": 0.11235955056179775,
+        "accepted": 0.013333333333333334
+      },
+      "at_0.5": {
+        "threshold": 0.5,
+        "precision": 0.6404494382022472,
+        "recall": 0.7037037037037037,
+        "f_beta": 0.6521739130434783,
+        "accepted": 0.5933333333333334
+      }
+    },
+    "M3": {
+      "n": 150,
+      "ECE": 0.10133333333333333,
+      "Brier": 0.10026666666666666,
+      "AUROC": 0.8959563428162463,
+      "Coverage@P95": 0.0,
+      "ECE_CI": [
+        0.057333333333333306,
+        0.15333333333333335
+      ],
+      "AUROC_CI": [
+        0.8474639530332682,
+        0.9426825295888704
+      ],
+      "at_auto_threshold": {
+        "threshold": null,
+        "precision": NaN,
+        "recall": 0.0,
+        "f_beta": NaN,
+        "accepted": 0.0
+      },
+      "at_0.5": {
+        "threshold": 0.5,
+        "precision": 0.8494623655913979,
+        "recall": 0.9753086419753086,
+        "f_beta": 0.8719646799116997,
+        "accepted": 0.62
+      }
+    },
+    "M4": {
+      "n": 150,
+      "ECE": 0.10553598661075746,
+      "Brier": 0.06080806830091567,
+      "AUROC": 0.993379853283235,
+      "Coverage@P95": 0.5533333333333333,
+      "ECE_CI": [
+        0.09150956215741331,
+        0.148847174781343
+      ],
+      "AUROC_CI": [
+        0.9844180738081184,
+        0.9994632577064643
+      ],
+      "at_auto_threshold": {
+        "threshold": 0.33181222783183395,
+        "precision": 0.963855421686747,
+        "recall": 0.9876543209876543,
+        "f_beta": 0.9685230024213074,
+        "accepted": 0.5533333333333333
+      },
+      "at_0.5": {
+        "threshold": 0.5,
+        "precision": 0.9868421052631579,
+        "recall": 0.9259259259259259,
+        "f_beta": 0.974025974025974,
+        "accepted": 0.5066666666666667
+      }
+    },
+    "M5": {
+      "n": 150,
+      "ECE": 0.013155398303153149,
+      "Brier": 0.013312447557331563,
+      "AUROC": 0.9867597065664699,
+      "Coverage@P95": 0.5666666666666667,
+      "ECE_CI": [
+        0.0008676612602324312,
+        0.03319878772077215
+      ],
+      "AUROC_CI": [
+        0.9653820422593223,
+        1.0
+      ],
+      "at_auto_threshold": {
+        "threshold": 0.009399781178108956,
+        "precision": 0.9529411764705882,
+        "recall": 1.0,
+        "f_beta": 0.9619952494061758,
+        "accepted": 0.5666666666666667
+      },
+      "at_0.5": {
+        "threshold": 0.5,
+        "precision": 0.9759036144578314,
+        "recall": 1.0,
+        "f_beta": 0.980629539951574,
+        "accepted": 0.5533333333333333
+      }
+    },
+    "M7": {
+      "n": 150,
+      "ECE": 0.013155398303153149,
+      "Brier": 0.013312447557331563,
+      "AUROC": 0.9867597065664699,
+      "Coverage@P95": 0.5666666666666667,
+      "ECE_CI": [
+        0.0008676612602324312,
+        0.03319878772077215
+      ],
+      "AUROC_CI": [
+        0.9653820422593223,
+        1.0
+      ],
+      "at_auto_threshold": {
+        "threshold": 0.009399781178108956,
+        "precision": 0.9529411764705882,
+        "recall": 1.0,
+        "f_beta": 0.9619952494061758,
+        "accepted": 0.5666666666666667
+      },
+      "at_0.5": {
+        "threshold": 0.5,
+        "precision": 0.9759036144578314,
+        "recall": 1.0,
+        "f_beta": 0.980629539951574,
+        "accepted": 0.5533333333333333
+      }
+    },
+    "M8": {
+      "n": 150,
+      "ECE": 0.0018706896962468079,
+      "Brier": 0.014388518294782611,
+      "AUROC": 0.9785292538915729,
+      "Coverage@P95": 0.5666666666666667,
+      "ECE_CI": [
+        0.0013033304647540596,
+        0.0226969458981768
+      ],
+      "AUROC_CI": [
+        0.9454887654283323,
+        1.0
+      ],
+      "at_auto_threshold": {
+        "threshold": 0.013442600586904324,
+        "precision": 0.9529411764705882,
+        "recall": 1.0,
+        "f_beta": 0.9619952494061758,
+        "accepted": 0.5666666666666667
+      },
+      "at_0.5": {
+        "threshold": 0.5,
+        "precision": 0.9759036144578314,
+        "recall": 1.0,
+        "f_beta": 0.980629539951574,
+        "accepted": 0.5533333333333333
+      }
+    }
+  },
+  "metrics_excluding_needs_review_labels": {
+    "M1": {
+      "n": 150,
+      "ECE": 0.41020000000000023,
+      "Brier": 0.40399799999999997,
+      "AUROC": 0.6946680980497405,
+      "Coverage@P95": 0.006666666666666667,
+      "ECE_CI": [
+        0.33198666666666665,
+        0.4874683333333335
+      ],
+      "AUROC_CI": [
+        0.6137558621933623,
+        0.7714772591409069
+      ],
+      "at_auto_threshold": {
+        "threshold": 1.0,
+        "precision": 1.0,
+        "recall": 0.012345679012345678,
+        "f_beta": 0.058823529411764705,
+        "accepted": 0.006666666666666667
+      },
+      "at_0.5": {
+        "threshold": 0.5,
+        "precision": 0.5436241610738255,
+        "recall": 1.0,
+        "f_beta": 0.5982274741506647,
+        "accepted": 0.9933333333333333
+      }
+    },
+    "M2": {
+      "n": 150,
+      "ECE": 0.04728131627120835,
+      "Brier": 0.21647340159670223,
+      "AUROC": 0.6759706566469851,
+      "Coverage@P95": 0.013333333333333334,
+      "ECE_CI": [
+        0.03865402239233672,
+        0.1336667880329289
+      ],
+      "AUROC_CI": [
+        0.5884112280927697,
+        0.7610256711209524
+      ],
+      "at_auto_threshold": {
+        "threshold": 0.7364483403584616,
+        "precision": 1.0,
+        "recall": 0.024691358024691357,
+        "f_beta": 0.11235955056179775,
+        "accepted": 0.013333333333333334
+      },
+      "at_0.5": {
+        "threshold": 0.5,
+        "precision": 0.6404494382022472,
+        "recall": 0.7037037037037037,
+        "f_beta": 0.6521739130434783,
+        "accepted": 0.5933333333333334
+      }
+    },
+    "M3": {
+      "n": 150,
+      "ECE": 0.10133333333333333,
+      "Brier": 0.10026666666666666,
+      "AUROC": 0.8959563428162463,
+      "Coverage@P95": 0.0,
+      "ECE_CI": [
+        0.057333333333333306,
+        0.15333333333333335
+      ],
+      "AUROC_CI": [
+        0.8474639530332682,
+        0.9426825295888704
+      ],
+      "at_auto_threshold": {
+        "threshold": null,
+        "precision": NaN,
+        "recall": 0.0,
+        "f_beta": NaN,
+        "accepted": 0.0
+      },
+      "at_0.5": {
+        "threshold": 0.5,
+        "precision": 0.8494623655913979,
+        "recall": 0.9753086419753086,
+        "f_beta": 0.8719646799116997,
+        "accepted": 0.62
+      }
+    },
+    "M4": {
+      "n": 150,
+      "ECE": 0.10553598661075746,
+      "Brier": 0.06080806830091567,
+      "AUROC": 0.993379853283235,
+      "Coverage@P95": 0.5533333333333333,
+      "ECE_CI": [
+        0.09150956215741331,
+        0.148847174781343
+      ],
+      "AUROC_CI": [
+        0.9844180738081184,
+        0.9994632577064643
+      ],
+      "at_auto_threshold": {
+        "threshold": 0.33181222783183395,
+        "precision": 0.963855421686747,
+        "recall": 0.9876543209876543,
+        "f_beta": 0.9685230024213074,
+        "accepted": 0.5533333333333333
+      },
+      "at_0.5": {
+        "threshold": 0.5,
+        "precision": 0.9868421052631579,
+        "recall": 0.9259259259259259,
+        "f_beta": 0.974025974025974,
+        "accepted": 0.5066666666666667
+      }
+    },
+    "M5": {
+      "n": 150,
+      "ECE": 0.013155398303153149,
+      "Brier": 0.013312447557331563,
+      "AUROC": 0.9867597065664699,
+      "Coverage@P95": 0.5666666666666667,
+      "ECE_CI": [
+        0.0008676612602324312,
+        0.03319878772077215
+      ],
+      "AUROC_CI": [
+        0.9653820422593223,
+        1.0
+      ],
+      "at_auto_threshold": {
+        "threshold": 0.009399781178108956,
+        "precision": 0.9529411764705882,
+        "recall": 1.0,
+        "f_beta": 0.9619952494061758,
+        "accepted": 0.5666666666666667
+      },
+      "at_0.5": {
+        "threshold": 0.5,
+        "precision": 0.9759036144578314,
+        "recall": 1.0,
+        "f_beta": 0.980629539951574,
+        "accepted": 0.5533333333333333
+      }
+    },
+    "M7": {
+      "n": 150,
+      "ECE": 0.013155398303153149,
+      "Brier": 0.013312447557331563,
+      "AUROC": 0.9867597065664699,
+      "Coverage@P95": 0.5666666666666667,
+      "ECE_CI": [
+        0.0008676612602324312,
+        0.03319878772077215
+      ],
+      "AUROC_CI": [
+        0.9653820422593223,
+        1.0
+      ],
+      "at_auto_threshold": {
+        "threshold": 0.009399781178108956,
+        "precision": 0.9529411764705882,
+        "recall": 1.0,
+        "f_beta": 0.9619952494061758,
+        "accepted": 0.5666666666666667
+      },
+      "at_0.5": {
+        "threshold": 0.5,
+        "precision": 0.9759036144578314,
+        "recall": 1.0,
+        "f_beta": 0.980629539951574,
+        "accepted": 0.5533333333333333
+      }
+    },
+    "M8": {
+      "n": 150,
+      "ECE": 0.0018706896962468079,
+      "Brier": 0.014388518294782611,
+      "AUROC": 0.9785292538915729,
+      "Coverage@P95": 0.5666666666666667,
+      "ECE_CI": [
+        0.0013033304647540596,
+        0.0226969458981768
+      ],
+      "AUROC_CI": [
+        0.9454887654283323,
+        1.0
+      ],
+      "at_auto_threshold": {
+        "threshold": 0.013442600586904324,
+        "precision": 0.9529411764705882,
+        "recall": 1.0,
+        "f_beta": 0.9619952494061758,
+        "accepted": 0.5666666666666667
+      },
+      "at_0.5": {
+        "threshold": 0.5,
+        "precision": 0.9759036144578314,
+        "recall": 1.0,
+        "f_beta": 0.980629539951574,
+        "accepted": 0.5533333333333333
+      }
+    }
+  },
+  "extraction_accuracy": {
+    "G1": {
+      "verified": {
+        "per_class": {
+          "yes": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 141
+          },
+          "no": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 8
+          },
+          "not_documented": {
+            "precision": NaN,
+            "recall": NaN,
+            "f1": NaN,
+            "support": 0
+          }
+        },
+        "macro_f1": 1.0,
+        "agreement": 1.0,
+        "confusion": {
+          "yes": {
+            "yes": 141,
+            "no": 0,
+            "not_documented": 0
+          },
+          "no": {
+            "yes": 0,
+            "no": 8,
+            "not_documented": 0
+          },
+          "not_documented": {
+            "yes": 0,
+            "no": 0,
+            "not_documented": 0
+          }
+        },
+        "n": 149
+      },
+      "raw": {
+        "per_class": {
+          "yes": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 141
+          },
+          "no": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 8
+          },
+          "not_documented": {
+            "precision": NaN,
+            "recall": NaN,
+            "f1": NaN,
+            "support": 0
+          }
+        },
+        "macro_f1": 1.0,
+        "agreement": 1.0,
+        "confusion": {
+          "yes": {
+            "yes": 141,
+            "no": 0,
+            "not_documented": 0
+          },
+          "no": {
+            "yes": 0,
+            "no": 8,
+            "not_documented": 0
+          },
+          "not_documented": {
+            "yes": 0,
+            "no": 0,
+            "not_documented": 0
+          }
+        },
+        "n": 149
+      }
+    },
+    "G2": {
+      "verified": {
+        "per_class": {
+          "yes": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 129
+          },
+          "no": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 7
+          },
+          "not_documented": {
+            "precision": NaN,
+            "recall": NaN,
+            "f1": NaN,
+            "support": 0
+          }
+        },
+        "macro_f1": 1.0,
+        "agreement": 1.0,
+        "confusion": {
+          "yes": {
+            "yes": 129,
+            "no": 0,
+            "not_documented": 0
+          },
+          "no": {
+            "yes": 0,
+            "no": 7,
+            "not_documented": 0
+          },
+          "not_documented": {
+            "yes": 0,
+            "no": 0,
+            "not_documented": 0
+          }
+        },
+        "n": 136
+      },
+      "raw": {
+        "per_class": {
+          "yes": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 129
+          },
+          "no": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 7
+          },
+          "not_documented": {
+            "precision": NaN,
+            "recall": NaN,
+            "f1": NaN,
+            "support": 0
+          }
+        },
+        "macro_f1": 1.0,
+        "agreement": 1.0,
+        "confusion": {
+          "yes": {
+            "yes": 129,
+            "no": 0,
+            "not_documented": 0
+          },
+          "no": {
+            "yes": 0,
+            "no": 7,
+            "not_documented": 0
+          },
+          "not_documented": {
+            "yes": 0,
+            "no": 0,
+            "not_documented": 0
+          }
+        },
+        "n": 136
+      }
+    },
+    "R1": {
+      "verified": {
+        "per_class": {
+          "yes": {
+            "precision": 1.0,
+            "recall": 0.9927007299270073,
+            "f1": 0.9963369963369962,
+            "support": 137
+          },
+          "no": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 13
+          },
+          "not_documented": {
+            "precision": 0.0,
+            "recall": NaN,
+            "f1": NaN,
+            "support": 0
+          }
+        },
+        "macro_f1": 0.9981684981684982,
+        "agreement": 0.9933333333333333,
+        "confusion": {
+          "yes": {
+            "yes": 136,
+            "no": 0,
+            "not_documented": 1
+          },
+          "no": {
+            "yes": 0,
+            "no": 13,
+            "not_documented": 0
+          },
+          "not_documented": {
+            "yes": 0,
+            "no": 0,
+            "not_documented": 0
+          }
+        },
+        "n": 150
+      },
+      "raw": {
+        "per_class": {
+          "yes": {
+            "precision": 1.0,
+            "recall": 0.9927007299270073,
+            "f1": 0.9963369963369962,
+            "support": 137
+          },
+          "no": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 13
+          },
+          "not_documented": {
+            "precision": 0.0,
+            "recall": NaN,
+            "f1": NaN,
+            "support": 0
+          }
+        },
+        "macro_f1": 0.9981684981684982,
+        "agreement": 0.9933333333333333,
+        "confusion": {
+          "yes": {
+            "yes": 136,
+            "no": 0,
+            "not_documented": 1
+          },
+          "no": {
+            "yes": 0,
+            "no": 13,
+            "not_documented": 0
+          },
+          "not_documented": {
+            "yes": 0,
+            "no": 0,
+            "not_documented": 0
+          }
+        },
+        "n": 150
+      }
+    },
+    "R2": {
+      "verified": {
+        "per_class": {
+          "yes": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 144
+          },
+          "no": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 6
+          },
+          "not_documented": {
+            "precision": NaN,
+            "recall": NaN,
+            "f1": NaN,
+            "support": 0
+          }
+        },
+        "macro_f1": 1.0,
+        "agreement": 1.0,
+        "confusion": {
+          "yes": {
+            "yes": 144,
+            "no": 0,
+            "not_documented": 0
+          },
+          "no": {
+            "yes": 0,
+            "no": 6,
+            "not_documented": 0
+          },
+          "not_documented": {
+            "yes": 0,
+            "no": 0,
+            "not_documented": 0
+          }
+        },
+        "n": 150
+      },
+      "raw": {
+        "per_class": {
+          "yes": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 144
+          },
+          "no": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 6
+          },
+          "not_documented": {
+            "precision": NaN,
+            "recall": NaN,
+            "f1": NaN,
+            "support": 0
+          }
+        },
+        "macro_f1": 1.0,
+        "agreement": 1.0,
+        "confusion": {
+          "yes": {
+            "yes": 144,
+            "no": 0,
+            "not_documented": 0
+          },
+          "no": {
+            "yes": 0,
+            "no": 6,
+            "not_documented": 0
+          },
+          "not_documented": {
+            "yes": 0,
+            "no": 0,
+            "not_documented": 0
+          }
+        },
+        "n": 150
+      }
+    },
+    "Q1": {
+      "verified": {
+        "per_class": {
+          "yes": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 117
+          },
+          "no": {
+            "precision": NaN,
+            "recall": NaN,
+            "f1": NaN,
+            "support": 0
+          },
+          "not_documented": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 25
+          }
+        },
+        "macro_f1": 1.0,
+        "agreement": 1.0,
+        "confusion": {
+          "yes": {
+            "yes": 117,
+            "no": 0,
+            "not_documented": 0
+          },
+          "no": {
+            "yes": 0,
+            "no": 0,
+            "not_documented": 0
+          },
+          "not_documented": {
+            "yes": 0,
+            "no": 0,
+            "not_documented": 25
+          }
+        },
+        "n": 142
+      },
+      "raw": {
+        "per_class": {
+          "yes": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 117
+          },
+          "no": {
+            "precision": NaN,
+            "recall": NaN,
+            "f1": NaN,
+            "support": 0
+          },
+          "not_documented": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 25
+          }
+        },
+        "macro_f1": 1.0,
+        "agreement": 1.0,
+        "confusion": {
+          "yes": {
+            "yes": 117,
+            "no": 0,
+            "not_documented": 0
+          },
+          "no": {
+            "yes": 0,
+            "no": 0,
+            "not_documented": 0
+          },
+          "not_documented": {
+            "yes": 0,
+            "no": 0,
+            "not_documented": 25
+          }
+        },
+        "n": 142
+      }
+    },
+    "Q2": {
+      "verified": {
+        "per_class": {
+          "yes": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 99
+          },
+          "no": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 7
+          },
+          "not_documented": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 43
+          }
+        },
+        "macro_f1": 1.0,
+        "agreement": 1.0,
+        "confusion": {
+          "yes": {
+            "yes": 99,
+            "no": 0,
+            "not_documented": 0
+          },
+          "no": {
+            "yes": 0,
+            "no": 7,
+            "not_documented": 0
+          },
+          "not_documented": {
+            "yes": 0,
+            "no": 0,
+            "not_documented": 43
+          }
+        },
+        "n": 149
+      },
+      "raw": {
+        "per_class": {
+          "yes": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 99
+          },
+          "no": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 7
+          },
+          "not_documented": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 43
+          }
+        },
+        "macro_f1": 1.0,
+        "agreement": 1.0,
+        "confusion": {
+          "yes": {
+            "yes": 99,
+            "no": 0,
+            "not_documented": 0
+          },
+          "no": {
+            "yes": 0,
+            "no": 7,
+            "not_documented": 0
+          },
+          "not_documented": {
+            "yes": 0,
+            "no": 0,
+            "not_documented": 43
+          }
+        },
+        "n": 149
+      }
+    },
+    "Q3": {
+      "verified": {
+        "per_class": {
+          "yes": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 42
+          },
+          "no": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 2
+          },
+          "not_documented": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 99
+          }
+        },
+        "macro_f1": 1.0,
+        "agreement": 1.0,
+        "confusion": {
+          "yes": {
+            "yes": 42,
+            "no": 0,
+            "not_documented": 0
+          },
+          "no": {
+            "yes": 0,
+            "no": 2,
+            "not_documented": 0
+          },
+          "not_documented": {
+            "yes": 0,
+            "no": 0,
+            "not_documented": 99
+          }
+        },
+        "n": 143
+      },
+      "raw": {
+        "per_class": {
+          "yes": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 42
+          },
+          "no": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 2
+          },
+          "not_documented": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 99
+          }
+        },
+        "macro_f1": 1.0,
+        "agreement": 1.0,
+        "confusion": {
+          "yes": {
+            "yes": 42,
+            "no": 0,
+            "not_documented": 0
+          },
+          "no": {
+            "yes": 0,
+            "no": 2,
+            "not_documented": 0
+          },
+          "not_documented": {
+            "yes": 0,
+            "no": 0,
+            "not_documented": 99
+          }
+        },
+        "n": 143
+      }
+    },
+    "Q4": {
+      "verified": {
+        "per_class": {
+          "yes": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 100
+          },
+          "no": {
+            "precision": NaN,
+            "recall": NaN,
+            "f1": NaN,
+            "support": 0
+          },
+          "not_documented": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 20
+          }
+        },
+        "macro_f1": 1.0,
+        "agreement": 1.0,
+        "confusion": {
+          "yes": {
+            "yes": 100,
+            "no": 0,
+            "not_documented": 0
+          },
+          "no": {
+            "yes": 0,
+            "no": 0,
+            "not_documented": 0
+          },
+          "not_documented": {
+            "yes": 0,
+            "no": 0,
+            "not_documented": 20
+          }
+        },
+        "n": 120
+      },
+      "raw": {
+        "per_class": {
+          "yes": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 100
+          },
+          "no": {
+            "precision": NaN,
+            "recall": NaN,
+            "f1": NaN,
+            "support": 0
+          },
+          "not_documented": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 20
+          }
+        },
+        "macro_f1": 1.0,
+        "agreement": 1.0,
+        "confusion": {
+          "yes": {
+            "yes": 100,
+            "no": 0,
+            "not_documented": 0
+          },
+          "no": {
+            "yes": 0,
+            "no": 0,
+            "not_documented": 0
+          },
+          "not_documented": {
+            "yes": 0,
+            "no": 0,
+            "not_documented": 20
+          }
+        },
+        "n": 120
+      }
+    }
+  },
+  "extraction_accuracy_ambiguous": {
+    "G1": {
+      "per_class": {
+        "yes": {
+          "precision": NaN,
+          "recall": NaN,
+          "f1": NaN,
+          "support": 0
+        },
+        "no": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 1
+        },
+        "not_documented": {
+          "precision": NaN,
+          "recall": NaN,
+          "f1": NaN,
+          "support": 0
+        }
+      },
+      "macro_f1": 1.0,
+      "agreement": 1.0,
+      "confusion": {
+        "yes": {
+          "yes": 0,
+          "no": 0,
+          "not_documented": 0
+        },
+        "no": {
+          "yes": 0,
+          "no": 1,
+          "not_documented": 0
+        },
+        "not_documented": {
+          "yes": 0,
+          "no": 0,
+          "not_documented": 0
+        }
+      },
+      "n": 1
+    },
+    "G2": {
+      "per_class": {
+        "yes": {
+          "precision": NaN,
+          "recall": NaN,
+          "f1": NaN,
+          "support": 0
+        },
+        "no": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 6
+        },
+        "not_documented": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 8
+        }
+      },
+      "macro_f1": 1.0,
+      "agreement": 1.0,
+      "confusion": {
+        "yes": {
+          "yes": 0,
+          "no": 0,
+          "not_documented": 0
+        },
+        "no": {
+          "yes": 0,
+          "no": 6,
+          "not_documented": 0
+        },
+        "not_documented": {
+          "yes": 0,
+          "no": 0,
+          "not_documented": 8
+        }
+      },
+      "n": 14
+    },
+    "Q1": {
+      "per_class": {
+        "yes": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 8
+        },
+        "no": {
+          "precision": NaN,
+          "recall": NaN,
+          "f1": NaN,
+          "support": 0
+        },
+        "not_documented": {
+          "precision": NaN,
+          "recall": NaN,
+          "f1": NaN,
+          "support": 0
+        }
+      },
+      "macro_f1": 1.0,
+      "agreement": 1.0,
+      "confusion": {
+        "yes": {
+          "yes": 8,
+          "no": 0,
+          "not_documented": 0
+        },
+        "no": {
+          "yes": 0,
+          "no": 0,
+          "not_documented": 0
+        },
+        "not_documented": {
+          "yes": 0,
+          "no": 0,
+          "not_documented": 0
+        }
+      },
+      "n": 8
+    },
+    "Q2": {
+      "per_class": {
+        "yes": {
+          "precision": NaN,
+          "recall": NaN,
+          "f1": NaN,
+          "support": 0
+        },
+        "no": {
+          "precision": NaN,
+          "recall": NaN,
+          "f1": NaN,
+          "support": 0
+        },
+        "not_documented": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 1
+        }
+      },
+      "macro_f1": 1.0,
+      "agreement": 1.0,
+      "confusion": {
+        "yes": {
+          "yes": 0,
+          "no": 0,
+          "not_documented": 0
+        },
+        "no": {
+          "yes": 0,
+          "no": 0,
+          "not_documented": 0
+        },
+        "not_documented": {
+          "yes": 0,
+          "no": 0,
+          "not_documented": 1
+        }
+      },
+      "n": 1
+    },
+    "Q3": {
+      "per_class": {
+        "yes": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 7
+        },
+        "no": {
+          "precision": NaN,
+          "recall": NaN,
+          "f1": NaN,
+          "support": 0
+        },
+        "not_documented": {
+          "precision": NaN,
+          "recall": NaN,
+          "f1": NaN,
+          "support": 0
+        }
+      },
+      "macro_f1": 1.0,
+      "agreement": 1.0,
+      "confusion": {
+        "yes": {
+          "yes": 7,
+          "no": 0,
+          "not_documented": 0
+        },
+        "no": {
+          "yes": 0,
+          "no": 0,
+          "not_documented": 0
+        },
+        "not_documented": {
+          "yes": 0,
+          "no": 0,
+          "not_documented": 0
+        }
+      },
+      "n": 7
+    },
+    "Q4": {
+      "per_class": {
+        "yes": {
+          "precision": 0.5416666666666666,
+          "recall": 1.0,
+          "f1": 0.7027027027027027,
+          "support": 13
+        },
+        "no": {
+          "precision": NaN,
+          "recall": NaN,
+          "f1": NaN,
+          "support": 0
+        },
+        "not_documented": {
+          "precision": 1.0,
+          "recall": 0.35294117647058826,
+          "f1": 0.5217391304347826,
+          "support": 17
+        }
+      },
+      "macro_f1": 0.6122209165687427,
+      "agreement": 0.6333333333333333,
+      "confusion": {
+        "yes": {
+          "yes": 13,
+          "no": 0,
+          "not_documented": 0
+        },
+        "no": {
+          "yes": 0,
+          "no": 0,
+          "not_documented": 0
+        },
+        "not_documented": {
+          "yes": 11,
+          "no": 0,
+          "not_documented": 6
+        }
+      },
+      "n": 30
+    }
+  },
+  "quote_failure_rate": 0.0,
+  "quote_failure_by_question": {
+    "G1": {
+      "n_yes_no": 150,
+      "failed": 0,
+      "rate": 0.0
+    },
+    "G2": {
+      "n_yes_no": 142,
+      "failed": 0,
+      "rate": 0.0
+    },
+    "R1": {
+      "n_yes_no": 149,
+      "failed": 0,
+      "rate": 0.0
+    },
+    "R2": {
+      "n_yes_no": 150,
+      "failed": 0,
+      "rate": 0.0
+    },
+    "Q1": {
+      "n_yes_no": 125,
+      "failed": 0,
+      "rate": 0.0
+    },
+    "Q2": {
+      "n_yes_no": 106,
+      "failed": 0,
+      "rate": 0.0
+    },
+    "Q3": {
+      "n_yes_no": 51,
+      "failed": 0,
+      "rate": 0.0
+    },
+    "Q4": {
+      "n_yes_no": 124,
+      "failed": 0,
+      "rate": 0.0
+    }
+  },
+  "needs_review_charts": 0,
+  "parse_errors": 0,
+  "reproducibility": {
+    "M5_median_sd": 0.0,
+    "M1_median_sd": 0.004898979485566361,
+    "n_charts_M5": 150,
+    "n_charts_M1": 150
+  },
+  "fit": {
+    "M5": {
+      "C": 316.2277660168379,
+      "grid_extended": false,
+      "still_at_edge": false,
+      "n_splits": 5,
+      "n_train": 101,
+      "n_pos": 81
+    },
+    "M7": {
+      "C": 316.2277660168379,
+      "grid_extended": false,
+      "still_at_edge": false,
+      "n_splits": 5,
+      "n_train": 101,
+      "n_pos": 81
+    },
+    "M8": {
+      "C": 100.0,
+      "grid_extended": false,
+      "still_at_edge": false,
+      "n_splits": 5,
+      "n_train": 101,
+      "n_pos": 81
+    }
+  },
+  "weights": {
+    "M5": {
+      "intercept": -3.08434205638106,
+      "Q1_yes": -2.8404421624317244,
+      "Q1_no": 0.0,
+      "Q2_yes": -0.14257921069739454,
+      "Q2_no": -1.4715242579810832,
+      "Q3_yes": 0.800903266624838,
+      "Q3_no": -10.430656676707374,
+      "Q4_yes": 12.537951146235972,
+      "Q4_no": 0.0
+    },
+    "M7": {
+      "intercept": -3.08434205638106,
+      "Q1_yes": -2.8404421624317244,
+      "Q1_no": 0.0,
+      "Q2_yes": -0.14257921069739454,
+      "Q2_no": -1.4715242579810832,
+      "Q3_yes": 0.800903266624838,
+      "Q3_no": -10.430656676707374,
+      "Q4_yes": 12.537951146235972,
+      "Q4_no": 0.0
+    },
+    "M8": {
+      "intercept": -2.540814734368333,
+      "Q1_yes": -3.007848966376091,
+      "Q2_yes": -1.8366021107863868,
+      "Q3_yes": 2.7821402063375107,
+      "Q4_yes": 10.155591540132631
+    }
+  },
+  "tokens": {
+    "input": 2568489,
+    "output": 1642063,
+    "calls": 1500
+  },
+  "hypotheses": {
+    "H1 macro-F1 >= 0.90 and 'no' recall >= 0.90 on every question": true,
+    "H2 quote failures <= 5%": true,
+    "H3 M5 median SD <= 0.05 and below M1": true,
+    "H4 M5 AUROC >= M2 AUROC - 0.02 and M5 ECE <= M2 ECE": true,
+    "H5 M5 beats each of M6, M7, M8 on ECE or AUROC": {
+      "M6": false,
+      "M7": false,
+      "M8": true
+    }
+  },
+  "kill_criteria": {
+    "M5 worse than M2 on both AUROC and ECE": false,
+    "a gate question below 0.90 macro-F1 or 'no' recall": false
+  }
+}
