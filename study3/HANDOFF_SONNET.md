@@ -1,14 +1,15 @@
 # Handoff: running the Claude Sonnet 5.5 addendum in a new session
 
-This session could not see an Anthropic API key (a test request to api.anthropic.com got 401), most likely because the key was added to the environment after the session started. Environment settings apply to new sessions.
+This session could not see an Anthropic API key (a test request to api.anthropic.com got 401). Cause: the environment reserves `ANTHROPIC_API_KEY` for Claude Code's own sign-in and does not pass it to sessions, and environment variables are visible to anyone using the environment. On 2026-10-28 all three keys (Anthropic, OpenAI, Gemini) were exposed in a screenshot in the chat; the study lead is rotating them.
 
 ## For the study lead
-1. In the environment's settings, add the key as an **environment variable named `ANTHROPIC_API_KEY`** (the harness checks for this variable before any Claude call). Never paste it into a chat.
-2. Start a new session in the same environment on branch `claude/amazing-hamilton-egd4ds`, and ask it to "run the Claude Sonnet addendum in study3/HANDOFF_SONNET.md".
+1. Rotate all three keys. Add the new ones under **Network secrets** (labeled "API credentials" in some app versions) in the environment settings, and remove the keys from the environment-variables box. Never paste or screenshot keys into a chat.
+2. Start a new session in the same environment on branch `claude/amazing-hamilton-egd4ds`, and ask it to "resume study 3: finish the Gemini test, then run the Sonnet addendum in study3/HANDOFF_SONNET.md".
 
 ## For the new session (Claude Code)
 - Read `CLAUDE.md`, `study3/PREREGISTRATION.md`, `study3/ADDENDUM_CLAUDE_SONNET.md` and the last entries of `CHANGELOG.md` first.
-- Check the key without printing it: `python -c "import os; print(bool(os.environ.get('ANTHROPIC_API_KEY')))"`.
+- **First, finish the Gemini test:** `python study3/run_study3.py collect --model gemini --split test` (retries only the failed calls; 281 verbal and about 200 criteria-guided calls failed for lack of credit), then `python study3/run_study3.py evaluate --model gemini --split test` once, with 0 errors. GPT's test is already evaluated (`study3/TEST_DONE_gpt.json`).
+- **Keys as network secrets:** the environment attaches the real keys to requests for the provider hosts; the keys are not visible as variables. The harness's `key_present` check looks for `OPENAI_API_KEY`, `GEMINI_API_KEY` and `ANTHROPIC_API_KEY`, and the SDKs require some key value to build a client, so set placeholder values for the runner process only (for example `OPENAI_API_KEY=via-network-secret`). Check with one cheap request per provider that the real key is attached (a 401 means it is not).
 - **Base URL:** this environment sets `ANTHROPIC_BASE_URL` for Claude Code itself. The harness's Anthropic provider (`harness/providers.py`, frozen) builds `anthropic.Anthropic()`, which would pick that up. Run Sonnet with `ANTHROPIC_BASE_URL=https://api.anthropic.com` set for the runner's process only, and log this in `CHANGELOG.md`.
 - **Model:** the frozen `harness/config.json` names `claude-opus-5-5`; the addendum overrides it in memory to `claude-sonnet-5-5` (do not edit the frozen file). This needs a small addendum runner (or an option in a new script) that loads the study-3 setup and sets `cfg["models"]["claude"]["model"] = "claude-sonnet-5-5"`.
 - Steps: one test call per call type, report tokens and cost to the study lead; dev collect (150 charts) and evaluate (fits Sonnet's weights, Platt map and thresholds under `study3/runs/claude/weights/`); addendum freeze that hashes those files plus the unchanged study-3 freeze; test collect and evaluate once; report with the same-model caveat.
