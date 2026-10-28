@@ -291,3 +291,7 @@ What changed (`rubric_e1122.json`, version 1 → 2; guidance text only, question
 
 - Full paper cites the earlier method-and-protocol version (Zenodo concept DOI 10.5281/zenodo.23651100, all versions) at the start of the Experiments section; the short version links it.
 - Added `paper/ZENODO.md`: files, fields, description, keywords and related works for publishing as a new version of that record.
+
+## 2026-10-28 — paper published on Zenodo
+
+- Published by the study lead as a new version of the Zenodo record (all-versions DOI 10.5281/zenodo.23651100), with `paper/main.pdf` (md5 f6f53d07d296b89d20417e86ad4a1f29) and `paper/short.pdf` (md5 5956821c537da7cde99c8aea0dc40565). Both checksums match the files at commit f2a7ed6 on `main`. Any later change to the paper needs a new Zenodo version.
