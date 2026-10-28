@@ -272,3 +272,9 @@ What changed (`rubric_e1122.json`, version 1 → 2; guidance text only, question
 - Added `paper/short.tex` (and `short.pdf`): a 3-page version for AI specialists, bottom line only.
 - Added `study3/analysis/reliability_figure.py` and `paper/figures/reliability.{pdf,png}`: reliability diagrams on the study 3 test split for A (stated), B and C, per model. Exploratory; reads frozen results only.
 - `main (7).pdf` left unchanged.
+
+## 2026-10-28 — paper: what the results mean; contradictions limitation
+
+- Full paper: new subsection "What the results mean" (inexpensive models made usable; on frontier models EWC ties criteria-guided ranking and adds calibration, verified quotes and reproducibility, and holds where the same prompt fails on GPT-5.4; two levers: tuning the questions and fitting the weights). Conclusion rewritten to match.
+- New limitation, "Contradictions under-sampled": charts were balanced by label and scenario family, not by answer type; a documented other cause (Q3 "no") appears in 5 of 350 charts (2 dev, 3 test), so the silence-versus-contradiction benefit is untested. Section 1.1 and the three-way ablation note now point to it. Counts per question (dev/test "no" answers): G1 9/13, G2 13/15, R1 13/17, R2 6/9, Q2 7/11, Q3 2/3.
+- Short version: bottom line, finding 2, caveats and next steps updated to match.

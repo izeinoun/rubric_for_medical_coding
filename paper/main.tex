@@ -92,7 +92,7 @@ The method targets the two main failures of current LLM validation: opacity, mea
 \begin{enumerate}
   \item \textbf{Calibrated confidence instead of a verbalized guess.} Verbalized confidence clusters between 80\% and 100\% and is poorly calibrated against observed accuracy~\cite{xiong}. Here the score is a sum of log likelihood ratios with weights fitted by logistic regression, so it is a probability that can be tested against outcomes (Sections~\ref{sec:bayes} and~\ref{sec:protocol}).
   \item \textbf{An auditable trail instead of a black box.} Every score comes with the structured rubric answers and the source quotes behind them, and code checks each quote against the document. A reviewer can see exactly which evidence raised or lowered the score (Section~\ref{sec:method}).
-  \item \textbf{Silence and contradiction kept apart.} Binary checklist judges and yes/no checks merge ``the source does not say'' with ``the source says the opposite.'' The three-way answer (yes, no, \nd) gives each its own weight. The distinction matters in clinical, legal and financial review, where a missing statement and a contrary statement lead to different decisions (Section~\ref{sec:example}, question Q3).
+  \item \textbf{Silence and contradiction kept apart.} Binary checklist judges and yes/no checks merge ``the source does not say'' with ``the source says the opposite.'' The three-way answer (yes, no, \nd) gives each its own weight. The distinction matters in clinical, legal and financial review, where a missing statement and a contrary statement lead to different decisions (Section~\ref{sec:example}, question Q3). The experiments had too few documented contradictions to test this benefit (Section~\ref{sec:limits}).
   \item \textbf{Threshold routing on a real probability.} Because the score is calibrated, an organization can route on it, accepting high-scoring outputs automatically and sending the rest to human review. Where to set the thresholds is an operational choice made from calibration data, which balances throughput against compliance risk.
 \end{enumerate}
 
@@ -597,7 +597,7 @@ B with two-way answers & 0.921 / 0.033 & 0.983 / 0.027 & 0.989 / 0.014 & 0.988 /
 
 \begin{itemize}
   \item \textbf{Expert weights already rank well; fitting calibrates.} The unfitted illustrative weights reached AUROC 0.879--0.990, close to the fitted weights, but ECE 0.093--0.149. The two-stage use in Section~\ref{sec:bayes} (expert weights on day one, fitted weights once labels exist) is supported.
-  \item \textbf{Three-way answers help ranking slightly.} Collapsing \textit{no} and \nd{} lowered AUROC on all five models, by 0.003 to 0.012; calibration was mixed. In study 1, the same ablation cut Gemini 3.8 Flash's auto-accept coverage from 45\% to 0\%.
+  \item \textbf{Three-way answers help ranking slightly.} Collapsing \textit{no} and \nd{} lowered AUROC on all five models, by 0.003 to 0.012; calibration was mixed. In study 1, the same ablation cut Gemini 3.8 Flash's auto-accept coverage from 45\% to 0\%. The effect is small partly because the charts contain few contradictions (Section~\ref{sec:limits}).
   \item \textbf{Quote verification changed little.} With so few failed quotes, removing verification left B unchanged on three models; on Flash-Lite it raised AUROC from 0.897 to 0.919, because some answers downgraded by failed quotes had in fact been correct. Verification is a safeguard against invented evidence; these studies did not produce enough invented evidence to measure its value.
   \item \textbf{Letting the LLM compute the score} was tested in study 1 only: given the fitted weights, GPT-5.4's own arithmetic ranked as well as the code (AUROC 0.974 against 0.969) but was far worse calibrated (ECE 0.197 against 0.009); Gemini 3.8 Flash matched the code.
 \end{itemize}
@@ -619,6 +619,17 @@ Gemini 3.5 Flash-Lite & $-2.15$ & $-0.08$ & 0.10 & $-0.66$ & 0.99 & $-1.58$ & 3.
 \bottomrule
 \end{tabular}
 \end{table}
+
+\FloatBarrier
+\subsection{What the results mean}\label{sec:meaning}
+
+The pattern helps in two different ways, depending on the model.
+
+\textbf{Inexpensive models: it makes them usable scorers.} Claude Haiku 5.5 with EWC matched the best frontier result (AUROC 0.994, ECE 0.014) at about one fifteenth of the cost of Claude Sonnet 5.5, and Gemini 3.5 Flash-Lite with EWC outranked every model's own stated confidence (AUROC 0.897 against at most 0.772).
+
+\textbf{Frontier models: it matches their ranking and adds calibration and an audit trail.} When a strong model is given the same questions (method C), it already ranks cases as well as EWC: AUROC 0.995 against 0.987 on Sonnet (difference not significant) and 1.000 for both on Gemini 3.8 Flash. EWC adds three things. Its probabilities are better calibrated (ECE 0.021 against 0.090 on Sonnet, 0.002 against 0.036 on Gemini 3.8 Flash; for example, the 32 charts Sonnet's criteria-guided confidence put near 21\% were supported 3\% of the time). Every answer behind the score has a verified quote. And the score is reproducible: the same answers always give the same number, and the median score did not vary at all across five repeated extraction runs. EWC is also robust where prompting alone is not: the same criteria-guided prompt that matched EWC on Sonnet ranked worse than chance on GPT-5.4 (AUROC 0.483) while stating 97\% confidence on charts that were supported 60\% of the time. With EWC, an organization does not need to know in advance which kind of model it has.
+
+\textbf{Two levers produce these results.} Tuning the questions fixes what the rubric cannot see: adding R1 and R2 removed the family-F failures on every model (Section~\ref{sec:results-tuning}). Fitting the weights by logistic regression makes the score a probability: with the same answers, the unfitted expert weights ranked almost as well (AUROC 0.879--0.990) but were far worse calibrated (ECE 0.093--0.149 against 0.002--0.050 fitted; Table~\ref{tab:ablations}).
 
 \FloatBarrier
 \subsection{Earlier studies}
@@ -675,7 +686,7 @@ The method is a way to measure confidence; the extensions below aim to make what
 \end{itemize}
 
 % ---------------------------------------------------------------------------
-\section{Limitations}
+\section{Limitations}\label{sec:limits}
 
 \paragraph{Limitations of the experiments.}
 \begin{itemize}
@@ -685,6 +696,7 @@ The method is a way to measure confidence; the extensions below aim to make what
   \item \textbf{Same-family generation.} The charts were generated with Claude, and two Claude models were tested; their results may be favored.
   \item \textbf{Prevalence.} About 58\% of test charts are supported, far above a real population. The intercept can be shifted for deployment (Appendix~\ref{app:algo}), but calibration must be rechecked on real data.
   \item \textbf{Small, easy-to-separate data.} About 100 gate-passing development charts per model fitted the weights, and the strongest extractors nearly separated the classes. Bootstrap intervals are reported, but 200 test charts cannot resolve small differences, and one candidate code was tested.
+  \item \textbf{Contradictions under-sampled.} The charts were balanced by label and scenario family, not by answer type. A documented other cause for CKD (Q3 ``no'') appears in only 5 of 350 charts (2 development, 3 test), so its weight is set mostly by regularization, and the value of separating silence from contradiction is not tested here. Gate contradictions are better covered (15--30 charts each). A follow-up should oversample contradictions for every question.
   \item \textbf{Verification barely exercised.} Models almost never quoted text that was not in the note, so the quote check's value against invented evidence is not measured here.
   \item \textbf{Added models.} Three of the five models were added after the pre-registration, each under its own addendum filed before its first call; their results are confirmatory only in that narrower sense.
 \end{itemize}
@@ -705,7 +717,7 @@ The method is a way to measure confidence; the extensions below aim to make what
 
 A confidence number has meaning only when it is computed from checked evidence and tested against outcomes. Evidence-weighted confidence does both: the LLM supplies cited answers to rule-derived questions, code verifies and scores them, and logistic regression turns the score into a calibrated probability. The additive scoring is exact Bayesian updating in log-odds form.
 
-On synthetic E11.22 charts and five models, the pattern did what it was designed to do. Its confidence meant what it said: charts it scored 90\% or more were supported 93--100\% of the time on every model, while the models' own 93--99\% was right 54--72\% of the time. It ranked charts far better than the models' own confidence on every model, and it was the best-calibrated method on every model. A failure found on new charts was fixed by adding two questions, without touching the models. And an inexpensive model inside the pattern matched the best frontier model at a fraction of the cost. Giving the model the questions without the scoring step was enough for the strongest models to rank well, but not to make their confidence trustworthy across models.
+On synthetic E11.22 charts and five models, the pattern did what it was designed to do. Its confidence meant what it said: charts it scored 90\% or more were supported 93--100\% of the time on every model, while the models' own 93--99\% was right 54--72\% of the time. It ranked charts far better than the models' own confidence on every model, and it was the best-calibrated method on every model. A failure found on new charts was fixed by adding two questions, without touching the models. With inexpensive models, the pattern made them usable: Claude Haiku 5.5 matched the best frontier result at a fraction of the cost. With frontier models, giving the model the same questions was enough to rank charts as well as EWC, and EWC added better calibration, a verified quote behind every answer and a reproducible score; the same prompt that worked on the strongest models failed on GPT-5.4, while EWC held on all five. Tuning the questions fixed what the rubric could not see, and fitting the weights made the score a probability.
 
 The next step is real charts labeled by certified coders, more codes, and a semantic check of the quotes, which is where the remaining errors lie.
 
