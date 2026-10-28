@@ -23,7 +23,9 @@ EDGES = [0.0, 0.2, 0.4, 0.6, 0.8, 1.0001]
 INK, MUTED, GRID = "#0b0b0b", "#52514e", "#e4e3df"
 
 plt.rcParams.update({"font.size": 8, "axes.edgecolor": MUTED, "axes.labelcolor": INK, "xtick.color": MUTED,
-                     "ytick.color": MUTED, "font.family": "serif"})
+                     "ytick.color": MUTED, "font.family": "serif",
+                     "font.serif": ["cmr10"], "mathtext.fontset": "cm", "axes.formatter.use_mathtext": True,
+                     "axes.unicode_minus": False, "pdf.fonttype": 42})
 fig, axes = plt.subplots(2, 3, figsize=(6.4, 4.5), sharex=True, sharey=True)
 for ax, (key, name) in zip(axes.flat, MODELS):
     rows = list(csv.DictReader(open(os.path.join(S3, "runs", key, "test", "predictions.csv"))))

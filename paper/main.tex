@@ -1,6 +1,4 @@
-\documentclass[11pt,letterpaper]{article}
-\usepackage[T1]{fontenc}
-\usepackage{lmodern}
+\documentclass[10pt,letterpaper]{article}
 \usepackage[margin=1in]{geometry}
 \usepackage{amsmath,amssymb}
 \usepackage{booktabs,tabularx,longtable,array,multirow}
@@ -37,8 +35,10 @@
 
 \pagestyle{fancy}
 \fancyhf{}
-\fancyhead[L]{\small Evidence-Weighted Confidence}
-\fancyhead[R]{\small Zeinoun $\cdot$ Preprint, October 2026}
+\definecolor{hdr}{gray}{0.45}
+\fancyhead[L]{\footnotesize\itshape\color{hdr}Evidence-Weighted Confidence}
+\fancyhead[R]{\footnotesize\itshape\color{hdr}Zeinoun $\cdot$ Preprint, October 2026}
+\renewcommand{\headrule}{{\color{hdr}\hrule width\headwidth height\headrulewidth}}
 \fancyfoot[C]{\small\thepage}
 \renewcommand{\headrulewidth}{0.4pt}
 
@@ -49,7 +49,7 @@
 
 \thispagestyle{empty}
 \begin{center}
-{\small Preprint $\cdot$ Method, analysis and experiments}\\[14pt]
+{\color{gray}\textsc{Preprint $\cdot$ Method, analysis and experiments}}\\[14pt]
 {\LARGE\bfseries Evidence-Weighted Confidence}\\[4pt]
 {\large Auditable, Calibrated Scoring of LLM Outputs}\\[14pt]
 {\large Issam Zeinoun}\\
