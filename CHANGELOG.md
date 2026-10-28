@@ -294,4 +294,4 @@ What changed (`rubric_e1122.json`, version 1 → 2; guidance text only, question
 
 ## 2026-10-28 — paper published on Zenodo
 
-- Published by the study lead as a new version of the Zenodo record (all-versions DOI 10.5281/zenodo.23651100), with `paper/main.pdf` (md5 f6f53d07d296b89d20417e86ad4a1f29) and `paper/short.pdf` (md5 5956821c537da7cde99c8aea0dc40565). Both checksums match the files at commit f2a7ed6 on `main`. Any later change to the paper needs a new Zenodo version.
+- Published by the study lead as a new version of the Zenodo record: this version https://doi.org/10.5281/zenodo.23745059; all versions 10.5281/zenodo.23651100; with `paper/main.pdf` (md5 f6f53d07d296b89d20417e86ad4a1f29) and `paper/short.pdf` (md5 5956821c537da7cde99c8aea0dc40565). Both checksums match the files at commit f2a7ed6 on `main`. Any later change to the paper needs a new Zenodo version.
