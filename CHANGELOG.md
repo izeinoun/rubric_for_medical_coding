@@ -265,3 +265,10 @@ What changed (`rubric_e1122.json`, version 1 → 2; guidance text only, question
 
 - Added `study3/analysis/calibration_table.py` and its output `study3/analysis/calibration_table.md`: for each model and method (A stated, A recalibrated, B, C), test charts grouped by confidence (under 10%, 10–50%, 50–90%, 90% and over), with the average confidence given and the share actually supported. Reads frozen results only; exploratory, not part of the pre-registered checks.
 - Charts B scored 90% or more were actually supported 93–100% of the time on all five models (GPT 46 charts 93%→93%; Sonnet 117, 97%→98%; Haiku 118, 98%→98%; Gemini 3.8 Flash 117, 100%→100%; Flash-Lite 44, 93%→93%). The models' own 90%+ statements (A, as stated) were right 54–72% of the time. C was well matched for Sonnet and Gemini 3.8 Flash, overconfident for GPT-5.4 (97%→60%), Flash-Lite (100%→89%) and Haiku (94%→89%).
+
+## 2026-10-28 — paper updated with results; short version
+
+- Added `paper/main.tex` (and `main.pdf`): the preprint rebuilt in LaTeX from `main (7).pdf` (no source was in the repository), with a new Experiments section (study 3 design, pre-registered checks, calibration and ranking, confidence against accuracy, decision metrics, family breakdown, inexpensive models, extraction and faithfulness, secondary views, fitted weights, studies 1 and 2, deviations), an appendix with rubric v3, and the abstract, contributions, related-work status, limitations and conclusion updated to report results. The method sections are unchanged in substance.
+- Added `paper/short.tex` (and `short.pdf`): a 3-page version for AI specialists, bottom line only.
+- Added `study3/analysis/reliability_figure.py` and `paper/figures/reliability.{pdf,png}`: reliability diagrams on the study 3 test split for A (stated), B and C, per model. Exploratory; reads frozen results only.
+- `main (7).pdf` left unchanged.
