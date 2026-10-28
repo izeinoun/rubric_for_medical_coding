@@ -1,0 +1,15 @@
+{
+  "frozen_at": "2026-10-28T12:37:19",
+  "model": "claude-sonnet-5-5",
+  "hashes": {
+    "study3/ADDENDUM_CLAUDE_SONNET.md": "3ad8af32e73a73e4cab7352287ec2a97a07a4ad7c33df6c9f01a1903baf5fde4",
+    "study3/run_addendum_sonnet.py": "42943fa215ff4c3849eecaf649dd10ff49c255f6a55d6b8cb52e2c159ad3a7c0",
+    "study3/FREEZE.json": "4b8092db4ba6cbf7bcba56e46e90d80e881b7cead10be2ebc3f6a9e2cfc672f6",
+    "study3/runs/claude/weights/C_threshold.json": "257af300c2f414dba3122f7b24681ab1b325a0ce44c89d4cc5b83912b04cec75",
+    "study3/runs/claude/weights/M2_platt.json": "17c2e95347784992454b5b1577fb1ffcfa468a4ed13a363101defdd2f6adf2d6",
+    "study3/runs/claude/weights/M5.json": "c8df8de2ac40fcd25a3e543b72fe45e2a2514f3287d3eba141512e29437b1c18",
+    "study3/runs/claude/weights/M7.json": "9292fe3aba04846452162476baa2b54c1e76b5237d43cb0a32d957576e2d95ce",
+    "study3/runs/claude/weights/M8.json": "fed7fd8d4c466bebdd3be95b517672173ef607ca11bd2ace1938dc89f1188387",
+    "study3/runs/claude/weights/thresholds.json": "f524d751cc42a1c36d16073bd277f9b846b2e26527376f3a78c9a48cfa9f2af0"
+  }
+}
