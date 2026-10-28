@@ -246,3 +246,9 @@ What changed (`rubric_e1122.json`, version 1 → 2; guidance text only, question
 - Haiku test: 2,200 calls, 0 errors; evaluated once. AUROC A 0.772, B 0.994, C 0.917; B − A 0.222 (0.147 to 0.305); B − C 0.077 (0.031 to 0.131). ECE A recalibrated 0.111, B 0.014, C 0.234. B at its frozen threshold: 120 accepted (coverage 0.60), precision 0.967, recall 0.991. Pre-registered checks (addendum): H1, H2, H3 and H4 all pass. Family F: B wrong on 0 of 26. Family G (borderline): B wrong on 0 of 39, C on 19.
 - Actual cost of dev plus test from recorded tokens at list prices: Sonnet 5.5 10.37M input / 2.31M output, about $43.82; Haiku 5.5 10.10M input / 3.62M output, about $2.82.
 - Claude runs finished; the study lead can delete the Anthropic key used for them.
+
+## 2026-10-28 — Gemini 3.8 Flash test resumed; Gemini 3.5 Flash-Lite addendum
+
+- The study lead bought Gemini credit. Resumed the Gemini 3.8 Flash test collection (failed calls only).
+- Study lead approved a Flash-Lite dev run. Added `study3/ADDENDUM_GEMINI_FLASH_LITE.md` (written before any Flash-Lite call; the Haiku tolerant JSON parse declared in advance) and `study3/run_addendum_gemini_lite.py` (model key `gemini_lite`, model `gemini-3.5-flash-lite`).
+- Test calls (dev chart FU-0152; all parsed; extraction returned 8 answers): input/output tokens extraction 2,303/512, A 1,273/11, C 2,137/17; no thinking tokens (Flash-Lite does not think by default). Projected dev: about 3.0M input and 0.4M output tokens.
