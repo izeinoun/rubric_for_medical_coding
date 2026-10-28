@@ -221,3 +221,8 @@ What changed (`rubric_e1122.json`, version 1 → 2; guidance text only, question
 - Study lead said "run the test". Freeze check passed; test collection started for GPT-5.4 and Gemini 3.8 Flash (200 charts each).
 - Added `study3/ADDENDUM_CLAUDE_SONNET.md` before any Claude call: Claude Sonnet 5.5 (study lead's choice over Opus 5.5) as a third model, with its own dev fit, addendum freeze and single test run; same-model risk stated; needs an Anthropic API key.
 - Planned after the test, as exploratory analyses that read results only: a chart-by-chart side-by-side page of the methods' scores, and DeLong z-tests for paired AUROC differences.
+
+## 2026-10-28 — study 3 test: GPT-5.4 evaluated; Gemini paused (credit)
+
+- GPT-5.4: 2,200 calls, 0 errors; evaluated once. AUROC A 0.593 (recalibrated; raw 0.407), B 0.926, C 0.483. B − A 0.333 (0.243 to 0.417); B − C 0.443 (0.352 to 0.530). ECE A recalibrated 0.046, B 0.037, C 0.368. B at its frozen threshold: 46 charts accepted (coverage 0.23), precision 0.935, recall 0.368. Pre-registered checks: H1 pass, H2 pass, H3 pass, H4 fail (0.935 < 0.95). Family F (outside the pilot rubric): B wrong on 0 of 26, C on 25 of 26.
+- Gemini 3.8 Flash: extraction complete (1,000 calls); 281 of 1,000 stated-confidence calls and the criteria-guided calls failed when the prepayment credit ran out (HTTP 402). Collection stopped; to be resumed (failed calls only) after the credit is topped up. Not evaluated.
