@@ -1,8 +1,8 @@
 """
 Study 3 addendum: Gemini 3.5 Flash-Lite (see study3/ADDENDUM_GEMINI_FLASH_LITE.md). Copy of run_addendum_haiku.py with its own model key.
 
-Runs the frozen study-3 pipeline (study3/run_study3.py, unchanged) for model key "claude", with the model name
-overridden in memory from the frozen config's claude-opus-5-5 to claude-sonnet-5-5. Weights, Platt map and
+Runs the frozen study-3 pipeline (study3/run_study3.py, unchanged) for the added model key "gemini_lite"
+(gemini-3.5-flash-lite, defined in memory; the frozen config is not edited). Weights, Platt map and
 thresholds are fitted on dev into study3/runs/gemini_lite/weights/; an addendum freeze (study3/FREEZE_GEMINI_LITE.json)
 hashes them together with the study-3 freeze; the test split is then evaluated once.
 

@@ -1,0 +1,12 @@
+{
+  "target_precision": 0.95,
+  "thresholds": {
+    "M1": null,
+    "M2": null,
+    "M3": null,
+    "M4": null,
+    "M5": null,
+    "M7": null,
+    "M8": null
+  }
+}
