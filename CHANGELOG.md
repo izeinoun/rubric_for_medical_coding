@@ -282,3 +282,7 @@ What changed (`rubric_e1122.json`, version 1 → 2; guidance text only, question
 ## 2026-10-28 — paper: transparency notes
 
 - At the study lead's request, the under-sampled contradictions and the absence of a certified coder are no longer limitation bullets; they are numbered notes on a separate Notes page (before the references), referenced from the text, introduced as "given for transparency only; none of them affects the conclusions". Same in the short version.
+
+## 2026-10-28 — paper: more transparency notes
+
+- Moved six process details from the full paper's main text to the numbered Notes page (ordered by first mention): plain string search for quote verification; the "Deviations from the plan" subsection (now one line in 7.1 pointing to the note); the deliberate doubled phrase; the label checks (merged into the certified-coder note); the R2 signature-answer quirk; the pilot rubric revision. "Three of five models added after the pre-registration" stays in the Limitations, at the study lead's request. Full paper now 24 pages.
