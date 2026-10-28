@@ -1,0 +1,15 @@
+{
+  "frozen_at": "2026-10-28T15:08:05",
+  "model": "claude-haiku-5-5",
+  "hashes": {
+    "study3/ADDENDUM_CLAUDE_HAIKU.md": "aa5d8beaa9972cb98dd75e9484746a4bbddb11751c3f1cdadd8eec9a968d431a",
+    "study3/run_addendum_haiku.py": "3e0f9e5dcd7b377e27886bb9a0bb23a4475523bf47f34a39bb02909a26ced583",
+    "study3/FREEZE.json": "4b8092db4ba6cbf7bcba56e46e90d80e881b7cead10be2ebc3f6a9e2cfc672f6",
+    "study3/runs/claude_haiku/weights/C_threshold.json": "b6dfcbb6de1fcff6d10861c9f884b51f332a23b9de9f08c07c1cb71a14d738cf",
+    "study3/runs/claude_haiku/weights/M2_platt.json": "a54d26ad507d2480982ae29ef0c66cd6e783bd0dafb8d55beb0acce1d06191ff",
+    "study3/runs/claude_haiku/weights/M5.json": "f65aeec4f02419521dcf6d0d1fe8acfd0610ca6b59582a56e1b145ffab367380",
+    "study3/runs/claude_haiku/weights/M7.json": "cb9ce5b511c8f03d575b893fa10708d500795756d296f2192f4caec40000d966",
+    "study3/runs/claude_haiku/weights/M8.json": "f2ef9365fc9a11a4c1c958a665b070aa14d6e405c2ec6b9a0f4d03e0b6f47f74",
+    "study3/runs/claude_haiku/weights/thresholds.json": "5fd9c8058ea0fcc079c6c6d76630784aba091a9833b06a391760fdf94fbee0a6"
+  }
+}
