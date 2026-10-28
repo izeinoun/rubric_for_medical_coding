@@ -260,3 +260,8 @@ What changed (`rubric_e1122.json`, version 1 → 2; guidance text only, question
 ## 2026-10-28 — exploratory: precision, recall and F0.5 (study 3 test)
 
 - Added `study3/analysis/decision_metrics.py` and its output `study3/analysis/decision_metrics.md`: precision, recall and F0.5 for A (recalibrated), B and C on the study-3 test split, at 0.5 and at each method's frozen dev-chosen threshold, for all five models. Reads frozen results only; exploratory, not part of the pre-registered checks. F0.5 at 0.5 for B: GPT 0.888, Sonnet 0.976, Haiku 0.978, Gemini 3.8 Flash 1.000, Flash-Lite 0.902; for A: 0.620, 0.764, 0.827, 0.713, 0.706.
+
+## 2026-10-28 — exploratory: does high confidence mean high accuracy? (study 3 test)
+
+- Added `study3/analysis/calibration_table.py` and its output `study3/analysis/calibration_table.md`: for each model and method (A stated, A recalibrated, B, C), test charts grouped by confidence (under 10%, 10–50%, 50–90%, 90% and over), with the average confidence given and the share actually supported. Reads frozen results only; exploratory, not part of the pre-registered checks.
+- Charts B scored 90% or more were actually supported 93–100% of the time on all five models (GPT 46 charts 93%→93%; Sonnet 117, 97%→98%; Haiku 118, 98%→98%; Gemini 3.8 Flash 117, 100%→100%; Flash-Lite 44, 93%→93%). The models' own 90%+ statements (A, as stated) were right 54–72% of the time. C was well matched for Sonnet and Gemini 3.8 Flash, overconfident for GPT-5.4 (97%→60%), Flash-Lite (100%→89%) and Haiku (94%→89%).
