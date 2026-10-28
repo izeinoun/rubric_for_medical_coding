@@ -7,7 +7,6 @@ thresholds are fitted on dev into study3/runs/gemini_lite/weights/; an addendum 
 hashes them together with the study-3 freeze; the test split is then evaluated once.
 
 The Gemini key comes from the environment only.
-for this process (the session environment sets it for Claude Code itself).
 
   python study3/run_addendum_gemini_lite.py collect  --split dev
   python study3/run_addendum_gemini_lite.py evaluate --split dev
