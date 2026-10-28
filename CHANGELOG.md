@@ -286,3 +286,8 @@ What changed (`rubric_e1122.json`, version 1 → 2; guidance text only, question
 ## 2026-10-28 — paper: more transparency notes
 
 - Moved six process details from the full paper's main text to the numbered Notes page (ordered by first mention): plain string search for quote verification; the "Deviations from the plan" subsection (now one line in 7.1 pointing to the note); the deliberate doubled phrase; the label checks (merged into the certified-coder note); the R2 signature-answer quirk; the pilot rubric revision. "Three of five models added after the pre-registration" stays in the Limitations, at the study lead's request. Full paper now 24 pages.
+
+## 2026-10-28 — paper: cite the earlier version; Zenodo metadata
+
+- Full paper cites the earlier method-and-protocol version (Zenodo concept DOI 10.5281/zenodo.23651100, all versions) at the start of the Experiments section; the short version links it.
+- Added `paper/ZENODO.md`: files, fields, description, keywords and related works for publishing as a new version of that record.
