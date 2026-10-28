@@ -351,7 +351,7 @@ The central hypothesis is that the fitted rubric matches or beats recalibrated v
 \FloatBarrier
 \subsection{Overview}
 
-The method was tested in three studies on synthetic outpatient charts, each pre-registered before its test data were run, with hypotheses, pass marks and analysis rules fixed in advance and every change logged with its date and reason. In each study the prompts, the rubric, the fitted weights, the recalibration maps and the auto-accept thresholds were frozen with cryptographic hashes before any test call, and the code refused to evaluate a model's test split more than once.
+The method was tested in three studies on synthetic outpatient charts, each pre-registered before its test data were run, with hypotheses, pass marks and analysis rules fixed in advance and every change logged with its date and reason. In each study the prompts, the rubric, the fitted weights, the recalibration maps and the auto-accept thresholds were frozen with cryptographic hashes before any test call, and the code refused to evaluate a model's test split more than once. Code, data, pre-registrations, freeze records and the change log are at \url{https://github.com/izeinoun/rubric_for_medical_coding}.
 
 \begin{enumerate}
   \item \textbf{Study 1, pilot} (200 charts; 140 development, 60 test; GPT-5.4 and Gemini 3.8 Flash). The six-question rubric of Section~\ref{sec:example} on 13 scenarios.
@@ -883,6 +883,6 @@ Q4 & Weighted & \textit{Was the CKD addressed at this encounter (monitored, eval
 \end{tabularx}
 \end{small}
 
-\paragraph{Materials.} The chart generator, data, rubric, prompts, pre-registrations, freeze records, analysis code and a change log of every decision are in the study repository.
+\paragraph{Materials.} The chart generator, data, rubric, prompts, pre-registrations, freeze records, analysis code and a change log of every decision are at \url{https://github.com/izeinoun/rubric_for_medical_coding}. The study-3 materials are in \texttt{study3/}, the pilot in \texttt{harness/} and the transfer test in \texttt{followup/}; \texttt{CHANGELOG.md} records every change with its date and reason.
 
 \end{document}
