@@ -295,3 +295,9 @@ What changed (`rubric_e1122.json`, version 1 → 2; guidance text only, question
 ## 2026-10-28 — paper published on Zenodo
 
 - Published by the study lead as a new version of the Zenodo record: this version https://doi.org/10.5281/zenodo.23745059; all versions 10.5281/zenodo.23651100; with `paper/main.pdf` (md5 f6f53d07d296b89d20417e86ad4a1f29) and `paper/short.pdf` (md5 5956821c537da7cde99c8aea0dc40565). Both checksums match the files at commit f2a7ed6 on `main`. Any later change to the paper needs a new Zenodo version.
+
+## 2026-10-29 — ideas list and study 4 plan (draft)
+
+- Added `IDEAS.md`: a running list of ideas for future studies, gathered from the paper and our discussions (evidence-quality checks on quotes, Q2 date arithmetic in code, semantic quote checks, oversampled contradictions, real charts with certified coders, realistic prevalence, more codes, learning curve, quote-check stress test, unrun ablations, M6 on all models, DeLong tests, drift, multi-document evidence, cost controls), plus the set-aside idea of per-question self-reported confidence and why.
+- Added `study4/PLAN.md` (draft for review): evidence checks computed by code, Q2 computed by code, contradictions oversampled; 300 new synthetic charts (dev 120, test 180); GPT-5.4, Claude Haiku 5.5, Gemini 3.5 Flash-Lite; five draft hypotheses with proposed pass marks. Nothing built or run; study 3 untouched.
+- Exploratory check on frozen study-3 test data behind the set-aside idea: of the charts B got wrong at 0.5, answers varied across the 5 extraction runs on 2 of 19 (GPT-5.4), 7 of 19 (Flash-Lite), 1 of 5 (Sonnet), 0 of 4 (Haiku); Gemini 3.8 Flash had no errors.
