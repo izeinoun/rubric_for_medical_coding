@@ -9,6 +9,20 @@ On charts that are genuinely hard (ones two human coders would argue about), the
 1. **New questions**, written from the errors found on development charts.
 2. **A clarity check on each answer's quoted text**, computed by code and entered into the fitted model as features.
 
+## Built on the published paper
+
+Study 4 extends the method and results of *Evidence-Weighted Confidence: Auditable, Calibrated Scoring of LLM Outputs* (Zeinoun, 2026; version with experiments https://doi.org/10.5281/zenodo.23745059). It reuses, unchanged: the pipeline (extract, verify, gates, score, route), the quote-verification rule, the rubric v3 questions as the starting point, the weight-fitting procedure (Appendix A), the metrics, and the study-3 safeguards (development first, logged changes, hash freeze, one test run). Only the additions below are new.
+
+## The study 4 paper: short and simple
+
+A separate, short paper (target 8–10 pages) that **references the first paper rather than repeating it**: no re-derivation of the method, the Bayesian foundation, the algorithm or the study 1–3 results; one paragraph and a citation for each. Proposed outline:
+
+1. **Introduction** (1 page): the first paper's result in two sentences, the open question (hard, disputed charts), what this study adds.
+2. **What is new** (1–2 pages): three-way chart labels, the new questions, clarity of the quoted evidence as split features.
+3. **Data** (1 page): the charts, how they were written and checked, the disputed category.
+4. **Results** (2–3 pages): the hypotheses table, confidently-wrong rates, the effect of each addition, clear vs weak weights.
+5. **Limits and next steps** (1 page), then references and transparency notes.
+
 ## Design choices (agreed with the study lead)
 
 - **One model: Claude Haiku 5.5.** The aim is to show the mechanism, not breadth across models (study 3 covered that). Haiku was the best balance of cost and accuracy in study 3.

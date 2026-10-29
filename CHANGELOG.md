@@ -306,3 +306,7 @@ What changed (`rubric_e1122.json`, version 1 → 2; guidance text only, question
 
 - Study lead's decisions: study 4 shows that the method scores genuinely hard charts fairly and that, where it reaches its limit, new questions plus a code-computed clarity check on each answer's quoted text recover performance. One model (Claude Haiku 5.5); charts written by a Gemini model from structured specs (writer never tested); clarity enters as features (each answer split into "clear" and "weak" evidence indicators with their own fitted weights), not as a hand-set multiplier, so the model stays one convex logistic regression.
 - `study4/PLAN.md` rewritten: three-way chart labels (clearly supported, clearly not supported, disputed); ~400 charts, development 200 / test 200, some scenario types only in test; two development stages (find B3's failures, then add questions and clarity features); five draft hypotheses led by "never confidently wrong on disputed charts". `IDEAS.md` updated to match. Nothing built or run.
+
+## 2026-10-29 — study 4 plan: builds on the published paper
+
+- `study4/PLAN.md` now states that study 4 reuses the published method unchanged (pipeline, verification rule, rubric v3 as the starting point, Appendix A fitting procedure, metrics, safeguards) and that its paper will be short (target 8–10 pages), citing the first paper (doi 10.5281/zenodo.23745059) instead of repeating its method, derivation, algorithm or study 1–3 results. Outline added.
