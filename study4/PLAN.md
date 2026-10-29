@@ -2,75 +2,103 @@
 
 Status: draft, 2026-10-29. Nothing built or run. Study 3 and its test data stay frozen and untouched.
 
-## The question
+## The claim to test
 
-Can confidence for each answer come from the **quoted evidence itself**, measured by code, so that the remaining errors are caught without asking the model how sure it is? And do three-way answers (yes / no / not documented) add value when the data actually contains contradictions?
+On charts that are genuinely hard (ones two human coders would argue about), the method scores fairly: confident where the chart is clear, in the middle and sent to review where it is disputed, and almost never confidently wrong. Where the method reaches its limit, two additions recover the performance:
 
-## What study 3 left open
+1. **New questions**, written from the errors found on development charts.
+2. **A clarity check on each answer's quoted text**, computed by code and entered into the fitted model as features.
 
-- Most remaining errors were real quotes misread, mainly Q4 = "yes" based on "see nephrology note" (GPT-5.4, Flash-Lite).
-- Q2 (two eGFR results below 60, at least 90 days apart) was the weakest question on three models, mostly date arithmetic.
-- Only 5 of 350 charts had a documented other cause (Q3 = "no"), so the value of three-way answers was not measured.
+## Design choices (agreed with the study lead)
 
-## Three changes, tested together and one at a time
+- **One model: Claude Haiku 5.5.** The aim is to show the mechanism, not breadth across models (study 3 covered that). Haiku was the best balance of cost and accuracy in study 3.
+- **Charts written by a Gemini model** from structured specs, so the model that writes the charts is not the model tested. The Gemini model is never tested.
+- **Clarity enters as features, not as a multiplier.** Each weighted answer is split by the clarity of its evidence into separate indicators (for example `Q4 = yes, clear` and `Q4 = yes, weak`), and the logistic regression learns a weight for each. The model stays a single convex logistic regression: unique solution, every weight still a log-odds contribution of one kind of evidence, no hand-set discounts.
 
-| Change | What it is | Expected effect |
+## Labels: three kinds of chart
+
+| Label | Meaning | What the method should do |
 |---|---|---|
-| **Evidence checks** | Code rates each quote: the section it came from (assessment and plan, problem list, history, prior visit), hedging words, pointers to another note, whether its date is today's, and whether other quotes contradict it. Used two ways: a **review flag** when a deciding answer rests on weak evidence, and **extra inputs** to the fitted model (for example "Q4 = yes, from the plan" vs "Q4 = yes, pointer only"). | Catches the Q4 pointer errors and stale copied-forward evidence |
-| **Q2 computed by code** | The model lists each eGFR value with its date and quote; code decides the 90-day rule. | Q2 errors from date arithmetic disappear |
-| **Contradictions oversampled** | Charts built so that each question has a fair number of "no" answers. | Lets the three-way vs two-way comparison mean something |
+| Clearly supported | Any careful coder would report E11.22 | High score |
+| Clearly not supported | Any careful coder would not | Low score |
+| Disputed | Reasonable coders split; both readings written down in the spec | Middle score or review flag; never confidently wrong |
 
-All three come from the same extraction call, so each change can also be switched off in the analysis without new calls.
+Who decides: the chart's spec sets the intended label. The study lead and two independent reviewer models from families not tested (for example GPT-5.4 and a Gemini Pro model) each read a sample; any split on a chart marked clear sends it back for revision. A certified coder checking 30–50 charts would strengthen this considerably (open question).
 
-## Methods compared
+## The charts
 
-- **B**: the study-3 method unchanged (rubric v3; weights refitted on study-4 development charts by the same frozen procedure).
-- **B+**: B with the evidence checks and Q2 computed by code.
-- **A** (the model's stated confidence) and **C** (the rubric questions in the prompt), one run each, for continuity with study 3.
+About 400 notes, each from a short spec: the facts, the intended answer to each question, the label, and for disputed charts the two readings. A Gemini model writes the note from the spec. A code checker confirms the spec's key facts appear in the text and that the note does not signal its own difficulty (no "this is ambiguous"). The study lead reviews a sample.
 
-## Data: 300 new synthetic charts (dev 120, test 180)
+Sources of genuine dispute in E11.22 coding, for example:
 
-| Group | Charts | What they test |
-|---|---|---|
-| Weak-evidence wording | 100 | 25 each: pointer to another note, hedged diagnosis, stale or prior-visit evidence, sections that disagree; about half supported |
-| Contradictions | 80 | 30 with a documented other cause (Q3 = "no"); 10 each for G1, G2, R1, R2 and Q2 |
-| Q2 date edge cases | 40 | eGFR pairs 80–100 days apart, values near 60 |
-| Ordinary charts | 80 | The study-3 families, for comparison |
+- "CKD, stable" with no status, data or plan (does it meet MEAT?)
+- "Diabetic nephropathy" or "DM with renal complications" without the words CKD or chronic kidney disease
+- "Likely CKD" or "CKD vs. AKI" in the plan
+- Acute kidney injury on top of known CKD
+- CKD after a kidney transplant
+- eGFR values hovering around 60
+- A resident's note with an attending's attestation; a scribe's note co-signed
+- Audio-only or video telehealth visits
+- An addendum by a different provider
+- The problem list and the assessment disagreeing
+- Diabetes named with another cause in hedged terms ("possibly also hypertensive")
+- Copied-forward plan lines with partial updates
 
-Built with the study-3 generator plus new scenarios; same label rules as study 3; checked by the built-in checker and a review sample by the study lead. About half supported.
+Mix: about one third clearly supported, one third clearly not supported, one third disputed. Each clarity category is oversampled so every split indicator has enough development examples (target at least 15–20 each).
 
-## Models
+Splits: **development 200, test 200.** Some scenario types appear **only in test**, so an improvement cannot come from tuning on the development cases.
 
-GPT-5.4, Claude Haiku 5.5 and Gemini 3.5 Flash-Lite: the two models with most errors, plus the cheap model that did best. Optional: Claude Sonnet 5.5 or Gemini 3.8 Flash as a ceiling.
+## Clarity of the quoted evidence (computed by code)
 
-## Hypotheses (test split, per model; pass marks to agree before the freeze)
+For each weighted answer, code reads the quotes and marks the evidence **clear** or **weak**. Weak if any of:
+
+- the quote comes from outside today's assessment and plan (problem list, history, a prior-visit section);
+- it contains a hedge ("possible", "likely", "probable", "?", "vs.");
+- it only points elsewhere ("see nephrology note", "per last visit", "as above");
+- its date is not today's visit date;
+- another quote in the note contradicts it.
+
+The rules are written and frozen on development data. The model is never asked how sure it is.
+
+## Methods compared (all from the same Haiku calls)
+
+| ID | Method |
+|---|---|
+| B3 | The study-3 method, rubric v3, weights refitted on study-4 development charts by the frozen procedure |
+| B4 | B3 plus the new questions |
+| B4+C | B4 plus the clarity features (the full method) |
+| A | Haiku's stated confidence, recalibrated |
+| C | Rubric questions in the prompt, Haiku's own number |
+
+B4 and B4+C come from one extraction call per chart with the new rubric; B3 is the same call scored with only the v3 questions. Each addition can therefore be switched on or off in the analysis without new calls.
+
+## Hypotheses (test split; pass marks to agree before the freeze)
 
 | ID | Claim | Proposed pass mark |
 |---|---|---|
-| H1 | B+ ranks better than B | AUROC difference > 0, paired 95% interval above 0 |
-| H2 | B+ is at least as well calibrated as B | ECE of B+ ≤ ECE of B |
-| H3 | The review flag catches B's errors | Flags at least half of the charts B gets wrong at 0.5, while flagging no more than 20% of the charts it gets right |
-| H4 | Code computes Q2 reliably | Q2 macro-F1 ≥ 0.95 |
-| H5 | Three-way answers add value | B with three-way answers beats B with two-way answers on AUROC, paired interval above 0, on the contradiction charts |
+| H1 | The full method is never confidently wrong on disputed charts | At most 5% of disputed charts scored ≥ 0.9 or ≤ 0.1 |
+| H2 | The additions improve ranking on clear charts | AUROC of B4+C > AUROC of B3, paired 95% interval above 0 |
+| H3 | The additions improve calibration on clear charts | ECE of B4+C ≤ ECE of B3 |
+| H4 | The full method beats Haiku's own confidence and the rubric prompt on clear charts | AUROC difference > 0, paired interval above 0, against A and against C |
+| H5 | The clarity features add value beyond the new questions | AUROC or log-loss of B4+C better than B4, paired interval excluding 0 |
+
+Also reported, without pass marks: results on the test-only scenario types; the fitted weights for clear vs weak evidence (does the data confirm that weak evidence is worth less?); the review-flag view (deciding answer weak and score near the threshold); confidently-wrong rates for A and C on disputed charts.
 
 ## Procedure (same safeguards as study 3)
 
-1. Build the charts and the evidence checks; study lead reviews a sample.
-2. Development: collect, fit, revise the checks if needed; every change logged in `CHANGELOG.md`.
-3. Write the pre-registration; freeze with hashes.
-4. Test once per model; report every hypothesis, passed or failed.
+1. Write the specs; generate the notes with Gemini; run the checker; study lead and reviewers check a sample.
+2. **Stage 1, development:** run B3 on the development charts and record where it fails.
+3. **Stage 2, development:** write the new questions and the clarity rules from those failures; fit B4 and B4+C on development charts; log every change in `CHANGELOG.md`.
+4. Write the pre-registration; freeze with hashes.
+5. Test once; report every hypothesis, passed or failed.
 
 ## Cost
 
-Three calls per chart per model (one extraction, one stated confidence, one rubric prompt), about 900 calls per model: roughly a quarter of a study-3 model's calls. Study 3 showed one extraction run is enough (the median score did not change across five runs).
+Haiku: three calls per chart (one extraction, one stated confidence, one rubric prompt), about 1,200 calls for 400 charts, likely a few dollars. Gemini: about 400 note-writing calls, plus the reviewer models on a sample.
 
-## Decisions for the study lead
+## Open decisions
 
-1. Models: the three above, or add a stronger one?
-2. Keep method C?
-3. The pass marks in the table.
-4. Evidence checks as a review flag only, as model inputs only, or both (proposed: both, with the flag reported first because it needs no extra labels).
-
-## Not in this study
-
-Real charts with certified coders, more codes, realistic prevalence and the other items in `IDEAS.md`. Real-chart validation is the study after this one.
+1. The pass marks in the table, especially H1's 5%.
+2. Keep method C (proposed: yes; it is cheap and the fair comparison).
+3. Whether a certified coder can check 30–50 charts.
+4. Which Gemini model writes the notes, and which models review.
