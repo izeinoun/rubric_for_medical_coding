@@ -340,3 +340,7 @@ What changed (`rubric_e1122.json`, version 1 → 2; guidance text only, question
 ## 2026-10-30 — middle version: shorter abstract
 
 - Rewrote the abstract of `paper/paper.tex` in a business-review register, balanced between business benefit and method (about 190 words, down from about 330). Same facts as before; nothing new claimed.
+
+## 2026-10-30 — Zenodo notes for version 3
+
+- `paper/ZENODO.md` rewritten for a version 3 of the Zenodo record: the middle-length paper as the main file, the extended version and the 3-page summary alongside; description from the new abstract plus a short "changes from version 2" paragraph (shorter paper with method diagram, Table 7 caption fix, Bayesian wording removed).
