@@ -348,3 +348,7 @@ What changed (`rubric_e1122.json`, version 1 → 2; guidance text only, question
 ## 2026-10-30 — "Version 3" on all three papers
 
 - Added "Version 3" to the date line under the author in `paper/paper.tex`, `paper/main.tex` and `paper/short.tex` (matching the planned Zenodo version 3). Tagline and headers unchanged.
+
+## 2026-10-30 — paper files renamed to match Zenodo
+
+- Renamed to match the file names on the Zenodo record: `paper/paper.{tex,pdf}` → `paper/medium.{tex,pdf}` (the paper, 11 pages), `paper/main.{tex,pdf}` → `paper/long.{tex,pdf}` (extended version, 25 pages); `paper/short.{tex,pdf}` unchanged. Contents unchanged (md5: medium 2fb06e818d3108187d23cc86f48bad89, long 54244b4f63527d04ff656222d95092c6, short 2a01d66a8443ddf98f32d78c0acc0684). README and `paper/ZENODO.md` updated; earlier CHANGELOG entries keep the old names.

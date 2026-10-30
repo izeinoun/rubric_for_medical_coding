@@ -8,9 +8,9 @@ Versions 1 and 2 keep their own DOIs and dates; the all-versions DOI then resolv
 
 | Upload as | Source in the repository | What it is |
 |---|---|---|
-| `Evidence-Weighted-Confidence.pdf` (set as the main / preview file) | `paper/paper.pdf` | The paper, 11 pages |
-| `Evidence-Weighted-Confidence-extended.pdf` | `paper/main.pdf` | Extended version, 25 pages: full method explanation, algorithm specification, transparency notes |
-| `Evidence-Weighted-Confidence-summary.pdf` | `paper/short.pdf` | 3-page summary |
+| `medium.pdf` (set as the default preview) | `paper/medium.pdf` | The paper, 11 pages |
+| `long.pdf` | `paper/long.pdf` | Extended version, 25 pages: full method explanation, algorithm specification, transparency notes |
+| `short.pdf` | `paper/short.pdf` | 3-page summary |
 
 ## Fields
 
@@ -49,4 +49,4 @@ These are the two rows already on the record; nothing to change.
 
 ### References
 
-Paste one per box, as for version 2. The main paper cites references 1–11 of `paper/paper.tex`; the extended version adds Rashkin et al. 2023, Gao et al. 2023 and Yue et al. 2023, which can stay.
+Paste one per box, as for version 2. The main paper cites references 1–11 of `paper/medium.tex`; the extended version adds Rashkin et al. 2023, Gao et al. 2023 and Yue et al. 2023, which can stay.

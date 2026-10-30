@@ -4,7 +4,7 @@
 
 *Evidence-Weighted Confidence: Auditable, Calibrated Scoring of LLM Outputs*, Issam Zeinoun, 2026.
 This version (with the experiments): https://doi.org/10.5281/zenodo.23745059. All versions: https://doi.org/10.5281/zenodo.23651100.
-Source and PDFs in `paper/` (`main.pdf` full paper, `short.pdf` 3-page summary). The studies are in `harness/` (pilot), `followup/` (transfer test) and `study3/` (main study).
+Source and PDFs in `paper/`: `medium.pdf` (the paper, 11 pages), `long.pdf` (extended version, 25 pages) and `short.pdf` (3-page summary). The studies are in `harness/` (pilot), `followup/` (transfer test) and `study3/` (main study).
 
 Synthetic outpatient office-visit notes for piloting evidence-weighted confidence (EWC). Every chart is scored against one candidate code, **E11.22** (type 2 diabetes mellitus with diabetic chronic kidney disease). All patients, providers and dates are fictional.
 
