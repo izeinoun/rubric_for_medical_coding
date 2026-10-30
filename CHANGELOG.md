@@ -336,3 +336,7 @@ What changed (`rubric_e1122.json`, version 1 → 2; guidance text only, question
 ## 2026-10-30 — middle version: Notes page removed
 
 - At the study lead's request, `paper/paper.tex` no longer has a Notes page or note markers. Two notes moved into the Limitations as one bullet each: no certified coder (with the checker and review results) and deviations from the plan. The other five notes (plain string search, doubled phrase, signature answers, few documented contradictions, pilot rubric revision) remain only in the extended version. Still 11 pages.
+
+## 2026-10-30 — middle version: shorter abstract
+
+- Rewrote the abstract of `paper/paper.tex` in a business-review register, balanced between business benefit and method (about 190 words, down from about 330). Same facts as before; nothing new claimed.
