@@ -332,3 +332,7 @@ What changed (`rubric_e1122.json`, version 1 → 2; guidance text only, question
 ## 2026-10-30 — middle version: cost table removed
 
 - Removed the inexpensive-vs-frontier table from `paper/paper.tex`: its AUROC, ECE and "said → actual" columns repeated Tables 4 and 5. The cost comparison (Haiku $2.82 vs Sonnet $43.82, 3,850 calls each) is now in the text. The by-family error table stays (it is the evidence for "fix the questions"). Now 11 pages.
+
+## 2026-10-30 — middle version: Notes page removed
+
+- At the study lead's request, `paper/paper.tex` no longer has a Notes page or note markers. Two notes moved into the Limitations as one bullet each: no certified coder (with the checker and review results) and deviations from the plan. The other five notes (plain string search, doubled phrase, signature answers, few documented contradictions, pilot rubric revision) remain only in the extended version. Still 11 pages.

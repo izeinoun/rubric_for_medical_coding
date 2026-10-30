@@ -39,8 +39,6 @@
 \fancyfoot[C]{\small\thepage}
 \renewcommand{\headrulewidth}{0.4pt}
 
-% Transparency notes: numbered, listed on the Notes page, referenced with \tnote{key}
-\newcommand{\tnote}[1]{\textsuperscript{\hyperref[note:#1]{\ref*{note:#1}}}}
 
 \begin{document}
 
@@ -108,7 +106,7 @@ Q4 & Was the CKD addressed at this encounter (monitored, evaluated, assessed or 
 
 \subsection{From chart to probability}
 
-Figure~\ref{fig:pipeline} shows the whole method on one chart. Only step 1 uses an LLM; every later step is deterministic and logged. Quote verification is a plain string match after normalizing case, spacing and punctuation.\tnote{string}
+Figure~\ref{fig:pipeline} shows the whole method on one chart. Only step 1 uses an LLM; every later step is deterministic and logged. Quote verification is a plain string match after normalizing case, spacing and punctuation.
 
 \begin{figure}[!htbp]
 \centering
@@ -216,16 +214,16 @@ CKD attributed to hypertension & Q1 yes, Q2 yes, Q3 no, Q4 yes & $-4.30+2.19+1.4
 
 \subsection{Design}
 
-An earlier version of this paper~\cite{ewc1} presented the method and the evaluation protocol before any experiment was run. Three studies followed, each pre-registered: hypotheses, pass marks and analysis rules were fixed in advance, prompts, rubric, weights, recalibration maps and thresholds were frozen with cryptographic hashes before any test call, and each model's test split was evaluated once. Deviations from the plan are listed in the notes.\tnote{dev} Code, data, pre-registrations, freeze records and a change log are at \url{https://github.com/izeinoun/rubric_for_medical_coding}.
+An earlier version of this paper~\cite{ewc1} presented the method and the evaluation protocol before any experiment was run. Three studies followed, each pre-registered: hypotheses, pass marks and analysis rules were fixed in advance, prompts, rubric, weights, recalibration maps and thresholds were frozen with cryptographic hashes before any test call, and each model's test split was evaluated once. Deviations from the plan are listed in the Limitations. Code, data, pre-registrations, freeze records and a change log are at \url{https://github.com/izeinoun/rubric_for_medical_coding}.
 \begin{enumerate}
   \item \textbf{Study 1, pilot:} 200 charts (140 development, 60 test), a six-question rubric, GPT-5.4 and Gemini 3.8 Flash.
   \item \textbf{Study 2, transfer test:} the frozen pilot pipeline on 300 harder charts; stopped after a first stage of 100 charts, as its pre-registration allowed, once it had shown what the rubric missed.
   \item \textbf{Study 3, main study:} 350 charts (150 development, 200 test), rubric version 3, five models. All results below are from study 3 unless stated.
 \end{enumerate}
 
-\paragraph{Data.} Synthetic outpatient notes (median about 3,400 characters, with format noise such as broken lines and copied-forward sections) in eight families: the pilot scenarios; copied-forward plans; harder gates (untyped, insulin-treated, type 1 or secondary diabetes, CKD resolved after transplant); lab and date edge cases; cause attribution; failures the pilot rubric could not see (nurse-only visits, unsigned notes, chart-review e-consults); borderline ``addressed'' wording; and 50 hard cases (conflicting statements, stage contradicted by labs, dialysis, unclear statements).\tnote{doubled} The test split has 200 charts (117 supported), none seen by any model before.
+\paragraph{Data.} Synthetic outpatient notes (median about 3,400 characters, with format noise such as broken lines and copied-forward sections) in eight families: the pilot scenarios; copied-forward plans; harder gates (untyped, insulin-treated, type 1 or secondary diabetes, CKD resolved after transplant); lab and date edge cases; cause attribution; failures the pilot rubric could not see (nurse-only visits, unsigned notes, chart-review e-consults); borderline ``addressed'' wording; and 50 hard cases (conflicting statements, stage contradicted by labs, dialysis, unclear statements). The test split has 200 charts (117 supported), none seen by any model before.
 
-\paragraph{Labels.} A chart is supported only if type 2 diabetes is documented; CKD is an established diagnosis; CKD is addressed at this visit; CKD is not attributed to another cause \emph{instead of} diabetes; the visit was face to face with an MD, DO, NP or PA; and the note is signed with a credential. ``Addressed'' follows the MEAT reading set by the study lead (a copied plan line with a status counts; ``see nephrology note'' alone does not), and an unresolved contradiction about CKD or the diabetes type makes a chart unsupported. The rules were set by the study lead with AI assistance.\tnote{coder}
+\paragraph{Labels.} A chart is supported only if type 2 diabetes is documented; CKD is an established diagnosis; CKD is addressed at this visit; CKD is not attributed to another cause \emph{instead of} diabetes; the visit was face to face with an MD, DO, NP or PA; and the note is signed with a credential. ``Addressed'' follows the MEAT reading set by the study lead (a copied plan line with a status counts; ``see nephrology note'' alone does not), and an unresolved contradiction about CKD or the diabetes type makes a chart unsupported. The rules were set by the study lead with AI assistance.
 
 \paragraph{Methods compared.}
 \textbf{A}, the model's stated 0--100 confidence, raw and Platt-recalibrated on development data;
@@ -355,9 +353,9 @@ Because the judgment sits in the questions and the fitted weights, a smaller mod
 
 \subsection{Extraction, ablations and fitted weights}
 
-Extraction macro-$F_1$ against the intended answers was at least 0.97 on every question for Haiku and Gemini 3.8 Flash; the weakest questions were Q2 (eGFR dates; 0.743--0.857 on GPT-5.4, Sonnet and Flash-Lite) and R2 (signature; 0.848--0.895 on the same models).\tnote{r2} Quote verification failed for at most 0.5\% of answers, and the median standard deviation of B's score across five extraction runs was 0.000 on every model, so one extraction run is enough.
+Extraction macro-$F_1$ against the intended answers was at least 0.97 on every question for Haiku and Gemini 3.8 Flash; the weakest questions were Q2 (eGFR dates; 0.743--0.857 on GPT-5.4, Sonnet and Flash-Lite) and R2 (signature; 0.848--0.895 on the same models). Quote verification failed for at most 0.5\% of answers, and the median standard deviation of B's score across five extraction runs was 0.000 on every model, so one extraction run is enough.
 
-Table~\ref{tab:ablations} reports views computed from the same calls. Unfitted expert weights already rank well but are poorly calibrated, so fitting is what makes the score a probability. Collapsing \textit{no} and \nd{} lowered AUROC slightly on all five models.\tnote{contra} Removing quote verification changed little, because models almost never misquoted.
+Table~\ref{tab:ablations} reports views computed from the same calls. Unfitted expert weights already rank well but are poorly calibrated, so fitting is what makes the score a probability. Collapsing \textit{no} and \nd{} lowered AUROC slightly on all five models. Removing quote verification changed little, because models almost never misquoted.
 
 \begin{table}[!htbp]
 \centering\small
@@ -381,7 +379,7 @@ The fitted weights put almost all the signal on Q4 (addressed this visit, $+2.4$
 
 \textbf{For inexpensive models, the method makes them usable scorers}: Haiku with EWC matched the best frontier result, and Flash-Lite with EWC outranked every model's own confidence. \textbf{For frontier models, it matches their ranking and adds calibration and an audit trail}: given the same questions, Sonnet and Gemini 3.8 Flash ranked as well as EWC, and EWC added better calibration (ECE 0.021 against 0.090 and 0.002 against 0.036), a verified quote behind every answer and a reproducible score. It is also robust where prompting alone is not: the same criteria-guided prompt that matched EWC on Sonnet ranked worse than chance on GPT-5.4, so with EWC an organization does not need to know in advance which kind of model it has. Two levers produce these results: tuning the questions fixes what the rubric cannot see, and fitting the weights makes the score a probability.
 
-\paragraph{Earlier studies.} In the pilot (rubric revised once on development data\tnote{pilot}), B reached AUROC 0.969 and ECE 0.009 on GPT-5.4 and 0.979 and 0.016 on Gemini 3.8 Flash, against recalibrated stated confidence at 0.571 and 0.107, and 0.669 and 0.120. In the transfer test's first stage, B led stated confidence and criteria-guided confidence on GPT-5.4 (AUROC 0.932 against 0.470 and 0.441) and stated confidence on Gemini 3.8 Flash (0.979 against 0.731; C 0.961), and revealed the blind spot described in Section~\ref{sec:tuning}.
+\paragraph{Earlier studies.} In the pilot (rubric revised once on development data), B reached AUROC 0.969 and ECE 0.009 on GPT-5.4 and 0.979 and 0.016 on Gemini 3.8 Flash, against recalibrated stated confidence at 0.571 and 0.107, and 0.669 and 0.120. In the transfer test's first stage, B led stated confidence and criteria-guided confidence on GPT-5.4 (AUROC 0.932 against 0.470 and 0.441) and stated confidence on Gemini 3.8 Flash (0.979 against 0.731; C 0.961), and revealed the blind spot described in Section~\ref{sec:tuning}.
 
 % ---------------------------------------------------------------------------
 \section{Limitations and next steps}
@@ -392,6 +390,8 @@ The fitted weights put almost all the signal on Q4 (addressed this visit, $+2.4$
   \item \textbf{Same-family generation.} The charts were generated with Claude, and two Claude models were tested.
   \item \textbf{Prevalence.} 58\% of test charts are supported, far above a real population; the intercept can be shifted for deployment, but calibration must be rechecked on real data.
   \item \textbf{Small data, one code.} About 100 gate-passing development charts per model fitted the weights, and the strongest extractors nearly separated the classes; 200 test charts cannot resolve small differences.
+  \item \textbf{No certified coder.} The label rules were set by the study lead with AI assistance and checked by a built-in checker (0 of 350 charts with problems; 6 of 6 planted errors caught) and a 74-chart review; no certified coder reviewed them. All methods are scored against the same labels, so this does not affect the comparison between them.
+  \item \textbf{Deviations from the plan.} Self-consistency reused the stated-confidence runs; a tolerant JSON parse was declared before the first call for two models; one model's freeze and test collection were started together by mistake (all frozen files matched the development fit); study 2's second stage was not run; the confidence-versus-accuracy view and the reliability figure are exploratory.
   \item \textbf{Added models.} Three of the five models were added after the pre-registration, each under its own addendum filed before its first call.
   \item \textbf{Documented is not true, and quotes can be misread.} The score measures how well the note supports the code; verification catches invented quotes, not real quotes misread, which is where the remaining errors came from.
 \end{itemize}
@@ -404,19 +404,6 @@ The rubric changes with the use case; the pipeline and the fitting do not. The s
 A confidence number has meaning only when it is computed from checked evidence and tested against outcomes. Evidence-weighted confidence does both: the LLM supplies quoted answers to rule-derived questions, code verifies and encodes them, and a fitted logistic regression turns them into a probability. On synthetic E11.22 charts and five models, charts it scored 90\% or more were supported 93--100\% of the time, while the models' own 93--99\% was right 54--72\% of the time; it ranked better than the models' own confidence and was the best-calibrated method on every model; a blind spot was fixed by adding two questions; and an inexpensive model inside the method matched the best frontier result at a fraction of the cost.
 
 % ---------------------------------------------------------------------------
-\clearpage
-\section*{Notes}
-\noindent These notes are given for transparency only. None of them affects the conclusions of this paper.
-\begin{enumerate}[label=\arabic*.,ref=\arabic*]
-\item\label{note:string} \textbf{Plain string search.} Quote verification uses a plain substring search after normalizing case, spacing, quote marks and dashes, not a regular expression, because clinical text is full of characters (parentheses, periods, slashes, plus signs) that a regular expression would treat as commands.
-\item\label{note:dev} \textbf{Deviations from the plan.} Self-consistency used the five stated-confidence runs instead of separate calls, to save cost. A tolerant JSON parse was declared before the first call for Claude Haiku 5.5 and Gemini 3.5 Flash-Lite, after one test call returned a raw control character inside a string. For Claude Sonnet 5.5, the development evaluation, the addendum freeze and the test collection were started together by mistake; the fitting is deterministic and all nine frozen files matched the development fit, so the test used the intended weights. Study 2's second stage was not run. The confidence-versus-accuracy table, the decision metrics at 0.5 and the reliability figure were computed after the test and are exploratory.
-\item\label{note:doubled} \textbf{Deliberate doubled phrase.} Three hard cases keep a doubled phrase (``not on dialysis not on dialysis''), at the study lead's request, to see whether it confuses the models.
-\item\label{note:coder} \textbf{Label checks; no certified coder.} A built-in checker that reads only the note text found 0 of 350 charts with problems and caught 6 of 6 deliberately planted errors, and the study lead reviewed 74 charts in two rounds, using Gemini 3.1 Pro as a reading aid (a Gemini model was also among those tested). No certified coder reviewed the labels. Because every method is scored against the same labels, this does not affect the comparison between methods or the conclusions. Whether the rules match certified coders' practice, for example on copied-forward plan lines, is a question for a study on real charts.
-\item\label{note:r2} \textbf{Signature answers.} GPT-5.4, Sonnet and Flash-Lite sometimes answered ``no'' to R2 (signature) for a note signed by a nurse, merging the provider rule (R1) into the signature rule. This lowers R2's macro-$F_1$ but changes no outcome, because R1 fails on the same chart.
-\item\label{note:contra} \textbf{Few documented contradictions.} The charts were balanced by label and scenario family, not by answer type. A documented other cause for CKD (Q3 ``no'') appears in 5 of 350 charts (2 development, 3 test); contradictions of the gates and of Q2 appear in 15--30 charts each. The benefit of keeping silence and contradiction apart is therefore not measured by these studies, and the fitted weight for Q3 ``no'' is set mostly by regularization. This does not affect the conclusions, which are measured on the final supported-or-not decision across all test charts.
-\item\label{note:pilot} \textbf{Pilot rubric revision.} One revision on development data (rubric version 2) told the models when to answer \nd{} rather than \textit{no}; it raised GPT-5.4's Q4 macro-$F_1$ from 0.574 to 1.000. It was logged and made before the pilot was frozen.
-\end{enumerate}
-
 \begin{thebibliography}{99}\small
 \bibitem{xiong} Miao Xiong, Zhiyuan Hu, Xinyang Lu, Yifei Li, Jie Fu, Junxian He, and Bryan Hooi. Can LLMs express their uncertainty? An empirical evaluation of confidence elicitation in LLMs. In \emph{ICLR}, 2024. \url{https://arxiv.org/abs/2306.13063}.
 \bibitem{leng} Jixuan Leng, Chengsong Huang, Banghua Zhu, and Jiaxin Huang. Taming overconfidence in LLMs: Reward calibration in RLHF. In \emph{ICLR}, 2025. \url{https://arxiv.org/abs/2410.09724}.
