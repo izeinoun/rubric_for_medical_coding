@@ -344,3 +344,7 @@ What changed (`rubric_e1122.json`, version 1 → 2; guidance text only, question
 ## 2026-10-30 — Zenodo notes for version 3
 
 - `paper/ZENODO.md` rewritten for a version 3 of the Zenodo record: the middle-length paper as the main file, the extended version and the 3-page summary alongside; description from the new abstract plus a short "changes from version 2" paragraph (shorter paper with method diagram, Table 7 caption fix, Bayesian wording removed).
+
+## 2026-10-30 — "Version 3" on all three papers
+
+- Added "Version 3" to the date line under the author in `paper/paper.tex`, `paper/main.tex` and `paper/short.tex` (matching the planned Zenodo version 3). Tagline and headers unchanged.

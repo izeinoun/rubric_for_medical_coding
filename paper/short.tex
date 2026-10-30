@@ -21,7 +21,7 @@
 
 \begin{center}
 {\Large\bfseries Evidence-Weighted Confidence: Making an LLM's Confidence Mean Something}\\[6pt]
-Issam Zeinoun~\orcidlink{0009-0007-4874-880X} $\cdot$ Independent Researcher $\cdot$ October 2026\\[2pt]{\color{gray}\textsc{Short version}}
+Issam Zeinoun~\orcidlink{0009-0007-4874-880X} $\cdot$ Independent Researcher $\cdot$ October 2026 $\cdot$ Version 3\\[2pt]{\color{gray}\textsc{Short version}}
 \end{center}
 
 \paragraph{Bottom line.} LLM-stated confidence is not a probability. Across five current models judging whether a clinical note supports a diagnosis code, charts the model called 93--99\% certain were correct only 54--72\% of the time. Replacing the stated number with a small fitted logistic regression over the model's verified answers to rule-derived questions fixed this on every model: when the score said 90\% or more, it was right 93--100\% of the time, and the score ranked cases far better (AUROC 0.90--1.00 against 0.59--0.77). The pattern helps in two ways. It makes inexpensive models usable: Claude Haiku 5.5 matched the best frontier result at about 1/15 of the cost. On frontier models it matches the ranking they reach when given the same questions, and adds better calibration, a verified quote behind every answer and a reproducible score; the same prompt that worked on the strongest models failed on GPT-5.4, while the pattern held on all five.
