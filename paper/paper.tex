@@ -6,6 +6,8 @@
 \usepackage{xcolor}
 \usepackage{tikz}
 \usetikzlibrary{arrows.meta,positioning,calc}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
 \usepackage{enumitem}
 \usepackage{fancyhdr}
 \usepackage{caption}
@@ -177,7 +179,7 @@ Audit trail: answers, quotes, features, weights, $p$};
 
 \subsection{Three charts}
 
-Table~\ref{tab:three} shows why the score separates charts that a stated confidence would rate alike: each of these mentions both diabetes and CKD, and a model asked for its confidence would likely rate all three 85--95\%.
+Table~\ref{tab:three} and Figure~\ref{fig:logistic} show why the score separates charts that a stated confidence would rate alike: each of these mentions both diabetes and CKD, and a model asked for its confidence would likely rate all three 85--95\%.
 
 \begin{table}[!htbp]
 \centering\small
@@ -192,6 +194,22 @@ CKD attributed to hypertension & Q1 yes, Q2 yes, Q3 no, Q4 yes & $-4.30+2.19+1.4
 \bottomrule
 \end{tabularx}
 \end{table}
+
+\begin{figure}[!htbp]
+\centering
+\begin{tikzpicture}
+\begin{axis}[width=0.72\textwidth,height=5.2cm,xmin=-5.5,xmax=5.5,ymin=0,ymax=1.05,
+  xlabel={Log-odds $z=w_0+\sum_j w_j x_j$},ylabel={Probability $p=\sigma(z)$},
+  ytick={0,0.25,0.5,0.75,1},axis lines=left,grid=major,grid style={black!10},font=\small]
+\addplot[domain=-5.5:5.5,samples=120,thick,blue!70!black]{1/(1+exp(-x))};
+\addplot[only marks,mark=*,mark size=2.2pt,orange!80!black] coordinates {(2.39,0.916) (-2.11,0.108) (-0.51,0.375)};
+\node[anchor=east,font=\small] at (axis cs:2.2,0.93) {Complete: 0.92};
+\node[anchor=west,font=\small] at (axis cs:-1.85,0.055) {Problem list only: 0.11};
+\node[anchor=south east,font=\small] at (axis cs:-0.6,0.39) {Other cause: 0.38};
+\end{axis}
+\end{tikzpicture}
+\caption{The three charts of Table~\ref{tab:three} on the logistic curve. Each chart's evidence adds up to a log-odds score $z$, and the sigmoid turns it into a probability. The same change in evidence moves the probability most in the middle of the curve and least at the extremes.}\label{fig:logistic}
+\end{figure}
 
 % ---------------------------------------------------------------------------
 \section{Experiments}\label{sec:experiments}

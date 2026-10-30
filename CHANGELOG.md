@@ -324,3 +324,7 @@ What changed (`rubric_e1122.json`, version 1 → 2; guidance text only, question
 ## 2026-10-30 — paper: middle-length version
 
 - Added `paper/paper.tex` (and `paper.pdf`, 11 pages): a middle-length version between the extended paper (`main`, 25 pages) and the short version (`short`, 3 pages), at the study lead's request. Removed: the Bayesian section (the method fits an ordinary logistic regression), the related-work table (now one paragraph in the introduction), the "what the method adds" list, the separate evaluation-protocol section, the logistic-curve figure, the generalizing and extensions sections (now one paragraph), the decision-metrics and fitted-weights tables (key numbers kept in text), and the algorithm appendix (the extended version and repository hold it). New: a detailed method diagram (inputs, quoted answers, verification, gates, 0/1 features, logistic regression with a worked example, output and training path) and a merged rubric table (question, role, rule). Results, notes and the rubric appendix are kept. The extended and short versions are unchanged.
+
+## 2026-10-30 — middle version: sigmoid figure restored
+
+- At the study lead's request, `paper/paper.tex` again shows the three example charts on the logistic curve (Figure 2, after Table 2), with labels moved off the curve. Now 12 pages.
