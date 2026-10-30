@@ -15,7 +15,7 @@ Study 4 extends the method and results of *Evidence-Weighted Confidence: Auditab
 
 ## The study 4 paper: short and simple
 
-A separate, short paper (target 8–10 pages) that **references the first paper rather than repeating it**: no re-derivation of the method, the Bayesian foundation, the algorithm or the study 1–3 results; one paragraph and a citation for each. Proposed outline:
+A separate, short paper (target 8–10 pages) that **references the first paper rather than repeating it**: no re-derivation of the method, the log-odds rationale, the algorithm or the study 1–3 results; one paragraph and a citation for each. Proposed outline:
 
 1. **Introduction** (1 page): the first paper's result in two sentences, the open question (hard, disputed charts), what this study adds.
 2. **What is new** (1–2 pages): three-way chart labels, the new questions, clarity of the quoted evidence as split features.
