@@ -310,3 +310,9 @@ What changed (`rubric_e1122.json`, version 1 → 2; guidance text only, question
 ## 2026-10-29 — study 4 plan: builds on the published paper
 
 - `study4/PLAN.md` now states that study 4 reuses the published method unchanged (pipeline, verification rule, rubric v3 as the starting point, Appendix A fitting procedure, metrics, safeguards) and that its paper will be short (target 8–10 pages), citing the first paper (doi 10.5281/zenodo.23745059) instead of repeating its method, derivation, algorithm or study 1–3 results. Outline added.
+
+## 2026-10-30 — paper: GPT-5.4's recalibration was an inversion
+
+- Checked `study3/runs/*/weights/M2_platt.json`: the fitted Platt slope is negative only for GPT-5.4 (a = −4.148, b = 4.019); the other models are positive (Sonnet 4.56, Haiku 6.13, Gemini 3.8 Flash 22.80, Flash-Lite 2.24). GPT-5.4's raw stated confidence ranked worse than chance (test AUROC 0.407; development 0.451), so recalibration reversed it and its AUROC became 1 − 0.407 = 0.593.
+- Full paper: Table 7's caption no longer says recalibration never changes AUROC (true only for a positive slope) and names the GPT-5.4 exception; Section 7.3 adds that GPT-5.4's confidence pointed the wrong way and its best baseline reached 0.593 only by inverting it; Section 7.4 now says a monotone map cannot improve ranking, only reverse it. Short version and the slide deck updated to match.
+- The Zenodo version (10.5281/zenodo.23745059) still holds the previous PDFs; publishing these changes needs a new Zenodo version.

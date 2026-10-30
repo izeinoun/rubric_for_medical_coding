@@ -418,7 +418,7 @@ Gemini 3.5 Flash-Lite & 0.205 (0.126, 0.282) \pass & 0.119 (0.055, 0.185) \pass 
 
 \begin{table}[!htbp]
 \centering\small
-\caption{Calibration and ranking, study 3 test split. A is shown raw and recalibrated (Platt, fitted on development data; recalibration does not change AUROC). Lower ECE and Brier are better.}\label{tab:main}
+\caption{Calibration and ranking, study 3 test split. A is shown raw and recalibrated (Platt, fitted on development data). Recalibration leaves AUROC unchanged when the fitted slope is positive, as for four models; for GPT-5.4 the slope was negative ($a=-4.15$), so recalibration reversed the model's confidence and its AUROC became $1-0.407=0.593$. Lower ECE and Brier are better.}\label{tab:main}
 \begin{tabular}{@{}llccc@{}}
 \toprule
 Model & Method & AUROC (95\% CI) & ECE & Brier \\
@@ -451,7 +451,7 @@ Model & Method & AUROC (95\% CI) & ECE & Brier \\
 \end{tabular}
 \end{table}
 
-\textbf{H1 passed on all five models}: B outranked the model's own confidence by 0.21 to 0.35 AUROC, every interval well above zero. GPT-5.4's raw stated confidence ranked charts worse than chance (AUROC 0.407).
+\textbf{H1 passed on all five models}: B outranked the model's own confidence by 0.21 to 0.35 AUROC, every interval well above zero. GPT-5.4's raw stated confidence ranked charts worse than chance (AUROC 0.407): it was not just overconfident, it pointed the wrong way, giving higher confidence to unsupported charts than to supported ones. The Platt map fitted on development data, where the raw AUROC was 0.451, learned a negative slope ($a=-4.15$), so GPT-5.4's best baseline reached 0.593 only by inverting the model's own confidence; B was still 0.333 higher.
 \textbf{H3 passed on all five models}: B was the best-calibrated method on every model, by Brier score as well as ECE.
 \textbf{H2 passed on three models} (GPT-5.4, Haiku, Flash-Lite) and failed on two (Sonnet, Gemini 3.8 Flash) because C tied B: on these strong models, giving the questions to the model was enough to rank the charts. The Gemini failure was predicted in advance.
 \textbf{H4 passed on three models} and failed on two: on GPT-5.4 the frozen threshold gave 93.5\% precision against the 95\% target (3 of 46 accepted charts were unsupported), and on Flash-Lite no development threshold reached 95\% precision, so B accepted nothing automatically.
@@ -485,7 +485,7 @@ Gemini 3.5 Flash-Lite & 107: 99\% $\rightarrow$ 72\% & 66: 100\% $\rightarrow$ 8
 \caption{Reliability diagrams, study 3 test split. Test charts are grouped into five confidence bins; each point is the average confidence given in a bin (x) against the share of its charts actually supported (y). Bins with fewer than 5 charts are omitted. Points on the dashed diagonal mean the confidence matches the accuracy. GPT-5.4 put almost every chart above 90\% under methods A and C, so each has a single point. On Gemini 3.8 Flash, B and C overlap.}\label{fig:reliability}
 \end{figure}
 
-\textbf{When B said 90\% or more, it was right 93--100\% of the time on every model, and its stated confidence matched its accuracy to within one percentage point in each case.} When B gave under 10\%, 0--6\% of the charts were supported. The models' own confidence did not have this property: GPT-5.4 and Gemini 3.8 Flash gave 90\% or more to 149 and 183 of the 200 charts, and only 54\% and 63\% of those were supported. Recalibrating A repairs its average (ECE 0.05--0.11) but cannot repair its ranking, so the recalibrated score crowds into the middle and almost never reaches 90\%: it is honest but not useful for routing.
+\textbf{When B said 90\% or more, it was right 93--100\% of the time on every model, and its stated confidence matched its accuracy to within one percentage point in each case.} When B gave under 10\%, 0--6\% of the charts were supported. The models' own confidence did not have this property: GPT-5.4 and Gemini 3.8 Flash gave 90\% or more to 149 and 183 of the 200 charts, and only 54\% and 63\% of those were supported. Recalibrating A repairs its average (ECE 0.05--0.11), but a monotone map cannot improve its ranking (for GPT-5.4 it could only reverse it), so the recalibrated score crowds into the middle and almost never reaches 90\%: it is honest but not useful for routing.
 
 Giving the model the rubric questions (C) produced honest high confidence on Sonnet and Gemini 3.8 Flash (98--100\% supported above 90\%) but not on the other three models: GPT-5.4 said 97\% and was right 60\% of the time, Flash-Lite said 100\% and was right 89\%, and Haiku put 76 charts in the 10--50\% band of which 70\% were supported. The questions help the model reason; they do not by themselves make its number mean anything. The fitted scoring step does, on every model tested.
 
