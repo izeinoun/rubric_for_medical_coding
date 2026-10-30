@@ -351,27 +351,7 @@ Most remaining errors are in family G on GPT-5.4 and Flash-Lite: reading ``see n
 
 \subsection{Inexpensive models}\label{sec:cost}
 
-Because the judgment sits in the questions and the fitted weights, a smaller model only has to read accurately (Table~\ref{tab:cost}).
-
-\begin{table}[!htbp]
-\centering\footnotesize\setlength{\tabcolsep}{4pt}
-\caption{Inexpensive and frontier models, study 3 test split. Tokens for development plus test (3,850 calls per model); output includes thinking tokens. Costs at list prices where recorded.}\label{tab:cost}
-\begin{tabular}{@{}lccccl@{}}
-\toprule
-Model & B AUROC & B ECE & B 90\%+: said $\rightarrow$ actual & Best A AUROC & Tokens in / out (cost) \\
-\midrule
-Claude Sonnet 5.5 & 0.987 & 0.021 & 97\% $\rightarrow$ 98\% & 0.715 & 10.4M / 2.3M (\$43.82) \\
-Claude Haiku 5.5 & \textbf{0.994} & \textbf{0.014} & 98\% $\rightarrow$ 98\% & 0.772 & 10.1M / 3.6M (\$2.82) \\
-\midrule
-Gemini 3.8 Flash & 1.000 & 0.002 & 100\% $\rightarrow$ 100\% & 0.647 & 6.7M / 4.1M \\
-Gemini 3.5 Flash-Lite & 0.897 & 0.050 & 93\% $\rightarrow$ 93\% & 0.692 & 6.8M / 1.0M \\
-\midrule
-GPT-5.4 & 0.926 & 0.037 & 93\% $\rightarrow$ 93\% & 0.593 & --- \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-Claude Haiku 5.5 with EWC matched or exceeded Claude Sonnet 5.5 with EWC on every measure at about one fifteenth of the cost, and was the only model to pass all four pre-registered checks. Gemini 3.5 Flash-Lite with EWC (AUROC 0.897) outranked every model's own stated confidence (best 0.772) and its 90\%+ scores were right 93\% of the time, but it was not accurate enough to auto-accept at 95\% precision; that shortfall was visible on development data before deployment.
+Because the judgment sits in the questions and the fitted weights, a smaller model only has to read accurately. Claude Haiku 5.5 with EWC matched or exceeded Claude Sonnet 5.5 with EWC on every measure (AUROC 0.994 against 0.987, ECE 0.014 against 0.021; Tables~\ref{tab:main} and~\ref{tab:said}) at about one fifteenth of the cost: \$2.82 against \$43.82 for the full development and test run (3,850 calls each, at list prices), and was the only model to pass all four pre-registered checks. Gemini 3.5 Flash-Lite with EWC (AUROC 0.897) outranked every model's own stated confidence (best 0.772) and its 90\%+ scores were right 93\% of the time, but it was not accurate enough to auto-accept at 95\% precision; that shortfall was visible on development data before deployment.
 
 \subsection{Extraction, ablations and fitted weights}
 

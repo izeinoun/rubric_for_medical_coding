@@ -328,3 +328,7 @@ What changed (`rubric_e1122.json`, version 1 → 2; guidance text only, question
 ## 2026-10-30 — middle version: sigmoid figure restored
 
 - At the study lead's request, `paper/paper.tex` again shows the three example charts on the logistic curve (Figure 2, after Table 2), with labels moved off the curve. Now 12 pages.
+
+## 2026-10-30 — middle version: cost table removed
+
+- Removed the inexpensive-vs-frontier table from `paper/paper.tex`: its AUROC, ECE and "said → actual" columns repeated Tables 4 and 5. The cost comparison (Haiku $2.82 vs Sonnet $43.82, 3,850 calls each) is now in the text. The by-family error table stays (it is the evidence for "fix the questions"). Now 11 pages.
